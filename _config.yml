@@ -16,7 +16,7 @@ author: Isidro Gómez-Vargas
 
 navbar-links:
   About Me: "aboutme"
-  Blog literario: www.neorelativista.blogspot.com
+  # Blog literario: www.neorelativista.blogspot.com
   Projects: "projects"
   # Resources:
     # - ResearchGate: "https://www.researchgate.net/profile/Isidro_Gomez-Vargas2"
