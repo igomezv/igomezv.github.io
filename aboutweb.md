@@ -8,7 +8,7 @@ Esta página pretende ser un ejercicio de
 libertad en la escritura técnica y
 científica. Los escritos pretenden ser didácticos y conformados por 
 ideas que se quedan en el tintero, conceptos que me han resultado 
-interesantes y tuturiales que me hubiera gustado encontrarme en internet
+interesantes y tutoriales que me hubiera gustado encontrarme en internet
 y que nunca hallé.
 
 He elegido escribir en español debido a que estoy interesado
