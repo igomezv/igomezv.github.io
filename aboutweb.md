@@ -4,7 +4,7 @@ title: Acerca de esta página
 <!-- subtitle:  -->
 ---
 
-Esta página pretende ser un ejercicio de
+Esta página es un ejercicio de
 libertad en la escritura técnica y
 científica. Los escritos pretenden ser didácticos y conformados por 
 ideas que se quedan en el tintero, conceptos que me han resultado 
