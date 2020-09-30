@@ -4,38 +4,45 @@ title: About me
 <!-- subtitle:  -->
 ---
 
-Escribo cuentos, ensayos y código en Python. Los temas de investigación que me interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
+Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que me interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
 
-I write short stories, essays and Phyton code. My research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
+I write short stories, essays, text books and Phyton code. My research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
+
+-------------------------------------------------------------
+
+### Curriculum Vitae:
+ * <a href="CV.pdf">Descargar CV</a>
+
+ * <a href="CV__english.pdf">Download CV</a>
+ 
+ * <a href="https://www.researchgate.net/profile/Isidro_Gomez-Vargas2">ResearchGate profile</a>
+
+ * <a href="https://ipn.academia.edu/IsidroGómezVargas">Academia edu profile</a>
+
 
 ###	Education:
 
-    - 	2020: PhD in Advance Technology. CICATA-IPN (in collaboration with ICF-UNAM).
-    	Thesis: Artificial Neural Networks in statistical methods for cosmology
-    	Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.
-    
-    - 	2017: Master on Advance Technology. CICATA-IPN.
-    	Thesis: Developmet of a didactic mobil app of Augmented Reality.
-    	Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sanchez Guzmán.
-    
-    -	2013: Bachelor on Physics and Maths. ESFM-IPN.
-    	Thesis: Operational tracking of fuel recharge in a BWR nuclear reactor.
-    	Advisor: Dr. Edmundo del Valle Gallegos
-    
-    - 	2017: Diplomat on Knowledge discovery with Big Data tools. CIC-IPN.
-    	Advisor: Dr. Gilberto Martinez Luna
+- 	2019: PhD candidate in Advance Technology. CICATA-IPN (in collaboration with ICF-UNAM).
+    Thesis: Artificial Neural Networks in statistical methods for cosmology
+    Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.    
+    *Related repositories*:
+        * <a href="https://github.com/ja-vazquez/SimpleMC" download>SimpleMC</a>
+        * <a href="https://github.com/igomezv/IntroMCMC">IntroMCMC</a>
+        * <a href="https://github.com/igomezv/mcmcTools">MCMC Tools</a>
+        * <a href="https://github.com/igomezv/neural_nets_utilities">Neural Nets Utilities</a>
 
-
-### Research internships:
-
-    - 	2019: SimpleMC code.
-    	Physical Sciences Institute, UNAM.
-    	Advisor: Dr. José Alberto Vázquez.
+- 	2017: Master on Advance Technology. CICATA-IPN.
+    Thesis: Developmet of a didactic mobil app of Augmented Reality.
+    Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sanchez Guzmán.
+    *Related links*:
+        * <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis (spanish)</a>
+        * <a href="https://github.com/igomezv/RAsolidsrev">App repository</a>
+        
+-	2013: Bachelor on Physics and Maths. ESFM-IPN.
+    Thesis: Operational tracking of fuel recharge in a BWR nuclear reactor.
+    Advisor: Dr. Edmundo del Valle Gallegos.
+        * <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3" download>Thesis (spanish)</a>
     
-    - 	2018: Cosmosis codes.
-    	Physics and Mathematics Institute, UMSNH.
-    	Advisor: Dr. Ulises Nucamendi Gomez.
-    
-    -	2017: Intelligent tutors and augmented reality.
-    	Computer Department, UABC-Ensenada.
-    	Advisors: Dr. Omar Xochihua and MSc. Sergio Infante.
+
+- 	2017: Diplomat on Knowledge discovery with Big Data tools. CIC-IPN.
+    Advisor: Dr. Gilberto Martinez Luna

@@ -6,8 +6,8 @@
 # --- Required options --- #
 
 # Name of website
-title: Isidro GV
-description: Personal website/blog
+title: Modelación infinita
+description: Blog académico de Isidro
 
 # Your name to show in the footer
 author: Isidro Gómez-Vargas
@@ -15,11 +15,14 @@ author: Isidro Gómez-Vargas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  # Blog literario: www.neorelativista.blogspot.com
-  Projects: "projects"
-  # Resources:
-    # - ResearchGate: "https://www.researchgate.net/profile/Isidro_Gomez-Vargas2"
+    About:
+      - Me: "aboutme"
+      - About this page: "aboutweb"
+   
+    Projects: "projects"
+    Blog Literario:
+      - Documento sin título: "http://www.neorelativista.blogspot.com"
+
 # - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
