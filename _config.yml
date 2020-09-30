@@ -17,6 +17,7 @@ author: Isidro Gómez-Vargas
 navbar-links:
     About:
       - Me: "aboutme"
+      - CV: "aboutme"
       - About this page: "aboutweb"
    
     Projects: "projects"
