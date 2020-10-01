@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Current projects
+title: Proyectos en curso
 <!-- subtitle:  -->
 ---
-
-Proyectos en curso:
 
 - Redes neuronales para disminuir el tiempo de cómputo
 de un proceso de inferencia bayesiana.
