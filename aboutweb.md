@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de esta página
+title: Acerca de ...
 <!-- subtitle:  -->
 ---
 

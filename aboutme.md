@@ -9,7 +9,6 @@ Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de inve
 I write short stories, essays, text books and Phyton code. My research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
 
 -------------------------------------------------------------
-
 ### Curriculum Vitae:
  * <a href="CV.pdf">Descargar CV</a>
 
