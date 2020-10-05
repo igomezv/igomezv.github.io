@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Cómo funciona una red neuronal?
-subtitle: Primera aproximación
+subtitle: Primera aproximación [En construcción]
 tags: [ciencia de datos, redes neuronales]
 
 <!-- cover-img: /assets/img/path.jpg -->
