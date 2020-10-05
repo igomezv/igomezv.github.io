@@ -10,9 +10,9 @@ I write short stories, essays, text books and Phyton code. My research fields of
 
 -------------------------------------------------------------
 ### Curriculum Vitae:
- * <a href="CV.pdf">Descargar CV</a>
+ * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV.pdf">Descargar CV</a>
 
- * <a href="CV__english.pdf">Download CV</a>
+ * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV__english.pdf">Download CV</a>
  
  * <a href="https://www.researchgate.net/profile/Isidro_Gomez-Vargas2">ResearchGate profile</a>
 
