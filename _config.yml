@@ -7,7 +7,7 @@
 
 # Name of website
 title: Modelación infinita
-description: Blog académico de Isidro
+description: Escritura libre y tutoriales de temas científicos
 
 # Your name to show in the footer
 author: Isidro Gómez-Vargas
@@ -15,11 +15,14 @@ author: Isidro Gómez-Vargas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+    English version: "index_english"
     About:
       - Isidro: "aboutme"
       - CV: "aboutme"
-      - This page: "aboutweb"
+      - This website: "aboutweb"
    
+    GitHub: "https://github.com/igomezv"
+    Archive: "archive"
     Proyectos: "projects"
     Blog Literario:
       - Documento sin título: "http://www.neorelativista.blogspot.com"
