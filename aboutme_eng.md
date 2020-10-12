@@ -4,13 +4,11 @@ title: About me
 <!-- subtitle:  -->
 ---
 
-Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que me interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
 
 I write short stories, essays, text books and Phyton code. My research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
 
 -------------------------------------------------------------
 ### Curriculum Vitae:
- * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV.pdf">Descargar CV</a>
 
  * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV__english.pdf">Download CV</a>
  
