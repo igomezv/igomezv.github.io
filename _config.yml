@@ -15,7 +15,9 @@ author: Isidro Gómez-Vargas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-    English version: "index_english"
+    English version: 
+      - Home: "index_english"
+      - Projects: "projects_eng"
     About:
       - Isidro: "aboutme"
       - CV: "aboutme"
