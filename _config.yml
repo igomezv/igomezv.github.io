@@ -15,14 +15,21 @@ author: Isidro Gómez-Vargas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-    About:
+    Acerca de:
       - Isidro: "aboutme"
       - CV: "aboutme"
-      - This website: "aboutweb"
-   
+      - Este sitio: "aboutweb"
+      - Proyectos: "projects"
+
+    About:
+      - Me: "aboutme_eng"
+      - CV: "aboutme_eng"
+      - This website: "aboutweb_eng"
+      - Projects: "projects_eng"
+
+
     GitHub: "https://github.com/igomezv"
     Archive: "archive"
-    Proyectos: "projects"
     Blog Literario:
       - Documento sin título: "http://www.neorelativista.blogspot.com"
       - Reseñas de libros: "https://salalecturaubik.blogspot.com"

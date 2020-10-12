@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de ...
+title: Acerca este sitio
 <!-- subtitle:  -->
 ---
 
@@ -14,10 +14,10 @@ y que nunca hallé.
 He elegido escribir en español debido a que estoy interesado
 en el público de habla hispana, en particular de México y 
 América Latina, 
-donde creo que falta material escrito que promocione la 
+donde creo que es necesario escibir más sobre estos temas y promover la 
 actividad científica.
 
-Estoy expuesto a cometer errores de diversa índole
+Seguramente cometeré errores de diversa índole
 en mis escritos, por lo tanto, agradeceré mucho si alguien 
 me los señala. 
 
