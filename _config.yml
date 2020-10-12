@@ -16,10 +16,11 @@ author: Isidro Gómez-Vargas
 
 navbar-links:      
     About:
-      - Isidro: "aboutme"
+      - Me: Isidro: "aboutme"
       - CV: "aboutme"
       - Este sitio: "aboutweb"
-      - Projects: "projects_english"
+      - This website: "aboutweb_eng"
+      - Projects: "projects_eng"
       - Proyectos: "projects"
    
     GitHub: "https://github.com/igomezv"
