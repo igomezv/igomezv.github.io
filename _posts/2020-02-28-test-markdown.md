@@ -6,7 +6,6 @@ gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
-useMath: true
 ---
 
 **Post de prueba**
@@ -67,14 +66,13 @@ Probando ecuaciones
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
-Probando LaTeX con useMath: true
+Probando LaTeX con img src:
 
-\begin{equation}
-	\Sigma_{i=0}^n w_i x_i
-\end{equation}
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
-$x^2 + y^2$
+Markdown LaTex
 
+![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
 
 
 ### Cajas
