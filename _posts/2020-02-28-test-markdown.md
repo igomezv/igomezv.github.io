@@ -8,9 +8,9 @@ tags: [test]
 comments: true
 ---
 
-**Here is some bold text**
+**Post de prueba**
 
-## Here is a secondary heading
+## Tablas
 
 Tabla genérica
 
@@ -22,13 +22,15 @@ Tabla genérica
 | Two | Three | One |
 
 
-Figura
+### Figuras
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe]("/assets/img/avatar-icon.png")
 
 Figura centrada
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe]("/assets/img/avatar-icon.png"){: .mx-auto.d-block :}
+
+### Código
 
 Código genérico
 ~~~
@@ -39,20 +41,38 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+Código en python:
 
 ```python
 print("Hola mundo")
 ```
 
-And here is the same code yet again but with line numbers:
+Código numerado:
 
 {% highlight python linenos %}
 def saludo(nombre):
 	print("Hola {}".format(nombre))
 {% endhighlight %}
 
-## Boxes
+
+<p>
+Ejemplo de <code>código entre </code> texto.
+</p>
+
+<p>
+LaTeX entre lineas \(\Sigma_{i=0}^n \omega^i\).
+
+Bloque de LaTeX 
+</p>
+
+<div class="LATEX">
+\begin{equation}
+p(\theta | D) \propto p(D | \theta) p(\theta)
+\end{equation}
+
+</div>
+
+### Cajas
 Cajas de notificaciones, advertencias y de errores.
 
 ### Notification
