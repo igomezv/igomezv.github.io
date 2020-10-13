@@ -60,15 +60,10 @@ Ejemplo de <code>código entre </code> texto.
 </p>
 
 <p>
-LaTeX entre lineas $`\Sigma_{i=0}^n \omega^i x_i`$
+LaTeX entre lineas $$\Sigma_{i=0}^n \omega^i x_i$$
 
 </p>
 
-Bloque ecuación:
-
-\begin{equation*}
-	SE = \frac{\sigma}{\sqrt{n}}
-\end{equation*}
 
 ```
 
