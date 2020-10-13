@@ -6,6 +6,7 @@ gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
+useMath: true
 ---
 
 **Post de prueba**
@@ -62,11 +63,13 @@ Ejemplo de <code>código entre </code> texto.
 <p>
 Probando ecuaciones
 
-HTML  codes for common math symbols: <a> https://sites.psu.edu/symbolcodes/codehtml/#math </a>
+\begin{equation}
+	\Sigma_{i=0}^n w_i x_i
+\end{equation}
 
+$x^2 + y^2$
 
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-</p>
+[Link de prueba](http://example.com)
 
 
 ```
