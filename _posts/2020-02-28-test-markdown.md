@@ -24,11 +24,11 @@ Tabla genérica
 
 ### Figuras
 
-![Crepe](https://igomezv.github.io/assets/img/avatar-icon.png)
+![Ícono](https://igomezv.github.io/assets/img/avatar-icon.png)
 
 Figura centrada
 
-![Crepe](https://igomezv.github.io/assets/img/avatar-icon.png){: .mx-auto.d-block :}
+![Figura](https://igomezv.github.io/assets/img/avatar-icon.png){: .mx-auto.d-block :}
 
 ### Código
 
