@@ -60,17 +60,15 @@ Ejemplo de <code>código entre </code> texto.
 </p>
 
 <p>
-LaTeX entre lineas \(\Sigma_{i=0}^n \omega^i\).
+LaTeX entre lineas $Sigma_{i=0}^n \omega^i x_i$
 
-Bloque de LaTeX 
 </p>
 
-<div class="LATEX">
-\begin{equation}
-p(\theta | D) \propto p(D | \theta) p(\theta)
-\end{equation}
+Bloque de LaTeX 
 
-</div>
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 ### Cajas
 Cajas de notificaciones, advertencias y de errores.
