@@ -16,10 +16,10 @@ Tabla genérica
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| No | Nombre | Ciudad |
+| 1 | Eleven | México |
+| 2 | Eight | Veracruz |
+
 
 
 ### Figuras
