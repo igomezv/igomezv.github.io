@@ -14,7 +14,7 @@ comments: true
 
 Tabla genérica
 
-| Number | Next number | Previous number |
+| A | B | C |
 | :------ |:--- | :--- |
 | No | Nombre | Ciudad |
 | 1 | Eleven | México |
@@ -60,8 +60,12 @@ Ejemplo de <code>código entre </code> texto.
 </p>
 
 <p>
-LaTeX entre lineas $$\Sigma_{i=0}^n \omega^i x_i$$
+Probando ecuaciones
 
+HTML  codes for common math symbols: <a> https://sites.psu.edu/symbolcodes/codehtml/#math </a>
+
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 </p>
 
 
