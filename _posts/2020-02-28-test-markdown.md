@@ -56,12 +56,18 @@ def saludo(nombre):
 {% endhighlight %}
 
 
-<p>
-Ejemplo de <code>código entre </code> texto.
-</p>
 
-<p>
+Ejemplo de <code>código entre </code> texto.
+
+
 Probando ecuaciones
+
+[HTML ecuaciones](https://sites.psu.edu/symbolcodes/codehtml/#math)
+
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+
+Probando LaTeX con useMath: true
 
 \begin{equation}
 	\Sigma_{i=0}^n w_i x_i
@@ -69,10 +75,7 @@ Probando ecuaciones
 
 $x^2 + y^2$
 
-[Link de prueba](http://example.com)
 
-
-```
 
 ### Cajas
 Cajas de notificaciones, advertencias y de errores.
