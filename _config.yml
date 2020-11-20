@@ -28,7 +28,7 @@ navbar-links:
       - Projects: "projects_eng"
 
 
-    GitHub: "https://github.com/igomezv"
+    # GitHub: "https://github.com/igomezv"
     Archive: "archive"
     Blog Literario:
       - Documento sin título: "http://www.neorelativista.blogspot.com"
