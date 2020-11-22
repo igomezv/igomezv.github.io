@@ -8,7 +8,7 @@
 # Name of website
 title: Isidro GV
 description: Personal website
-
+ 
 # Your name to show in the footer
 author: Isidro Gómez-Vargas
 
@@ -44,7 +44,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -76,7 +76,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ google-scholar: https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
