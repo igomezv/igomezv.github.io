@@ -3,14 +3,28 @@
 # set up your website you should go through all these settings and edit them, but after
 # the initial set up you won't need to come back to this file often.
 
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+url: "https://igomezv.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Of course don't forget to change the username and projectname to YOUR username and project
 # --- Required options --- #
 
 # Name of website
-title: "Isidro GV"
-description: "Personal website"
- 
+title: Isidro GV
+description: Personal website
+
 # Your name to show in the footer
-author: "Isidro Gómez-Vargas"
+author: Isidro Gómez-Vargas
 
 # --- List of links in the navigation bar --- #
 
@@ -76,7 +90,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
- google-scholar: https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es
+#  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
