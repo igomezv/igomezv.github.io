@@ -23,5 +23,5 @@ me los señala.
 
 Atentamente, 
 
-Isidro Gomez Vargas.
+Isidro
 

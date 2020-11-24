@@ -21,5 +21,4 @@ points them out to me.
 
 Sincerely, 
 
-Isidro Gomez Vargas.
-
+Isidro 
