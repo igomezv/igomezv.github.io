@@ -1,13 +1,8 @@
 ---
 layout: page
-title: Portfolio
+title: Projects
 <!-- subtitle:  -->
----
 
----
-layout: page
-title: Proyectos
-<!-- subtitle:  -->
 ---
 
 # In process ...
