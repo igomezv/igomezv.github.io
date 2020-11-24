@@ -4,7 +4,7 @@ title: Proyectos
 <!-- subtitle:  -->
 ---
 
-#En curso ...
+# En curso ...
 
 ## Redes neuronales para disminuir el tiempo de cómputo de un proceso de inferencia bayesiana.
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 

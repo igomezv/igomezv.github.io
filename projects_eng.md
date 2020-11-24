@@ -10,7 +10,7 @@ title: Proyectos
 <!-- subtitle:  -->
 ---
 
-#In process ...
+# In process ...
 
 ## Neural networks to decrease the computation time of a Bayesian inference process
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
