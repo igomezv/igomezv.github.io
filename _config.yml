@@ -192,7 +192,7 @@ timezone: "Mexico city"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+# paginate: 0
 
 kramdown:
   input: GFM
