@@ -33,7 +33,7 @@ Supervised by:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 
 
 ## Collaboration on the SimpleMC cosmological parameter estimation code
-Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, I helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionality.
+Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, I helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
 
 Collaborating with Dr. JA Vazquez.
 
@@ -45,7 +45,7 @@ Links:
 
 ## Textbook writing.
 
-High school textbooks. E.g. Math 3, Journey Series, ed Castillo (sold at Amazon and El Sótano Bookstores)
+High school textbooks. E.g. Math 3, Travesias Series, ed Castillo (sold at Amazon and El Sótano Bookstores)
 
 Related links:
 -  <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a>
@@ -64,8 +64,8 @@ Related links:
 
 
 ## Nested sampling.
-Project guided by Dr. Will Handley. The aim is to find the likelihood distribution for the last set of samples from the nested sampling and thus improve the calculation of Bayesian evidence within this scheme.
--  <a href=https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr>Link</a>
+Project guided by Dr. Will Handley. The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
+-  <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">Link</a>
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
 
 ---
