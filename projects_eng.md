@@ -14,7 +14,7 @@ The input neural network is the sampled point in the parameter space, while the 
 
 Supervised by:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 Links:
---<a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Komputer Sapiens paper</a>
+- <a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Komputer Sapiens paper</a>
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 
