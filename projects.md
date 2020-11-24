@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proyectos
-<!-- subtitle:  -->
+
 ---
 
 # En curso ...
