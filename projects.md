@@ -14,7 +14,7 @@ Intentamos acelerar el cálculo del la función de verosimilitud dentro de un pr
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
 Supervisado por Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
 Enlaces:
--<a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Artículo en Komputer Sapiens</a>
+- <a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Artículo en Komputer Sapiens</a>
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 
@@ -91,7 +91,7 @@ Enlaces relacionados:
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
 ## Reactores nucleares
-Simulación de una recarga de combustible en un reactor BWR. 
+Simulación de una recarga de combustible en un reactor BWR con CASMO4 y Simulate3. 
 
 Proyecto supervisado por: Dr. Edmundo del Valle Gallegos.
 

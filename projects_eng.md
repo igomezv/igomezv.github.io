@@ -92,7 +92,7 @@ Related links:
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
 ## Nuclear reactors
-Simulation of a BWR refueling. 
+Simulation of a BWR refueling with CASMO4 and Simulate3. 
 
 Project supervised by: Dr. Edmundo del Valle Gallegos.
 
