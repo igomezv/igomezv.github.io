@@ -13,6 +13,7 @@ We try to speed up the computation of the likelihood function within a Bayesian 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
 
 Supervised by:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
+
 Links:
 - <a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Komputer Sapiens paper</a>
 
@@ -32,7 +33,7 @@ Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vaz
 Collaborating with Dr. JA Vazquez.
 
 Links:
- -  <a href="hhttps://github.com/ja-vazquez/SimpleMC">GitHub repository</a>
+ - <a href="hhttps://github.com/ja-vazquez/SimpleMC">GitHub repository</a>
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 

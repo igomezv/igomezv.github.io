@@ -12,8 +12,11 @@ title: Proyectos
 ## Redes neuronales en inferencia bayesiana.
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
+
 Supervisado por Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
+
 Enlaces:
+
 - <a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Artículo en Komputer Sapiens</a>
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
