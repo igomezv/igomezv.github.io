@@ -17,6 +17,8 @@ We try to speed up the computation of the likelihood function within a Bayesian 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
 
 Supervised by:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
+Links:
+--<a href="https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa">Komputer Sapiens paper</a>
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 
@@ -75,7 +77,7 @@ In collaboration with:  Dr. Daniel Sanchez Guzman and Dr. Ricardo García Salced
 Related links:
 - <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>
 - <a href="https://github.com/igomezv/RAsolidsrev"> GitHub repository</a>
-- <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D>Artículo</a>
+- <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D>LAJPE paper</a>
 - <a href="https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada">Essay</a>
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
