@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About this website
-<!-- subtitle:  -->
 ---
 
 This page is an exercise of

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proyectos
-<!-- subtitle:  -->
+
 ---
 
 # En curso ...
@@ -57,8 +57,8 @@ Enlaces relacionados:
 
 
 ## Algoritmo de muestreo anidado.
-Proyecto guiado por el Dr. Will Handley. Se intenta encontrar la distribución del likelihood para el último conjunto de muestras del muestreo anidado y así mejorar el cálculo de la evidencia bayesiana dentro de este esquema.
--  <a href=https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr>Link</a>
+Proyecto guiado por el Dr. Will Handley. Se analizan los últimos puntos muestreados en un proceso de muestreo anidado, junto con su likelihood y prior mass.
+-  <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">Link</a>
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
 
 ---
