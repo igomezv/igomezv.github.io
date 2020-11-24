@@ -6,7 +6,10 @@ title: Proyectos
 
 # En curso ...
 
-## Redes neuronales para disminuir el tiempo de cómputo de un proceso de inferencia bayesiana.
+---
+
+
+## Redes neuronales en inferencia bayesiana.
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
 Supervisado por Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
@@ -58,8 +61,11 @@ Proyecto guiado por el Dr. Will Handley. Se intenta encontrar la distribución d
 -  <a href=https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr>Link</a>
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
 
+---
 
 # Proyectos pasados ...
+
+---
 
 ## App didáctica de Realidad Aumentada
 Exploración didáctica de la Realidad Aumentada. Desarrollo con Unity-3D, vuforia y C#.

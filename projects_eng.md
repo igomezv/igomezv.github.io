@@ -12,7 +12,9 @@ title: Proyectos
 
 # In process ...
 
-## Neural networks to decrease the computation time of a Bayesian inference process
+---
+
+## Neural networks in Bayesian inference
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
 
@@ -66,8 +68,11 @@ Project guided by Dr. Will Handley. The aim is to find the likelihood distributi
 -  <a href=https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr>Link</a>
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
 
+---
 
 # Past projects ...
+
+---
 
 ## Augmented Reality Didactic App
 Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
