@@ -10,7 +10,7 @@ I write short stories, essays, text books and Phyton code. My research fields of
 -------------------------------------------------------------
 ### CV info:
 
-* [Portfolio](projects_eng.md)
+* [Portfolio](portfolio.md)
 
  * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV__english.pdf">Download CV</a>
  

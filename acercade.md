@@ -9,7 +9,7 @@ Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de inve
 -------------------------------------------------------------
 ### Inormación sobre CV:
 
-* [Portafolio de proyectos](projects.md)
+* [Portafolio de proyectos](portafolio.md)
 
  * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV.pdf">Descargar CV</a>
  

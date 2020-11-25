@@ -4,12 +4,12 @@ author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
     Acerca de:
-      - Isidro: "aboutme"
-      - Portafolio: "projects"
+      - Isidro: "acercade"
+      - Portafolio: "portafolio"
 
     About me:
-      - Me: "aboutme_eng"
-      - Portfolio: "projects_eng"
+      - Me: "aboutme"
+      - Portfolio: "portfolio"
 
 
     # GitHub: "https://github.com/igomezv"
