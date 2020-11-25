@@ -5,12 +5,10 @@ author: "Isidro Gómez-Vargas"
 navbar-links:
     Acerca de:
       - Isidro: "aboutme"
-      # - Este sitio: "aboutweb"
       - Portafolio: "projects"
 
     About me:
       - Me: "aboutme_eng"
-      # - This website: "aboutweb_eng"
       - Portfolio: "projects_eng"
 
 

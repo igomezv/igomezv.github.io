@@ -7,7 +7,10 @@ title: Acerca de mí
 Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que me interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
 
 -------------------------------------------------------------
-### Curriculum Vitae:
+### Inormación sobre CV:
+
+* [Portafolio de proyectos](projects.md)
+
  * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV.pdf">Descargar CV</a>
  
  * <a href="https://www.researchgate.net/profile/Isidro_Gomez-Vargas2">Perfil de ResearchGate </a>
@@ -15,7 +18,7 @@ Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de inve
  * <a href="https://ipn.academia.edu/IsidroGómezVargas">Perfil de Academia edu</a>
 
 
-###	Educación:
+####	Educación:
 
 - 	2019: Candidato a doctor en tecnología avanzada. CICATA-IPN (en colaboración con el ICF-UNAM).
     Tesis: Redes neuronales en inferencia bayesiana y reconstrucción de funciones

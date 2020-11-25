@@ -8,7 +8,9 @@ title: About me
 I write short stories, essays, text books and Phyton code. My research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
 
 -------------------------------------------------------------
-### Curriculum Vitae:
+### CV info:
+
+* [Portfolio](projects_eng.md)
 
  * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV__english.pdf">Download CV</a>
  
@@ -17,7 +19,7 @@ I write short stories, essays, text books and Phyton code. My research fields of
  * <a href="https://ipn.academia.edu/IsidroGómezVargas">Academia edu profile</a>
 
 
-###	Education:
+####	Education:
 
 - 	2019: PhD candidate in Advance Technology. CICATA-IPN (in collaboration with ICF-UNAM).
     Thesis: Artificial Neural Networks in statistical methods for cosmology
