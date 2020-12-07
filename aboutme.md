@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About me
+title: About Isidro GV
 <!-- subtitle:  -->
 ---
 
 
-I write short stories, essays, text books and Phyton code. My research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
+Isidro is a physicist-mathematician, with master's degree and PhD (ongoing) in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
 
 -------------------------------------------------------------
 ### CV info:

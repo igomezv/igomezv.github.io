@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Acerca de mí
+title: Acerca de Isidro GV
+<!-- subtitle: Isidro GV -->
 <!-- subtitle:  -->
 ---
 
-Escribo cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que me interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
+Isidro es físico-matemático, con maestría y doctorado (en curso) en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
 
 -------------------------------------------------------------
 ### Inormación sobre CV:
