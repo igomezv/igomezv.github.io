@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Isidro GV
+title: About Isidro
 <!-- subtitle:  -->
 ---
 
