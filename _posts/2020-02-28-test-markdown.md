@@ -6,6 +6,7 @@ gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
+hidden: true
 ---
 
 **Post de prueba**
