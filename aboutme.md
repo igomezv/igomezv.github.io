@@ -8,7 +8,7 @@ title: About Isidro GV
 Isidro is a physicist-mathematician, with master's degree and PhD (ongoing) in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
 
 -------------------------------------------------------------
-### CV info:
+### Academic info:
 
 * [Portfolio](portfolio.md)
 
