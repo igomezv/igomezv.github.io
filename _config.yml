@@ -3,20 +3,20 @@ title: "Isidro GV"
 author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
-    Acerca de:
-      - Isidro: "acercade"
+    Menú en español:
+      - Acerca de mí: "acercade"
       - Portafolio: "portafolio"
+      - Blog literario: "http://www.neorelativista.blogspot.com"
+      - Reseñas de libros: "https://salalecturaubik.blogspot.com"
 
-    About me:
-      - Me: "aboutme"
+    English menu:
+      - About me: "aboutme"
       - Portfolio: "portfolio"
 
 
     # GitHub: "https://github.com/igomezv"
     Archive: "archive"
-    Blogs:
-      - Literario: "http://www.neorelativista.blogspot.com"
-      - Reseñas de libros: "https://salalecturaubik.blogspot.com"
+
 
 # - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
