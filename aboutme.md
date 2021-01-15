@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Isidro
+title: About me
 <!-- subtitle:  -->
 ---
 
