@@ -5,7 +5,7 @@ title: Acerca de ...
 <!-- subtitle:  -->
 ---
 
-Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
+Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y modelos cosmológicos de Energía Oscura.
 
 -------------------------------------------------------------
 ### Información académica:
