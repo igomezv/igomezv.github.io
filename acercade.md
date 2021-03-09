@@ -5,7 +5,7 @@ title: Acerca de ...
 <!-- subtitle:  -->
 ---
 
-Isidro es físico-matemático, con maestría y doctorado (en curso) en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
+Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y cosmología.
 
 -------------------------------------------------------------
 ### Información académica:
@@ -21,8 +21,8 @@ Isidro es físico-matemático, con maestría y doctorado (en curso) en tecnolog�
 
 ####	Educación:
 
-- 	2019: Candidato a doctor en tecnología avanzada. CICATA-IPN (en colaboración con el ICF-UNAM).
-    Tesis: Redes neuronales en inferencia bayesiana y reconstrucción de funciones
+- 	2021: Doctor en tecnología avanzada. CICATA-IPN (en colaboración con el ICF-UNAM).
+    Tesis: Redes neuronales artificiales en inferencia Bayesiana (aplicaciones cosmológicas)
     Asesores: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.    
     *Repositorios relacionados*:
         * <a href="https://github.com/ja-vazquez/SimpleMC" download>SimpleMC</a>

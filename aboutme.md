@@ -5,7 +5,7 @@ title: About me
 ---
 
 
-Isidro is a physicist-mathematician, with master's degree and PhD (ongoing) in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
+Isidro is a physicist-mathematician, with master's degree and PhD in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and cosmology. 
 
 -------------------------------------------------------------
 ### Academic info:
@@ -21,8 +21,8 @@ Isidro is a physicist-mathematician, with master's degree and PhD (ongoing) in a
 
 ####	Education:
 
-- 	2019: PhD candidate in Advance Technology. CICATA-IPN (in collaboration with ICF-UNAM).
-    Thesis: Artificial Neural Networks in statistical methods for cosmology
+- 	2021: PhD candidate in Advance Technology. CICATA-IPN (in collaboration with ICF-UNAM).
+    Thesis: Artificial Neural Networks in Bayesian inference (cosmological applications)
     Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.    
     *Related repositories*:
         * <a href="https://github.com/ja-vazquez/SimpleMC" download>SimpleMC</a>
