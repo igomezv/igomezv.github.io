@@ -12,7 +12,7 @@ Isidro is a physicist-mathematician, with master's degree and PhD in advanced te
 
 * [Portfolio](portfolio.md)
 
- * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV__english.pdf">Download CV</a>
+ * <a href="https://www.linkedin.com/in/isidro-gomez-vargas/">LinkedIn</a>
  
  * <a href="https://www.researchgate.net/profile/Isidro_Gomez-Vargas2">ResearchGate profile</a>
 

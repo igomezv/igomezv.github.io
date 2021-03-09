@@ -12,7 +12,7 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 
 * [Portafolio de proyectos](portafolio.md)
 
- * <a href="https://github.com/igomezv/igomezv.github.io/raw/master/CV/CV.pdf">Descargar CV</a>
+ * <a href="https://www.linkedin.com/in/isidro-gomez-vargas/">CV en LinkedIn</a>
  
  * <a href="https://www.researchgate.net/profile/Isidro_Gomez-Vargas2">Perfil de ResearchGate </a>
 
