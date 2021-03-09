@@ -5,7 +5,7 @@ title: About me
 ---
 
 
-Isidro is a physicist-mathematician, with master's degree and PhD in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and cosmological Dark Energy models.
+Isidro is a physicist-mathematician, with master's degree and PhD in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and Dark Energy cosmological models.
 
 -------------------------------------------------------------
 ### Academic info:
