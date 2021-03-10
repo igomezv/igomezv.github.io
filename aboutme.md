@@ -25,7 +25,7 @@ Isidro is a physicist-mathematician, with master's degree and PhD in advanced te
     Thesis: Artificial Neural Networks in Bayesian inference (cosmological applications)
     Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.    
     *Related repositories*:
-        * <a href="https://github.com/ja-vazquez/SimpleMC" download>SimpleMC</a>
+        * <a href="https://github.com/ja-vazquez/SimpleMC">SimpleMC</a>
         * <a href="https://github.com/igomezv/IntroMCMC">IntroMCMC</a>
         * <a href="https://github.com/igomezv/mcmcTools">MCMC Tools</a>
         * <a href="https://github.com/igomezv/neural_nets_utilities">Neural Nets Utilities</a>

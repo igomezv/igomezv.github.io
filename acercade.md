@@ -25,7 +25,7 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
     Tesis: Redes neuronales artificiales en inferencia Bayesiana (aplicaciones cosmológicas)
     Asesores: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.    
     *Repositorios relacionados*:
-        * <a href="https://github.com/ja-vazquez/SimpleMC" download>SimpleMC</a>
+        * <a href="https://github.com/ja-vazquez/SimpleMC">SimpleMC</a>
         * <a href="https://github.com/igomezv/IntroMCMC">IntroMCMC</a>
         * <a href="https://github.com/igomezv/mcmcTools">MCMC Tools</a>
         * <a href="https://github.com/igomezv/neural_nets_utilities">Neural Nets Utilities</a>
