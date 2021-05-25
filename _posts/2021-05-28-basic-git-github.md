@@ -27,6 +27,7 @@ Un <code>commit</code> es una confirmación de los cambios realizados en el cód
 git commit -m "descripción del cambio" script_mod1.py script_mod2.py
 ```
 Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera  <code>-m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
+
 Todas las opciones de <code>commit</code>: [git-commit docs](https://git-scm.com/docs/git-commit)
 
 ## push
@@ -70,5 +71,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgxMjk1MjYsNzE1MTgyNTRdfQ==
+eyJoaXN0b3J5IjpbLTk2OTQ3NDM3Niw3MTUxODI1NF19
 -->
