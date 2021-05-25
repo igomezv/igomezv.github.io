@@ -42,7 +42,7 @@ Documentación completa de este comando:
 
 ## Usar el repositorio de un tercero
 
-**Descripción de la situación**
+**Descripción de la situación:**
 Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo para nuestros fines personales, ¿qué opciones hay?
  
 1.  Descargar el comprimido desde su página web. Esto solo permite acceder al código fuente.
@@ -70,5 +70,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3Njc2MjMwXX0=
+eyJoaXN0b3J5IjpbMzQyMTE4OTIwLDk5NzY3NjIzMF19
 -->
