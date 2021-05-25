@@ -14,7 +14,10 @@ Un controlador de cambios te permite ir reportando cada modificación en tu cód
 
 La intención de esta entrada es describir algunos comandos de Git (para GitHub, en particular) que en mi caso personal considero muy útiles y que no encontré tan rápido en la red la primera vez que intenté usarlos. 
 
-Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. Para instalar Git desde cero, navegar en la plataforma web de GitHub y otras cuestiones todavía más básicas, se recomienda *googlear*.
+Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. Para instalar Git desde cero, navegar en la plataforma web de GitHub y otras cuestiones hay mucha información en Internet, entre otras fuentes:
+
+- https://rogerdudler.github.io/git-guide/index.es.html
+- https://guides.github.com/activities/hello-world/
 
 ## commit
 
@@ -28,7 +31,9 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 [EN PROCESO]
 
 ## push
-Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto. 
+Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>
+'''bash
+'''
 
 ## Pull
 
@@ -40,6 +45,6 @@ Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjI4NjcwOSw2MTM1NDM5MzcsODc5OD
-E4MDMxLC00NTI2MjI5MDRdfQ==
+eyJoaXN0b3J5IjpbLTkxOTExMzc5OCwxMTk2Mjg2NzA5LDYxMz
+U0MzkzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
 -->
