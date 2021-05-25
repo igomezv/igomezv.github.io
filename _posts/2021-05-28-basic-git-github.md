@@ -19,7 +19,9 @@ Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y reposito
 ## commit
 
 Un **commit** es una confirmación de los cambios realizados en el código y Git mediante esa instrucción le asigna un identificador al bloque de cambios involucrados. Además, uno puede asignarle un mensaje o descripción para recordar en qué consistieron esos cambios. En la práctica, la forma que me ha resultado más fácil es: 
-
+```{r, engine='bash', count_lines}
+wc -l en_US.twitter.txt
+```
 
 
 
@@ -40,5 +42,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA4NjE5OTQsLTQxNTg0MzA0NF19
+eyJoaXN0b3J5IjpbLTE2NjYyMzEyMjYsLTQxNTg0MzA0NF19
 -->
