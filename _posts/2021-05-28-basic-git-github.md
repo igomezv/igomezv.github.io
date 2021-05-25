@@ -16,8 +16,8 @@ La intención de esta entrada es describir algunos comandos de Git (para GitHub,
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. Para instalar Git desde cero, navegar en la plataforma web de GitHub y otras cuestiones hay mucha información en Internet, entre otras fuentes:
 
-- [](https://rogerdudler.github.io/git-guide/index.es.html)
-- []https://guides.github.com/activities/hello-world/)
+- Guía de Git: [https://rogerdudler.github.io/git-guide/index.es.html](https://rogerdudler.github.io/git-guide/index.es.html)
+- [Plataforma web de GitHub](https://guides.github.com/activities/hello-world/)
 
 ## commit
 
@@ -70,5 +70,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MjgzNzI1LDE5OTQxODY1NzJdfQ==
+eyJoaXN0b3J5IjpbOTk3Njc2MjMwLDE5OTQxODY1NzJdfQ==
 -->
