@@ -44,5 +44,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY4OTc4MTQsNjE5NDMxMjRdfQ==
+eyJoaXN0b3J5IjpbLTE0NDY4OTc4MTRdfQ==
 -->
