@@ -35,7 +35,7 @@ Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio r
 ```bash
 git push
 ```
-En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca en su configuración dónde debe enviarse los nuevos cambios, y si no encuentra configuración alguna, lo hace en <code>origin</code>. 
+En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca en su configuración dónde deben enviarse los nuevos cambios, y si no encuentra configuración alguna, lo hace en <code>origin</code>. 
 
 Documentación completa de este comando: 
 [git-push docs](https://git-scm.com/docs/git-push)
@@ -70,5 +70,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMTE4OTIwXX0=
+eyJoaXN0b3J5IjpbNzE1MTgyNTQsMzQyMTE4OTIwXX0=
 -->
