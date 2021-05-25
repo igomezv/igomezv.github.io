@@ -47,7 +47,8 @@ https://git-scm.com/docs/git-push
 **Descripción de la situación**
 Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo para nuestros fines personales, ¿qué opciones hay?
  
-- Descargar el comprimido desde su página web. 
+1.  Descargar el comprimido desde su página web. Esto solo permite acceder al código fuente.
+- Clonarlo vía <code>git clone https://github.com/repositorio_interesante.git</code>. Esto permite ver todo el histórico 
 
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
@@ -56,6 +57,6 @@ Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjQyNjQxMywxMTk2Mjg2NzA5LDYxMz
-U0MzkzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
+eyJoaXN0b3J5IjpbLTEyMTAwMDMwMDUsMTE5NjI4NjcwOSw2MT
+M1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
 -->
