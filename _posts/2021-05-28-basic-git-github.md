@@ -53,7 +53,13 @@ Nos centraremos en la opción 3.
 
 ##  fork
  Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra copia a nuestra computadora para trabajar en el código.  Sin embargo, a diferencia de la opción 2, no se puede hacer directamente  <code>git pull</code> para actualizar nuestra copia local con los cambios hechos en el repositorio original de un tercero, pues nuestra copia local solo está conectada a nuestra copia remota, para enlazar nuestra copia *forkeada* al repositorio original, es necesario hacer lo siguiente:
- 
+ ```bash
+ git remote add upstream git://github.com/usuario_del_repo_original/repo_original.git
+```
+
+```
+git fetch upstream
+```
 
 
 
@@ -63,6 +69,7 @@ Nos centraremos en la opción 3.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg0ODY5MiwxMTk2Mjg2NzA5LDYxMzU0Mz
-kzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
+eyJoaXN0b3J5IjpbMzcwNDMzNDgyLDI4NDg2OTIsMTE5NjI4Nj
+cwOSw2MTM1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
+
 -->
