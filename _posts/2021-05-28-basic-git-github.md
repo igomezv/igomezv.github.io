@@ -22,7 +22,7 @@ Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y reposito
 
 ## Pull
 
-## Fork y 
+## Repositorio remoto (upstream)
 
 Figura centrada
 
@@ -35,5 +35,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNjM0NDUsLTE3Njk5OTQ1NzhdfQ==
+eyJoaXN0b3J5IjpbOTM3MjUzMzU5XX0=
 -->
