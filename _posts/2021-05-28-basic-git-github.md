@@ -52,7 +52,8 @@ Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo 
 Nos centraremos en la opción 3.
 
 ##  fork
- Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra copia a nuestra computadora para trabajar en el código.  Sin embargo, a diferencia de la opción 2, no se puede hacer directamente  <code>git pull</code> para actualizar nuestra copia local con los cambios hechos en el repositorio origi pues solo está conectado a nuestra copia
+ Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra copia a nuestra computadora para trabajar en el código.  Sin embargo, a diferencia de la opción 2, no se puede hacer directamente  <code>git pull</code> para actualizar nuestra copia local con los cambios hechos en el repositorio original de un tercero, pues nuestra copia local solo está conectada a nuestra copia remota, para enlazar nuestra copia *forkeada* al repositorio original, es necesario hacer lo siguiente:
+ 
 
 
 
@@ -62,6 +63,6 @@ Nos centraremos en la opción 3.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE1MzA5NDEsMTE5NjI4NjcwOSw2MT
-M1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
+eyJoaXN0b3J5IjpbMjg0ODY5MiwxMTk2Mjg2NzA5LDYxMzU0Mz
+kzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
 -->
