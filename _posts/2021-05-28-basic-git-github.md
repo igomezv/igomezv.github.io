@@ -14,7 +14,7 @@ Un controlador de cambios te permite ir reportando cada modificación en tu cód
 
 La intención de esta entrada es describir algunos comandos de Git (para GitHub, en particular) que en mi caso personal considero muy útiles y que no encontré tan rápido en la red la primera vez que intenté usarlos. 
 
-Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. 
+Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. Para instalar desde cero, navegar en la plataforma web d
 
 ## commit
 
@@ -33,13 +33,11 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 
 ## Repositorio remoto (upstream)
 
-Figura centrada
-
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjYyMjkwNF19
+eyJoaXN0b3J5IjpbLTE0NzM5ODYzMzksLTQ1MjYyMjkwNF19
 -->
