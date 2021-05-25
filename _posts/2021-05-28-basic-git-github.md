@@ -16,13 +16,13 @@ La intención de esta entrada es describir los comandos que considero indispensa
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. 
 
-## Commit
+## Tipos de commit
 
-## Push
+## Push: cómo subir mis cambios
 
 ## Pull
 
-## 
+## Fork y 
 
 Figura centrada
 
@@ -35,6 +35,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyNTg3MDIsLTE3Njk5OTQ1NzhdfQ
-==
+eyJoaXN0b3J5IjpbOTMxNjM0NDUsLTE3Njk5OTQ1NzhdfQ==
 -->
