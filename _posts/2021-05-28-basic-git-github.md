@@ -57,7 +57,7 @@ Nos centraremos en la opción 3.
  git remote add upstream git://github.com/usuario_del_repo_original/repo_original.git
 git fetch upstream
 ```
-Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repositorio original mediante
+Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repositorio original mediante:
 ```
 git pull upstream master
 ```
@@ -70,7 +70,7 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NDc3MDMwLDI4NDg2OTIsMTE5NjI4Nj
-cwOSw2MTM1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzk3NDA2MDIsMjg0ODY5MiwxMTk2Mj
+g2NzA5LDYxMzU0MzkzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
 
 -->
