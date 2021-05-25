@@ -19,10 +19,11 @@ Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y reposito
 ## commit
 
 Un **commit** es una confirmación de los cambios realizados en el código y Git mediante esa instrucción le asigna un identificador al bloque de cambios involucrados. Además, uno puede asignarle un mensaje o descripción para recordar en qué consistieron esos cambios. En la práctica, la forma que me ha resultado más fácil es: 
-```{r, engine='bash', count_lines}
-wc -l en_US.twitter.txt
-```
 
+```{r, engine='bash', count_lines}
+git commit -m "descripción del cambio" script_mod1.py script_mod2.py
+```
+Si no se indican los archivos modificados, la instrucci
 
 
 ## Push: cómo subir mis cambios
@@ -42,5 +43,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYyMzEyMjYsLTQxNTg0MzA0NF19
+eyJoaXN0b3J5IjpbMTcxMjAwMDE1OCwtNDE1ODQzMDQ0XX0=
 -->
