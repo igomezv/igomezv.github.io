@@ -16,8 +16,8 @@ La intención de esta entrada es describir algunos comandos de Git (para GitHub,
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. Para instalar Git desde cero, navegar en la plataforma web de GitHub y otras cuestiones hay mucha información en Internet, entre otras fuentes:
 
-- https://rogerdudler.github.io/git-guide/index.es.html
-- https://guides.github.com/activities/hello-world/
+- [](https://rogerdudler.github.io/git-guide/index.es.html)
+- []https://guides.github.com/activities/hello-world/)
 
 ## commit
 
@@ -27,7 +27,7 @@ Un <code>commit</code> es una confirmación de los cambios realizados en el cód
 git commit -m "descripción del cambio" script_mod1.py script_mod2.py
 ```
 Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera  <code>-m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
-Todas las opciones de <code>commit</code>: https://git-scm.com/docs/git-commit
+Todas las opciones de <code>commit</code>: [git-commit docs](https://git-scm.com/docs/git-commit)
 
 ## push
 Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>.
@@ -38,7 +38,7 @@ git push
 En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca en su configuración dónde debe enviarse los nuevos cambios, y si no encuentra configuración alguna, lo hace en <code>origin</code>. 
 
 Documentación completa de este comando: 
-https://git-scm.com/docs/git-push
+[git-push docs](https://git-scm.com/docs/git-push)
 
 ## Usar el repositorio de un tercero
 
@@ -70,5 +70,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDE4NjU3Ml19
+eyJoaXN0b3J5IjpbNzg2MjgzNzI1LDE5OTQxODY1NzJdfQ==
 -->
