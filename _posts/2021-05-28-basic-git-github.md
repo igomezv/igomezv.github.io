@@ -12,7 +12,7 @@ Git es un controlador de cambios de código abierto (open source) y GitHub una p
 
 Un controlador de cambios te permite ir reportando cada modificación en tu código, así como tener diferentes versiones de manera simultanea y la posibilidad de regresar a una versión anterior por lejana que sea. Esto hace que Git sea muy interesante y útil. Existen varias plataformas de desarrollo que utilizan Git como base: GitLab, SourceForge, GitHub y Bitbucket, entre otras. 
 
-La intención de esta entrada es describir los comandos que considero indispensables en Git (para GitHub, en particular) y que en mi caso personal no encontré tan rápido en la red la primera vez que intenté usarlos. 
+La intención de esta entrada es describir algunos comandos de Git (para GitHub, en particular) que en mi caso personal considero muy útiles y que no encontré tan rápido en la red la primera vez que intenté usarlos. 
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. 
 
@@ -41,5 +41,5 @@ Figura centrada
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDM2NjUyMSwzNjkxMTE2NjZdfQ==
+eyJoaXN0b3J5IjpbLTQ1MjYyMjkwNCwzNjkxMTE2NjZdfQ==
 -->
