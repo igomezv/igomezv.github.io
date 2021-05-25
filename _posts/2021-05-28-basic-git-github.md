@@ -27,7 +27,8 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 
 [EN PROCESO]
 
-## Push: cómo subir mis cambios
+## push
+Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto. 
 
 ## Pull
 
@@ -39,6 +40,6 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNTQzOTM3LDg3OTgxODAzMSwtNDUyNj
-IyOTA0XX0=
+eyJoaXN0b3J5IjpbMTE5NjI4NjcwOSw2MTM1NDM5MzcsODc5OD
+E4MDMxLC00NTI2MjI5MDRdfQ==
 -->
