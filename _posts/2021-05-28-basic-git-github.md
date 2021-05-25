@@ -18,7 +18,7 @@ Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y reposito
 
 ## commit
 
-Un **commit** es una confirmación de los cambios realizados y Git 
+Un **commit** es una confirmación de los cambios realizados en el código y Git mediante esa instrucción le asigna un identificador al bloque de cambios involucrados. Adempa
 En la práctica, la forma en que se m
 
 
@@ -40,5 +40,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDkyMzA3MjcsLTQxNTg0MzA0NF19
+eyJoaXN0b3J5IjpbMTg4OTE3NTgyNCwtNDE1ODQzMDQ0XX0=
 -->
