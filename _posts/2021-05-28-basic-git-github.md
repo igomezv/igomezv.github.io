@@ -16,7 +16,10 @@ La intención de esta entrada es describir los comandos que considero indispensa
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. 
 
-## Tipos de commit
+## commit
+
+Un **commit** in
+En la práctica, la forma en que se m
 
 
 
@@ -37,5 +40,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcwMzQxNjksLTQxNTg0MzA0NF19
+eyJoaXN0b3J5IjpbMjExMDgzODQ1MCwtNDE1ODQzMDQ0XX0=
 -->
