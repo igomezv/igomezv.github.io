@@ -18,12 +18,12 @@ Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y reposito
 
 ## commit
 
-Un <code>commit</code> es una confirmación de los cambios realizados en el código y Git mediante esa instrucción le asigna un identificador al bloque de cambios involucrados. Además, uno puede asignarle un mensaje o descripción para recordar en qué consistieron esos cambios. En la práctica, la forma que me ha resultado más fácil es: 
+Un <code>commit</code> es una confirmación de los cambios realizados en el código y Git mediante esa instrucción le asigna un identificador al bloque de cambios involucrados. Además, uno puede asignar un mensaje o descripción para recordar en qué consistieron esos cambios. En la práctica, la forma que me ha resultado más fácil es: 
 
 ```{r, engine='bash', count_lines}
 git commit -m "descripción del cambio" script_mod1.py script_mod2.py
 ```
-Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera *-m* le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
+Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera  <code>m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
 
 [EN PROCESO]
 
@@ -44,5 +44,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTcyNDM4NjAsNjE5NDMxMjRdfQ==
+eyJoaXN0b3J5IjpbMTk5NzI1MjI2OSw2MTk0MzEyNF19
 -->
