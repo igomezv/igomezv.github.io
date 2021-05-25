@@ -35,14 +35,11 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 
 Figura centrada
 
-![Figura](assets/img/avatar-icon.jpeg){: .mx-auto.d-block :}
-
-
-Ejemplo de <code>código entre </code> texto.
+![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDcwNTQzMSwzNjkxMTE2NjZdfQ==
+eyJoaXN0b3J5IjpbMTk0NDM2NjUyMSwzNjkxMTE2NjZdfQ==
 -->
