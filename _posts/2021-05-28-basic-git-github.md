@@ -12,7 +12,7 @@ Git es un controlador de cambios de código abierto (open source) y GitHub una p
 
 Un controlador de cambios te permite ir reportando cada modificación en tu código, así como tener diferentes versiones de manera simultanea y la posibilidad de regresar a una versión anterior por lejana que sea. Esto hace que Git sea muy interesante y útil. Existen varias plataformas de desarrollo que utilizan Git como base: GitLab, SourceForge, GitHub y Bitbucket, entre otras. 
 
-La intención de esta entrada es describir algunos comandos de Git (para GitHub, en particular) que en mi caso personal considero muy útiles y que no encontré tan rápido en la red la primera vez que intenté usarlos. 
+La intención de esta entrada es describir algunos comandos de Git (para GitHub, en particular) que en mi caso personal considero muy útiles y que no encontré tan rápido en la red la primera vez que intenté usarlos. Este escrito s
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. Para instalar Git desde cero, navegar en la plataforma web de GitHub y otras cuestiones hay mucha información en Internet, entre otras fuentes:
 
@@ -28,6 +28,7 @@ git commit -m "descripción del cambio" script_mod1.py script_mod2.py
 ```
 Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera  <code>-m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
 Todas las opciones de <code>commit</code>: https://git-scm.com/docs/git-commit
+
 ## push
 Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>.
 
@@ -39,7 +40,6 @@ En la forma que más suelo usar este comando es así, a secas. De esta manera, G
 Documentación completa de este comando: 
 https://git-scm.com/docs/git-push
 
-
 ## pull
 
 ## Repositorio remoto (upstream)
@@ -50,6 +50,6 @@ https://git-scm.com/docs/git-push
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE3MTk3MjAsMTE5NjI4NjcwOSw2MT
+eyJoaXN0b3J5IjpbLTEwMjc2NDQ0ODUsMTE5NjI4NjcwOSw2MT
 M1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
 -->
