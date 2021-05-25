@@ -31,9 +31,13 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 [EN PROCESO]
 
 ## push
-Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>
-'''bash
-'''
+Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>.
+
+```bash
+git push
+```
+En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca
+
 
 ## Pull
 
@@ -45,6 +49,6 @@ Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTExMzc5OCwxMTk2Mjg2NzA5LDYxMz
-U0MzkzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
+eyJoaXN0b3J5IjpbNjc2MDU3NTEzLDExOTYyODY3MDksNjEzNT
+QzOTM3LDg3OTgxODAzMSwtNDUyNjIyOTA0XX0=
 -->
