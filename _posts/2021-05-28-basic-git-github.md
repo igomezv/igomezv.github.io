@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Git/github
-subtitle: [[EN CONSTRUCCION] Manual  de supervivencia]
+title: Recetas Git/github
+subtitle: [EN CONSTRUCCION Manual  de supervivencia]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [Git, GitHub]
@@ -37,5 +37,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMjM5NzU0XX0=
+eyJoaXN0b3J5IjpbLTE3NTQ3ODk3NDFdfQ==
 -->
