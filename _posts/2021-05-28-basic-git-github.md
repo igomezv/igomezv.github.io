@@ -53,7 +53,9 @@ Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo 
 
 Nos centraremos en la última opción.
 
-### Trabajar un 
+### fork
+ Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra cu
+
 
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
@@ -62,6 +64,6 @@ Nos centraremos en la última opción.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTg5ODQyMywxMTk2Mjg2NzA5LDYxMz
+eyJoaXN0b3J5IjpbMTEwNzI3OTgwOSwxMTk2Mjg2NzA5LDYxMz
 U0MzkzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
 -->
