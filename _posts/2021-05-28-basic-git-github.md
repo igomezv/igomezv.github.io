@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Manual de supervivencia git/github
-subtitle: [EN CONSTRUCCION]
+title: Git/github[EN CONSTRUCCION]
+subtitle: [Manual  ed]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [Git, GitHub]
@@ -17,6 +17,8 @@ La intención de esta entrada es describir los comandos que considero indispensa
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. 
 
 ## Tipos de commit
+
+
 
 ## Push: cómo subir mis cambios
 
@@ -35,5 +37,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc3ODkxMDgsOTM3MjUzMzU5XX0=
+eyJoaXN0b3J5IjpbLTE3Mjc3MTUwMDgsOTM3MjUzMzU5XX0=
 -->
