@@ -44,7 +44,10 @@ https://git-scm.com/docs/git-push
 
 ## Usar el repositorio de un tercero
 
-
+**Descripción de la situación**
+Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo para nuestros fines personales, ¿qué opciones hay?
+ 
+- Descargar el comprimido desde su página web. 
 
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
@@ -53,6 +56,6 @@ https://git-scm.com/docs/git-push
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2NjAwNjI4LDExOTYyODY3MDksNjEzNT
-QzOTM3LDg3OTgxODAzMSwtNDUyNjIyOTA0XX0=
+eyJoaXN0b3J5IjpbMTYwMjQyNjQxMywxMTk2Mjg2NzA5LDYxMz
+U0MzkzNyw4Nzk4MTgwMzEsLTQ1MjYyMjkwNF19
 -->
