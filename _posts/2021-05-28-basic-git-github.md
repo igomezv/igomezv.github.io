@@ -8,25 +8,13 @@ tags: [Git, GitHub]
 comments: true
 ---
 
-**Manual de supervivencia git/github**
-
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
 
 Un controlador de cambios te permite ir reportando cada cambio realizado en tu código, así como tener diferentes versiones simultáneamente y la posibilidad de regresar a una versión anterior por lejana que sea. Esto hace que Git sea sumamente interesante y útil. Existen varias plataformas de desarrollo que utilizan Git como base: GitLab, SourceForge, GitHub y Bitbucket, entre otras. 
 
-La intención de esta entrada es describir los comandos que considero indispensables en git, particularmente para GitHub. Sin embargo, se asumirán situaciones en las que ya se tiene instalado git y se saben crear repositorios. 
+La intención de esta entrada es describir los comandos que considero indispensables en git y que en mi caso personal no encontré inmediatamente en la red la primera vez que intenté usarlos, particularmente para GitHub. Sin embargo, se asumirán situaciones en las que ya se tiene instalado git y se saben crear repositorios. 
 
-## ¿Qué es un control de Cambios?
-
-Tabla genérica
-
-| A | B | C |
-| :------ |:--- | :--- |
-| No | Nombre | Ciudad |
-| 1 | Eleven | México |
-| 2 | Eight | Veracruz |
-
-
+### 
 
 ### Figuras
 
@@ -100,6 +88,5 @@ Cajas de notificaciones, advertencias y de errores.
 **Error:** This is an error box.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk2MzAxMjAsLTE3Njk5OTQ1NzhdfQ
-==
+eyJoaXN0b3J5IjpbODY4MjQzOTIzLC0xNzY5OTk0NTc4XX0=
 -->
