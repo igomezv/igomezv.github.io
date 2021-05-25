@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Manual de supervivencia git/github
-subtitle: [ejemplo]
+subtitle: [EN CONSTRUCCION]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Git, GitHub]
 comments: true
 ---
 
@@ -100,5 +100,6 @@ Cajas de notificaciones, advertencias y de errores.
 **Error:** This is an error box.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk5OTQ1NzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk2MzAxMjAsLTE3Njk5OTQ1NzhdfQ
+==
 -->
