@@ -36,7 +36,8 @@ Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio r
 ```bash
 git push
 ```
-En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca
+En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca en su configuración dónde debe enviarse los nuevos cambios, y si no encuentra configuración alguna, lo hace en <code>origin</code>. Si
+
 
 
 ## Pull
@@ -49,6 +50,6 @@ En la forma que más suelo usar este comando es así, a secas. De esta manera, G
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MDU3NTEzLDExOTYyODY3MDksNjEzNT
-QzOTM3LDg3OTgxODAzMSwtNDUyNjIyOTA0XX0=
+eyJoaXN0b3J5IjpbLTQzODI2MjgsMTE5NjI4NjcwOSw2MTM1ND
+M5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
 -->
