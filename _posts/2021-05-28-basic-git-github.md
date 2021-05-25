@@ -49,10 +49,10 @@ Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo 
 2. Clonarlo vía <code>git clone https://github.com/repositorio_interesante.git</code>. Esto permite ver todo el histórico de Git y acceder a versiones previas. De esta manera, también se puede mantener actualizada nuestra copia local mediante <code>git pull</code>.
 3.  Mediante un <code>fork</code>. Con esta opción creamos una copia en nuestro propia cuenta de GitHub. Me parece la opción más completa si uno planea trabajar en el código y hacer modificaciones.
 
-Nos centraremos en la última opción.
+Nos centraremos en la opción 3.
 
 ##  fork
- Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra copia a nuestra computadora para trabajar en el código.  Sin embargo, a diferencia de la opción 2, 
+ Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra copia a nuestra computadora para trabajar en el código.  Sin embargo, a diferencia de la opción 2, no se puede hacer directamente  <code>git pull</code> para actualizar nuestra copia local con los cambios hechos en el repositorio origi pues solo está conectado a nuestra copia
 
 
 
@@ -62,6 +62,6 @@ Nos centraremos en la última opción.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjYyOTc5LDExOTYyODY3MDksNjEzNT
-QzOTM3LDg3OTgxODAzMSwtNDUyNjIyOTA0XX0=
+eyJoaXN0b3J5IjpbLTIwODE1MzA5NDEsMTE5NjI4NjcwOSw2MT
+M1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
 -->
