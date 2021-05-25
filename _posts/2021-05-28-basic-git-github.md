@@ -41,5 +41,5 @@ Figura centrada
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjYyMjkwNCwzNjkxMTE2NjZdfQ==
+eyJoaXN0b3J5IjpbLTQ1MjYyMjkwNF19
 -->
