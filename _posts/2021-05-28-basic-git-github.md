@@ -27,20 +27,20 @@ Un <code>commit</code> es una confirmación de los cambios realizados en el cód
 git commit -m "descripción del cambio" script_mod1.py script_mod2.py
 ```
 Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera  <code>-m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
-
-[EN PROCESO]
-
+Todas las opciones de <code>commit</code>: https://git-scm.com/docs/git-commit
 ## push
 Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>.
 
 ```bash
 git push
 ```
-En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca en su configuración dónde debe enviarse los nuevos cambios, y si no encuentra configuración alguna, lo hace en <code>origin</code>. Si
+En la forma que más suelo usar este comando es así, a secas. De esta manera, Git busca en su configuración dónde debe enviarse los nuevos cambios, y si no encuentra configuración alguna, lo hace en <code>origin</code>. 
+
+Documentación completa de este comando: 
+https://git-scm.com/docs/git-push
 
 
-
-## Pull
+## pull
 
 ## Repositorio remoto (upstream)
 
@@ -50,6 +50,6 @@ En la forma que más suelo usar este comando es así, a secas. De esta manera, G
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODI2MjgsMTE5NjI4NjcwOSw2MTM1ND
-M5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTE3MTk3MjAsMTE5NjI4NjcwOSw2MT
+M1NDM5MzcsODc5ODE4MDMxLC00NTI2MjI5MDRdfQ==
 -->
