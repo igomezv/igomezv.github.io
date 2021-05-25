@@ -16,67 +16,25 @@ La intención de esta entrada es describir los comandos que considero indispensa
 
 Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y repositorio de GitHub. 
 
-### 
+## Commit
 
-### Figuras
+## Push
 
-![Ícono](https://igomezv.github.io/assets/img/avatar-icon.png)
+## Pull
+
+## 
 
 Figura centrada
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.png){: .mx-auto.d-block :}
 
-### Código
-
-Código genérico
-~~~
-
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-
 
 Ejemplo de <code>código entre </code> texto.
 
 
-Probando ecuaciones
 
-[HTML ecuaciones](https://sites.psu.edu/symbolcodes/codehtml/#math)
-
-
-h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
-
-Probando LaTeX con img src:
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-
-Markdown LaTex
-
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}) 
-
-
-### Cajas
-Cajas de notificaciones, advertencias y de errores.
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcwMzUzNDcsLTE3Njk5OTQ1NzhdfQ
+eyJoaXN0b3J5IjpbLTE5OTUyNTg3MDIsLTE3Njk5OTQ1NzhdfQ
 ==
 -->
