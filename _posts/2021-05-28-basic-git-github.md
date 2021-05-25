@@ -5,7 +5,7 @@ subtitle: [EN CONSTRUCCION Manual  de supervivencia]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [Git, GitHub]
-comments: true
+comments: false
 ---
 
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
@@ -37,5 +37,5 @@ Ejemplo de <code>código entre </code> texto.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ3ODk3NDFdfQ==
+eyJoaXN0b3J5IjpbLTQxNTg0MzA0NF19
 -->
