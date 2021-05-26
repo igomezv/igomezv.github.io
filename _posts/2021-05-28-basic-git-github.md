@@ -65,19 +65,18 @@ git pull upstream master
 
 ## Comparar y regresar
 
-Para comparar dos versiones del código
-Para ver el historial de commits:
+Para comparar dos versiones del código, o bien, para regresar a una versión anterior. Es útil ver el historial de commits:
 ```
 git log
 ```
-Despliega el identificador de cada <code>commit</code>,  su autor y la fecha. A partir de ahí uno puede usar esos identificadores para comparar dos versiones:
+esto despliega el identificador de cada <code>commit</code>,  su autor y la fecha. A partir de ahí uno puede usar esos identificadores para comparar dos versiones:
 ```
 git diff identificador_commit_i identificador_commit_j
 ```
  o bien, para regresar a una versión anterior:
  
 ```
-git diff identificador_commit_i identificador_commit_j
+git reset --hard identificador_commit_i 
 ```
  
 
@@ -88,5 +87,5 @@ git diff identificador_commit_i identificador_commit_j
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTY1MjYxNSwtOTY5NDc0Mzc2XX0=
+eyJoaXN0b3J5IjpbMTM3ODAyNDA5LC05Njk0NzQzNzZdfQ==
 -->
