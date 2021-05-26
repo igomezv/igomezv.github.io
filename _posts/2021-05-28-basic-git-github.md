@@ -69,7 +69,12 @@ git pull upstream master
 ```
 git log
 ```
-Despliega el identificador del <code>commit</code>	y el autor del mismo
+Despliega el identificador de cada <code>commit</code>,  su autor y la fecha. A partir de ahí uno puede usar esos identificadores para comparar dos versiones:
+```
+git diff 
+```
+
+ o bien, para regresar a una versión anterior.
 
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
@@ -78,5 +83,5 @@ Despliega el identificador del <code>commit</code>	y el autor del mismo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjE5NzQ4MiwtOTY5NDc0Mzc2XX0=
+eyJoaXN0b3J5IjpbMjQ5MzQ4MDUwLC05Njk0NzQzNzZdfQ==
 -->
