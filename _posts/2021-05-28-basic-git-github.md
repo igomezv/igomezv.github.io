@@ -8,6 +8,11 @@ tags: [Git, GitHub]
 comments: true
 ---
 
+# Contents
+ - [Specification](#specification) 
+ - [Dependencies Title](#dependencies-title)
+
+
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
 
 Un controlador de cambios te permite ir reportando cada modificación en tu código, así como tener diferentes versiones de manera simultanea y la posibilidad de regresar a una versión anterior por lejana que sea. Esto hace que Git sea muy interesante y útil. Existen varias plataformas de desarrollo que utilizan Git como base: GitLab, SourceForge, GitHub y Bitbucket, entre otras. 
@@ -52,7 +57,7 @@ Nos interesa mucho el repositorio de GitHub de un tercero y queremos utilizarlo 
 
 Nos centraremos en la opción 3.
 
-##  fork
+###  fork
  Un <code>fork</code> se puede hacer de manera muy fácil en la plataforma web de GitHub desde la página del repositorio original. Después, podemos clonar nuestra copia a nuestra computadora para trabajar en el código.  Sin embargo, a diferencia de la opción 2, no se puede hacer directamente  <code>git pull</code> para actualizar nuestra copia local con los cambios hechos en el repositorio original de un tercero, pues nuestra copia local solo está conectada a nuestra copia remota, para enlazar nuestra copia *forkeada* al repositorio original, es necesario hacer lo siguiente:
  ```bash
 git remote add upstream git://github.com/otro_usuario/repo_original.git
@@ -88,6 +93,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM4OTk3MjAsLTEzMjI2NjQ1NDVdfQ
-==
+eyJoaXN0b3J5IjpbMTU3MzQwOTI3NywtMjEzMzg5OTcyMCwtMT
+MyMjY2NDU0NV19
 -->
