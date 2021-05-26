@@ -78,6 +78,7 @@ git diff identificador_commit_i identificador_commit_j
 ```
 git reset --hard identificador_commit_i 
 ```
+donde la bandera <code>--hard</code> 
  
 
 
@@ -87,5 +88,5 @@ git reset --hard identificador_commit_i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODAyNDA5XX0=
+eyJoaXN0b3J5IjpbMTY0NDg1Mjg0NSwxMzc4MDI0MDldfQ==
 -->
