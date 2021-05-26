@@ -95,5 +95,5 @@ git reset --hard identificador_commit_i
 ```
 donde la bandera <code>--hard</code> indica que se resetearán los archivos del índice y del directorio de trabajo. También está la opción <code>--soft</code> que no resetea estos archivos. Para más detalles de este comando, se recomienda visitar [aquí](https://devconnected.com/how-to-git-reset-to-head/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDA1NTg2MSwtMTQ1MzQ2NTI4Ml19
+eyJoaXN0b3J5IjpbLTgwMDA1NTg2MV19
 -->
