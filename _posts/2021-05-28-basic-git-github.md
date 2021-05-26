@@ -71,7 +71,7 @@ git log
 ```
 Despliega el identificador de cada <code>commit</code>,  su autor y la fecha. A partir de ahí uno puede usar esos identificadores para comparar dos versiones:
 ```
-git diff 
+git diff 22620292c247dcbf00788224f9820d2ca3ea1b4f 22620292c247dcbf00788224f9820d2ca3ea1b4f
 ```
 
  o bien, para regresar a una versión anterior.
@@ -83,5 +83,5 @@ git diff
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MzQ4MDUwLC05Njk0NzQzNzZdfQ==
+eyJoaXN0b3J5IjpbMzI0MjA4MDcwLC05Njk0NzQzNzZdfQ==
 -->
