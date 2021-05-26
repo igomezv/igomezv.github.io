@@ -63,7 +63,14 @@ Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repo
 git pull upstream master
 ```
 
-## Otros comando
+## Otros comandos frecuentes
+
+- Para ver el historial de commits:
+```
+git log
+```
+Despliega el identificador del <code>commit</code>	y el autor del mismo
+
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
 
@@ -71,5 +78,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2Nzc3MDA2LC05Njk0NzQzNzZdfQ==
+eyJoaXN0b3J5IjpbLTY1NjE5NzQ4MiwtOTY5NDc0Mzc2XX0=
 -->
