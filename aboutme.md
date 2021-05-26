@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-<!-- subtitle:  -->
+
 ---
 
 
@@ -36,5 +36,5 @@ Isidro is a physicist-mathematician, with master's degree and PhD in advanced te
 
 - 	2017: Diplomat on Knowledge discovery with Big Data tools. CIC-IPN. Advisor: Dr. Gilberto Martinez Luna
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk4NDg5MjcsMTYyMTA3ODMyM119
+eyJoaXN0b3J5IjpbNTc3MjQxMjIyLDE2MjEwNzgzMjNdfQ==
 -->
