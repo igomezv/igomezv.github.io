@@ -14,7 +14,7 @@ comments: true
 	 - [commit](#commit)
 	 - [push](#push)
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
-	 - [pu
+	 - [fork](#fork)
  - [Comparar entre versiones o regresar  a una versión anterior](#regresar-y-comparar)
 
 ## Introducción
@@ -98,6 +98,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg5ODQ5NjcsLTIxMzM4OTk3MjAsLT
-EzMjI2NjQ1NDVdfQ==
+eyJoaXN0b3J5IjpbMTc4NzAzMDUzMywtMjEzMzg5OTcyMCwtMT
+MyMjY2NDU0NV19
 -->
