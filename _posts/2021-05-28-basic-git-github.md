@@ -88,6 +88,5 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjA3MTQwLC0xNDA3MTg0ODkxLDEzNz
-gwMjQwOV19
+eyJoaXN0b3J5IjpbMTcwNjA3MTQwXX0=
 -->
