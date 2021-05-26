@@ -8,7 +8,7 @@ tags: [Git, GitHub]
 comments: true
 ---
 
-# Contents
+# Content
   
  - [Introducción](#introducción)
 	 - [commit](#commit)
@@ -98,5 +98,5 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzAzMDUzM119
+eyJoaXN0b3J5IjpbMTEwOTUwNTk4LDE3ODcwMzA1MzNdfQ==
 -->
