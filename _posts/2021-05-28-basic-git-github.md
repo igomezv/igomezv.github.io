@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recetas Git/GithHub
+title: Recetas Git/GitHub
 subtitle: [EN CONSTRUCCION]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
@@ -88,5 +88,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUwMTAwNjcsMTcwNjA3MTQwXX0=
+eyJoaXN0b3J5IjpbLTEzMjI2NjQ1NDUsLTIwNzUwMTAwNjcsMT
+cwNjA3MTQwXX0=
 -->
