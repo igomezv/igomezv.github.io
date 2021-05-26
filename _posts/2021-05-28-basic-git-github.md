@@ -8,7 +8,8 @@ tags: [Git, GitHub]
 comments: true
 ---
 
-# Content
+-------------------
+# Contenido
   
  - [Introducción](#introducción)
 	 - [commit](#commit)
@@ -16,6 +17,7 @@ comments: true
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
 	 - [fork](#fork)
  - [Comparar entre versiones o regresar  a una versión anterior](#regresar-y-comparar)
+ - -------------------------
 
 ## Introducción
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
@@ -51,6 +53,7 @@ En la forma que más suelo usar este comando es así, a secas. De esta manera, G
 Documentación completa de este comando: 
 [git-push docs](https://git-scm.com/docs/git-push)
 
+------------------------------------------
 ## Usar el repositorio de un tercero
 
 **Descripción de la situación:**
@@ -73,6 +76,7 @@ Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repo
 git pull upstream master
 ```
 
+--------------------------------
 ## Comparar y regresar
 
 Para comparar dos versiones del código, o bien, para regresar a una versión anterior. Es útil ver el historial de commits:
@@ -98,5 +102,5 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTUwNTk4LDE3ODcwMzA1MzNdfQ==
+eyJoaXN0b3J5IjpbLTE3OTc4ODQyNzcsMTc4NzAzMDUzM119
 -->
