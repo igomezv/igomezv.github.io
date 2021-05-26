@@ -8,7 +8,6 @@ tags: [Git, GitHub]
 comments: true
 ---
 
--------------------
 # Contenido
   
  - [Introducción](#introducción)
@@ -17,7 +16,9 @@ comments: true
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
 	 - [fork](#fork)
  - [Comparar entre versiones o regresar  a una versión anterior](#regresar-y-comparar)
- - -------------------------
+ 
+ --------------------------
+ 
 
 ## Introducción
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
@@ -102,5 +103,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc4ODQyNzddfQ==
+eyJoaXN0b3J5IjpbLTE0NTM0NjUyODIsLTE3OTc4ODQyNzddfQ
+==
 -->
