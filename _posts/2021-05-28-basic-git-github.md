@@ -87,5 +87,5 @@ git reset --hard identificador_commit_i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODAyNDA5LC05Njk0NzQzNzZdfQ==
+eyJoaXN0b3J5IjpbMTM3ODAyNDA5XX0=
 -->
