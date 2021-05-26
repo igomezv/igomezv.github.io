@@ -35,5 +35,5 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 - 	2017: Diplomado en Descubriendo el Conocimiento con Herramientas Big Data. CIC-IPN. Coordinador: Dr. Gilberto Martinez Luna
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc2MjYzNTcsODgyODc0NzI4XX0=
+eyJoaXN0b3J5IjpbLTE3MTc2MjYzNTddfQ==
 -->
