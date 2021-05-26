@@ -9,8 +9,8 @@ comments: true
 ---
 
 # Contents
- - [Specification](#specification) 
- - [Dependencies Title](#dependencies-title)
+ - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
+ - [Comparar entre versiones o regresar  a una versión anterior](#regresar-y-comparar)
 
 
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
@@ -93,6 +93,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzQwOTI3NywtMjEzMzg5OTcyMCwtMT
+eyJoaXN0b3J5IjpbMTM3MDI4MjE1NiwtMjEzMzg5OTcyMCwtMT
 MyMjY2NDU0NV19
 -->
