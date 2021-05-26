@@ -8,14 +8,17 @@ tags: [Git, GitHub]
 comments: true
 ---
 
-# Contents
+# Contenido
   
  - [Introducción](#introducción)
 	 - [commit](#commit)
 	 - [push](#push)
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
 	 - [fork](#fork)
- - [Comparar entre versiones o regresar  a una versión anterior](#regresar-y-comparar)
+ - [Comparar entre versiones o regresar  a una versión anterior](#comparar-y-regresar)
+ 
+ --------------------------
+ 
 
 ## Introducción
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
@@ -51,6 +54,7 @@ En la forma que más suelo usar este comando es así, a secas. De esta manera, G
 Documentación completa de este comando: 
 [git-push docs](https://git-scm.com/docs/git-push)
 
+------------------------------------------
 ## Usar el repositorio de un tercero
 
 **Descripción de la situación:**
@@ -73,6 +77,7 @@ Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repo
 git pull upstream master
 ```
 
+--------------------------------
 ## Comparar y regresar
 
 Para comparar dos versiones del código, o bien, para regresar a una versión anterior. Es útil ver el historial de commits:
@@ -88,15 +93,7 @@ git diff identificador_commit_i identificador_commit_j
 ```
 git reset --hard identificador_commit_i 
 ```
-donde la bandera <code>--hard</code> indica que se resetearán los archivos del índice y del directorio de trabajo. También está la opción <code>--soft</code> que no resetea estos archivos. Para más detalles de este comando, se recomienda visitar [aquí.](https://devconnected.com/how-to-git-reset-to-head/)
- 
-
-
-![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
-
-
-
-
+donde la bandera <code>--hard</code> indica que se resetearán los archivos del índice y del directorio de trabajo. También está la opción <code>--soft</code> que no resetea estos archivos. Para más detalles de este comando, se recomienda visitar [aquí](https://devconnected.com/how-to-git-reset-to-head/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzAzMDUzM119
+eyJoaXN0b3J5IjpbLTgwMDA1NTg2MV19
 -->
