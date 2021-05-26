@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Acerca de ...
-<!-- subtitle: Isidro GV -->
-<!-- subtitle:  -->
+
 ---
 
 Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y modelos cosmológicos de Energía Oscura.
@@ -36,5 +35,5 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 - 	2017: Diplomado en Descubriendo el Conocimiento con Herramientas Big Data. CIC-IPN. Coordinador: Dr. Gilberto Martinez Luna
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyODc0NzI4XX0=
+eyJoaXN0b3J5IjpbLTE3MTc2MjYzNTcsODgyODc0NzI4XX0=
 -->
