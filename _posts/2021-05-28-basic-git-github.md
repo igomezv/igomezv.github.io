@@ -78,7 +78,7 @@ git diff identificador_commit_i identificador_commit_j
 ```
 git reset --hard identificador_commit_i 
 ```
-donde la bandera <code>--hard</code> 
+donde la bandera <code>--hard</code> indica que se resetearán los archivos del índice y del directorio de trabajo. También está la opción <code>--soft</code>
  
 
 
@@ -88,5 +88,5 @@ donde la bandera <code>--hard</code>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NDg1Mjg0NSwxMzc4MDI0MDldfQ==
+eyJoaXN0b3J5IjpbLTE0MDcxODQ4OTEsMTM3ODAyNDA5XX0=
 -->
