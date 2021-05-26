@@ -5,7 +5,7 @@ subtitle: [EN CONSTRUCCION]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [Git, GitHub]
-comments: false
+comments: true
 ---
 
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
@@ -88,5 +88,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI2NjQ1NDVdfQ==
+eyJoaXN0b3J5IjpbLTIxMzM4OTk3MjAsLTEzMjI2NjQ1NDVdfQ
+==
 -->
