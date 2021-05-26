@@ -63,18 +63,23 @@ Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repo
 git pull upstream master
 ```
 
-## Otros comandos frecuentes
+## Comparar y regresar
 
-- Para ver el historial de commits:
+Para comparar dos versiones del código
+Para ver el historial de commits:
 ```
 git log
 ```
 Despliega el identificador de cada <code>commit</code>,  su autor y la fecha. A partir de ahí uno puede usar esos identificadores para comparar dos versiones:
 ```
-git diff 22620292c247dcbf00788224f9820d2ca3ea1b4f 22620292c247dcbf00788224f9820d2ca3ea1b4f
+git diff identificador_commit_i identificador_commit_j
 ```
-
- o bien, para regresar a una versión anterior.
+ o bien, para regresar a una versión anterior:
+ 
+```
+git diff identificador_commit_i identificador_commit_j
+```
+ 
 
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
@@ -83,5 +88,5 @@ git diff 22620292c247dcbf00788224f9820d2ca3ea1b4f 22620292c247dcbf00788224f9820d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MjA4MDcwLC05Njk0NzQzNzZdfQ==
+eyJoaXN0b3J5IjpbMjA3NTY1MjYxNSwtOTY5NDc0Mzc2XX0=
 -->
