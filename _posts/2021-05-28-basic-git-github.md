@@ -63,7 +63,7 @@ Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repo
 git pull upstream master
 ```
 
-
+## Otros comando
 
 ![Figura](https://igomezv.github.io/assets/img/avatar-icon.jpeg)
 
@@ -71,5 +71,5 @@ git pull upstream master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTQ3NDM3Nl19
+eyJoaXN0b3J5IjpbODQ2Nzc3MDA2LC05Njk0NzQzNzZdfQ==
 -->
