@@ -9,10 +9,13 @@ comments: true
 ---
 
 # Contents
+  
+ - [Introducción](#introducción)
+ - 
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
  - [Comparar entre versiones o regresar  a una versión anterior](#regresar-y-comparar)
 
-
+## Introducción
 Git es un controlador de cambios de código abierto (open source) y GitHub una plataforma de desarrollo colaborativo basada en Git. 
 
 Un controlador de cambios te permite ir reportando cada modificación en tu código, así como tener diferentes versiones de manera simultanea y la posibilidad de regresar a una versión anterior por lejana que sea. Esto hace que Git sea muy interesante y útil. Existen varias plataformas de desarrollo que utilizan Git como base: GitLab, SourceForge, GitHub y Bitbucket, entre otras. 
@@ -24,7 +27,7 @@ Se asumirán situaciones en las que ya se tiene instalado Git, cuenta y reposito
 - Guía de Git: [https://rogerdudler.github.io/git-guide/index.es.html](https://rogerdudler.github.io/git-guide/index.es.html)
 - [Plataforma web de GitHub](https://guides.github.com/activities/hello-world/)
 
-## commit
+### commit
 
 Un <code>commit</code> es una confirmación de los cambios realizados en el código y Git mediante esa instrucción le asigna un identificador al bloque de cambios involucrados. Además, uno puede asignar un mensaje o descripción para recordar en qué consistieron esos cambios. En la práctica, la forma que me ha resultado más fácil es: 
 
@@ -35,7 +38,7 @@ Si no se indican los archivos modificados, el  <code>commit</code> incluirá tod
 
 Todas las opciones de <code>commit</code>: [git-commit docs](https://git-scm.com/docs/git-commit)
 
-## push
+### push
 Para "empujar"  los cambios indicados en un <code>commit</code> al repositorio remoto se utiliza el comando <code>push</code>.
 
 ```bash
@@ -93,6 +96,6 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDI4MjE1NiwtMjEzMzg5OTcyMCwtMT
+eyJoaXN0b3J5IjpbLTM4NDExOTYyNywtMjEzMzg5OTcyMCwtMT
 MyMjY2NDU0NV19
 -->
