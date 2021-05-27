@@ -119,6 +119,7 @@ En colaboración con: UPEV, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salce
 
 Enlaces relacionados:
 - <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">Sitio web </a>del MOOC.
+- Lista de reproducción de [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1).
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
@@ -136,5 +137,5 @@ Enlaces relacionados:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDUyNjQ0NV19
+eyJoaXN0b3J5IjpbLTQxNjkzOTgxMCwxNDYwNTI2NDQ1XX0=
 -->
