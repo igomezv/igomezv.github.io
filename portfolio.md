@@ -12,7 +12,7 @@ title: Projects
 	- [Data mining in medical data](#data-mining-in-medical-data)
 	- [Nested sampling](#nested-sampling)
 
-- [Past projects](#past):
+- [Past projects](#past-projects):
 	- [Augmented Reality app](#augmented-reality)
 	- [MOOC course of basic maths](#mooc-course)
 	- [BWR nuclear reactor](#nuclear-reactor)
@@ -91,7 +91,7 @@ Project guided by Dr. Will Handley. The aim is to analyze the last set of sample
 
 ---
 
-# Past projects ...
+# Past projects
 
 ---
 
@@ -131,5 +131,5 @@ Related links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MzUzNjk3XX0=
+eyJoaXN0b3J5IjpbLTEyMTc1NDY3NzAsOTY4MzUzNjk3XX0=
 -->
