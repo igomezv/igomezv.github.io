@@ -7,7 +7,7 @@ title: Acerca de ...
 Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y modelos cosmológicos de Energía Oscura.
 
 -------------------------------------------------------------
-**Información académica:** [Portfolio](portfolio.md), [LinkedIn](https://www.linkedin.com/in/isidro-gomez-vargas/), [ResearchGate](https://www.researchgate.net/profile/Isidro_Gomez-Vargas2), [Adademia.edu](https://ipn.academia.edu/IsidroGómezVargas), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
+**Información académica:** [Proyectos](portfolio.md), [LinkedIn](https://www.linkedin.com/in/isidro-gomez-vargas/), [ResearchGate](https://www.researchgate.net/profile/Isidro_Gomez-Vargas2), [Adademia.edu](https://ipn.academia.edu/IsidroGómezVargas), [Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
 
 ---------
 
@@ -35,5 +35,5 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 - 	2017: Diplomado en Descubriendo el Conocimiento con Herramientas Big Data. CIC-IPN. Coordinador: Dr. Gilberto Martinez Luna
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc2MjYzNTddfQ==
+eyJoaXN0b3J5IjpbLTEwMjg3OTk4ODhdfQ==
 -->
