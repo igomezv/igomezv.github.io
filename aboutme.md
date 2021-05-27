@@ -8,7 +8,7 @@ title: About me
 Isidro is a physicist-mathematician, with master's degree and PhD in advanced technology. He writes short stories, essays, text books and Phyton code. His research fields of interest are Bayesian inference, neural networks, machine learning and Dark Energy cosmological models.
 
 -------------------------------------------------------------
-**Academic info:** [Proyectos](portfolio.md), [LinkedIn](https://www.linkedin.com/in/isidro-gomez-vargas/), [ResearchGate](https://www.researchgate.net/profile/Isidro_Gomez-Vargas2), [Adademia.edu](https://ipn.academia.edu/IsidroGómezVargas), [Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
+**Academic info:** [Portfolio](portfolio.md), [LinkedIn](https://www.linkedin.com/in/isidro-gomez-vargas/), [ResearchGate](https://www.researchgate.net/profile/Isidro_Gomez-Vargas2), [Adademia.edu](https://ipn.academia.edu/IsidroGómezVargas), [Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
 
 --------
 
@@ -36,5 +36,5 @@ Isidro is a physicist-mathematician, with master's degree and PhD in advanced te
 
 - 	2017: Diplomat on Knowledge discovery with Big Data tools. CIC-IPN. Advisor: Dr. Gilberto Martinez Luna
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMjkzNTA1XX0=
+eyJoaXN0b3J5IjpbLTExNzUzMDU5MjUsNTcyMjkzNTA1XX0=
 -->
