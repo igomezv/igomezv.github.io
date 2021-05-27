@@ -11,7 +11,7 @@ title: Proyectos
 	- [Data mining en datos médicos](#data-mining-en-datos-médicos)
 	- [Algoritmo de muestreo anidado](#muestreo-anidado)
 
-- [Proyectos pasados](#pasados):
+- [Proyectos pasados](#proyectos-pasados):
 	- [App de Realidad Aumentada](#app-de-realidad-aumentada)
 	- [Curso MOOC de matemáticas básicas](#curso-mooc)
 	- [Simulación del gasto de combustible de un reactor nuclear](#reactores-nucleares)
@@ -93,7 +93,7 @@ Proyecto guiado por el Dr. Will Handley. Se analizan los últimos puntos muestre
 
 --------------------------------------------------
 
-# Proyectos pasados ...
+# Proyectos pasados
 
 --------
 
@@ -137,5 +137,5 @@ Enlaces relacionados:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjkzOTgxMF19
+eyJoaXN0b3J5IjpbMjE4MTQxOTMzLC00MTY5Mzk4MTBdfQ==
 -->
