@@ -115,6 +115,7 @@ In collaboration with: UPEV, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salc
 
 Related links:
 - MOOC <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">website</a>.
+- [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
@@ -130,5 +131,5 @@ Related links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjUwNjkzOF19
+eyJoaXN0b3J5IjpbOTY4MzUzNjk3LDIxMDY1MDY5MzhdfQ==
 -->
