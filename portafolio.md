@@ -18,9 +18,8 @@ title: Proyectos
 
 -----------------------------------------------------------
 # En curso 
---------
 
-
+------------------------------------------
 ## Redes neuronales en inferencia bayesiana
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
@@ -137,5 +136,5 @@ Enlaces relacionados:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzQzNzYyN119
+eyJoaXN0b3J5IjpbMTQ2MDUyNjQ0NSwxOTIzNDM3NjI3XX0=
 -->
