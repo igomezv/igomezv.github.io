@@ -111,7 +111,7 @@ Related links:
 ## MOOC course
 Development of the MOOC course "Teacher training for the teaching of basic mathematics
 
-In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel.
+In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
 
 Related links:
 - MOOC <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">website</a>.
@@ -131,5 +131,5 @@ Related links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjA1OTg5MiwtMTIxNzU0Njc3MF19
+eyJoaXN0b3J5IjpbMTQwMjczMDIzNCwtMTIxNzU0Njc3MF19
 -->
