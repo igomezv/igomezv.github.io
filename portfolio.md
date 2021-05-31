@@ -41,7 +41,7 @@ Links:
 ## Neural networks in cosmological data reconstructions
 From observational data, neural networks are trained to generate synthetic data. We use feedforward neural networks and variational autoencoders.
 
-Supervised by:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
+With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
@@ -131,5 +131,5 @@ Related links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM0ODA1MSwtMTIxNzU0Njc3MF19
+eyJoaXN0b3J5IjpbLTkwMjM2NzYxMCwtMTIxNzU0Njc3MF19
 -->
