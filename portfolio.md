@@ -54,7 +54,7 @@ Collaborating with Dr. JA Vazquez.
 
 Links:
  - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
- - [Docs](https://igomezv.github.io/SimpleMC-docs/#).
+ - [Docs](https://igomezv.github.io/SimpleMC).
 
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
@@ -131,5 +131,5 @@ Related links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjczMDIzNCwtMTIxNzU0Njc3MF19
+eyJoaXN0b3J5IjpbMTY2MDc0Mzg4NCwtMTIxNzU0Njc3MF19
 -->
