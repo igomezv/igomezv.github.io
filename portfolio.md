@@ -27,7 +27,7 @@ title: Projects
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
 
-Supervised by:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
+With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 
 Links:
 -  Neural network within a Bayesian inference framework ([_J. Phys. Conf. Ser._](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)).
@@ -131,5 +131,5 @@ Related links:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDc0Mzg4NCwtMTIxNzU0Njc3MF19
+eyJoaXN0b3J5IjpbLTE5MjM0ODA1MSwtMTIxNzU0Njc3MF19
 -->
