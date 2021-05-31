@@ -108,6 +108,12 @@ Cambiar rama:
 ```
 git checkout branch_name
 ```
+
+Nueva rama:
+```
+git checkout -b [nombre_de_la_nueva_rama]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MDEwMjMsMTM0Mzc1MzIzOV19
+eyJoaXN0b3J5IjpbMTU1MjEwNjcsNDI4MDEwMjMsMTM0Mzc1Mz
+IzOV19
 -->
