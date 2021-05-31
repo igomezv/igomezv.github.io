@@ -24,7 +24,7 @@ title: Proyectos
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
 
-Supervisado por Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
+Con Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
 
 Publicaciones relacionadas:
 
@@ -40,7 +40,7 @@ Publicaciones relacionadas:
 ## Redes neuronales en reconstrucción de datos cosmológicos 
 A partir de datos observacionales, se entrenan redes neuronales para generar datos sintéticos. Se utilizan perceptrones multicapa y autoencoders variacionales.
 
-Supervisado por Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
+Con Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
 
 - Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
 
@@ -55,7 +55,7 @@ Colaborando con Dr.  JA Vazquez.
 
 Enlaces:
  - [Repositorio](hhttps://github.com/ja-vazquez/SimpleMC) de GitHub.
- - [Documentación](https://igomezv.github.io/SimpleMC-docs/#).
+ - [Documentación](https://igomezv.github.io/SimpleMC).
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
@@ -115,7 +115,7 @@ Enlaces relacionados:
 ## Curso MOOC
 Desarrollo del curso MOOC "Formación docente para la enseñanza de matemáticas básicas"
 
-En colaboración con: UPEV, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo y Ricardo Medel.
+En colaboración con: UPEV, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo y Ricardo Medel Esquivel.
 
 Enlaces relacionados:
 - <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">Sitio web </a>del MOOC.
@@ -137,5 +137,5 @@ Enlaces relacionados:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MTQxOTMzXX0=
+eyJoaXN0b3J5IjpbNzcyMTYzNzY5LDIxODE0MTkzM119
 -->
