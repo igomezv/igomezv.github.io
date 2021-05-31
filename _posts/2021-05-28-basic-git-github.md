@@ -99,21 +99,16 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 -------------------------
 ## Ramas
 
-Ver ramas:
+Las ramas son muy útiles para mantener ordenado el código y hacer modificaciones bajo propósitos específicos. Por defecto, la rama existente es <code>master</code>. Para ver las ramas existentes:
 ```
 git branch
 ```
-
-Cambiar rama:
-```
-git checkout branch_name
-```
-
-Nueva rama:
+Para crear una nueva rama:
 ```
 git checkout -b [nombre_de_la_nueva_rama]
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjEwNjcsNDI4MDEwMjMsMTM0Mzc1Mz
-IzOV19
+eyJoaXN0b3J5IjpbNzg5ODcwMTI1LDQyODAxMDIzLDEzNDM3NT
+MyMzldfQ==
 -->
