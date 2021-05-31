@@ -107,8 +107,12 @@ Para crear una nueva rama:
 ```
 git checkout -b [nombre_de_la_nueva_rama]
 ```
+Para cambiar rama:
+```
+git checkout branch_name
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5ODcwMTI1LDQyODAxMDIzLDEzNDM3NT
+eyJoaXN0b3J5IjpbNDg3NTU4NDExLDQyODAxMDIzLDEzNDM3NT
 MyMzldfQ==
 -->
