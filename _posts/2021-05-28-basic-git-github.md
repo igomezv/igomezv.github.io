@@ -109,20 +109,31 @@ Para crear una nueva rama:
 ```
 git checkout -b [nombre_de_la_nueva_rama]
 ```
+y subirla al remoto:
+```
+git checkout -b [nombre_de_la_nueva_rama]
+```
 Para cambiar rama:
 ```
 git checkout nombre_rama
 ```
-Borrar rama:
+Borrar rama local:
 ```
 git branch -d nombre_rama
 ```
+
+después, para borrar la rama en remoto:
+```
+$ git push origin :nombre_rama
+```
+
 Comparar dos ramas:
 ```
 git diff nombre_rama_1..nombre_rama_2
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzgyMzkyNiwtMTI4OTE2MjQ3Myw0OD
-c1NTg0MTEsNDI4MDEwMjMsMTM0Mzc1MzIzOV19
+eyJoaXN0b3J5IjpbLTEwMDU0MDY3NjYsMTQ5MzgyMzkyNiwtMT
+I4OTE2MjQ3Myw0ODc1NTg0MTEsNDI4MDEwMjMsMTM0Mzc1MzIz
+OV19
 -->
