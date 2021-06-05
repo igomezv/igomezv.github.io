@@ -17,6 +17,7 @@ comments: true
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
 	 - [fork](#fork)
  - [Comparar entre versiones o regresar  a una versión anterior](#comparar-y-regresar)
+- [Entre las ramas](#entre-las-ramas)
  
  --------------------------
  
@@ -96,10 +97,11 @@ git reset --hard identificador_commit_i
 ```
 donde la bandera <code>--hard</code> indica que se resetearán los archivos del índice y del directorio de trabajo. También está la opción <code>--soft</code> que no resetea estos archivos. Para más detalles de este comando, se recomienda visitar [aquí](https://devconnected.com/how-to-git-reset-to-head/).
 
--------------------------
-## Ramas
 
-Las ramas son muy útiles para mantener ordenado el código y hacer modificaciones bajo propósitos específicos. Por defecto, la rama existente es <code>master</code>. Para ver las ramas existentes:
+--------------------------------
+## Entre las ramas
+
+Las ramas (<code>branch</code>) son muy útiles para mantener ordenado el código y hacer modificaciones bajo propósitos específicos. Por defecto, la rama existente es <code>master</code>. Para ver las ramas existentes:
 ```
 git branch
 ```
@@ -113,6 +115,6 @@ git checkout branch_name
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NTU4NDExLDQyODAxMDIzLDEzNDM3NT
-MyMzldfQ==
+eyJoaXN0b3J5IjpbLTI2OTYxODk3NSw0ODc1NTg0MTEsNDI4MD
+EwMjMsMTM0Mzc1MzIzOV19
 -->
