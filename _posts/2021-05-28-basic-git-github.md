@@ -111,9 +111,9 @@ git checkout -b [nombre_de_la_nueva_rama]
 ```
 y subirla al remoto:
 ```
-git checkout -b [nombre_de_la_nueva_rama]
+git push origin nombre_de_la_nueva_rama
 ```
-Para cambiar rama:
+Para cambiar de rama:
 ```
 git checkout nombre_rama
 ```
@@ -121,19 +121,17 @@ Borrar rama local:
 ```
 git branch -d nombre_rama
 ```
-
 después, para borrar la rama en remoto:
 ```
 $ git push origin :nombre_rama
 ```
-
-Comparar dos ramas:
+Similar que con los archivos, para comparar dos ramas:
 ```
 git diff nombre_rama_1..nombre_rama_2
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU0MDY3NjYsMTQ5MzgyMzkyNiwtMT
-I4OTE2MjQ3Myw0ODc1NTg0MTEsNDI4MDEwMjMsMTM0Mzc1MzIz
-OV19
+eyJoaXN0b3J5IjpbNTg2Njg3NjAxLDE0OTM4MjM5MjYsLTEyOD
+kxNjI0NzMsNDg3NTU4NDExLDQyODAxMDIzLDEzNDM3NTMyMzld
+fQ==
 -->
