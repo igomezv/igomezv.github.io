@@ -113,8 +113,12 @@ Para cambiar rama:
 ```
 git checkout branch_name
 ```
+Borrar rama:
+```
+git branch -d branch_name
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTYxODk3NSw0ODc1NTg0MTEsNDI4MD
-EwMjMsMTM0Mzc1MzIzOV19
+eyJoaXN0b3J5IjpbLTEyODkxNjI0NzMsNDg3NTU4NDExLDQyOD
+AxMDIzLDEzNDM3NTMyMzldfQ==
 -->
