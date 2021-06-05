@@ -111,14 +111,18 @@ git checkout -b [nombre_de_la_nueva_rama]
 ```
 Para cambiar rama:
 ```
-git checkout branch_name
+git checkout nombre_rama
 ```
 Borrar rama:
 ```
-git branch -d branch_name
+git branch -d nombre_rama
+```
+Comparar dos ramas:
+```
+git diff nombre_rama_1..nombre_rama_2
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkxNjI0NzMsNDg3NTU4NDExLDQyOD
-AxMDIzLDEzNDM3NTMyMzldfQ==
+eyJoaXN0b3J5IjpbMTQ5MzgyMzkyNiwtMTI4OTE2MjQ3Myw0OD
+c1NTg0MTEsNDI4MDEwMjMsMTM0Mzc1MzIzOV19
 -->
