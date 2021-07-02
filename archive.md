@@ -4,8 +4,6 @@ title: Archive
 permalink: /archive/
 ---
 
-- <a href="https://igomezv.github.io/tags/">Tag index (índice por etiquetas)</a>.
-
 
 <div class="archive">
 
@@ -24,3 +22,5 @@ permalink: /archive/
   </ul>
 
 </div>
+ 
+
