@@ -4,7 +4,7 @@ title: Test post
 subtitle: [ejemplo]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: []
 comments: true 
 ---
 
