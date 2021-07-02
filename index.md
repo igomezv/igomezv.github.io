@@ -5,4 +5,4 @@ subtitle: personal/academic/programming website
 ---
 
 
-|<sub>**More information in the top menu**</sub>|<sub>**Información en español en el menú superior**</sub>|
+|<sub>**More information in the top menu**</sub>|<sub>**Información en el menú superior**</sub>|
