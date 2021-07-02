@@ -3,11 +3,7 @@ layout: page
 title: 
 ---
 
-<span style="font-size:larger;">**Semblanza**</span>
 
-Isidro intenta caminar por la vida como caballo de ajedrez. Física, matemáticas y literatura son sus directrices. A veces corre en algún parque para aligerar el sobrepeso de sensaciones. El jazz que se escapa de un saxofón, clarinete o trompeta le hace creer que su espíritu puede crecer. Algunas obsesiones y manías inofensivas le acompañan incluso cuando de beber cerveza se trata. Amigos, pareja y familia le son religión. La noche una musa constante. La palabra escrita es la prueba que le basta para saber que existe.
-						
--------------------------------------------------------------
 <span style="font-size:larger;">**Información profesional y contacto**</span>
 
 Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. En la actualidad realiza un posdoctorado en aprendizaje automático aplicado a cosmología observacional. 
@@ -19,6 +15,12 @@ Isidro trabaja con redes neuronales artificiales, inferencia bayesiana, aprendiz
 ***Contacto:*** En este sitio web, la información de contacto está al pie de cada página. 
 
 ---------
+
+<span style="font-size:larger;">**Semblanza**</span>
+
+Isidro intenta caminar por la vida como caballo de ajedrez. Física, matemáticas y literatura son sus directrices. A veces corre en algún parque para aligerar el sobrepeso de sensaciones. El jazz que se escapa de un saxofón, clarinete o trompeta le hace creer que su espíritu puede crecer. Algunas obsesiones y manías inofensivas le acompañan incluso cuando de beber cerveza se trata. Amigos, pareja y familia le son religión. La noche una musa constante. La palabra escrita es la prueba que le basta para saber que existe.
+						
+-------------------------------------------------------------
 
 <span style="font-size:larger;">**Noticias**</span>
 
