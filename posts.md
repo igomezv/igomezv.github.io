@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Posts
+title: Blog
 ---
 
 In this section there are some writings about science and programming, main of them in Spanish. 
