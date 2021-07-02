@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Posts
-permalink: /archive/
 ---
 
 - <a href="https://igomezv.github.io/tags/">Tag index (índice por etiquetas)</a>.
