@@ -1,6 +1,0 @@
----
-layout: Home
-title: Posts
----
-
-
