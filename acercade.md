@@ -3,13 +3,13 @@ layout: page
 title: 
 ---
 
- - [Professional and contact info](#professional-and-contact-info)
+ - [Información profesional y de contacto](#informacion-profesional-y-contacto)
 
- - [About this website](#about-this-website)
+ - [Acerca de esta página web](#acerca-de-esta-pagina-web)
  
- - [Isidro's profile](#profile) 
+ - [Semblanza de Isidro](#semblanza) 
  
- - [News](#news)
+ - [Noticias](#noticias)
 
  --------------------------
 
