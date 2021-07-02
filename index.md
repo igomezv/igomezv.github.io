@@ -12,4 +12,4 @@ I work on artificial neural networks, Bayesian inference, machine learning and c
 - **12/06/2021**. Talk about neural networks in cosmology at the ICF-UNAM seminar.
 - **01/05/2021**. Start of postdoctoral stay at ICF-UNAM in [Dr. J A Vazquez's group](https://www.fis.unam.mx/~javazquez/index.html).
 - **01/04/2021**. Upload the *Cosmological Reconstructions with Artificial Neural Networks* preprint to [arXiv](https://arxiv.org/abs/2104.00595).
-- **01/03/2021**. Publication of the paper [*An_introduction_to_Markov_Chain_Monte_Carlo*](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo) in the journal *Boletín de Estadística e Investigación Operativa*. 
+- **01/03/2021**. Publication of the paper [*An introduction to Markov Chain Monte Carlo*](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo) in the journal *Boletín de Estadística e Investigación Operativa*. 
