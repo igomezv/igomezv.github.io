@@ -3,7 +3,7 @@ layout: post
 title: Recetas Git/GitHub
 subtitle: [EN CONSTRUCCION]
 gh-repo: igomezv
-gh-badge: [star, fork, follow]
+gh-badge: [follow]
 tags: [Git, GitHub, español]
 comments: true
 ---
