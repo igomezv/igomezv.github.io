@@ -23,7 +23,7 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 
 ***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/jwozqjhoijk8aq0/CV_eng.pdf?dl=0).
 
-***Contact:*** On this website, contact information is on each page at the bottom.
+***Contact:*** On this website, contact information is located at the bottom of each page.
 
 --------
 
