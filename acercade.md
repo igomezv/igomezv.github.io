@@ -3,9 +3,9 @@ layout: page
 title: 
 ---
 
- - [Información profesional y de contacto](#informacion-profesional-y-contacto)
+ - [Información profesional y de contacto](#información-profesional-y-contacto)
 
- - [Acerca de esta página web](#acerca-de-esta-pagina-web)
+ - [Acerca de esta página web](#acerca-de-esta-página-web)
  
  - [Semblanza de Isidro](#semblanza) 
  
