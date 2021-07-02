@@ -4,7 +4,7 @@ title:
 
 ---
 
-## Profile
+**Profile**
 
 Isidro tries to walk through life as a chess horse. Physics, mathematics and literature are his guides. Sometimes he runs in a park to lighten the overweight of sensations. The jazz that escapes from a saxophone, clarinet or trumpet makes him believe that his spirit can grow. Some obsessions and harmless manias accompany him even while drinking beer. Friends, wife and family are his religion. The night is a constant muse. The written word is the proof that is enough for him to know that he exists.
 
