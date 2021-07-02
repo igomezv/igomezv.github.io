@@ -5,7 +5,6 @@ subtitle: [ejemplo]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [test]
-hidden: true
 comments: true 
 ---
 

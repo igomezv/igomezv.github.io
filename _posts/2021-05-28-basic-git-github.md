@@ -5,7 +5,6 @@ subtitle: [EN CONSTRUCCION]
 gh-repo: igomezv
 gh-badge: [star, fork, follow]
 tags: [Git, GitHub]
-hidden: true
 comments: true
 ---
 
