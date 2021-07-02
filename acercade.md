@@ -7,8 +7,9 @@ Isidro intenta caminar por la vida como caballo de ajedrez. Física, matemática
 						
 -------------------------------------------------------------
 
-Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python.
+Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. En la actualidad realiza un posdoctorado en aprendizaje automático aplicado a cosmología observacional. 
 
 **Información profesional:** [Portafolio de proyectos](portfolio.md), [LinkedIn](https://www.linkedin.com/in/isidro-gomez-vargas/), [ResearchGate](https://www.researchgate.net/profile/Isidro_Gomez-Vargas2), [Adademia.edu](https://ipn.academia.edu/IsidroGómezVargas), [Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [CV en pdf](www.cv).
 
+**Contacto:** En esta web, la información de contacto está al pie de cada página. 
 ---------
