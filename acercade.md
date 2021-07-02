@@ -14,7 +14,7 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 
 Isidro trabaja con redes neuronales artificiales, inferencia bayesiana, aprendizaje automático y modelos cosmológicos de energía oscura. También participa en proyectos de escritura, tanto literarios (cuentos y ensayos) como en libros de texto de educación media superior. 
 
-***Enlaces:*** [Portafolio de proyectos](portafolio.md), [CV en pdf](www.cv).
+***Enlaces:*** [Portafolio de proyectos](portafolio.md), [descargar CV en pdf](https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0).
 
 ***Contacto:*** En este sitio web, la información de contacto está al pie de cada página. 
 

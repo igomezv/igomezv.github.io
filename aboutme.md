@@ -13,7 +13,9 @@ Isidro tries to walk through life as a chess horse. Physics, mathematics and lit
 
 Isidro is a physicist-mathematician, with master's degree and PhD in advanced technology. He writes short stories, essays, text books and Phyton code. He is currently a postdoc in machine learning applied to observational cosmology.
 
-***Links:*** [Portfolio](portfolio.md), [CV in pdf](www.cv).
+I works on artificial neural networks, Bayesian inference, machine learning and cosmological models of dark energy. He also participates in writing projects in Spanish, both creative writing (short stories and essays) and technical textbooks at the high school level.
+
+***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/jwozqjhoijk8aq0/CV_eng.pdf?dl=0).
 
 ***Contact:*** On this website, contact information is on each page at the bottom.
 
