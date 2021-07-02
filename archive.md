@@ -13,6 +13,6 @@ permalink: /archive/
 </p>
 -------
 - <a href="https://igomezv.github.io/tags/">Tag index (índice por etiquetas)</a>.
-- <a href="https://igomezv.github.io/archive_full/">Archive (archivo de escritos)</a>.
+- [Archive (archivo de escritos)](archive_full.html) 
 
 
