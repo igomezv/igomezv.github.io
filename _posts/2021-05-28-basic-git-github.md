@@ -4,7 +4,7 @@ title: Recetas Git/GitHub
 subtitle: [EN CONSTRUCCION]
 gh-repo: igomezv
 gh-badge: [follow]
-tags: [Git, GitHub, Español]
+tags: [Git, Español]
 comments: true
 ---
 
