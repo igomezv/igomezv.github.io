@@ -6,6 +6,7 @@ navbar-links:
     Menú en español:
       - Isidro: "acercade"
       - Portafolio: "portafolio"
+      - Posts: "archive"
       - Blog literario: "http://www.neorelativista.blogspot.com"
       - Reseñas de libros: "https://salalecturaubik.blogspot.com"
 
@@ -15,7 +16,7 @@ navbar-links:
 
 
     # GitHub: "https://github.com/igomezv"
-    Posts: "archive"
+    
 
 
 # - Learn markdown: "https://www.markdowntutorial.com/"
