@@ -19,10 +19,10 @@ Isidro is a physicist-mathematician, with master's degree and PhD in advanced te
 
 --------
 
-**Last 5 news**
+**News**
 
 - **28/06/2021**. Instructor in the [Machine Learning Basics mini-course](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks) given at the IV Mexican AstroCosmoStatistics School (MACS).
-- **12/06/2021**. Talk about neural networks in cosmology at the ICF-UNAM seminar.
 - **01/05/2021**. Start of postdoctoral stay at ICF-UNAM in [Dr. J A Vazquez's group](https://www.fis.unam.mx/~javazquez/index.html).
 - **01/04/2021**. Upload the *Cosmological Reconstructions with Artificial Neural Networks* preprint to [arXiv](https://arxiv.org/abs/2104.00595).
+- **15/03/2021**. Acceptance of our book Matemáticas 3, Travesías series, ed. Castillo, for free national distribution in public high schools. [Avaiable in CONALITEG repository](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697). 
 - **01/03/2021**. Publication of the paper [*An introduction to Markov Chain Monte Carlo*](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo) in the journal *Boletín de Estadística e Investigación Operativa*. 

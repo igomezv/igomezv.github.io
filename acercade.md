@@ -12,16 +12,18 @@ Isidro intenta caminar por la vida como caballo de ajedrez. Física, matemática
 
 Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. En la actualidad realiza un posdoctorado en aprendizaje automático aplicado a cosmología observacional. 
 
+Isidro trabaja con redes neuronales artificiales, inferencia bayesiana, aprendizaje automático y modelos cosmológicos de energía oscura. También participa en proyectos de escritura, tanto literarios (cuentos y ensayos) como en libros de texto de educación media superior. 
+
 **Enlaces:** [Portafolio de proyectos](portfolio.md), [CV en pdf](www.cv).
 
 **Contacto:** En este sitio web, la información de contacto está al pie de cada página. 
 
 ---------
 
-**Últimas 5 noticias**
+**Noticias**
 
 - **28/06/2021**. Instructor del curso [Machine Learning Basics](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks) como parte del evento IV Mexican AstroCosmoStatistics School (MACS).
-- **12/06/2021**. Charla de redes neuronales en la cosmologia en el seminario del ICF-UNAM.
 - **01/05/2021**. Inicio de estancia posdoctoral en el ICF-UNAM dentro del [grupo del Dr. J A Vazquez](https://www.fis.unam.mx/~javazquez/index.html).
 - **01/04/2021**. Subida al arXiv del preprint [*Cosmological Reconstructions with Artificial Neural Networks*](https://arxiv.org/abs/2104.00595).
+- **15/03/2021**. Aprobación de nuestro libro Matemáticas 3, serie Travesías, ed. Castillo, para su distribución gratuita a nivel nacional. [Disponible en el catálogo CONALITEG de la SEP](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697). 
 - **01/03/2021**. Publicación del artículo [*An introduction to Markov Chain Monte Carlo*](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo) en el *Boletín de Estadística e Investigación Operativa*. 
