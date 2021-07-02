@@ -13,7 +13,7 @@ navbar-links:
       - About me: "aboutme"
       - Portfolio: "portfolio"
 
-    - Posts: "posts"
+    - Posts: "archive"
 
     # GitHub: "https://github.com/igomezv"
     
