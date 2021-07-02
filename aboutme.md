@@ -19,7 +19,7 @@ title:
 
 ### Professional and contact info
 
-Isidro is a physicist-mathematician, with master's degree and PhD in advanced technology. He works on artificial neural networks, Bayesian inference, machine learning and cosmological models of dark energy. He also participates in writing projects in Spanish, both creative writing (short stories and essays) and technical textbooks at the high school level.
+Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology. 
 
 ***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/jwozqjhoijk8aq0/CV_eng.pdf?dl=0).
 
