@@ -15,7 +15,7 @@ navbar-links:
 
 
     # GitHub: "https://github.com/igomezv"
-    Archive: "archive"
+    Posts: "archive"
 
 
 # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -60,7 +60,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: https://orcid.org/0000-0002-6473-018X
- # google-scholar: https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es
+  google-scholar: https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
