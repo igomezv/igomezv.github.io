@@ -14,7 +14,7 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 
 **Enlaces:** [Portafolio de proyectos](portfolio.md), [CV en pdf](www.cv).
 
-**Contacto:** En esta web, la información de contacto está al pie de cada página. 
+**Contacto:** En este sitio web, la información de contacto está al pie de cada página. 
 
 ---------
 
