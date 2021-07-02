@@ -3,38 +3,12 @@ layout: page
 title: 
 ---
 
-Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son inferencia bayesiana, redes neuronales, machine learning y modelos cosmológicos de Energía Oscura.
-
-La información de contacto está al pie de cualquier página de este sitio web. También hay algunos *posts* sobre programación y ciencia. 
-
+Isidro intenta caminar por la vida como caballo de ajedrez. Física, matemáticas y literatura son sus directrices. A veces corre en algún parque para aligerar el sobrepeso de sensaciones. El jazz que se escapa de un saxofón, clarinete o trompeta le hace creer que su espíritu puede crecer. Algunas obsesiones y manías inofensivas le acompañan incluso cuando de beber cerveza se trata. Amigos, pareja y familia le son religión. La noche una musa constante. La palabra escrita es la prueba que le basta para saber que existe.
+						
 -------------------------------------------------------------
+
+Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python.
+
 **Información profesional:** [Portafolio de proyectos](portfolio.md), [LinkedIn](https://www.linkedin.com/in/isidro-gomez-vargas/), [ResearchGate](https://www.researchgate.net/profile/Isidro_Gomez-Vargas2), [Adademia.edu](https://ipn.academia.edu/IsidroGómezVargas), [Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [CV en pdf](www.cv).
 
 ---------
-
-####	Educación:
-
-- 	2021: Doctor en tecnología avanzada. CICATA-IPN (en colaboración con el ICF-UNAM).
-
-    [Tesis:](phdthesis.com) Redes neuronales artificiales en inferencia Bayesiana (aplicaciones cosmológicas).  Asesores: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez González.    
-
-	Repositorios relacionados: [SimpleMC](https://github.com/ja-vazquez/SimpleMC), [IntroMCMC](https://github.com/igomezv/IntroMCMC), [MCMC tools](https://github.com/igomezv/mcmcTools),  [Neural Nets Utilities](https://github.com/igomezv/neural_nets_utilities).
-
-- 	2017: Maestro en Tecnología Avanzada. CICATA-IPN.
-
-	[Tesis:](https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada) Desarrollo de una aplicación didáctica movil de Realidad Aumentada. 
-
-	Asesores: Dr. Ricardo García Salcedo y Dr. Daniel Sanchez Guzmán.
-
-	Repositorios relacionados: [RAsolid](https://github.com/igomezv/RAsolidsrev).
-        
--	2013: Licenciatura en física y matemáticas. ESFM-IPN.
-
-	[Tesis:](href=https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3) Seguimiento operacional de una recarga de combustible en un reactor nuclear BWR.  Asesor: Dr. Edmundo del Valle Gallegos.
-    
-
-- 	2017: Diplomado en Descubriendo el Conocimiento con Herramientas Big Data. CIC-IPN. Coordinador: Dr. Gilberto Martinez Luna
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg3OTk4ODhdfQ==
--->
