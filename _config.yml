@@ -6,7 +6,6 @@ navbar-links:
     Menú en español:
       - Info: "acercade"
       - Portafolio: "portafolio"
-      - Posts: "archive"
       - Blog literario: "http://www.neorelativista.blogspot.com"
       - Reseñas de libros: "https://salalecturaubik.blogspot.com"
 
@@ -14,6 +13,7 @@ navbar-links:
       - About me: "aboutme"
       - Portfolio: "portfolio"
 
+    - Posts: "posts"
 
     # GitHub: "https://github.com/igomezv"
     
