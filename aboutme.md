@@ -4,10 +4,7 @@ title:
 
 ---
 
- --------------------------
-### Content:
-  
-
+ 
  - [Professional and contact info](#professional-and-contact-info)
 
  - [About this website](#about-this-website)
