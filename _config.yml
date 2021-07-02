@@ -4,13 +4,13 @@ author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
     Menú en español:
-      - Acerca de: "acercade"
+      - Isidro: "acercade"
       - Portafolio: "portafolio"
       - Blog literario: "http://www.neorelativista.blogspot.com"
       - Reseñas de libros: "https://salalecturaubik.blogspot.com"
 
     English menu:
-      - About: "aboutme"
+      - About me: "aboutme"
       - Portfolio: "portfolio"
 
 
