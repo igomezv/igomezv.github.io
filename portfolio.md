@@ -21,9 +21,9 @@ title: Projects
 
 # In process
 
----
+-----
 
-## Neural networks in Bayesian inference
+### Neural networks in Bayesian inference
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
 
@@ -38,7 +38,7 @@ Links:
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 
-## Neural networks in cosmological data reconstructions
+### Neural networks in cosmological data reconstructions
 From observational data, neural networks are trained to generate synthetic data. We use feedforward neural networks and variational autoencoders.
 
 With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
@@ -47,7 +47,7 @@ With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 
 - Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
 
-## SimpleMC
+### SimpleMC
 Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, I helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
 
 Collaborating with Dr. JA Vazquez.
@@ -60,7 +60,7 @@ Links:
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
 
-## Textbooks
+### Textbooks
 
 I collaborate with editorial projects for upper secondary level physics and mathematics textbooks.
 
@@ -74,7 +74,7 @@ Related links:
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 
-## Data mining in medical data
+### Data mining in medical data
 In collaboration with Dr. Teodoro Rivera and Dr. Ricardo Garcia we analyze medical data from medical records with machine learning algorithms. In the near future, we will try with images as well. 
 
 Related links:
@@ -84,7 +84,7 @@ Related links:
 
 
 
-## Nested sampling
+### Nested sampling
 Project guided by Dr. Will Handley. The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
 -  <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">Link</a>
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
@@ -95,7 +95,7 @@ Project guided by Dr. Will Handley. The aim is to analyze the last set of sample
 
 ---
 
-## Augmented Reality 
+### Augmented Reality 
 Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
 
 In collaboration with:  Dr. Daniel Sanchez Guzman and Dr. Ricardo García Salcedo. 
@@ -108,7 +108,7 @@ Related links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
 
-## MOOC course
+### MOOC course
 Development of the MOOC course "Teacher training for the teaching of basic mathematics
 
 In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
@@ -119,7 +119,7 @@ Related links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
-## Nuclear reactor
+### Nuclear reactor
 Simulation of a BWR refueling with CASMO4 and Simulate3. 
 
 Project supervised by: Dr. Edmundo del Valle Gallegos.
@@ -129,7 +129,3 @@ Related links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/bwr.png){: .mx-auto.d-block :}
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjM2NzYxMF19
--->

@@ -20,7 +20,7 @@ title: Proyectos
 # En curso 
 
 ------------------------------------------
-## Redes neuronales en inferencia bayesiana
+### Redes neuronales en inferencia bayesiana
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
 
@@ -37,7 +37,7 @@ Publicaciones relacionadas:
 
 --------
 
-## Redes neuronales en reconstrucción de datos cosmológicos 
+### Redes neuronales en reconstrucción de datos cosmológicos 
 A partir de datos observacionales, se entrenan redes neuronales para generar datos sintéticos. Se utilizan perceptrones multicapa y autoencoders variacionales.
 
 Con Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
@@ -48,7 +48,7 @@ Con Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
 
 --------
 
-## SimpleMC
+### SimpleMC
 Código de estimación de parámetros cosmológicos desarrollado por el Dr. A. Slosar y Dr. JA Vazquez. En tiempos recientes, ayudé a incorporarle muestreo anidado, criterio de convergencia para Metropolis-Hastings y otras nuevas funcionalidades.
 
 Colaborando con Dr.  JA Vazquez.
@@ -61,7 +61,7 @@ Enlaces:
 
 --------
 
-## Escritura de libros de texto
+### Escritura de libros de texto
 
 Colaboro con proyectos editoriales de libros de texto de física y matemáticas nivel medio superior. 
 
@@ -76,7 +76,7 @@ Enlaces relacionados:
 
 --------
 
-## Data mining en datos médicos
+### Data mining en datos médicos
 En colaboración con el Dr. Teodoro Rivera y Dr. Ricardo García analizamos datos médicos de historiales clínicos con algoritmos de machine learning. En un futuro próximo, intentaremos con imágenes también. 
 Enlaces relacionados:
 - Data Mining applied to interventional cardiology procedures ([J. Phys. Conf. Ser.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)).
@@ -85,7 +85,7 @@ Enlaces relacionados:
 
 --------
 
-## Muestreo anidado
+### Muestreo anidado
 
 Proyecto guiado por el Dr. Will Handley. Se analizan los últimos puntos muestreados en un proceso de muestreo anidado, junto con su likelihood y prior mass.
 -  <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">Link</a>
@@ -97,7 +97,7 @@ Proyecto guiado por el Dr. Will Handley. Se analizan los últimos puntos muestre
 
 --------
 
-## App de Realidad Aumentada
+### App de Realidad Aumentada
 Exploración didáctica de la Realidad Aumentada. Desarrollo con Unity-3D, vuforia y C#.
 
 En colaboración con:  Dr. Daniel Sanchez Guzman y Dr. Ricardo García Salcedo. 
@@ -112,7 +112,7 @@ Enlaces relacionados:
 
 --------
 
-## Curso MOOC
+### Curso MOOC
 Desarrollo del curso MOOC "Formación docente para la enseñanza de matemáticas básicas"
 
 En colaboración con: UPEV, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo y Ricardo Medel Esquivel.
@@ -125,7 +125,7 @@ Enlaces relacionados:
 
 --------
 
-## Reactores nucleares
+### Reactores nucleares
 Simulación de una recarga de combustible en un reactor BWR con CASMO4 y Simulate3. 
 
 Proyecto supervisado por: Dr. Edmundo del Valle Gallegos.
@@ -135,7 +135,3 @@ Enlaces relacionados:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/bwr.png){: .mx-auto.d-block :}
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMTYzNzY5XX0=
--->
