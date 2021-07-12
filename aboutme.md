@@ -31,7 +31,7 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 
 This is a page to share my professional information and some writings about physics, math, programming and related topics (mainly in Spanish).
 
-Please contact me if you have any suggestions about the content of this page or if I can offer you my professional services (writing, teaching, physics or data analysis). I am also open to scientific collaborations. 
+Please contact me if you have any suggestions about the content of this page or if you are interested in my professional services (writing, teaching, physics or data analysis). I am also open to scientific collaborations. 
 
 --------------------
 
