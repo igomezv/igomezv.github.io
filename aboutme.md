@@ -18,7 +18,7 @@ title:
 
 ### About this website
 
-This is a page to share my professional information and some personal notes on physics, mathematics, programming and related topics, in case anyone finds them useful. 
+This is a page to share my professional information and some personal notes about physics, mathematics, programming and related topics, in case anyone finds them useful. 
 
 ----------------------------
 
