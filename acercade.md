@@ -2,16 +2,22 @@
 layout: page
 title: 
 ---
-
- - [Información profesional y de contacto](#información-profesional-y-contacto)
-
+ 
  - [Acerca de esta página web](#acerca-de-esta-página-web)
  
+ - [Información profesional y de contacto](#información-profesional-y-contacto)
+
  - [Semblanza de Isidro](#semblanza) 
  
  - [Noticias](#noticias)
 
- --------------------------
+---------
+
+### Acerca de esta página web
+
+Este sitio tiene como objetivo compartir mi información profesional y algunas notas personales sobre física, matemáticas, programación y temas relacionados por si a alguien más le pudieran ser de utilidad. 
+
+--------------------------
 
 ### Información profesional y contacto
 
@@ -20,12 +26,6 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 ***Enlaces:*** [Portafolio de proyectos](portafolio.md), [descargar CV en pdf](https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0).
 
 ***Contacto:*** En este sitio web, la información de contacto está al pie de cada página. 
-
----------
-
-### Acerca de esta página web
-
-Este sitio tiene como objetivo compartir mi información profesional y algunas notas personales sobre física, matemáticas, programación y temas relacionados por si a alguien más le pudieran ser de utilidad. 
 
 ---------------
 

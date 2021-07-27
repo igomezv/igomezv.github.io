@@ -4,16 +4,21 @@ title:
 
 ---
 
- 
- - [Professional and contact info](#professional-and-contact-info)
-
  - [About this website](#about-this-website)
  
+ - [Professional and contact info](#professional-and-contact-info)
+  
  - [Isidro's profile](#profile) 
  
  - [News](#news)
  
 
+
+--------
+
+### About this website
+
+This is a page to share my professional information and some personal notes on physics, mathematics, programming and related topics, in case anyone finds them useful. 
 
 ----------------------------
 
@@ -24,12 +29,6 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 ***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/jwozqjhoijk8aq0/CV_eng.pdf?dl=0).
 
 ***Contact:*** On this website, contact information is located at the bottom of each page.
-
---------
-
-### About this website
-
-This is a page to share my professional information and some personal notes on physics, mathematics, programming and related topics, in case anyone finds them useful. 
 
 --------------------
 
