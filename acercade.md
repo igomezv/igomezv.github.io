@@ -25,9 +25,7 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 
 ### Acerca de esta página web
 
-Este sitio tiene como objetivo compartir mi información profesional y algunos escritos sobre física, matemáticas, programación y temas relacionados. 
-
-Por favor, contáctame si tienes alguna sugerencia respecto al contenido de este espacio, o bien, si estás interesad@ en mis servicios profesionales (escritura, enseñanza, consultoria científica o análisis de datos). También estoy abierto a colaboraciones académicas. 
+Este sitio tiene como objetivo compartir mi información profesional y algunas notas personales sobre física, matemáticas, programación y temas relacionados por si a alguien más le pudieran ser de utilidad. 
 
 ---------------
 
