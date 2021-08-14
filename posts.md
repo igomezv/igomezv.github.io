@@ -7,7 +7,7 @@ The aim of this section is to share some notes on physics, mathematics, programm
 
 -----
 
-La intención de esta sección es compartir algunas notas sobre física, matemáticas, programación y temas relacionados. Las notas las he escrito para mi uso personal, como recordatorios o para como parte de algún estudio; no obstante, me iluiona pensar que a algún visitante remoto le puedar ser de utilidad.
+La intención de esta sección es compartir algunas notas sobre física, matemáticas, programación y temas relacionados. Las notas las he escrito para mi uso personal, como recordatorios o como parte de algún estudio; no obstante, me ilusiona pensar que a algún visitante remoto le puedan ser de utilidad.
 
 -----
 
