@@ -12,7 +12,7 @@ navbar-links:
       - About me: "aboutme"
       - Portfolio: "portfolio" 
 
-    Blog: "posts"
+    Posts: "posts"
 
 
 
