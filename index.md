@@ -3,7 +3,37 @@ layout: page
 title: Isidro GV
 subtitle: personal/academic/programming website
 ---
-                         
+   
+						
+ 							
+ 								
+									
+                                				
+						
+ 							
+ 								
+									
+                                				
+						
+ 							
+ 								
+									
+                                				
+						
+ 							
+ 								
+									
+                                				
+						
+ 							
+ 								
+									
+                                				
+						
+ 							
+ 								
+									
+                                				                      
  
 
  
@@ -26,9 +56,9 @@ subtitle: personal/academic/programming website
  
 
  
-
-
- 
- 
-
+									
+						
+ 							
+ 								
+									
                                 				
