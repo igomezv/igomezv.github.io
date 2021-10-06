@@ -6,7 +6,9 @@ navbar-links:
     Menú en español:
       - Info: "acercade"
       - Portafolio: "portafolio"
+      - CV: "acercade#información-profesional-y-contacto"
       - Blog literario: "http://www.neorelativista.blogspot.com"
+
 
     English menu:
       - About me: "aboutme"
