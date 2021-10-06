@@ -6,13 +6,14 @@ navbar-links:
     Menú en español:
       - Info: "acercade"
       - Portafolio: "portafolio"
-      - CV: "acercade#información-profesional-y-contacto"
+      - CV: "https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0"
       - Blog literario: "http://www.neorelativista.blogspot.com"
 
 
     English menu:
       - About me: "aboutme"
       - Portfolio: "portfolio" 
+      - CV: "https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0"
 
     Notas: "posts"
 
