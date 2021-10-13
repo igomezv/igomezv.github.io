@@ -3,11 +3,11 @@ layout: home
 title: Notas
 ---
 
-The aim of this section is to share some notes on physics, mathematics, programming and related topics, most of them in Spanish. These notes are for my personal use, but I hope they can be useful for some remote reader. 
+This section is a jumble of notes that I have written for my personal use, as reminders or as part of a study; however, I am excited to think that a remote reader may find it useful. 
 
 -----
 
-La intención de esta sección es compartir algunas notas sobre física, matemáticas, programación y temas relacionados. Las notas las he escrito para mi uso personal, como recordatorios o como parte de algún estudio; no obstante, me ilusiona pensar que a algún visitante remoto le puedan ser de utilidad.
+Esta sección es un revoltijo de notas que he escrito para mi uso personal, a manera de recordatorios o como parte de algún estudio; no obstante, me ilusiona pensar que a algún lector remoto le puedan ser de utilidad.
 
 -----
 
