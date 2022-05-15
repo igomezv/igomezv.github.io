@@ -19,7 +19,7 @@ Este sitio tiene como objetivo compartir mi información profesional y académic
 
 ***Enlaces:*** [Portafolio de proyectos](portafolio.md), [descargar CV en pdf](https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0).
 
-***Contacto:*** En este sitio web, la información de contacto está al pie de cada página. 
+***Contacto:*** [E-mail](igomezvargas@outlook.com). En este sitio web, la información de contacto está al pie de cada página. 
 
 --------------------------
 
