@@ -5,11 +5,11 @@ title:
  
  - [Acerca de esta página web](#acerca-de-esta-página-web)
  
- - [Información profesional y de contacto](#información-profesional-y-contacto)
+ - [Información profesional](#información-profesional)
 
  - [Noticias](#noticias)
  
-  - [Semblanza informal](#bonus:-semblanza-informal) 
+ - [Semblanza informal](#semblanza-informal) 
 
 ---------
 
@@ -42,7 +42,7 @@ Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada
 
 ---------------
 
-### BONUS: Semblanza informal
+### Semblanza informal
 
 Isidro intenta caminar por la vida como caballo de ajedrez. Física, matemáticas y literatura son sus directrices. A veces corre en algún parque para aligerar el sobrepeso de sensaciones. El jazz que se escapa de un saxofón, clarinete o trompeta le hace creer que su espíritu puede crecer. Algunas obsesiones y manías inofensivas le acompañan incluso cuando de beber cerveza se trata. Amigos, pareja y familia le son religión. La noche una musa constante. La palabra escrita es la prueba que le basta para saber que existe.
 						
