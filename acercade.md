@@ -5,7 +5,7 @@ title:
  
  - [Acerca de esta página web](#acerca-de-esta-página-web)
  
- - [Información profesional](#información-profesional)
+ - [Acerca de Isidro](#acerca-de-isidro)
 
  - [Noticias](#noticias)
  
@@ -24,7 +24,7 @@ En este sitio web, otra información de contacto está al pie de cada página.
 
 --------------------------
 
-### Información profesional
+### Acerca de Isidro
 
 Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son redes neuronales, inferencia bayesiana y modelos cosmológicos de energía oscura. En la actualidad realiza un posdoctorado en aprendizaje automático aplicado a cosmología observacional. 
 
