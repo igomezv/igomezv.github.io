@@ -26,12 +26,13 @@ En este sitio web, otra información de contacto está al pie de cada página.
 
 ### Acerca de Isidro
 
-Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son redes neuronales, inferencia bayesiana y modelos cosmológicos de energía oscura. En la actualidad realiza un posdoctorado en aprendizaje automático aplicado a cosmología observacional. 
+Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son redes neuronales, inferencia bayesiana y modelos cosmológicos de energía oscura. En la actualidad realiza un posdoctorado sobre aprendizaje automático aplicado a cosmología observacional en el ICF de la UNAM. 
 
 -------------------------------------------------------------
 
 ### Noticias
 
+- **25/05/2022** Titulación de mi estudiante Javier Montaño en la maestría en astrofísica de la Universidad Internacional de Valencia (VIU). Título de la tesis: Análisis cosmológico con SNeIa y redes neuronales.
 - **12/02/2022**. Publicación del artículo [*Observational Cosmology with Artificial Neural Networks*](https://www.mdpi.com/2218-1997/8/2/120) en la revista *Universe*.
 - **17/01/2022**. Inicio del curso semestral *Identificación, Control y Diseño de Sistemas (Deep Learning)* de la maestría en Modelación y Optimización de Procesos del CIMAT-Ags. Junto con la Dra. Lilí Guadarrama. 
 - **01/11/2021**. Inicio del proyecto de postdoctorado CONACYT *Métodos estadísticos y de aprendizaje automático en cosmología observacional*. Instituto de Ciencias Físicas de la UNAM. 

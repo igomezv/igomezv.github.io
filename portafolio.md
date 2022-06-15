@@ -20,6 +20,18 @@ title: Proyectos
 # En curso 
 
 ------------------------------------------
+### SimpleMC
+Código de estimación de parámetros cosmológicos desarrollado por el Dr. A. Slosar y Dr. JA Vazquez. En tiempos recientes, ayudé a incorporarle muestreo anidado, criterio de convergencia para Metropolis-Hastings y otras nuevas funcionalidades.
+
+Colaborando con Dr.  JA Vazquez.
+
+Enlaces:
+ - [Repositorio](hhttps://github.com/ja-vazquez/SimpleMC) de GitHub.
+ - [Documentación](https://igomezv.github.io/SimpleMC).
+
+![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
+
+--------
 ### Redes neuronales en inferencia bayesiana
 Intentamos acelerar el cálculo del la función de verosimilitud dentro de un proceso de inferencia bayesiana mediante redes neuronales. 
 La entrada la red neuronal es el punto muestreado en el espacio de parámetros, mientras que la salida esperada es la función de verosimilitud. 
@@ -48,18 +60,6 @@ Con Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez
 
 --------
 
-### SimpleMC
-Código de estimación de parámetros cosmológicos desarrollado por el Dr. A. Slosar y Dr. JA Vazquez. En tiempos recientes, ayudé a incorporarle muestreo anidado, criterio de convergencia para Metropolis-Hastings y otras nuevas funcionalidades.
-
-Colaborando con Dr.  JA Vazquez.
-
-Enlaces:
- - [Repositorio](hhttps://github.com/ja-vazquez/SimpleMC) de GitHub.
- - [Documentación](https://igomezv.github.io/SimpleMC).
-
-![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
-
---------
 
 ### Escritura de libros de texto
 

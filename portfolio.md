@@ -22,6 +22,17 @@ title: Projects
 # In process
 
 -----
+### SimpleMC
+Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, I helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
+
+Collaborating with Dr. JA Vazquez.
+
+Links:
+ - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
+ - [Docs](https://igomezv.github.io/SimpleMC).
+
+
+![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
 ### Neural networks in Bayesian inference
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
@@ -46,18 +57,6 @@ With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
 - Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
-
-### SimpleMC
-Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, I helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
-
-Collaborating with Dr. JA Vazquez.
-
-Links:
- - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
- - [Docs](https://igomezv.github.io/SimpleMC).
-
-
-![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
 
 ### Textbooks

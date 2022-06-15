@@ -30,13 +30,14 @@ This site is intended to share my professional and academic information. For col
 
 ### About Isidro
 
-Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology. 
+Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology at the[download CV in pdf](https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0). 
 
 
 --------------------
 
 ### News
 
+- **25/05/2022** Graduation of my student Javier Montaño in the master's degree in astrophysics at the International University of Valencia. Thesis title: Cosmological analysis with SNeIa and neural networks.
 - **12/02/2022**. Publication of the paper [*Observational cosmology with artificial neural networks*](https://www.mdpi.com/2218-1997/8/2/120) in the *Universe* journal.
 - **17/01/2022**. Start of the semester course *Identification, Control and Design of Systems (Deep Learning)* of the master's degree in Process Modeling and Optimization of CIMAT-Ags. Together with Dr. Lilí Guadarrama. 
 - **01/11/2021**. Start of the CONACYT postdoctoral project *Statistical and machine learning methods in observational cosmology*. Institute of Physical Sciences, UNAM. 
