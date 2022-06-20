@@ -7,7 +7,7 @@ title: Proyectos
 	- [SimpleMC](#simplemc)
 	- [Redes neuronales en inferencia Bayesiana](#redes-neuronales-en-inferencia-bayesiana)
 	- [Redes neuronales en reconstrucción de datos cosmológicos](#redes-neuronales-en-reconstrucción-de-datos-cosmológicos)
-	- [Escritura de libros de texto](#escritura-de-libros-de-texto-divulgación-y-material-didáctico)
+	- [Escritura de libros de texto, divulgación y material didáctico](#escritura-de-libros-de-texto-divulgación-y-material-didáctico)
 	- [Data mining en datos médicos](#data-mining-en-datos-médicos)
 	- [Algoritmo de muestreo anidado](#muestreo-anidado)
 
@@ -29,6 +29,7 @@ Enlaces:
 
  - [Repositorio](hhttps://github.com/ja-vazquez/SimpleMC) de GitHub.
  - [Documentación](https://igomezv.github.io/SimpleMC).
+ - [Mini-curso](https://github.com/igomezv/simplemc_workshop).
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
@@ -43,7 +44,7 @@ Proyectos relacionados:
 
 - Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
 - Observational Cosmology with Artificial Neural Networks ([Link](https://www.mdpi.com/2218-1997/8/2/120)).
-- Análisis cosmológico con supernovas y redes neuronales (tesis de maestría de Javer Montaño en la VIU).
+- Análisis cosmológico con supernovas y redes neuronales (tesis de maestría en astrofísica de Javer Montaño en la VIU).
 
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
@@ -72,14 +73,14 @@ Colaboro con proyectos editoriales de libros de texto de física y matemáticas 
 
 El libro Matemáticas 3, serie travesías, ediciones Castillo, ha sido aprobado por la SEP e incluido en el repositorio del CONALITEG.
 
-Colaborador: Ricardo Medel Esquivel.
+Colaborador: M.C. Ricardo Medel Esquivel.
 
 Enlaces relacionados del libro de Matemáticas:
 -  Comprar el libro **Matemáticas 3** en [Amazon](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224).
  -  Comprar el libro **Matemáticas 3** en librerias [El Sotáno](https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150).
  - Hojear libro en el catálogo del [CONALITEG](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697).
 
-Artículos de educación y divulgación:
+Artículos de educación:
 - An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
 - A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
 
@@ -110,15 +111,18 @@ Proyecto guiado por el Dr. Will Handley. Se analizan los últimos puntos muestre
 
 ----------
 
-### Análisis de imágenes con redes neuronales
+### Redes neuronales (en general)
 
-Uso de redes convolucionales para clasificar diversos tipos de imágenes. 
+Redes convolucionales para clasificar imágenes, optimización de redes neuronales, fundamentos de deep learning, etc. 
 
 Proyectos relacionados:
 
 - Análisis de imágenes de trucos de skateboarding (tesis de maestría de José Luis López López en CIMAT-Ags).
+- [Curso de Deep Learning](https://github.com/igomezv/DLCIMATAGS).
+- [Mini-curso de redes neuronales](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
-Colaboradores: Dra. Lili Guadarrama y Lic. José Luis López López. 
+Colaboradores: Dra. Lili Guadarrama y Dr. JA Vázquez.
+
 
 # Proyectos pasados
 

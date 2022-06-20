@@ -5,10 +5,10 @@ title: Projects
 ---
 
 - [Projects in process](#in-process):
-	- [Neural networks in Bayesian inference](#neural-networks-in-bayesian-inference)
-	- [Neural networks in cosmological data reconstructions](#neural-networks-in-cosmological-data-reconstructions)
 	- [SimpleMC](#simplemc)
-	- [Textbook writing](#textbooks)
+	- [Neural networks in Bayesian inference](#neural-networks-in-bayesian-inference)
+	- [Neural networks in cosmological data reconstructions](#neural-networks-in-cosmological-data-reconstructions)	
+	- [Writing of textbooks, outreach and didactic material.](#writing-of-textbooks-outreach-and-didactic-material)
 	- [Data mining in medical data](#data-mining-in-medical-data)
 	- [Nested sampling](#nested-sampling)
 
@@ -30,7 +30,7 @@ Collaborating with Dr. JA Vazquez.
 Links:
  - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
  - [Docs](https://igomezv.github.io/SimpleMC).
-
+ - [Mini-course](https://github.com/igomezv/simplemc_workshop)
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
@@ -44,7 +44,6 @@ Links:
 -  Neural network within a Bayesian inference framework ([_J. Phys. Conf. Ser._](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)).
 - Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, Mexican Society of Artificial Intelligence](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
 - Cosmología observacional con Redes Neuronales Artificiales ([UNAM Summer School of Physics ](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
-- An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
 
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
@@ -54,21 +53,29 @@ From observational data, neural networks are trained to generate synthetic data.
 
 With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
 
+Related projects:
+- Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
+- Cosmological analysis with supernovae and neural networks (Master's thesis in astrophysics of Javier Montaño at VIU).
+
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
-- Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
 
-
-### Textbooks
+### Writing of textbooks, outreach and didactic material
 
 I collaborate with editorial projects for upper secondary level physics and mathematics textbooks.
 
 The book Matemáticas 3 (spanish), travesías series, Castillo editions, has been approved by the SEP and included in the CONALITEG repository.
 
+Collaborator: MSc. Ricardo Medel Esquivel.
+
 Related links:
 -  Buy **Mathematics 3** in [Amazon](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224).
  -  Buy **Matemáticas 3** in [El Sotáno](https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150) bookstore.
  - [CONALITEG](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697) repository.
+ 
+Didactic papers:
+- An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
+- A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
 
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
@@ -79,9 +86,25 @@ In collaboration with Dr. Teodoro Rivera and Dr. Ricardo Garcia we analyze medic
 Related links:
 - Data Mining applied to interventional cardiology procedures ([J. Phys. Conf. Ser.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)).
 
+- Electrocardiogram analysis with Machine Learning (master thesis of Daniel Barrera at CICATA-Legaria, IPN).
+
 ![Figura](https://igomezv.github.io/assets/img/medicalCluster.png){: .mx-auto.d-block :}
 
+----------
 
+### Neural Networks (in general)
+
+Convolutional networks for image classification, neural network optimization, deep learning fundamentals, etc. 
+
+Related projects:
+
+- Image analysis of skateboarding tricks (master thesis of José Luis López López at CIMAT-Ags).
+- [Lecture of Deep Learning](https://github.com/igomezv/DLCIMATAGS).
+- [Mini-course about neural networks](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
+
+Collaborators: Dra. Lili Guadarrama.
+
+----------
 
 ### Nested sampling
 Project guided by Dr. Will Handley. The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
