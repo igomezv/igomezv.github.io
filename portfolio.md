@@ -6,8 +6,8 @@ title: Projects
 
 - [Projects in process](#in-process):
 	- [SimpleMC](#simplemc)
-	- [Neural networks in Bayesian inference](#neural-networks-in-bayesian-inference)
 	- [Neural networks in cosmological data reconstructions](#neural-networks-in-cosmological-data-reconstructions)	
+	- [Neural networks in Bayesian inference](#neural-networks-in-bayesian-inference)
 	- [Writing of textbooks, outreach and didactic material.](#writing-of-textbooks-outreach-and-didactic-material)
 	- [Data mining in medical data](#data-mining-in-medical-data)
 	- [Nested sampling](#nested-sampling)
@@ -34,6 +34,21 @@ Links:
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
+
+
+### Neural networks in cosmological data reconstructions
+From observational data, neural networks are trained to generate synthetic data. We use feedforward neural networks and variational autoencoders.
+
+With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
+
+Related projects:
+- Observational Cosmology with Artificial Neural Networks ([Universe Journal](https://www.mdpi.com/2218-1997/8/2/120)).
+- Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
+- Cosmological analysis with supernovae and neural networks (Master's thesis in astrophysics of Javier Montaño at VIU).
+
+![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
+
+
 ### Neural networks in Bayesian inference
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
@@ -47,17 +62,6 @@ Links:
 
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
-
-### Neural networks in cosmological data reconstructions
-From observational data, neural networks are trained to generate synthetic data. We use feedforward neural networks and variational autoencoders.
-
-With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
-
-Related projects:
-- Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
-- Cosmological analysis with supernovae and neural networks (Master's thesis in astrophysics of Javier Montaño at VIU).
-
-![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
 
 ### Writing of textbooks, outreach and didactic material

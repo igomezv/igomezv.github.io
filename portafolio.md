@@ -5,8 +5,8 @@ title: Proyectos
 ---
 - [Proyectos en curso](#en-curso):
 	- [SimpleMC](#simplemc)
-	- [Redes neuronales en inferencia Bayesiana](#redes-neuronales-en-inferencia-bayesiana)
 	- [Redes neuronales en reconstrucción de datos cosmológicos](#redes-neuronales-en-reconstrucción-de-datos-cosmológicos)
+	- [Redes neuronales en inferencia Bayesiana](#redes-neuronales-en-inferencia-bayesiana)
 	- [Escritura de libros de texto, divulgación y material didáctico](#escritura-de-libros-de-texto-divulgación-y-material-didáctico)
 	- [Data mining en datos médicos](#data-mining-en-datos-médicos)
 	- [Algoritmo de muestreo anidado](#muestreo-anidado)
@@ -43,7 +43,7 @@ Colaboradores: Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez.
 Proyectos relacionados: 
 
 - Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
-- Observational Cosmology with Artificial Neural Networks ([Link](https://www.mdpi.com/2218-1997/8/2/120)).
+- Observational Cosmology with Artificial Neural Networks ([Universe Journal](https://www.mdpi.com/2218-1997/8/2/120)).
 - Análisis cosmológico con supernovas y redes neuronales (tesis de maestría en astrofísica de Javer Montaño en la VIU).
 
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
