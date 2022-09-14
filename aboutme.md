@@ -3,8 +3,6 @@ layout: page
 title: 
 ---
 
-### About Isidro
-
 Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology at the ICF-UNAM.
 
 

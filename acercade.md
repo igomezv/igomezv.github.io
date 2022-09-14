@@ -3,8 +3,6 @@ layout: page
 title: 
 ---
 
-### Acerca de Isidro
-
 Isidro es físico-matemático, con maestría y doctorado en tecnología avanzada. Escribe cuentos, ensayos, libros de texto y código en Python. Los temas de investigación que le interesan son redes neuronales, inferencia bayesiana y modelos cosmológicos de energía oscura. En la actualidad realiza un posdoctorado sobre aprendizaje automático aplicado a cosmología observacional en el ICF de la UNAM. 
 
 Para colaboraciones, proyectos u oportunidades laborales, por favor [escríbeme un e-mail](mailto:igomezvargas@outlook.com). 
