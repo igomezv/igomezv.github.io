@@ -2,35 +2,16 @@
 layout: page
 title: 
 
----
-
- - [About this website](#about-this-website)
- 
- - [About Isidro](#about-me)
-  
- - [News](#news)
-  
- - [Informal profile](#informal-profile) 
-
- 
 
 
---------
-
-### About this website
+Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology at the ICF-UNAM.
 
 
-This site is intended to share my professional and academic information. For collaborations, projects or job opportunities, please contact me.  
+For collaborations, projects or job opportunities, please contact me.  
 
 ***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0).
 
 ***Contact:*** [Send me an e-mail](mailto:igomezvargas@outlook.com). On this website, contact information is located at the bottom of each page.
-
-----------------------------
-
-### About Isidro
-
-Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology at the[download CV in pdf](https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0). 
 
 
 --------------------
@@ -47,10 +28,5 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 - **15/03/2021**. Acceptance of our book *Matemáticas 3, Travesías series, ed. Castillo* for free national distribution in public high schools. [Avaiable in CONALITEG repository](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697). 
 - **01/03/2021**. Publication of the paper [*An introduction to Markov Chain Monte Carlo*](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo) in the journal *Boletín de Estadística e Investigación Operativa*. 
 
-------------------------------
-
-### Informal profile
-
-Isidro tries to walk through life as a chess horse. Physics, mathematics and literature are his guides. Sometimes he runs in a park to lighten the overweight of sensations. The jazz that escapes from a saxophone, clarinet or trumpet makes him believe that his spirit can grow. Some obsessions and harmless manias accompany him even while drinking beer. Friends, wife and family are his religion. The night is a constant muse. The written word is the proof that is enough for him to know that he exists.
 
 
