@@ -21,7 +21,7 @@ title: Research
 
 -----
 ### SimpleMC
-Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, I helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
+Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, Isidro helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
 
 Collaborating with Dr. JA Vazquez.
 
