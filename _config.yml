@@ -5,7 +5,9 @@ author: "Isidro Gómez-Vargas"
 navbar-links:
     Español:
       - Info: "acercade"
-      - Proyectos: "portafolio"
+      - Noticias: "acercade#noticias"
+      - Investigación: "portafolio"
+      - Educación/Divulgación: "divulgacion"
       - CV: "https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0"
       - Blog literario: "http://www.neorelativista.blogspot.com"
       - Notas: "posts"
@@ -13,7 +15,7 @@ navbar-links:
 
     English:
       - About me: "aboutme"
-      - Portfolio: "portfolio" 
+      - Research: "portfolio" 
       - CV: "https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0"
 
     

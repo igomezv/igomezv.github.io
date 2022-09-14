@@ -59,8 +59,7 @@ Colaboradores: Dr. Ricardo Garcia Salcedo y Dr. JA Vazquez.
 Proyectos relacionadas:
 
 - Neural network within a Bayesian inference framework ([_J. Phys. Conf. Ser._](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)).
-- Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, revista de divulgación de la Sociedad Mexicana de Inteligencia Artificial](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
-- Cosmología observacional con Redes Neuronales Artificiales ([Memorias de la Escuela de Verano de Física de la UNAM ](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
+
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 

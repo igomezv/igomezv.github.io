@@ -10,7 +10,7 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 
 For collaborations, projects or job opportunities, please [send me an e-mail](mailto:igomezvargas@outlook.com).  
 
-***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0).
+***Links:*** [Research projects](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0).
 
 --------------------
 
