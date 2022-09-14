@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isidro Gómez-Vargas
+title: I. Gómez-Vargas
 subtitle: Físico, escritor y científico de datos.
 ---
 
