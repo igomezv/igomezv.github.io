@@ -3,19 +3,20 @@ title: "Isidro GV"
 author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
-    Menú en español:
+    Español:
       - Info: "acercade"
       - Proyectos: "portafolio"
       - CV: "https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0"
       - Blog literario: "http://www.neorelativista.blogspot.com"
+      - Notas: "posts"
 
 
-    English menu:
+    English:
       - About me: "aboutme"
       - Portfolio: "portfolio" 
       - CV: "https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0"
 
-    Notas: "posts"
+    
 
 
 
@@ -56,7 +57,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telegram: yourname
-#  ORCID: https://orcid.org/0000-0002-6473-018X
+  ORCID: https://orcid.org/0000-0002-6473-018X
   google-scholar: citations?user=c9OLfMcAAAAJ&hl=es
 
 # If you want to show a link to an RSS in the footer, add the site description here.
