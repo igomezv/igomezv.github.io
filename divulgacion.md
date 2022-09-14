@@ -3,12 +3,13 @@ layout: page
 title: Education and Outreach
 ---
 
-I collaborate with editorial projects for upper secondary level physics and mathematics textbooks.
+I collaborate in editorial projects for high school physics and mathematics textbooks. I also participate in the dissemination of writing and in several didactic projects. In addition, I advise some undergraduate and graduate students. I 
 
 - [Matemáticas 3](#matemáticas-3)
 - [Artículos de educación y divulgación](#didactic-and-outreach-papers)
 - [Augmented Reality app](#augmented-reality)
 - [MOOC course of basic maths](#mooc-course)
+- [Students](#students)
 
 -----------------------------------------------------------
 
@@ -67,3 +68,13 @@ Related links:
 - [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
+
+--------
+
+## Students
+
+### Thesis supervision:
+
+
+
+
