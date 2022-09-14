@@ -1,18 +1,15 @@
 ---
 layout: page
 title: 
-
+---
 
 
 Isidro is a physicist-mathematician with a master's degree and PhD in advanced technology. He writes short stories, essays, textbooks and Python code. His research interests are neural networks, Bayesian inference and cosmological models of dark energy. He is currently a postdoc in machine learning applied to observational cosmology at the ICF-UNAM.
 
 
-For collaborations, projects or job opportunities, please contact me.  
+For collaborations, projects or job opportunities, please contact [Send me an e-mail](mailto:igomezvargas@outlook.com).  
 
 ***Links:*** [Portfolio](portfolio.md), [download CV in pdf](https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0).
-
-***Contact:*** [Send me an e-mail](mailto:igomezvargas@outlook.com). On this website, contact information is located at the bottom of each page.
-
 
 --------------------
 
