@@ -3,7 +3,7 @@ layout: page
 title: Education and Outreach
 ---
 
-I collaborate in editorial projects for high school physics and mathematics textbooks. I also participate in the dissemination of writing and in several didactic projects. In addition, I advise some undergraduate and graduate students. I 
+I collaborate in editorial projects for high school physics and mathematics textbooks. I also participate in the writing of outreach and educational papers, as well as in several didactic projects. In addition, I advise some undergraduate and graduate students. 
 
 - [Matemáticas 3](#matemáticas-3)
 - [Didactic and outreach papers](#didactic-and-outreach-papers)
