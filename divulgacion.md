@@ -88,7 +88,7 @@ Related links:
 	
  -  Javier Montaño, master in Astrophysics from the Valencia International University (2022, graduated).
  - Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-today).
- - José Luis López, master in Process Modeling and Optimization from CIMAT (2021- process).
+ - José Luis López, master in Process Modeling and Optimization from CIMAT (2021-today).
  - Francisco Tamayo, PhD in Educational Physics from CICATA-IPN (2022-today).
 	
 ### Advise:
