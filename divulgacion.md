@@ -9,6 +9,7 @@ I collaborate in editorial projects for high school physics and mathematics text
 - [Artículos de educación y divulgación](#didactic-and-outreach-papers)
 - [Augmented Reality app](#augmented-reality)
 - [MOOC course of basic maths](#mooc-course)
+- [Courses and workshops](#courses)
 - [Students](#students)
 
 -----------------------------------------------------------
@@ -70,10 +71,32 @@ Related links:
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
 --------
+## Courses
+
+- Course: Introduction to Deep Learning 2022. The Mathematics Research Center (CIMAT). Postgraduate. Co-teaching with Dra. Liliana Guadarrama Bustos. 60 hours. [Course material](https://github.com/igomezv/DLCIMATAGS). 
+
+- Workshop: Machine Learning Basics 2021. 3rd edition of Mexican Astro-Cosmo-Statistics School. University of Guanajuato. From June 28 to July 2, 4.5 hours.[Workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
+
+- Workshop on cosmology with SimpleMC 2020. Institute of Physical Sciences. UNAM.
+  15 hours. [Workshop material](https://github.com/igomezv/simplemc_workshop).
+
+--------
 
 ## Students
 
 ### Thesis supervision:
+	-  Javier Montaño, master in Astrophysics from the Valencia International University (2022, graduated).
+	- Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-today).
+	- José Luis López, master in Process Modeling and Optimization from CIMAT (2021- process).
+	- Francisco Tamayo, PhD in Educational Physics from CICATA-IPN (2022-today).
+	
+### Advise:
+As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students:
+	- Juan de Dios (1 paper in common).
+	- Joshua Briones (1 paper in common).
+	- Hilkar.
+
+
 
 
 
