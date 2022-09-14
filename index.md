@@ -1,10 +1,10 @@
 ---
 layout: page
 title: I. Gómez-Vargas
-subtitle: Físico, escritor y científico de datos.
+subtitle: Físico computacional y escritor
 ---
 
-<div align="center"><code>Pysicist, writer and data scientist. </code></div>
+<div align="center"><code>Computational physicist and writer. </code></div>
 
 ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} 							
  								
