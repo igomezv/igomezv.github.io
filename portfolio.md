@@ -63,26 +63,7 @@ Links:
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 
-
-### Writing of textbooks, outreach and didactic material
-
-I collaborate with editorial projects for upper secondary level physics and mathematics textbooks.
-
-The book Matemáticas 3 (spanish), travesías series, Castillo editions, has been approved by the SEP and included in the CONALITEG repository.
-
-Collaborator: MSc. Ricardo Medel Esquivel.
-
-Related links:
--  Buy **Mathematics 3** in [Amazon](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224).
- -  Buy **Matemáticas 3** in [El Sotáno](https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150) bookstore.
- - [CONALITEG](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697) repository.
- 
-Didactic papers:
-- An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
-- A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
-
-![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
-
+----------
 
 ### Data mining in medical data
 In collaboration with Dr. Teodoro Rivera and Dr. Ricardo Garcia we analyze medical data from medical records with machine learning algorithms. In the near future, we will try with images as well. 
@@ -134,16 +115,6 @@ Related links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
 
-### MOOC course
-Development of the MOOC course "Teacher training for the teaching of basic mathematics
-
-In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
-
-Related links:
-- MOOC <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">website</a>.
-- [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
 ### Nuclear reactor
 Simulation of a BWR refueling with CASMO4 and Simulate3. 
