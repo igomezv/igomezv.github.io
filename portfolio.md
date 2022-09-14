@@ -8,13 +8,11 @@ title: Projects
 	- [SimpleMC](#simplemc)
 	- [Neural networks in cosmological data reconstructions](#neural-networks-in-cosmological-data-reconstructions)	
 	- [Neural networks in Bayesian inference](#neural-networks-in-bayesian-inference)
-	- [Writing of textbooks, outreach and didactic material.](#writing-of-textbooks-outreach-and-didactic-material)
 	- [Data mining in medical data](#data-mining-in-medical-data)
 	- [Nested sampling](#nested-sampling)
 
 - [Past projects](#past-projects):
 	- [Augmented Reality app](#augmented-reality)
-	- [MOOC course of basic maths](#mooc-course)
 	- [BWR nuclear reactor](#nuclear-reactor)
 
 -----------------------------------------------------------
