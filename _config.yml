@@ -3,20 +3,12 @@ title: "Isidro GV"
 author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
-    Español:
-      - Info: "acercade"
-      - Noticias: "acercade#noticias"
-      - Investigación: "portafolio"
-      - Educación/Divulgación: "divulgacion"
-      - CV: "https://www.dropbox.com/s/r547bg8s309xulh/CV_esp.pdf?dl=0"
-      - Blog literario: "http://www.neorelativista.blogspot.com"
-      - Notas: "posts"
-
-
-    English:
       - About me: "aboutme"
       - Research: "portfolio" 
       - CV: "https://www.dropbox.com/s/04ohkaum3mt2di9/CV_eng.pdf?dl=0"
+      - News: "acercade#noticias"
+      - Education/Outreach: "divulgacion"
+      - Literature (Spanish): "http://www.neorelativista.blogspot.com"
 
     
 

@@ -8,7 +8,10 @@ subtitle: Sitio web personal
 
 [Versión en inglés](index.md)
 
-![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} 							
+![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :}
+
+
+<button name="button" onclick="acercade.md">Click me</button>  							
  								
 									
                                 				
