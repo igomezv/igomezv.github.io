@@ -98,7 +98,7 @@ Related links:
 	
 #### Advise
 
-As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students from the Facultad de Ciencias, UNAM:
+ As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students from the Facultad de Ciencias, UNAM:
 
  - Juan de Dios ([1 paper in common](https://www.mdpi.com/2218-1997/8/2/120)).
  - Joshua Briones ([1 paper in common](https://arxiv.org/abs/2209.02685)).
