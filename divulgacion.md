@@ -6,7 +6,7 @@ title: Education and Outreach
 I collaborate in editorial projects for high school physics and mathematics textbooks. I also participate in the dissemination of writing and in several didactic projects. In addition, I advise some undergraduate and graduate students. I 
 
 - [Matemáticas 3](#matemáticas-3)
-- [Artículos de educación y divulgación](#didactic-and-outreach-papers)
+- [Didactic and outreach papers](#didactic-and-outreach-papers)
 - [Augmented Reality app](#augmented-reality)
 - [MOOC course of basic maths](#mooc-course)
 - [Courses and workshops](#courses)
@@ -25,9 +25,12 @@ Related links:
 -  Buy **Matemáticas 3** in [Amazon](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224).
  - Buy **Matemáticas 3** in [El Sotáno](https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150) bookstore.
  - [CONALITEG](https://secundaria.conaliteg.gob.mx/seleccion/content/common/detaLibro/detalleLibro.jsf?idLibro=697) repository.
+ 
+ 
+![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
+
 
 --------
-
 
 ## Didactic and outreach papers
 
@@ -37,7 +40,6 @@ Related links:
 - Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, revista de divulgación de la Sociedad Mexicana de Inteligencia Artificial](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
 - Cosmología observacional con Redes Neuronales Artificiales ([Memorias de la Escuela de Verano de Física de la UNAM ](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
 
-![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 
 --------
