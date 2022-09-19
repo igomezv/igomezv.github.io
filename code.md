@@ -9,6 +9,7 @@ title: Code
 - [ANN optimized by genetic algorithms](#nnogada)	
 - [Cosmological Reconstructions](#crann)	
 - [Didactic Augmented Reality app](#rasolidsrev)
+
 -----------------------------------------------------------
 
 ### SimpleMC
