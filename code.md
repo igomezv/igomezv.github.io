@@ -8,6 +8,7 @@ title: Code
 - [SimpleMC](#simplemc)
 - [ANN optimized by genetic algorithms](#nnogada)	
 - [Cosmological Reconstructions](#crann)	
+- [Didactic Augmented Reality app](#rasolidsrev)
 -----------------------------------------------------------
 
 ### SimpleMC
@@ -38,7 +39,7 @@ Links:
 
 ----------------
 
-### Neural networks in cosmological data reconstructions
+### CRANN
 
 CRANN (Cosmological Reconstructions with Artificial Neural Networks). Python notebooks with model-independent reconstructions for cosmological functions. We will soon clean up the code and shape it into a library for ease of use. 
 
