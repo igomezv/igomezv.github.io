@@ -6,6 +6,7 @@ navbar-links:
    About me: "aboutme"
    Research: "portfolio" 
    Education/Outreach: "divulgacion"
+   Code: "code"
    News: "aboutme#news"
    Miscellaneous: "other"
 
