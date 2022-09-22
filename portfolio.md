@@ -92,8 +92,8 @@ Collaborators: Dra. Lili Guadarrama.
 ----------
 
 ### Nested sampling
-Project guided by Dr. Will Handley. The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
--  <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">Link</a>
+Project guided by [Dr. Will Handley](https://www.willhandley.co.uk/students/). The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
+
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
 
 ---
