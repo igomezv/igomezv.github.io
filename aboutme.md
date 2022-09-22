@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 
+title: About me
 ---
+
 
 ### Isidro Gómez Vargas
 
