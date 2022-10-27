@@ -15,7 +15,9 @@ You can visit his [Research projects](portfolio.md) or [**download CV**](https:/
 
 ### News
 
+- **24/10/2022** Acceptance for a second year of CONACYT national postdoctoral studies at ICF-UNAM.
 - **02/10/2022** Poster presentation in the LXV Congreso Nacional de Física, Zacatecas, México. Title of our work: [*Dark matter halo analysis on N-body cosmological simulations with deep learning*](https://www.academia.edu/89055693/Dark_matter_halo_analysis_on_N_body_cosmological_simulations_with_deep_learning).
+- **06/09/2022**. Upload of the *Neural Networks Optimized by Genetic Algorithms in Cosmology* preprint to [arXiv](https://arxiv.org/abs/2209.02685).
 - **23/08/2022** Poster presentation in the 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), in the Planetarium of Rio de Janeiro, Brazil. Title of our work: [*Neural networks in cosmological data analysis*](https://www.academia.edu/86371757/Neural_networks_in_cosmological_data_analysis).
 - **25/05/2022** Graduation of my student Javier Montaño in the master's degree in astrophysics at the International University of Valencia. Thesis title: Cosmological analysis with SNeIa and neural networks.
 - **12/02/2022**. Publication of the paper [*Observational cosmology with artificial neural networks*](https://www.mdpi.com/2218-1997/8/2/120) in the *Universe* journal.
