@@ -61,7 +61,7 @@ title: Research
 
 - 2018 (6 weeks). Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
 
-- 2017-2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and José Alberto Vázquez.
+- 2017-2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
 
 - 2016 (6 weeks). Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
 
