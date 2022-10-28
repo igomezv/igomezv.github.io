@@ -37,8 +37,8 @@ Related links:
 
 - An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
 - A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
-- Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, revista de divulgación de la Sociedad Mexicana de Inteligencia Artificial](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
-- Cosmología observacional con Redes Neuronales Artificiales ([Memorias de la Escuela de Verano de Física de la UNAM ](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
+- Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
+- Cosmología observacional con Redes Neuronales Artificiales ([Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
 
 
 --------
