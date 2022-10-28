@@ -17,6 +17,10 @@ title: Research
 	- [Augmented Reality app](#augmented-reality)
 	- [BWR nuclear reactor](#nuclear-reactor)
 
+- [Research positions](#research-positions)
+
+- [List of talks and posters](#list-of-talks-and-posters)
+
 
 
 -----------------------------------------------------------
@@ -160,6 +164,33 @@ Related links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/bwr.png){: .mx-auto.d-block :}
 
+---
+
+# Research positions
 
 ---
+
+- November 2021-today. Postdoctoral researcher at Institute of Physical Sciences, UNAM.
+  Project: *Statistical and machine learning methods in observational cosmology*.
+
+- May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
+  Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
+  
+- 2020 (8 months). Visiting PhD studentVisiting PhD student at Kavli Institute of Cosmology of the University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
+
+- 2019 (3 months). Visiting PhD student at Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
+
+- 2018 (6 weeks). Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
+
+- 2017-2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and José Alberto Vázquez.
+
+- 2016 (6 weeks). Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
+
+
+---
+
+# List of talks and posters
+
+---
+
 

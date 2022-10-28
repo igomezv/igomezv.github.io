@@ -4,7 +4,7 @@ author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
    About me: "aboutme"
-   Research: "portfolio" 
+   Research: "research" 
    Teaching/Outreach: "teaching"
    Code: "code"
    Miscellaneous: "other"
