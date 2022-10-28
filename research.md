@@ -125,9 +125,9 @@ Related projects:
 Collaborators: Dra. Lili Guadarrama.
 
 ----------
-## Bayesian inference
+### Bayesian inference
 
-### SimpleMC
+#### SimpleMC
 Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, Isidro helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
 
 Collaborating with Dr. JA Vazquez.
@@ -140,7 +140,7 @@ Links:
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
 
-### Nested sampling
+#### Nested sampling
 Project guided by [Dr. Will Handley](https://www.willhandley.co.uk/students/). The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
