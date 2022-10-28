@@ -62,7 +62,7 @@ Related links:
 ---------
 
 ## MOOC course
-Development of the MOOC course "Teacher training for the teaching of basic mathematics
+Development of the MOOC course "Teacher training for the teaching of basic mathematics"
 
 In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
 
@@ -81,26 +81,27 @@ Related links:
 
 - Workshop on cosmology with SimpleMC 2020. Institute of Physical Sciences, UNAM. 15 hours. [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
 
+- High school physics and mathematics teacher (2013-2014). In CECyT-8 of the Instituto Politécnico Nacional and other institutions. Courses of Algebra, Physics, Differential equations, etc.
+
 --------
 
 ## Students
 
 #### Thesis supervision
 	
- -  Javier Montaño, master in Astrophysics from the Valencia International University (2022, graduated).
- - Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-today).
- - José Luis López, master in Process Modeling and Optimization from CIMAT (2021-today).
- - Francisco Tamayo, PhD in Educational Physics from CICATA-IPN (2022-today).
-	
-	
+ -  Javier Montaño, master in Astrophysics from the Valencia International University (2022, graduated). Thesis title: "Cosmological analysis with SNeIa and neural networks".
+ - Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-today). Thesis title: "Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"
+ - José Luis López, master in Process Modeling and Optimization from CIMAT (2021-today). Thesis title: "Prediction of skateboard tricks in images using neural networks".
+ - Francisco Tamayo, PhD in Educational Physics from CICATA-IPN (2022-today). Thesis title: "Data mining to analyze the academic performance of first year chemical engineering students in physics".
+		
 	
 	
 #### Advise
 
  As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students from the Facultad de Ciencias, UNAM:
 
- - Juan de Dios ([1 paper in common](https://www.mdpi.com/2218-1997/8/2/120)).
- - Joshua Briones ([1 paper in common](https://arxiv.org/abs/2209.02685)).
+ - Juan de Dios Rojas Olvera (2021-2022, [1 paper in common](https://www.mdpi.com/2218-1997/8/2/120)).
+ - Joshua Briones (2022, [1 paper in common](https://arxiv.org/abs/2209.02685)).
 
 
 
