@@ -5,16 +5,16 @@ title: Education and Outreach
 
 Isidro collaborates in editorial projects for high school physics and mathematics textbooks. He also participate in the writing of outreach and educational papers, as well as in several didactic projects. In addition, Isidro advises some undergraduate and graduate students. 
 
-- [Matemáticas 3](#matemáticas-3)
+- [Text Books](#text-books)
 - [Didactic and outreach papers](#didactic-and-outreach-papers)
-- [Augmented Reality app](#augmented-reality)
-- [MOOC course of basic maths](#mooc-course)
 - [Courses and workshops](#courses)
 - [Students](#students)
+- [Digital didactic material](#digital-didactic-material)
 
 -----------------------------------------------------------
 
-## Matemáticas 3
+## Text Books
+### Matemáticas 3
 
 
 Matemáticas 3, travesías series, Castillo editions, is a mathematics book for highschool. It has been approved by the SEP and included in the CONALITEG repository. 
@@ -40,37 +40,6 @@ Related links:
 - Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, revista de divulgación de la Sociedad Mexicana de Inteligencia Artificial](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
 - Cosmología observacional con Redes Neuronales Artificiales ([Memorias de la Escuela de Verano de Física de la UNAM ](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
 
-
-
---------
-
-
-## Augmented Reality app
-
-Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
-
-In collaboration with:  Dr. Daniel Sanchez Guzman and Dr. Ricardo García Salcedo. 
-
-Related links:
-- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>.
-- <a href="https://github.com/igomezv/RAsolidsrev">GitHub</a> repository.
-- Paper in <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D"> Latin American Journal of Physics Education</a>.
-- <a href="https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada">Essay</a> in a young writers book.
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
-
----------
-
-## MOOC course
-Development of the MOOC course "Teacher training for the teaching of basic mathematics"
-
-In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
-
-Related links:
-- MOOC <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">website</a>.
-- [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
 --------
 ## Courses
@@ -105,6 +74,35 @@ Related links:
 
 
 
+---------
 
+## Digital didactic material
+
+### Augmented Reality app
+
+Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
+
+In collaboration with:  Dr. Daniel Sanchez Guzman and Dr. Ricardo García Salcedo. 
+
+Related links:
+- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>.
+- <a href="https://github.com/igomezv/RAsolidsrev">GitHub</a> repository.
+- Paper in <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D"> Latin American Journal of Physics Education</a>.
+- <a href="https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada">Essay</a> in a young writers book.
+
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
+
+
+
+### MOOC course
+Development of the MOOC course "Teacher training for the teaching of basic mathematics"
+
+In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
+
+Related links:
+- MOOC <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">website</a>.
+- [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
+
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
 
