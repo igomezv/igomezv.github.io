@@ -1,7 +1,11 @@
 ---
 layout: page
-title: I. Gómez-Vargas
 ---
+
+<p align="center", style="font-size: 26px">
+
+ <b>Isidro Gómez-Vargas</b>
+</p>
 
 <div align="center"><code>Computational physicist and writer. </code></div>
 
