@@ -30,6 +30,16 @@ Related links:
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 
+#### Others
+
+- Gómez Vargas, I. (2018) Didactic guide “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
+    
+- Corona Tinoco, M. \& Gómez Vargas, I. (2018) Didactic guide “Ciencias 3. Química. Secundaria Savia. Guía Esencial para aprender a pensar", 1st ed. Editorial SM. ISBN: 978-607-24-2958-1.
+    
+- Gómez Vargas, I. (2018) Matemáticas II. Guide for teachers. Serie Infinita.Ediciones Castillo. ISBN: 978-607-540-464-6.
+    
+- Gómez Vargas, I. (2018) Matemáticas I. Guide for teachers. Serie Infinita. Ediciones Castillo. ISBN: 978-607-540-361-8.
+
 --------
 
 ## Didactic and outreach papers
