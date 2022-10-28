@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education and Outreach
+title: Teaching and Outreach
 ---
 
 Isidro collaborates in editorial projects for high school physics and mathematics textbooks. He also participate in the writing of outreach and educational papers, as well as in several didactic projects. In addition, Isidro advises some undergraduate and graduate students. 
