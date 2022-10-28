@@ -11,11 +11,13 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 
 You can visit his [Research projects](portfolio.md) or [**download CV**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0). For collaborations, projects or job opportunities, please [**send an e-mail**](mailto:igomezvargas@outlook.com). 
 
+
+
 --------------------
 
 ### News
 
-- **24/10/2022** Acceptance for a second year of CONACYT national postdoctoral studies at ICF-UNAM.
+- **24/10/2022** Acceptance for a second year of CONACYT national postdoctoral research stay at ICF-UNAM.
 - **02/10/2022** Poster presentation in the LXV Congreso Nacional de Física, Zacatecas, México. Title of our work: [*Dark matter halo analysis on N-body cosmological simulations with deep learning*](https://www.academia.edu/89055693/Dark_matter_halo_analysis_on_N_body_cosmological_simulations_with_deep_learning).
 - **06/09/2022**. Upload of the *Neural Networks Optimized by Genetic Algorithms in Cosmology* preprint to [arXiv](https://arxiv.org/abs/2209.02685).
 - **23/08/2022** Poster presentation in the 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), in the Planetarium of Rio de Janeiro, Brazil. Title of our work: [*Neural networks in cosmological data analysis*](https://www.academia.edu/86371757/Neural_networks_in_cosmological_data_analysis).
