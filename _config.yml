@@ -5,7 +5,7 @@ author: "Isidro Gómez-Vargas"
 navbar-links:
    About me: "aboutme"
    Research: "portfolio" 
-   Education/Outreach: "divulgacion"
+   Teaching/Outreach: "teaching"
    Code: "code"
    Miscellaneous: "other"
 
@@ -39,7 +39,7 @@ title-img: "/assets/img/avatar--home.jpeg"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "igomez@icf.unam.mx"
+  email: "igomezvargas@icf.unam.mx"
 #  facebook: deanattali
   github: igomezv
   twitter: neorelativista
