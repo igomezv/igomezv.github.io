@@ -2,9 +2,8 @@
 layout: page
 ---
 
-<p align="center", style="font-size: 26px">
-
- <b>Isidro Gómez-Vargas</b>
+<p align="center">
+	<h1>Isidro Gómez-Vargas</h1>
 </p>
 
 <div align="center"><code>Computational physicist and writer. </code></div>
