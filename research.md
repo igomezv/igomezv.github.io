@@ -6,21 +6,9 @@ title: Research
 
 - [List of papers](#list-of-papers).
 
-- [Projects in process](#in-process):
-	- [SimpleMC](#simplemc)
-	- [Neural networks in cosmological data reconstructions](#neural-networks-in-cosmological-data-reconstructions)	
-	- [Neural networks in Bayesian inference](#neural-networks-in-bayesian-inference)
-	- [Data mining in medical data](#data-mining-in-medical-data)
-	- [Nested sampling](#nested-sampling)
-
-- [Past projects](#past-projects):
-	- [Augmented Reality app](#augmented-reality)
-	- [BWR nuclear reactor](#nuclear-reactor)
+- [Description of projects](#description-of-projects):
 
 - [Research positions](#research-positions)
-
-- [List of talks and posters](#list-of-talks-and-posters)
-
 
 
 -----------------------------------------------------------
@@ -55,26 +43,22 @@ title: Research
 
 ----------
 
+# Description of projects
+
+- [Current projects](#current-projects)
+	- [Neural networks](#neural-networks)
+	- [Bayesian inference](#bayesian-inference)
+	- [Data mining](#data-mining-in-medical-data)
+
+- [Past projects](#past-projects).
+	
+
+## Current projects
 
 
-# In process
+### Neural networks 
 
------
-### SimpleMC
-Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, Isidro helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
-
-Collaborating with Dr. JA Vazquez.
-
-Links:
- - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
- - [Docs](https://igomezv.github.io/SimpleMC).
- - [Mini-course](https://github.com/igomezv/simplemc_workshop)
-
-![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
-
-
-
-### Neural networks in cosmological data reconstructions
+#### ANN in cosmological data reconstructions
 From observational data, neural networks are trained to generate synthetic data. We use feedforward neural networks and variational autoencoders.
 
 With:  Dr. Ricardo García Salcedo and Dr. JA Vazquez.
@@ -87,7 +71,7 @@ Related projects:
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
 
-### Neural networks in Bayesian inference
+#### Neural networks in Bayesian inference
 We try to speed up the computation of the likelihood function within a Bayesian inference process by means of neural networks. 
 The input neural network is the sampled point in the parameter space, while the expected output is the likelihood function. 
 
@@ -101,21 +85,8 @@ Links:
 
 ![Figura](https://igomezv.github.io/assets/img/bambiuam.png){: .mx-auto.d-block :}
 
-----------
 
-### Data mining in medical data
-In collaboration with Dr. Teodoro Rivera and Dr. Ricardo Garcia we analyze medical data from medical records with machine learning algorithms. In the near future, we will try with images as well. 
-
-Related links:
-- Data Mining applied to interventional cardiology procedures ([J. Phys. Conf. Ser.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)).
-
-- Electrocardiogram analysis with Machine Learning (master thesis of Daniel Barrera at CICATA-Legaria, IPN).
-
-![Figura](https://igomezv.github.io/assets/img/medicalCluster.png){: .mx-auto.d-block :}
-
-----------
-
-### Neural Networks (in general)
+#### Neural Networks (in general)
 
 Convolutional networks for image classification, neural network optimization, deep learning fundamentals, etc. 
 
@@ -128,17 +99,42 @@ Related projects:
 Collaborators: Dra. Lili Guadarrama.
 
 ----------
+## Bayesian inference
+
+### SimpleMC
+Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. In recent times, Isidro helped incorporate nested sampling, convergence criteria for Metropolis-Hastings and other new functionalities.
+
+Collaborating with Dr. JA Vazquez.
+
+Links:
+ - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
+ - [Docs](https://igomezv.github.io/SimpleMC).
+ - [Mini-course](https://github.com/igomezv/simplemc_workshop)
+
+![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
+
 
 ### Nested sampling
 Project guided by [Dr. Will Handley](https://www.willhandley.co.uk/students/). The aim is to analyze the last set of samples from the nested sampling, their prior mass and likelihood.
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nested.png){: .mx-auto.d-block :}
 
----
+------
 
-# Past projects
+### Data mining 
+In collaboration with Dr. Teodoro Rivera and Dr. Ricardo Garcia we analyze medical data from medical records with machine learning algorithms. In the near future, we will try with images as well. 
 
----
+Related links:
+- Data Mining applied to interventional cardiology procedures ([J. Phys. Conf. Ser.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)).
+
+- Electrocardiogram analysis with Machine Learning (master thesis of Daniel Barrera at CICATA-Legaria, IPN).
+
+![Figura](https://igomezv.github.io/assets/img/medicalCluster.png){: .mx-auto.d-block :}
+
+----------
+
+
+## Past projects
 
 ### Augmented Reality 
 Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
@@ -187,10 +183,5 @@ Related links:
 - 2016 (6 weeks). Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
 
 
----
-
-# List of talks and posters
-
----
 
 
