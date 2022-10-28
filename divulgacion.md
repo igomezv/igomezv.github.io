@@ -14,7 +14,7 @@ Isidro collaborates in editorial projects for high school physics and mathematic
 -----------------------------------------------------------
 
 ## Text Books
-### Matemáticas 3
+#### Matemáticas 3
 
 
 Matemáticas 3, travesías series, Castillo editions, is a mathematics book for highschool. It has been approved by the SEP and included in the CONALITEG repository. 
@@ -78,7 +78,7 @@ Related links:
 
 ## Digital didactic material
 
-### Augmented Reality app
+#### Augmented Reality app
 
 Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
 
@@ -94,7 +94,7 @@ Related links:
 
 
 
-### MOOC course
+#### MOOC course
 Development of the MOOC course "Teacher training for the teaching of basic mathematics"
 
 In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
