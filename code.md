@@ -6,9 +6,9 @@ title: Code
 
 - [GitHub with several code repositories](https://github.com/igomezv)
 - [SimpleMC](#simplemc)
-- [ANN optimized by genetic algorithms](#nnogada)	
-- [Cosmological Reconstructions](#crann)	
-- [Didactic Augmented Reality app](#rasolidsrev)
+- [nnogada](#nnogada)	
+- [crann](#crann)	
+- [RAsolidsrev](#rasolidsrev)
 
 -----------------------------------------------------------
 
@@ -27,9 +27,9 @@ Links:
 
 ----------------
 
-### NNOGADA
+### nnogada
 
-Neural Networks Optimized by Genetic Algorithms in Data Analysis (NNOGADA).
+Neural Networks Optimized by Genetic Algorithms in Data Analysis (nnogada).
 
 Links:
 
@@ -40,7 +40,7 @@ Links:
 
 ----------------
 
-### CRANN
+### crann
 
 CRANN (Cosmological Reconstructions with Artificial Neural Networks). Python notebooks with model-independent reconstructions for cosmological functions. We will soon clean up the code and shape it into a library for ease of use. 
 
