@@ -19,7 +19,7 @@ title: Research
 
 - [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2022). Neural Networks Optimized by Genetic Algorithms in Cosmology. arXiv preprint arXiv:2209.02685.](https://arxiv.org/abs/2209.02685)
 
-- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2021). Cosmological reconstructions with artificial neural networks. arXiv preprint arXiv:2104.00595.](https://arxiv.org/abs/2104.00595)
+- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2022). Cosmological reconstructions with artificial neural networks. arXiv preprint arXiv:2104.00595.](https://arxiv.org/abs/2104.00595)
 
 - [Rojas Olvera, J. de Dios , Gómez-Vargas, I., & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
