@@ -4,14 +4,39 @@ title: Research
 
 ---
 
-- [List of papers](#list-of-papers).
-
 - [Research positions](#research-positions).
+
+- [List of papers](#list-of-papers).
 
 - [Description of projects](#description-of-projects).
 
 
 -----------------------------------------------------------
+
+
+# Research positions
+
+---
+
+- **Current**. November 2021-today. Postdoctoral researcher at Institute of Physical Sciences, UNAM.
+  Project: *Statistical and machine learning methods in observational cosmology*.
+
+- May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
+  Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
+  
+- 2020 (8 months). Visiting PhD studentVisiting PhD student at Kavli Institute of Cosmology of the University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
+
+- 2019 (3 months). Visiting PhD student at Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
+
+- 2018 (6 weeks). Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
+
+- 2017-2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
+
+- 2016 (6 weeks). Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
+
+
+---
+
 
 # List of papers
 
@@ -41,29 +66,6 @@ title: Research
 
 - [Gómez Vargas, I. G., Esquivel, R. M., & Salcedo, R. G. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
 
-
-
----
-
-# Research positions
-
----
-
-- November 2021-today. Postdoctoral researcher at Institute of Physical Sciences, UNAM.
-  Project: *Statistical and machine learning methods in observational cosmology*.
-
-- May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
-  Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
-  
-- 2020 (8 months). Visiting PhD studentVisiting PhD student at Kavli Institute of Cosmology of the University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
-
-- 2019 (3 months). Visiting PhD student at Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
-
-- 2018 (6 weeks). Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
-
-- 2017-2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
-
-- 2016 (6 weeks). Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
 
 
 -----
