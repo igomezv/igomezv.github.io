@@ -12,6 +12,7 @@ title: Teaching and Outreach
 -----------------------------------------------------------
 
 ## Text Books
+----------
 #### Matemáticas 3
 
 
@@ -41,6 +42,7 @@ Related links:
 --------
 
 ## Didactic and outreach papers
+----------
 
 
 - An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
@@ -51,6 +53,7 @@ Related links:
 
 --------
 ## Courses
+----------
 
 - Course: Introduction to Deep Learning 2022. The Mathematics Research Center (CIMAT). Postgraduate. Co-teaching with Dra. Liliana Guadarrama Bustos. 60 hours. [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
@@ -63,6 +66,7 @@ Related links:
 --------
 
 ## Students
+----------
 
 #### Thesis supervision
 	
@@ -85,6 +89,7 @@ Related links:
 ---------
 
 ## Digital didactic material
+----------
 
 #### Augmented Reality app
 
