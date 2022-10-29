@@ -18,8 +18,7 @@ title: Research
 
 ---
 
-- **Current**. November 2021-today. Postdoctoral researcher at Institute of Physical Sciences, UNAM.
-  Project: *Statistical and machine learning methods in observational cosmology*.
+- [**Current**]. November 2021-today. Postdoctoral researcher at Institute of Physical Sciences, UNAM. Project: *Statistical and machine learning methods in observational cosmology*.
 
 - May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
