@@ -5,9 +5,7 @@ title: Research
 ---
 
 - [Research positions](#research-positions).
-
 - [List of papers](#list-of-papers).
-
 - [Description of projects](#description-of-projects).
 
 
