@@ -23,15 +23,15 @@ title: Research
 - May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
   
-- 2020 (8 months). Visiting PhD student. Kavli Institute of Cosmology, University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
+- March-October 2020. Visiting PhD student. Kavli Institute of Cosmology, University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
 
-- 2019 (3 months). Visiting PhD student. Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
+- August-October 2019. Visiting PhD student. Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
 
-- 2018 (6 weeks). Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
+- September-October 2018. Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
 
-- 2017-2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
+- January 2017- December 2020. PhD research student. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
 
-- 2016 (6 weeks). Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
+- April-May 2016. Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
 
 
 ---
