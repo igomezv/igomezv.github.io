@@ -18,7 +18,7 @@ title: Research
 
 ---
 
-- [**Current**]. November 2021-today. Postdoctoral researcher at Institute of Physical Sciences, UNAM. Project: *Statistical and machine learning methods in observational cosmology*.
+- [**Current**]. Postdoctoral researcher at Institute of Physical Sciences, UNAM. Project: *Statistical and machine learning methods in observational cosmology* (November 2021-today). Member of the SMF, Mexican Society of Physics, since 2022. 
 
 - May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
