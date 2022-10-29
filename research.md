@@ -23,9 +23,9 @@ title: Research
 - May-October 2021: Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
   
-- 2020 (8 months). Visiting PhD studentVisiting PhD student at Kavli Institute of Cosmology of the University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
+- 2020 (8 months). Visiting PhD student. Kavli Institute of Cosmology of the University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
 
-- 2019 (3 months). Visiting PhD student at Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
+- 2019 (3 months). Visiting PhD student. Institute of Physical Sciences, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
 
 - 2018 (6 weeks). Visiting PhD student. Institute of Physics and Mathematics, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
 
