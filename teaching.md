@@ -33,11 +33,13 @@ Related links:
 
 - Gómez Vargas, I. (2018) Didactic guide “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
     
-- Corona Tinoco, M. \& Gómez Vargas, I. (2018) Didactic guide “Ciencias 3. Química. Secundaria Savia. Guía Esencial para aprender a pensar", 1st ed. Editorial SM. ISBN: 978-607-24-2958-1.
+- Corona Tinoco, M. & Gómez Vargas, I. (2018) Didactic guide “Ciencias 3. Química. Secundaria Savia. Guía Esencial para aprender a pensar", 1st ed. Editorial SM. ISBN: 978-607-24-2958-1.
     
 - Gómez Vargas, I. (2018) Matemáticas II. Guide for teachers. Serie Infinita.Ediciones Castillo. ISBN: 978-607-540-464-6.
     
 - Gómez Vargas, I. (2018) Matemáticas I. Guide for teachers. Serie Infinita. Ediciones Castillo. ISBN: 978-607-540-361-8.
+
+- [ISBN list, INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&id_autor=276376).
 
 --------
 
@@ -45,9 +47,9 @@ Related links:
 ----------
 
 
-- An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.academia.edu/45636190/An_introduction_to_Markov_Chain_Monte_Carlo)).
+- An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)).
 - A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
-- Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.academia.edu/42113814/Una_Aplicaci%C3%B3n_de_las_Redes_Neuronales_Artificiales_en_la_Cosmolog%C3%ADa)).
+- Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia)).
 - Cosmología observacional con Redes Neuronales Artificiales ([Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
 
 
@@ -72,7 +74,7 @@ Related links:
 	
  -  Javier Montaño, master in Astrophysics from the Valencia International University (2022, graduated). Thesis title: "Cosmological analysis with SNeIa and neural networks". Co-supervised with Ricardo García Salcedo.
  - Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-today). Thesis title: "Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms". Co-supervised with Ricardo García Salcedo.
- - José Luis López, master in Process Modeling and Optimization from CIMAT (2021-today). Thesis title: "Prediction of skateboard tricks in images using neural networks". Co-supervised with Dra. Lilí Guadarrama.
+ - José Luis López López, master in Process Modeling and Optimization from CIMAT (2021-today). Thesis title: "Prediction of skateboard tricks in images using neural networks". Co-supervised with Dra. Lilí Guadarrama.
  - Francisco Tamayo, PhD in Educational Physics from CICATA-IPN (2022-today). Thesis title: "Data mining to analyze the academic performance of first year chemical engineering students in physics". Co-supervised with Ricardo García Salcedo.
 		
 	
@@ -82,7 +84,8 @@ Related links:
  As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students from the Facultad de Ciencias, UNAM:
 
  - Juan de Dios Rojas Olvera (2021-2022, [1 paper in common](https://www.mdpi.com/2218-1997/8/2/120)).
- - Joshua Briones (2022, [1 paper in common](https://arxiv.org/abs/2209.02685)).
+ - Joshua Briones Andrade (2022, [1 paper in common](https://arxiv.org/abs/2209.02685)).
+ - Hilkar Val Soberanes (2022-today).
 
 
 

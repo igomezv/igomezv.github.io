@@ -16,7 +16,7 @@ title: Research
 
 ---
 
-- [**Current**]. Postdoctoral researcher at Institute of Physical Sciences, UNAM. Project: *Statistical and machine learning methods in observational cosmology* (November 2021-today). Member of the SMF, Mexican Society of Physics, since 2022. 
+- [**Current**]. Postdoctoral researcher at Institute of Physical Sciences, UNAM. Project: *Statistical and machine learning methods in observational cosmology* (November 2021-today). Member of the SMF, Mexican Society of Physics, since 2022. SNI Candidate (National Researcher candidate).
 
 - May-October 2021. Research project assistant (postdoc) at Institute of Physical Sciences, UNAM.
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
@@ -45,7 +45,7 @@ title: Research
 
 - [Rojas Olvera, J. de Dios , Gómez-Vargas, I., & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
-- [Medel Esquivel, R., Gómez-Vargas, I., Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/profile/Ricardo-Medel-Esquivel/publication/335170165_An_introduction_to_Markov_Chain_Monte_Carlo/links/5d543b08299bf16f073864e1/An-introduction-to-Markov-Chain-Monte-Carlo.pdf)
+- [Medel Esquivel, R., Gómez-Vargas, I., Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 
 - [Gómez-Vargas, I., Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
 
