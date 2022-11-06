@@ -12,7 +12,7 @@ Isidro is a physicist-mathematician with a master's degree and PhD in advanced t
 
 You can see more about his [**research**](research.md) or [**download CV**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0). For collaborations, projects or job opportunities, please [**send an e-mail**](mailto:igomezvargas@outlook.com). 
 
-[Versión en español generada automáticamente por Google.](https://igomezv-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)									
+[Click aquí para ver la versión en español generada automáticamente por Google.](https://igomezv-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)									
                                 				
 						
  							
