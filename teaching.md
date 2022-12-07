@@ -57,7 +57,9 @@ Related links:
 ## Courses
 ----------
 
-- Course: Introduction to Deep Learning 2022. The Mathematics Research Center (CIMAT). Postgraduate. Co-teaching with Dra. Liliana Guadarrama Bustos. 60 hours. [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
+- Course: Intermediate Data Science 2022. DGTIC-UNAM. Specialization. 30 hours. [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
+
+- Course: Introduction to Deep Learning 2022. The Mathematics Research Center (CIMAT). Postgraduate. Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
 - Workshop: Machine Learning Basics 2021. 3rd edition of Mexican Astro-Cosmo-Statistics School. University of Guanajuato. From June 28 to July 2. 4.5 hours. [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
