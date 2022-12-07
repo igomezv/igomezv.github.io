@@ -17,7 +17,7 @@ title: Miscellaneous
 
 ### News
 
-- **02/12/2022** Presentation (poster and 1 minute talk) in the Cosmology on the VIII Essential Cosmology for the Next Generation (Cosmology on the Beach) 2022, Playa del Carmen, Quintana Roo.
+- **02/12/2022** Presentation (poster and 1 minute talk) in the VIII Essential Cosmology for the Next Generation (Cosmology on the Beach), Playa del Carmen, Quintana Roo.
 - **01/11/2022** Instructor of the intensive course (30 hrs) called Intermediate Data Science at DGTIC-UNAM.
 - **24/10/2022** Acceptance for a second year of CONACYT national postdoctoral research stay at ICF-UNAM.
 - **02/10/2022** Poster presentation in the LXV Congreso Nacional de Física, Zacatecas, México. Title of our work: [*Dark matter halo analysis on N-body cosmological simulations with deep learning*](https://www.academia.edu/89055693/Dark_matter_halo_analysis_on_N_body_cosmological_simulations_with_deep_learning).
