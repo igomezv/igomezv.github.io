@@ -43,6 +43,8 @@ title: Research
 
 - Bachelor degree in physics and mathematics. ESFM, Instituto Politécnico Nacional. Thesis: *Simulation of a BWR refueling with CASMO4 and Simulate3.*. Advisor: Dr. Edmundo del Valle Gallegos. [<a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis</a>].
 
+- Diplomat on Knowledge discovery with Big data tools. CIC, Instituto Politécnico Nacional. 192 hours.
+
 
 ---
 
