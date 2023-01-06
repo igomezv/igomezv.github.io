@@ -37,7 +37,7 @@ title: Research
 
 ---
 
-- PhD in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez. [<a href=https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">Thesis</a>].
+- PhD in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez. [<a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">Thesis</a>].
 
 - Master's degree in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. Thesis: *Design and development of an augmented reality application for mobile devices.*. Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán. [<a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>].
 
