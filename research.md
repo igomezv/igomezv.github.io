@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
+title: Education and research
 
 ---
 
-- [Research positions](#research-positions).
 - [Education](#education).
+- [Research positions](#research-positions).
 - [List of papers](#list-of-papers).
 - [Description of projects](#description-of-projects).
 
@@ -13,7 +13,21 @@ title: Research
 -----------------------------------------------------------
 
 
-# Research positions and education
+# Education
+
+---
+
+- PhD in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez. [<a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">Thesis</a>].
+
+- Master's degree in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. Thesis: *Design and development of an augmented reality application for mobile devices.*. Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán. [<a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>].
+
+- Bachelor degree in physics and mathematics. ESFM, Instituto Politécnico Nacional. Thesis: *Simulation of a BWR refueling with CASMO4 and Simulate3.*. Advisor: Dr. Edmundo del Valle Gallegos. [<a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis</a>].
+
+- Diplomat on Knowledge discovery with Big data tools. CIC, Instituto Politécnico Nacional. 192 hours.
+
+
+---
+# Research positions 
 
 ---
 
@@ -32,22 +46,6 @@ title: Research
 
 
 ---
-
-# Education
-
----
-
-- PhD in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. From 2019-2020, associate PhD student at Institute of Physical Sciences, UNAM. PhD thesis: *Artificial neural networks in Bayesian Inference*. Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez. [<a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">Thesis</a>].
-
-- Master's degree in advanced technology. CICATA-Legaria, Instituto Politécnico Nacional. Thesis: *Design and development of an augmented reality application for mobile devices.*. Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán. [<a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>].
-
-- Bachelor degree in physics and mathematics. ESFM, Instituto Politécnico Nacional. Thesis: *Simulation of a BWR refueling with CASMO4 and Simulate3.*. Advisor: Dr. Edmundo del Valle Gallegos. [<a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis</a>].
-
-- Diplomat on Knowledge discovery with Big data tools. CIC, Instituto Politécnico Nacional. 192 hours.
-
-
----
-
 
 # List of papers
 
