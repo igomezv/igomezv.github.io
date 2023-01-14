@@ -51,7 +51,7 @@ title: Education and Research
 
 ---
 
-- [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2022). Neural Networks Optimized by Genetic Algorithms in Cosmology. arXiv preprint arXiv:2209.02685.](https://arxiv.org/abs/2209.02685)
+- [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2022). Neural Networks Optimized by Genetic Algorithms in Cosmology. arXiv preprint arXiv:2209.02685. Accepted in Physical Review D.](https://arxiv.org/abs/2209.02685). 
 
 - [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2022). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. arXiv:2104.00595.](https://plu.mx/ssrn/a/?ssrn_id=3990646)
 
