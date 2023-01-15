@@ -8,6 +8,9 @@ title: Education and Research
 - [Education](#education).
 - [List of papers](#list-of-papers).
 - [Description of projects](#description-of-projects).
+- [List of academic presentations](#list-of-academic-presentations).
+	- [Talks](#talks).
+	- [Posters](#posters).
 
 
 -----------------------------------------------------------
@@ -171,4 +174,45 @@ Related links:
 
 
 
+-----
 
+# List of academic presentations
+-----
+
+	
+## Talks
+
+- **2022** 
+	- *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
+
+- **2021** 
+	- *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos.
+	- *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato.
+	- *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
+- **2020** 
+	- *Muestreo anidado, redes neuronales y SimpleMC*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
+	- *Métodos estadísticos con redes neuronales en cosmología observacional*, V Encuentro de Modelado Matemático en Física y Geometría, BUAP, MCTP.
+	- *Redes Neuronales aplicadas a métodos estadísticos de la Cosmología Observacional*, Seminario de estudiantes de cosmología, Cuernavaca, Morelos. 
+
+- **2018** 
+	- *Algoritmos de ciencias de datos para vacíos cósmicos*, Escuela Nacional de Cosmología Guanajuato. Guanajuato, México.
+- **2017**
+	- *Analisis de datos cosmológicos para el estudio de vacíos cósmicos*, Simposio de Tecnología Avanzada, CDMX. 
+	- *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX. 
+
+## Posters 
+- **2022** 
+	- *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo.
+	- *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México.
+	- *Neural networks in cosmological data analysis*, 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil.
+- **2021** 
+	- *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	- *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	- *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+
+- **2019** 
+	- *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
+	- *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
+- **2018** 
+	- *Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	- *Cosmic voids, spatial algorithms and data structures*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
