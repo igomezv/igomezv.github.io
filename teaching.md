@@ -75,7 +75,7 @@ Related links:
 #### Thesis supervision
 	
  -  Javier Montaño, master in Astrophysics from the Valencia International University (2022, graduated). Thesis title: "Cosmological analysis with SNeIa and neural networks". Co-supervised with Ricardo García Salcedo.
- - Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-today). Thesis title: "Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms". Co-supervised with Ricardo García Salcedo.
+ - Daniel Barrera, master in Advanced Technology from CICATA-IPN (2021-2023, graduated). Thesis title: "Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms". Co-supervised with Ricardo García Salcedo.
  - José Luis López López, master in Process Modeling and Optimization from CIMAT (2021-today). Thesis title: "Prediction of skateboard tricks in images using neural networks". Co-supervised with Dra. Lilí Guadarrama.
  - Francisco Tamayo, PhD in Educational Physics from CICATA-IPN (2022-today). Thesis title: "Data mining to analyze the academic performance of first year chemical engineering students in physics". Co-supervised with Ricardo García Salcedo.
 		
