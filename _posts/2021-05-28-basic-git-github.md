@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Recetas Git/GitHub
-subtitle: [EN CONSTRUCCION]
+title: Manual básico de Git/GitHub
+subtitle: ABC indispensable.
 gh-repo: igomezv
 gh-badge: [follow]
 tags: [Git, Español]
@@ -17,7 +17,7 @@ comments: true
  - [Usar el repositorio de un tercero](#usar-el-repositorio-de-un-tercero) 
 	 - [fork](#fork)
  - [Comparar entre versiones o regresar  a una versión anterior](#comparar-y-regresar)
-- [Entre las ramas](#entre-las-ramas)
+ - [Entre las ramas](#entre-las-ramas)
  
  --------------------------
  
@@ -41,7 +41,11 @@ Un <code>commit</code> es una confirmación de los cambios realizados en el cód
 ```bash
 git commit -m "descripción del cambio" script_mod1.py script_mod2.py
 ```
-Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio. La bandera  <code>-m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. 
+La bandera  <code>-m</code> le dice a Git que le pasaremos, dentro de la misma instrucción, un mensaje (o descripción) del cambio. Si no se indican los archivos modificados, el  <code>commit</code> incluirá todos los cambios realizados en el repositorio, se puede indicar así:
+
+```bash
+git commit -am "descripción del cambio" 
+```
 
 Todas las opciones de <code>commit</code>: [git-commit docs](https://git-scm.com/docs/git-commit)
 
@@ -130,8 +134,4 @@ Similar que con los archivos, para comparar dos ramas:
 git diff nombre_rama_1..nombre_rama_2
 ```
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2Njg3NjAxLDE0OTM4MjM5MjYsLTEyOD
-kxNjI0NzMsNDg3NTU4NDExLDQyODAxMDIzLDEzNDM3NTMyMzld
-fQ==
--->
+
