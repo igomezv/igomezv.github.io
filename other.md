@@ -5,25 +5,29 @@ title: Miscellaneous
 ---
 
 - [News](https://igomezv.github.io/other/#news).
+- [Academia.edu profile](https://unam.academia.edu/IsidroG%C3%B3mezVargas).
+- [ResearchGate profile](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
+- [InspireHep profile](https://inspirehep.net/authors/1862237).
 - [Some notes (spanish)](https://igomezv.github.io/posts).
 - [Literary blog (spanish)](http://www.neorelativista.blogspot.com).
 - [Cienciagonos project (spanish)](https://cienciagonos.com).
 - [Photos (Flickr)](https://www.flickr.com/photos/neorelativista).
 - [Photos (IG)](https://www.instagram.com/neorelativista).
-- [Academia.edu profile](https://unam.academia.edu/IsidroG%C3%B3mezVargas).
-- [ResearchGate profile](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
+
+
 
 --------------------
 
 ### News
 
+- **30/01/2023** Graduation of my student Daniel Barrera in the master's degree in advanced technology the CICATA-Legaria, IPN. Thesis: Application of machine learning to the diagnosis of cardiovascular diseases through electrocardiograms. 
 - **02/12/2022** Presentation (poster and 1 minute talk) in the VIII Essential Cosmology for the Next Generation (Cosmology on the Beach), Playa del Carmen, Quintana Roo.
 - **01/11/2022** Instructor of the intensive course (30 hrs) called Intermediate Data Science at DGTIC-UNAM.
 - **24/10/2022** Acceptance for a second year of CONACYT national postdoctoral research stay at ICF-UNAM.
 - **02/10/2022** Poster presentation in the LXV Congreso Nacional de Física, Zacatecas, México. Title of our work: [*Dark matter halo analysis on N-body cosmological simulations with deep learning*](https://www.academia.edu/89055693/Dark_matter_halo_analysis_on_N_body_cosmological_simulations_with_deep_learning).
 - **06/09/2022**. Upload of the *Neural Networks Optimized by Genetic Algorithms in Cosmology* preprint to [arXiv](https://arxiv.org/abs/2209.02685).
 - **23/08/2022** Poster presentation in the 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), in the Planetarium of Rio de Janeiro, Brazil. Title of our work: [*Neural networks in cosmological data analysis*](https://www.academia.edu/86371757/Neural_networks_in_cosmological_data_analysis).
-- **25/05/2022** Graduation of my student Javier Montaño in the master's degree in astrophysics at the International University of Valencia. Thesis title: Cosmological analysis with SNeIa and neural networks.
+- **25/05/2022** Graduation of my student Javier Montaño in the master's degree in astrophysics at the International University of Valencia. Thesis: Cosmological analysis with SNeIa and neural networks.
 - **12/02/2022**. Publication of the paper [*Observational cosmology with artificial neural networks*](https://www.mdpi.com/2218-1997/8/2/120) in the *Universe* journal.
 - **17/01/2022**. Start of the semester course *Identification, Control and Design of Systems (Deep Learning)* of the master's degree in Process Modeling and Optimization of CIMAT-Ags. Together with Dr. Lilí Guadarrama. 
 - **01/11/2021**. Start of the CONACYT postdoctoral project *Statistical and machine learning methods in observational cosmology*. Institute of Physical Sciences, UNAM. 
