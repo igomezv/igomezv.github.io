@@ -100,8 +100,6 @@ Related links:
 
 Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
 
-In collaboration with:  Dr. Daniel Sanchez Guzman and Dr. Ricardo García Salcedo. 
-
 Related links:
 - <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>.
 - <a href="https://github.com/igomezv/RAsolidsrev">GitHub</a> repository.
@@ -111,6 +109,7 @@ Related links:
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
 
 
+----------------
 
 #### MOOC course
 Development of the MOOC course "Teacher training for the teaching of basic mathematics"

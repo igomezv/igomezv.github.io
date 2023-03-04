@@ -52,16 +52,5 @@ Links:
 
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
-----------------
 
-### RAsolidsrev
-Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
-
-Related links:
-
-- <a href="https://github.com/igomezv/RAsolidsrev">GitHub</a> repository.
-- Paper in <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D"> Latin American Journal of Physics Education</a>.
-
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
 

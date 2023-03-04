@@ -3,6 +3,7 @@ title: "Isidro GV"
 author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
+   CV: "cv"
    Research: "research" 
    Teaching/Outreach: "teaching"
    Code: "code"
