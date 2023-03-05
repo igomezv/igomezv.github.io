@@ -7,8 +7,8 @@ title: Code
 - [GitHub with several code repositories](https://github.com/igomezv)
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
-- [crann](#crann)	
-- [RAsolidsrev](#rasolidsrev)
+- [crann](#crann)
+
 
 -----------------------------------------------------------
 
