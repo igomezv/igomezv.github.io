@@ -3,7 +3,7 @@ layout: page
 title: Education and Research
 
 ---
-
+- Links: | [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas)| [InspireHep profile](https://inspirehep.net/authors/1862237) | [arXiv](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | [Academia.edu](https://unam.academia.edu/IsidroG%C3%B3mezVargas)|.
 - [List of papers](#list-of-papers).
 - [List of academic presentations](#list-of-academic-presentations).
 	- [Talks](#talks).
