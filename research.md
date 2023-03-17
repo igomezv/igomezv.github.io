@@ -3,12 +3,14 @@ layout: page
 title: Education and Research
 
 ---
- | [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas)| [InspireHep](https://inspirehep.net/authors/1862237) | [arXiv](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | [Academia.edu](https://unam.academia.edu/IsidroG%C3%B3mezVargas)|
 
 - [List of papers](#list-of-papers).
 - [List of academic presentations](#list-of-academic-presentations).
 	- [Talks](#talks).
 	- [Posters](#posters).
+
+ | [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas)| [InspireHep](https://inspirehep.net/authors/1862237) | [arXiv](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | [OrcID](https://orcid.org/0000-0002-6473-018X) | [Academia.edu](https://unam.academia.edu/IsidroG%C3%B3mezVargas)|
+
 
 -----------------------------------------------------------
 
