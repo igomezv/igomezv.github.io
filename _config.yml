@@ -5,7 +5,8 @@ author: "Isidro Gómez-Vargas"
 navbar-links:
    CV: "cv"
    Research: "research" 
-   Teaching/Outreach: "teaching"
+   Teaching: "teaching"
+   Outreach: "outreach"
    Code: "code"
    Miscellaneous: "other"
 
