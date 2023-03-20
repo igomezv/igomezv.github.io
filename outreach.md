@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Textbooks and Outreach
+title: Textbooks, outreach and didactic material
 ---
 
 - [Text Books](#text-books)
@@ -72,12 +72,12 @@ Related links:
 ----------------
 
 #### MOOC course
-Development of the MOOC course "Teacher training for the teaching of basic mathematics"
+Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas".
 
 In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
 
 Related links:
-- MOOC <a href="https://moocs.upev.ipn.mx/courses/course-v1:UPEV+FD1+2019_2/about">website</a>.
+- MOOC <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">website</a>.
 - [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
