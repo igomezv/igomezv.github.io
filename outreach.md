@@ -50,6 +50,8 @@ Related links:
 - Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia)).
 - Cosmología observacional con Redes Neuronales Artificiales ([Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
 - Realidad Aumentada como herramienta didáctica en geometría 3D. ([Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)).
+- Posibilidad didáctica de la Realidad Aumentada. ([Sólo ensayo. Antología de jóvenes escritores Volumen II. 2017.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
+
 
 
 
