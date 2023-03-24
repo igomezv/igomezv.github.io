@@ -15,14 +15,14 @@ title: CV
 # Research positions 
 ---
 
-## Current position:
+## Current:
 - 2022. SNI Candidate (Sistema Nacional de Investigadores, nivel candidato).
 - 2022. Member of the Sociedad Mexicana de Física.
 - 2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Statistical and machine learning methods in observational cosmology*.
 
-## Past positions:
+## Past:
 - May-October 2021. Research project assistant (postdoc). <br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
