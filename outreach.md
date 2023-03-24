@@ -14,9 +14,9 @@ title: Textbooks, outreach and didactic material
 #### Matemáticas 3
 
 
-Matemáticas 3, travesías series, Castillo editions, is a mathematics book for highschool. It has been approved by the SEP and included in the CONALITEG repository. 
+Matemáticas 3, travesías series, Castillo editions, is a mathematics book for highschool. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). 
 
-Co-authors: MSc. Ricardo Medel Esquivel and Dr. Ricardo García Salcedo.
+Co-authors: Ricardo Medel Esquivel and Ricardo García Salcedo.
 
 Related links:
 -  Buy **Matemáticas 3** in [Amazon](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224).
