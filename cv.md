@@ -16,9 +16,9 @@ title: CV
 ---
 
 ## Current:
-- 2022. SNI Candidate (Sistema Nacional de Investigadores, nivel candidato).
-- 2022. Member of the Sociedad Mexicana de Física.
-- 2021-today. Postdoctoral researcher.<br>
+ - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022.
+ - Member of the Sociedad Mexicana de Física, 2022.
+ - 2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Statistical and machine learning methods in observational cosmology*.
 
