@@ -35,8 +35,8 @@ title: Courses, workshops and students
 
 &nbsp; **Graduated:**
 	
- -  **Javier Montaño**, master in Astrophysics from the Valencia International University (2021-2022). 
-
+ -  **Javier Montaño**, master in Astrophysics (2021-2022). 
+    Valencia International University.
     Thesis: *"Cosmological analysis with SNeIa and neural networks"*. 
     
     Co-supervised with Ricardo García Salcedo.
