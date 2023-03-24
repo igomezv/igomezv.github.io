@@ -35,13 +35,13 @@ title: Courses, workshops and students
 
 &nbsp; **Graduated:**
 	
- -  **Javier Montaño (2021-2022).** <br> 
+ -  **Javier Montaño** (2021-2022). <br> 
     Master in Astrophysics.  <br> 
     Valencia International University (VIU). <br>
     Thesis: *"Cosmological analysis with SNeIa and neural networks"*. <br>
     Co-supervised with Ricardo García Salcedo.
     
- - **Daniel Barrera (2021-2023).** <br> 
+ - **Daniel Barrera** (2021-2023). <br> 
    Master in Advanced Technology . <br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br> 
    Thesis: *"Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"*. <br>
@@ -49,19 +49,19 @@ title: Courses, workshops and students
 
 &nbsp; **In process:**
 
- - **José Luis López López (2021-today).** <br> 
+ - **José Luis López López** (2021-today).<br> 
     Master in Process Modeling and Optimization . <br>
     Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
     Thesis: *"Prediction of skateboard tricks in images using neural networks"*. <br>
     Co-supervised with Dra. Lilí Guadarrama.
  
- - **Francisco Tamayo (2022-today)**<br>
+ - **Francisco Tamayo** (2022-today).<br>
    PhD in Physics Education .<br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br>
    Thesis: *"Data mining to analyze the academic performance of first year chemical engineering students in physics"*. <br>
    Co-supervised with Ricardo García Salcedo.
 
- - **Erika Montero (2023-today).**<br>
+ - **Erika Montero** (2023-today).<br>
    PhD in Physics Education. <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
    Thesis: *"Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms"*. <br>
