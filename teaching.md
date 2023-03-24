@@ -12,19 +12,36 @@ title: Courses, workshops and students
 ## Courses
 ----------
 
-- Course: Intermediate Data Science 2022. DGTIC-UNAM. Specialization. 30 hours. [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
+- Course: **Intermediate Data Science 2022.** <br> 
+  DGTIC-UNAM. <br> 
+  Specialization. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
 
-- Course: Introduction to Deep Learning 2022. The Mathematics Research Center (CIMAT). Postgraduate. Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
+- Course: **Introduction to Deep Learning 2022.** <br> 
+  Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>  
+  Postgraduate. <br> 
+  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
-- High school physics and mathematics teacher (2013-2014). In CECyT-8 of the Instituto Politécnico Nacional and other institutions. Courses of Algebra, Physics, Differential equations, etc.
+- High school physics and mathematics courses (2013-2014). <br>
+  In CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
+  Courses of Algebra, Physics, Differential equations, etc.
 
 
 ## Workshops
 -------------
 
-- Workshop: Machine Learning Basics 2021. 3rd edition of Mexican Astro-Cosmo-Statistics School. University of Guanajuato. From June 28 to July 2. 4.5 hours. [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
+- Workshop: **Machine Learning Basics 2021**.<br>
+  3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
+  Universidad de Guanajuato. <br>
+  From June 28 to July 2. <br>
+  4.5 hours. <br>
+  [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
-- Workshop on cosmology with SimpleMC 2020. Institute of Physical Sciences, UNAM. 15 hours. [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
+- Workshop: **Cosmology with SimpleMC 2020**. 
+  Instituto de Ciencias Físicas, UNAM. <br>
+  15 hours. <br>
+  [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
 
 --------
 
