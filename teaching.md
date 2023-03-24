@@ -36,26 +36,31 @@ title: Courses, workshops and students
 &nbsp; **Graduated:**
 	
  -  **Javier Montaño**, master in Astrophysics (2021-2022).  <br>
-    Valencia International University. <br>
+    Valencia International University (VIU). <br>
     Thesis: *"Cosmological analysis with SNeIa and neural networks"*. <br>
     Co-supervised with Ricardo García Salcedo.
     
  - **Daniel Barrera**, master in Advanced Technology (2021-2023). <br>
-   CICATA-IPN. <br> 
+   CICATA-Legaria, Instituto Politécnico Nacional. <br> 
    Thesis: *"Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"*. <br>
    Co-supervised with Ricardo García Salcedo.
 
 &nbsp; **In process:**
 
- - **José Luis López López**, master in Process Modeling and Optimization from CIMAT (2021-today). 
-   
-    Thesis: *"Prediction of skateboard tricks in images using neural networks"*. 
-   
+ - **José Luis López López**, master in Process Modeling and Optimization (2021-today). <br>
+    Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
+    Thesis: *"Prediction of skateboard tricks in images using neural networks"*. <br>
     Co-supervised with Dra. Lilí Guadarrama.
  
- - **Francisco Tamayo**, PhD in Physics Education from CICATA-IPN (2022-today). Thesis title: "Data mining to analyze the academic performance of first year chemical engineering students in physics". Co-supervised with Ricardo García Salcedo.
+ - **Francisco Tamayo**, PhD in Physics Education (2022-today).<br>
+   CICATA-Legaria, Instituto Politécnico Nacional. <br>
+   Thesis: *"Data mining to analyze the academic performance of first year chemical engineering students in physics"*. <br>
+   Co-supervised with Ricardo García Salcedo.
 
- - **Erika Montero**, PhD in Physics Education from CICATA-IPN (2023-today). Thesis title: "Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms". Co-supervised with Ricardo García Salcedo.
+ - **Erika Montero**, PhD in Physics Education (2023-today). <br>
+   CICATA-Legaria, Instituto Politécnico Nacional.<br>
+   Thesis: *"Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms"*. <br>
+   Co-supervised with Ricardo García Salcedo.
 		
 	
 #### Advisory
