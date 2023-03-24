@@ -35,17 +35,15 @@ title: Courses, workshops and students
 
 &nbsp; **Graduated:**
 	
- -  **Javier Montaño**, master in Astrophysics (2021-2022). 
-    Valencia International University.
-    Thesis: *"Cosmological analysis with SNeIa and neural networks"*. 
-    
+ -  **Javier Montaño**, master in Astrophysics (2021-2022).  <br>
+    Valencia International University. <br>
+    Thesis: *"Cosmological analysis with SNeIa and neural networks"*. <br>
     Co-supervised with Ricardo García Salcedo.
     
- - **Daniel Barrera**, master in Advanced Technology from CICATA-IPN (2021-2023). 
- 
-    Thesis: *"Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"*. 
-   
-    Co-supervised with Ricardo García Salcedo.
+ - **Daniel Barrera**, master in Advanced Technology (2021-2023). <br>
+   CICATA-IPN. <br> 
+   Thesis: *"Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"*. <br>
+   Co-supervised with Ricardo García Salcedo.
 
 &nbsp; **In process:**
 
