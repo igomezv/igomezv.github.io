@@ -18,7 +18,7 @@ title: Courses, workshops and students
   [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
 
 - Course: **Introduction to Deep Learning 2022.** <br> 
-  Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>  
+  Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
   Postgraduate. <br> 
   Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
   [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
