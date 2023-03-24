@@ -7,7 +7,7 @@ title: Isidro Gómez-Vargas
 
 ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} 							
  								
-Hi, I am Isidro, a physicist-mathematician with a master's degree and PhD in advanced technology from the Instituto Politécnico Nacional. I write short stories, essays, textbooks and Python code. My research interests are neural networks, Bayesian inference and cosmological models of dark energy. I am currently a postdoc in machine learning applied to observational cosmology at the ICF, Universidad Nacional Autónoma de México.
+Hi, I am Isidro, a physicist-mathematician with a master’s degree and Ph.D. in advanced technology from the Instituto Politécnico Nacional. I write short stories, essays, textbooks, and Python code. My research interests are neural networks, Bayesian inference, and cosmological models of dark energy. I am currently a postdoc in machine learning applied to observational cosmology at the ICF, Universidad Nacional Autónoma de México.
 
 
 You can see more about my [**research**](research.md), [**education**](https://igomezv.github.io/cv/#education), [**research positions**](https://igomezv.github.io/cv/#research-positions), [**curriculum vitae**](https://igomezv.github.io/cv), [**textbooks**](https://igomezv.github.io/outreach/#text-books), [**students**](https://igomezv.github.io/teaching/#students), [**lectures**](https://igomezv.github.io/teaching/#courses), [**codes**](code.md), [**outreach and didactic material**](https://igomezv.github.io/outreach/#didactic-and-outreach-papers) or [**news**](https://igomezv.github.io/other/#news) in this website.
