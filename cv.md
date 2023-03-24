@@ -11,21 +11,40 @@ title: CV
 -----------------------------------------------------------
 
 
+
 # Research positions 
 ---
 
-- [**Current**]. Postdoctoral researcher at Instituto de Ciencias Físicas, UNAM. Project: *Statistical and machine learning methods in observational cosmology* (November 2021-today). Member of the SMF, Mexican Society of Physics, since 2022. SNI Candidate (National Researcher candidate).
+## Current position:
+- **2022**. SNI Candidate (Sistema Nacional de Investigadores, nivel candidato).
+- **2022** Member of the Sociedad Mexicana de Física.
+- **2021-today**. Postdoctoral researcher.<br>
+  Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
+  Project: *Statistical and machine learning methods in observational cosmology*.
 
-- May-October 2021. Research project assistant (postdoc) at Instituto de Ciencias Físicas, UNAM.
+## Past positions:
+- **May-October 2021**. Research project assistant (postdoc). <br>
+  Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
   
-- March-October 2020. Visiting PhD student. Kavli Institute of Cosmology, University of Cambridge. Project: *Reversible nested sampling*. Advisor: Dr. Will Handley.
+- **March-October 2020**. Visiting PhD student. <br>
+  Kavli Institute of Cosmology, University of Cambridge.<br> 
+  Project: *Reversible nested sampling*.<br>
+  Advisor: Dr. Will Handley.
 
-- August-October 2019. Visiting PhD student. Instituto de Ciencias Físicas, UNAM. Project: *Algorithms in cosmology*. Supervisor: Dr.José Alberto Vázquez.
+- **August-October 2019**. Visiting PhD student. <br> 
+  Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
+  Project: *Algorithms in cosmology*. 
+  <br>Supervisor: Dr.José Alberto Vázquez.
 
-- September-October 2018. Visiting PhD student. Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. Project: *Cosmological parameter estimation with CosmoSis code*. Supervisor: Dr. Ulises Nucamendi Gómez.
+- **September-October 2018**. Visiting PhD student. <br> 
+  Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
+  Project: *Cosmological parameter estimation with CosmoSis code*. <br> 
+  Supervisor: Dr. Ulises Nucamendi Gómez.
 
-- April-May 2016. Visiting master student. Computer department, UABC-Ensenada. Project: *Intelligent tutoring agents*.
+- **April-May 2016**. Visiting master student. <br> 
+  Computer department, UABC-Ensenada. <br> 
+  Project: *Intelligent tutoring agents*.
 
 
 ---
