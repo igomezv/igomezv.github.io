@@ -24,7 +24,7 @@ title: Courses, workshops and students
   [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
 - High school physics and mathematics courses (2013-2014). <br>
-  In CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
+  CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
   Courses of Algebra, Physics, Differential equations, etc.
 
 
