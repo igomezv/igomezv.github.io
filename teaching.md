@@ -65,7 +65,7 @@ title: Courses, workshops and students
 	
 #### Advisory
 
- As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students from the Facultad de Ciencias, UNAM:
+ As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate physics students from the Facultad de Ciencias, UNAM:
 
  - Juan de Dios Rojas Olvera (2021-2022, [1 paper in common](https://www.mdpi.com/2218-1997/8/2/120)).
  - Joshua Briones Andrade (2022, [1 paper in common](https://arxiv.org/abs/2209.02685)).
