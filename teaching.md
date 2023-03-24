@@ -45,7 +45,7 @@ title: Courses, workshops and students
  - Erika Montero, PhD in Physics Education from CICATA-IPN (2023-today). Thesis title: "Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms". Co-supervised with Ricardo García Salcedo.
 		
 	
-#### Advise
+#### Advisory
 
  As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate students from the Facultad de Ciencias, UNAM:
 
