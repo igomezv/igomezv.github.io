@@ -16,33 +16,33 @@ title: CV
 ---
 
 ## Current position:
-- **2022**. SNI Candidate (Sistema Nacional de Investigadores, nivel candidato).
-- **2022** Member of the Sociedad Mexicana de Física.
-- **2021-today**. Postdoctoral researcher.<br>
+- 2022. SNI Candidate (Sistema Nacional de Investigadores, nivel candidato).
+- 2022. Member of the Sociedad Mexicana de Física.
+- 2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Statistical and machine learning methods in observational cosmology*.
 
 ## Past positions:
-- **May-October 2021**. Research project assistant (postdoc). <br>
+- May-October 2021. Research project assistant (postdoc). <br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
   
-- **March-October 2020**. Visiting PhD student. <br>
+- March-October 2020. Visiting PhD student. <br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
   Project: *Reversible nested sampling*.<br>
   Advisor: Dr. Will Handley.
 
-- **August-October 2019**. Visiting PhD student. <br> 
+- August-October 2019. Visiting PhD student. <br> 
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Algorithms in cosmology*. 
   <br>Supervisor: Dr.José Alberto Vázquez.
 
-- **September-October 2018**. Visiting PhD student. <br> 
+- September-October 2018*. Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
   Project: *Cosmological parameter estimation with CosmoSis code*. <br> 
   Supervisor: Dr. Ulises Nucamendi Gómez.
 
-- **April-May 2016**. Visiting master student. <br> 
+- April-May 2016. Visiting master student. <br> 
   Computer department, UABC-Ensenada. <br> 
   Project: *Intelligent tutoring agents*.
 
