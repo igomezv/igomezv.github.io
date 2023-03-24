@@ -34,10 +34,10 @@ title: CV
 
 - August-October 2019. Visiting PhD student. <br> 
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
-  Project: *Algorithms in cosmology*. 
-  <br>Supervisor: Dr.José Alberto Vázquez.
+  Project: *Algorithms in cosmology*. <br>
+  Supervisor: Dr.José Alberto Vázquez.
 
-- September-October 2018*. Visiting PhD student. <br> 
+- September-October 2018. Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
   Project: *Cosmological parameter estimation with CosmoSis code*. <br> 
   Supervisor: Dr. Ulises Nucamendi Gómez.
