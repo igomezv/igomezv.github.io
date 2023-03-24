@@ -24,7 +24,7 @@ title: Research
 
 ---
 
-**| 3 JCR/Q1/Q2 | 6 Q4 | 1 other | 2 preprints |**
+### | 3 JCR/Q1/Q2 | 6 Q4 | 1 other | 2 preprints |
 
 - [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. arXiv:2303.09098.](https://arxiv.org/abs/2303.09098)
 
