@@ -38,7 +38,7 @@ title: Courses, workshops and students
   4.5 hours. <br>
   [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
-- Workshop: **Cosmology with SimpleMC 2020**. 
+- Workshop: **Cosmology with SimpleMC 2020**. <br>
   Instituto de Ciencias Físicas, UNAM. <br>
   15 hours. <br>
   [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
