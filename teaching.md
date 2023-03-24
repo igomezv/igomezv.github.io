@@ -19,7 +19,7 @@ title: Courses, workshops and students
 
 - Course: **Introduction to Deep Learning 2022.** <br> 
   Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
-  Postgraduate. <br> 
+  Master in Process Modeling and Optimization. <br> 
   Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
   [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
@@ -67,7 +67,7 @@ title: Courses, workshops and students
 &nbsp; **In process:**
 
  - **José Luis López López** (2021-today).<br> 
-    Master in Process Modeling and Optimization . <br>
+    Master in Process Modeling and Optimization. <br>
     Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
     Thesis: *"Prediction of skateboard tricks in images using neural networks"*. <br>
     Co-supervised with Dra. Lilí Guadarrama.
