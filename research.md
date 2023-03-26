@@ -24,13 +24,13 @@ title: Research
 
 ---
 
-##### | 3 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 2 preprints |
+##### | 4 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 1 preprints |
 
 - [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. arXiv:2303.09098.](https://arxiv.org/abs/2303.09098)
 
-- [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) 
+- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2022). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. Accepted in European Physical Journal C. arXiv:2104.00595.](https://plu.mx/ssrn/a/?ssrn_id=3990646)
 
-- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2022). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. arXiv:2104.00595.](https://plu.mx/ssrn/a/?ssrn_id=3990646)
+- [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) 
 
 - [Rojas Olvera, J. de Dios , Gómez-Vargas, I., & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
