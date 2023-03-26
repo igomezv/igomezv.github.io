@@ -28,7 +28,7 @@ title: Research
 
 - [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. arXiv:2303.09098.](https://arxiv.org/abs/2303.09098)
 
-- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2022). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. Accepted in European Physical Journal C. arXiv:2104.00595.](https://plu.mx/ssrn/a/?ssrn_id=3990646)
+- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. Accepted in European Physical Journal C. arXiv:2104.00595.](https://plu.mx/ssrn/a/?ssrn_id=3990646)
 
 - [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) 
 
