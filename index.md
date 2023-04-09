@@ -24,7 +24,7 @@ My research interests are neural networks, Bayesian inference, and cosmological 
 
 You can see more about my [**research**](research.md), [**education**](https://igomezv.github.io/cv/#education), [**research positions**](https://igomezv.github.io/cv/#research-positions), [**curriculum vitae**](https://igomezv.github.io/cv), [**textbooks**](https://igomezv.github.io/outreach/#text-books), [**students**](https://igomezv.github.io/teaching/#students), [**lectures**](https://igomezv.github.io/teaching/#courses), [**codes**](code.md), [**outreach and didactic material**](https://igomezv.github.io/outreach/#didactic-and-outreach-papers) or [**news**](https://igomezv.github.io/other/#news) in this website.
 
-For collaborations, outreach, courses, or consulting on machine learning, physics, or related topics, please [**email me**](mailto:igomezvargas@outlook.com). 
+For collaborations, outreach, or consulting on machine learning, or related topics, please [**email me**](mailto:igomezvargas@outlook.com). 
 
 
 [Click aquí para ver la versión en español generada automáticamente por Google.](https://igomezv-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
