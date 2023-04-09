@@ -8,6 +8,7 @@ title: Research
 - [List of academic presentations](#list-of-academic-presentations).
 	- [Talks](#talks).
 	- [Posters](#posters).
+- [Peer reviews](#peer-reviews).
 
 - Research profiles: 
 	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
@@ -97,3 +98,11 @@ title: Research
 - **2018** 
 	- *Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
 	- *Cosmic voids, spatial algorithms and data structures*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	
+-----
+
+# Peer reviews
+-----
+
+- Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
+- Physical Review D. [Private info](https://journals.aps.org/prd/).
