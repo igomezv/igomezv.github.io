@@ -9,7 +9,6 @@ title: Research
 	- [Talks](#talks).
 	- [Posters](#posters).
 - [Peer reviews](#peer-reviews).
-
 - Research profiles: 
 	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
 	- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
