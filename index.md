@@ -14,7 +14,8 @@ You can see more about my [**research**](research.md), [**education**](https://i
 For collaborations, outreach, courses, or consulting on machine learning, physics, or related topics, please [**email me**](mailto:igomezvargas@outlook.com). 
 
 <center>
-<img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180" align="center"> 
+<img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180"> 
+
 
 [Click aquí para ver la versión en español generada automáticamente por Google.](https://igomezv-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)									
                                 				
