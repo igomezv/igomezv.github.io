@@ -17,7 +17,7 @@ title: Students, courses and workshops
 &nbsp; **Graduated:**
 	
  -  **Javier Montaño** (2021-2022). <br> 
-    Master in Astrophysics.  <br> 
+    [Master in Astrophysics.](https://www.dropbox.com/s/af9m3ijmnc4cmvk/Certificado_Direccion_TFM_Isidro_Gomez_Vargas-signed.pdf?dl=0)  <br> 
     Valencia International University (VIU). <br>
     Thesis: *"Cosmological analysis with SNeIa and neural networks"*. <br>
     Co-supervised with Ricardo García Salcedo.
@@ -32,7 +32,7 @@ title: Students, courses and workshops
 
  - **José Luis López López** (2021-today).<br> 
     Master in Process Modeling and Optimization. <br>
-    Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
+    Centro de Investigación en Matemá	ticas (CIMAT), unidad Aguascalientes.<br> 
     Thesis: *"Prediction of skateboard tricks in images using neural networks"*. <br>
     Co-supervised with Dra. Lilí Guadarrama.
  
