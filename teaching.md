@@ -1,52 +1,16 @@
 ---
 layout: page
-title: Courses, workshops and students
+title: Students, courses and workshops
 ---
 
+- [Students](#students)
 - [Courses](#courses)
 - [Workshops](#workshops)
-- [Students](#students)
+
 
 -----------------------------------------------------------
-
-## Courses
-----------
-
-- Course: **Intermediate Data Science 2022.** <br> 
-  DGTIC-UNAM. <br> 
-  Specialization. 30 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
-
-- Course: **Introduction to Deep Learning 2022.** <br> 
-  Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
-  Master in Process Modeling and Optimization. <br> 
-  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
-
-- High school physics and mathematics courses (2013-2014). <br>
-  CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
-  Courses of Algebra, Physics, Differential equations, etc.
-
-
-## Workshops
--------------
-
-- Workshop: **Machine Learning Basics 2021**.<br>
-  3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
-  Universidad de Guanajuato. <br>
-  From June 28 to July 2. <br>
-  4.5 hours. <br>
-  [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
-
-- Workshop: **Cosmology with SimpleMC 2020**. <br>
-  Instituto de Ciencias Físicas, UNAM. <br>
-  15 hours. <br>
-  [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
-
---------
-
 ## Students
-----------
+------------
 
 #### Thesis supervision
 
@@ -92,5 +56,42 @@ title: Courses, workshops and students
  - Juan de Dios Rojas Olvera (2021-2022, [1 paper in common](https://www.mdpi.com/2218-1997/8/2/120)).
  - Joshua Briones Andrade (2022, [1 paper in common](https://arxiv.org/abs/2209.02685)).
  - Hilkar Val Soberanes (2022-today).
+
+----------
+
+## Courses
+----------
+
+- Course: **Intermediate Data Science 2022.** <br> 
+  DGTIC-UNAM. <br> 
+  Specialization. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
+
+- Course: **Introduction to Deep Learning 2022.** <br> 
+  Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
+  Master in Process Modeling and Optimization. <br> 
+  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
+
+- High school physics and mathematics courses (2013-2014). <br>
+  CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
+  Courses of Algebra, Physics, Differential equations, etc.
+
+
+------------
+## Workshops
+-------------
+
+- Workshop: **Machine Learning Basics 2021**.<br>
+  3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
+  Universidad de Guanajuato. <br>
+  From June 28 to July 2. <br>
+  4.5 hours. <br>
+  [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
+
+- Workshop: **Cosmology with SimpleMC 2020**. <br>
+  Instituto de Ciencias Físicas, UNAM. <br>
+  15 hours. <br>
+  [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
 
 
