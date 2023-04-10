@@ -16,7 +16,7 @@ title: Students, courses and workshops
 
 &nbsp; **Graduated:**
 	
- -  **Javier Montaño** (2021-2022). <br> 
+ -  **Francisco Javier Montaño** (2021-2022). <br> 
     [Master in Astrophysics.](https://www.dropbox.com/s/af9m3ijmnc4cmvk/Certificado_Direccion_TFM_Isidro_Gomez_Vargas-signed.pdf?dl=0)  <br> 
     Valencia International University (VIU). <br>
     Thesis: *"Cosmological analysis with SNeIa and neural networks"*. <br>
