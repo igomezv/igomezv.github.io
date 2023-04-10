@@ -22,8 +22,8 @@ title: Students, courses and workshops
     Thesis: *"Cosmological analysis with SNeIa and neural networks"*. <br>
     Co-supervised with Ricardo García Salcedo.
     
- - **Daniel Barrera** (2021-2023). <br> 
-   Master in Advanced Technology . <br>
+ - **Daniel Barrera Hernández** (2021-2023). <br> 
+   [Master in Advanced Technology.](https://www.dropbox.com/s/601u8nhx4owlupb/all_mta.pdf?dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br> 
    Thesis: *"Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"*. <br>
    Co-supervised with Ricardo García Salcedo.
