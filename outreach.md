@@ -4,7 +4,7 @@ title: Textbooks, outreach and didactic material
 ---
 
 - [Text Books](#text-books)
-- [Didactic and outreach papers](#didactic-and-outreach-papers)
+- [Outreach](#outreach)
 - [Digital didactic material](#digital-didactic-material)
 
 -----------------------------------------------------------
@@ -41,9 +41,10 @@ Related links:
 
 --------
 
-## Didactic and outreach papers
+## Outreach
 ----------
 
+### Papers
 
 - An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)).
 - A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
@@ -51,8 +52,6 @@ Related links:
 - Cosmología observacional con Redes Neuronales Artificiales ([Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
 - Realidad Aumentada como herramienta didáctica en geometría 3D ([Latin-American Journal of Physics Education, 12(4), 3](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)).
 - Posibilidad didáctica de la Realidad Aumentada ([Sólo ensayo. Antología de jóvenes escritores Volumen II. 2017](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
-
-
 
 
 ---------
