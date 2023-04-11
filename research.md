@@ -15,6 +15,7 @@ title: Research
 	- [InspireHep](https://inspirehep.net/authors/1862237).
 	- [arXiv](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I).
 	- [OrcID](https://orcid.org/0000-0002-6473-018X).
+	- [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
 	- [Academia.edu](https://unam.academia.edu/IsidroG%C3%B3mezVargas).
 
 
