@@ -42,9 +42,9 @@ Related links:
 --------
 
 ## Outreach
-----------
+------------
 
-### Papers
+### Articles
 
 - [Medel Esquivel, R., Gómez-Vargas, I., Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 - [Medel-Esquivel, R., Gómez-Vargas, I., García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
