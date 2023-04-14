@@ -46,14 +46,19 @@ Related links:
 
 ### Papers
 
-- An Introduction to Markov Chain Monte Carlo ([Boletín de Estadística e Investigación Operativa](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)).
-- A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead ([The Physics Teacher](https://aapt.scitation.org/doi/abs/10.1119/10.0006135)).
-- Una Aplicación de las redes neuronales en la cosmología ([Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia)).
-- Cosmología observacional con Redes Neuronales Artificiales ([Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97)).
-- Realidad Aumentada como herramienta didáctica en geometría 3D ([Latin-American Journal of Physics Education, 12(4), 3](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)).
-- Posibilidad didáctica de la Realidad Aumentada ([Sólo ensayo. Antología de jóvenes escritores Volumen II. 2017](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
+- [Medel Esquivel, R., Gómez-Vargas, I., Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
+- [Medel-Esquivel, R., Gómez-Vargas, I., García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
+- [Gómez-Vargas, I., Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. Una Aplicación de las redes neuronales en la cosmología. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia).
+- [Vazquez, JA, Gómez-Vargas, I & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97).
+- [Gómez-Vargas, I., Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
+- [Gómez Vargas, Isidro (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
+- 2013. Sunday publications in the science section of the newspaper *El Sur del Itsmo* of Oaxaca, Mexico.
 
+### Talks
 
+- **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo.
+- **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química.
+- 
 ---------
 
 ## Digital didactic material

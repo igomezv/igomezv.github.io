@@ -61,9 +61,7 @@ title: Research
 	
 ## Talks
 
-- **2023**
-	- *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo.
-	
+
 - **2022** 
 	- *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
 
