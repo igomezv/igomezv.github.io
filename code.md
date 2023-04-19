@@ -20,7 +20,7 @@ Collaborating with Dr. JA Vazquez.
 Links:
  
  - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
- - [Docs](https://igomezv.github.io/SimpleMC).
+ - [Documentation](https://igomezv.github.io/SimpleMC).
  - [Mini-course](https://github.com/igomezv/simplemc_workshop)
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
@@ -34,7 +34,8 @@ Neural Networks Optimized by Genetic Algorithms in Data Analysis (nnogada).
 Links:
 
  - [Repository](https://github.com/igomezv/nnogada) in GitHub.
- - [Related paper](https://arxiv.org/abs/2209.02685)
+ - [Documentation](https://igomezv.github.io/nnogada/).
+ - [Related paper](https://arxiv.org/abs/2209.02685).
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
 
