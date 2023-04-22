@@ -62,6 +62,11 @@ title: Students, courses and workshops
 ## Courses
 ----------
 
+- Course: **Probabilistic Reasoning 2023.** <br>
+  DGTIC-UNAM. <br>
+  10 hours. <br>
+  [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
+
 - Course: **Intermediate Data Science 2022.** <br> 
   DGTIC-UNAM. <br> 
   Specialization. 30 hours. <br> 
