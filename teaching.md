@@ -37,7 +37,7 @@ title: Students, courses and workshops
     Co-supervised with Dra. Lilí Guadarrama.
  
  - **Francisco Tamayo** (2022-today).<br>
-   PhD in Physics Education .<br>
+   PhD in Physics Education.<br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br>
    Thesis: *"Data mining to analyze the academic performance of first year chemical engineering students in physics"*. <br>
    Co-supervised with Ricardo García Salcedo.
