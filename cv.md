@@ -60,12 +60,12 @@ title: CV
 
 - Master's degree in advanced technology.<br>
  CICATA-Legaria, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>: *Design and development of an augmented reality application for mobile devices.*. <br>
- Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán. .
+ <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>: *Design and development of an augmented reality application for mobile devices.* <br>
+ Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán.
 
 - Bachelor degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis</a>: *Simulation of a BWR refueling with CASMO4 and Simulate3.*. <br>
+ <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis</a>: *Simulation of a BWR refueling with CASMO4 and Simulate3*. <br>
   Advisor: Dr. Edmundo del Valle Gallegos. 
 
 - Diplomat on Knowledge discovery with Big data tools. <br>
