@@ -18,16 +18,16 @@ title: CV
 ## Current:
  - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022.
  - Member of the Sociedad Mexicana de Física, 2022.
- - 2021-today. Postdoctoral researcher.<br>
+ - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-today. Postdoctoral researcher.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Statistical and machine learning methods in observational cosmology*.
 
 ## Past:
-- May-October 2021. Research project assistant (postdoc). <br>
+- <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc). </a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
   
-- March-October 2020. Visiting PhD student. <br>
+- <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student. </a><br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
   Project: *Reversible nested sampling*.<br>
   Advisor: Dr. Will Handley.
@@ -55,17 +55,17 @@ title: CV
 - PhD in advanced technology.<br> 
   CICATA-Legaria, Instituto Politécnico Nacional.<br> 
   From 2019-2020, associate PhD student at Instituto de Ciencias Físicas, UNAM. <br>
-  <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis</a>: *Artificial neural networks in Bayesian Inference*. <br>
+  <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis: *Artificial neural networks in Bayesian Inference*.</a> <br>
   Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
 
 - Master's degree in advanced technology.<br>
  CICATA-Legaria, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>: *Design and development of an augmented reality application for mobile devices.* <br>
+ <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis: *Design and development of an augmented reality application for mobile devices.* </a><br>
  Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán.
 
 - Bachelor degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis</a>: *Simulation of a BWR refueling with CASMO4 and Simulate3*. <br>
+ <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis: *Simulation of a BWR refueling with CASMO4 and Simulate3*. </a><br>
   Advisor: Dr. Edmundo del Valle Gallegos. 
 
 - Diplomat on Knowledge discovery with Big data tools. <br>
