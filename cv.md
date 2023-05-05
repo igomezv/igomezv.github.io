@@ -18,19 +18,19 @@ title: CV
 ## Current:
  - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022.
  - Member of the Sociedad Mexicana de Física, 2022.
- - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-today. Postdoctoral researcher.</a><br>
+ - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
-  Project: *Statistical and machine learning methods in observational cosmology*.
+  Project: *Statistical and machine learning methods in observational cosmology*.</a>
 
 ## Past:
-- <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc). </a><br>
+- <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc).<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
-  Project: *Statistics in observational cosmology and Dark Energy.Statistics in observational cosmology and Dark Energy*.
+  Project: *Statistics in observational cosmology and Dark Energy*.</a>
   
-- <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student. </a><br>
+- <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
   Project: *Reversible nested sampling*.<br>
-  Advisor: Dr. Will Handley.
+  Advisor: Dr. Will Handley.</a>
 
 - August-October 2019. Visiting PhD student. <br> 
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
