@@ -8,8 +8,8 @@ title: Other
 - [Algunas notas (spanish)](https://igomezv.github.io/posts).
 - [Cuentos, minificciones y un poco más (spanish)](http://www.neorelativista.blogspot.com).
 - [Cienciagonos (spanish)](https://cienciagonos.com).
-- [Photos (Flickr)](https://www.flickr.com/photos/neorelativista).
-- [Fotos (IG)](https://www.instagram.com/neorelativista).
+- [Flickr](https://www.flickr.com/photos/neorelativista).
+- [Instagram](https://www.instagram.com/neorelativista).
 
 
 --------------------
