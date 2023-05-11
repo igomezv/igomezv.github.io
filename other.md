@@ -5,11 +5,11 @@ title: Miscellaneous
 ---
 
 - [News](https://igomezv.github.io/other/#news).
-- [Some notes (spanish)](https://igomezv.github.io/posts).
-- [Literary blog (spanish)](http://www.neorelativista.blogspot.com).
-- [Cienciagonos project (spanish)](https://cienciagonos.com).
+- [Algunas notas (spanish)](https://igomezv.github.io/posts).
+- [Cuentos, minificciones y un poco más (spanish)](http://www.neorelativista.blogspot.com).
+- [Cienciagonos (spanish)](https://cienciagonos.com).
 - [Photos (Flickr)](https://www.flickr.com/photos/neorelativista).
-- [Photos (IG)](https://www.instagram.com/neorelativista).
+- [Fotos (IG)](https://www.instagram.com/neorelativista).
 
 
 --------------------
