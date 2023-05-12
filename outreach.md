@@ -28,13 +28,13 @@ Related links:
 
 #### Others
 
-- Gómez Vargas, I. (2018) Didactic guide “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
+- Gómez Vargas, I. (2018) Guía didáctica “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
     
-- Corona Tinoco, M. & Gómez Vargas, I. (2018) Didactic guide “Ciencias 3. Química. Secundaria Savia. Guía Esencial para aprender a pensar", 1st ed. Editorial SM. ISBN: 978-607-24-2958-1.
+- Corona Tinoco, M. & Gómez Vargas, I. (2018) Guía didáctica “Ciencias 3. Química. Secundaria Savia. Guía Esencial para aprender a pensar", 1st ed. Editorial SM. ISBN: 978-607-24-2958-1.
     
-- Gómez Vargas, I. (2018) Matemáticas II. Guide for teachers. Serie Infinita.Ediciones Castillo. ISBN: 978-607-540-464-6.
+- Gómez Vargas, I. (2018) Matemáticas II. Guía para maestros. Serie Infinita.Ediciones Castillo. ISBN: 978-607-540-464-6.
     
-- Gómez Vargas, I. (2018) Matemáticas I. Guide for teachers. Serie Infinita. Ediciones Castillo. ISBN: 978-607-540-361-8.
+- Gómez Vargas, I. (2018) Matemáticas I. Guía para maestros. Serie Infinita. Ediciones Castillo. ISBN: 978-607-540-361-8.
 
 - [ISBN list, INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&id_autor=276376).
 
@@ -79,7 +79,7 @@ Related links:
 ----------------
 
 #### MOOC course
-Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas".
+Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas" for the MexicoX platform.
 
 In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
 
