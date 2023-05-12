@@ -4,13 +4,12 @@ title: Other
 
 ---
 
+- [Cuentos, minificciones y un poco más](http://www.neorelativista.blogspot.com).
 - [News](https://igomezv.github.io/other/#news).
-- [Algunas notas (spanish)](https://igomezv.github.io/posts).
-- [Cuentos, minificciones y un poco más (spanish)](http://www.neorelativista.blogspot.com).
-- [Cienciagonos (spanish)](https://cienciagonos.com).
+- [Algunas notas](https://igomezv.github.io/posts).
 - [Flickr](https://www.flickr.com/photos/neorelativista).
 - [Instagram](https://www.instagram.com/neorelativista).
-
+- [Cienciagonos](https://cienciagonos.com).
 
 --------------------
 
