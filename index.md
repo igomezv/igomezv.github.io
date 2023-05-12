@@ -19,13 +19,18 @@ img {
 
 <img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
 
+<p> Isidro es físico-matemático con maestría y doctorado en tecnología avanzada por el Instituto Politécnico Nacional. Le gusta escribir cuentos y ensayos. Ha escrito libros de texto para secundaria. Sus intereses de investigación son redes neurolanes, inferencia Bayesiana y modelos cosmológicos de energía oscura. Programa en Python y, en la actualidad, es investigador postdoctoral en el ICF de la UNAM en temas de aprendizaje automático, estadística y cosmología observacional.</p>
+
+En esta página puedes leer sobre sus [**posiciones de investigación**](https://igomezv.github.io/cv/#research-positions), [**curriculum vitae**](https://igomezv.github.io/cv), [**publicaciones académicas**](https://igomezv.github.io/research/#list-of-papers), [**participatión en congresos**](https://igomezv.github.io/research/#list-of-academic-presentations),  [**libros de texto**](https://igomezv.github.io/outreach/#text-books), [**estudiantes**](https://igomezv.github.io/teaching/#students), [**cursos impartidos**](https://igomezv.github.io/teaching/#courses), [**códigos**](code.md), [**divulgación**](https://igomezv.github.io/outreach/#outreach), [**material didáctico**](https://igomezv.github.io/outreach/#digital-didactic-material) y [**otras curiosidades**](https://igomezv.github.io/other).
+
+Para colaboraciones, divulgación o asesorías en aprendizaje automático, o temas relacionados, por favor, envía un [**correo electrónico**](mailto:igomezvargas@outlook.com). 
+
+
 <p> Hi, I am Isidro, a physicist-mathematician with a master’s degree and Ph.D. in advanced technology from the Instituto Politécnico Nacional. I write short stories, essays, textbooks, and Python code. My research interests are neural networks, Bayesian inference, and cosmological models of dark energy. I am currently a postdoc in machine learning applied to observational cosmology at the ICF, Universidad Nacional Autónoma de México.</p>
 
 You can see more about my [**research positions**](https://igomezv.github.io/cv/#research-positions), [**curriculum vitae**](https://igomezv.github.io/cv), [**papers**](https://igomezv.github.io/research/#list-of-papers), [**participations in congresses**](https://igomezv.github.io/research/#list-of-academic-presentations),  [**textbooks**](https://igomezv.github.io/outreach/#text-books), [**students**](https://igomezv.github.io/teaching/#students), [**lectures**](https://igomezv.github.io/teaching/#courses), [**codes**](code.md), [**outreach**](https://igomezv.github.io/outreach/#outreach), [**didactic material**](https://igomezv.github.io/outreach/#digital-didactic-material) or [**news**](https://igomezv.github.io/other/#news) in this website.
 
 For collaborations, outreach, or consulting on machine learning, or related topics, please [**email me**](mailto:igomezvargas@outlook.com). 
 
-
-[Click aquí para ver la versión en español generada automáticamente por Google.](https://igomezv-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=wapp)
 						
 
