@@ -25,6 +25,7 @@ En esta página puedes dar un vistazo a sus [**posiciones de investigación**](h
 
 Para colaboraciones, divulgación o asesorías en aprendizaje automático, o temas relacionados, por favor, envía un [**correo electrónico**](mailto:igomezvargas@outlook.com). 
 
+---
 
 <p> Hi, I am Isidro, a physicist-mathematician with a master’s degree and Ph.D. in advanced technology from the Instituto Politécnico Nacional. I write short stories, essays, textbooks, and Python code. My research interests are neural networks, Bayesian inference, and cosmological models of dark energy. I am currently a postdoc in machine learning applied to observational cosmology at the ICF, Universidad Nacional Autónoma de México.</p>
 
