@@ -20,12 +20,12 @@ title: CV
  - Member of the Sociedad Mexicana de Física, 2022.
  - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
-  Project: *Statistical and machine learning methods in observational cosmology*.</a>
+  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
 
 ## Past:
 - <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc).<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
-  Project: *Statistics in observational cosmology and Dark Energy*.</a>
+  Project: *Estadística en cosmología observacional*.</a>
   
 - <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
@@ -34,17 +34,17 @@ title: CV
 
 - August-October 2019. Visiting PhD student. <br> 
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
-  Project: *Algorithms in cosmology*. <br>
-  Supervisor: Dr.José Alberto Vázquez.
+  Project: *Algoritmos en cosmología*. <br>
+  Supervisor: Dr. José Alberto Vázquez.
 
 - September-October 2018. Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
-  Project: *Cosmological parameter estimation with CosmoSis code*. <br> 
+  Project: *Estimación de parámetros cosmológicos con el código Cosmosis*. <br> 
   Supervisor: Dr. Ulises Nucamendi Gómez.
 
 - April-May 2016. Visiting master student. <br> 
   Computer department, UABC-Ensenada. <br> 
-  Project: *Intelligent tutoring agents*.
+  Project: *Agentes tutores inteligentes*.
 
 
 ---
@@ -60,7 +60,7 @@ title: CV
 
 - Master's degree in advanced technology.<br>
  CICATA-Legaria, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis: *Diseño y desarrollo de una aplicación para dispositivos móviles de realidad aumentada.* </a><br>
+ <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis: *Diseño y desarrollo de una aplicación para dispositivos móviles de realidad aumentada.* </a><br>
  Advisors: Dr. Ricardo García Salcedo and Dr. Daniel Sánchez Guzmán.
 
 - Bachelor degree in physics and mathematics. <br>
