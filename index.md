@@ -23,7 +23,7 @@ img {
 
 En esta página puedes dar un vistazo a sus [**posiciones de investigación**](https://igomezv.github.io/cv/#research-positions), [**curriculum vitae**](https://igomezv.github.io/cv), [**publicaciones académicas**](https://igomezv.github.io/research/#list-of-papers), [**participación en congresos**](https://igomezv.github.io/research/#list-of-academic-presentations),  [**libros de texto**](https://igomezv.github.io/outreach/#text-books), [**estudiantes**](https://igomezv.github.io/teaching/#students), [**cursos impartidos**](https://igomezv.github.io/teaching/#courses), [**códigos**](code.md), [**divulgación**](https://igomezv.github.io/outreach/#outreach), [**material didáctico**](https://igomezv.github.io/outreach/#digital-didactic-material) y [**otras curiosidades**](https://igomezv.github.io/other).
 
-Para colaboraciones, divulgación o asesorías en aprendizaje automático, o temas relacionados, por favor, envía un [**correo electrónico**](mailto:igomezvargas@outlook.com). 
+Para colaboraciones, divulgación o asesorías en aprendizaje automático, física o temas afines, por favor, envía un [**correo electrónico**](mailto:igomezvargas@outlook.com). 
 
 ---
 
