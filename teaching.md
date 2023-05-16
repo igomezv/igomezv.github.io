@@ -19,33 +19,33 @@ title: Students, courses and workshops
  -  **Francisco Javier Montaño** (2021-2022). <br> 
     [Master in Astrophysics.](https://www.dropbox.com/s/af9m3ijmnc4cmvk/Certificado_Direccion_TFM_Isidro_Gomez_Vargas-signed.pdf?dl=0)  <br> 
     Valencia International University (VIU). <br>
-    Thesis: *"Análisis cosmológico con SNeIa y redes neuronales"/"Cosmological analysis with SNeIa and neural networks"*. <br>
+    Thesis: *Análisis cosmológico con SNeIa y redes neuronales./Cosmological analysis with SNeIa and neural networks*. <br>
     Co-supervised with Ricardo García Salcedo.
     
  - **Daniel Barrera Hernández** (2021-2023). <br> 
    [Master in Advanced Technology.](https://www.dropbox.com/s/601u8nhx4owlupb/all_mta.pdf?dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br> 
-   Thesis: *"Aplicación de aprendizaje automático para el diagnóstico de enfermedades cardiovasculares usando electrocardiogramas."/"Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms"*. <br>
+   Thesis: *Aplicación de aprendizaje automático para el diagnóstico de enfermedades cardiovasculares usando electrocardiogramas./Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms*. <br>
    Co-supervised with Ricardo García Salcedo.
 
 &nbsp; **In process:**
 
  - **José Luis López López** (2021-today).<br> 
     Master in Process Modeling and Optimization. <br>
-    Centro de Investigación en Matemá	ticas (CIMAT), unidad Aguascalientes.<br> 
-    Thesis: *"Predicción de trucos en imágenes de skateboard usando redes neuronales."/"Prediction of skateboard tricks in images using neural networks"*. <br>
+    Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
+    Thesis: *Predicción de trucos en imágenes de skateboard usando redes neuronales./Prediction of skateboard tricks in images using neural networks*. <br>
     Co-supervised with Dra. Lilí Guadarrama.
  
  - **Francisco Tamayo** (2022-today).<br>
    PhD in Physics Education.<br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br>
-   Thesis: *"Minería de datos para analizar el rendimiento académico del primer año de la ingeniería química en la materia de física"/"Data mining to analyze the academic performance of first year chemical engineering students in physics"*. <br>
+   Thesis: *Minería de datos para analizar el rendimiento académico del primer año de la ingeniería química en la materia de física./Data mining to analyze the academic performance of first year chemical engineering students in physics*. <br>
    Co-supervised with Ricardo García Salcedo.
 
  - **Erika Montero** (2023-today).<br>
    PhD in Physics Education. <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
-   Thesis: *"Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático."/"Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms"*. <br>
+   Thesis: *Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático./Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
    Co-supervised with Ricardo García Salcedo.
 		
 	
@@ -67,12 +67,12 @@ title: Students, courses and workshops
   10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
 
-- Course: **Ciencia de datos intermedio/Intermediate Data Science.** <br> 
+- Course: **Data Science intermedio/Intermediate Data Science.** <br> 
   2022, DGTIC-UNAM. <br> 
   Specialization. 30 hours. <br> 
   [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
 
-- Course: **Aprendizaje profundo/Deep Learning.** <br> 
+- Course: **Deep Learning.** <br> 
   2022, Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
   Master in Process Modeling and Optimization. <br> 
   Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
