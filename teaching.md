@@ -63,13 +63,13 @@ title: Students, courses and workshops
 ----------
 
 - Course: **Cómputo evolutivo/Evolutionary Computation.** <br>
-  *Diplomado en Inteligencia Artificial Aplicada*.
+  *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
   20 hours. <br>
   [Link to course material](https://github.com/igomezv/ComputoEvolutivo).
   
 - Course: **Razonamiento Probabilístico/Probabilistic Reasoning.** <br>
-  *Diplomado en Inteligencia Artificial Aplicada*.
+  *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
   10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
