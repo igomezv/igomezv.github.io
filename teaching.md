@@ -62,6 +62,11 @@ title: Students, courses and workshops
 ## Courses
 ----------
 
+- Course: **Cómputo evolutivo/Evolutionary Computation.** <br>
+  2023, DGTIC-UNAM. <br>
+  20 hours. <br>
+  [Link to course material](https://github.com/igomezv/ComputoEvolutivo).
+  
 - Course: **Razonamiento Probabilístico/Probabilistic Reasoning.** <br>
   2023, DGTIC-UNAM. <br>
   10 hours. <br>
