@@ -75,7 +75,7 @@ title: Students, courses and workshops
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
 
 - Course: **Data Science intermedio/Intermediate Data Science.** <br> 
-  *Diplomado en Ciencia de Datos*.
+  *Diplomado en Ciencia de Datos*. <br> 
   2022, DGTIC-UNAM. <br> 
   Specialization. 30 hours. <br> 
   [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
