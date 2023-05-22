@@ -28,7 +28,7 @@ title: Research
 ##### | 4 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 2 preprints |
 
 
-- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2023). Coupled Multi Scalar Field Dark Energy. arXiv:1805.4903455.](https://arxiv.org/abs/1805.4903455)
+- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2023). Coupled Multi Scalar Field Dark Energy.305.11396.](https://arxiv.org/abs/2305.11396)
 
 - [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. arXiv:2303.09098.](https://arxiv.org/abs/2303.09098)
 
