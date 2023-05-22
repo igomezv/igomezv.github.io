@@ -108,3 +108,4 @@ title: Research
 - Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
 - Physical Review D. [Private info](https://journals.aps.org/prd/).
 - Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
+- [Validation of peer reviews by Web of science](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
