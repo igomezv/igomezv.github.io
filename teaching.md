@@ -19,7 +19,7 @@ title: Students, courses and workshops
  -  **Luis Marín Díaz** (2022-2023). <br> 
     Master in Astrophysics. <br> 
     Valencia International University (VIU). <br>
-    Thesis: *Reconstrucción del módulo distancia de SNIa con datos observacionales y procesos gaussianos*. <br>
+    Thesis: *Reconstrucción del módulo distancia de SNIa con datos observacionales y procesos gaussianos./Reconstruction of the SNIa distance module with observational data and Gaussian processes.*. <br>
     Co-supervised with Ricardo García Salcedo.
     
  - **Daniel Barrera Hernández** (2021-2023). <br> 
