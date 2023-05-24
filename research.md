@@ -25,12 +25,12 @@ title: Research
 
 ---
 
-##### | 4 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 2 preprints |
+##### | 5 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 1 preprints |
 
 
 - [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2023). Coupled Multi Scalar Field Dark Energy. arxiv:305.11396.](https://arxiv.org/abs/2305.11396)
 
-- [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. arXiv:2303.09098.](https://arxiv.org/abs/2303.09098)
+- [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. arXiv:2303.09098. Accepted in Physical Review D.](https://arxiv.org/abs/2303.09098)
 
 - [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
 
