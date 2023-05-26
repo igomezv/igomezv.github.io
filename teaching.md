@@ -16,6 +16,12 @@ title: Students, courses and workshops
 
 &nbsp; **Graduated:**
 
+ - **José Luis López López** (2021-2023).<br> 
+    Master in Process Modeling and Optimization. <br>
+    Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
+    Thesis: *Predicción de trucos en imágenes de skateboard usando redes neuronales./Prediction of skateboard tricks in images using neural networks*. <br>
+    Co-supervised with Dra. Lilí Guadarrama.
+
   -  **Julen Pastor Rodriguez** (2022-2023). <br> 
     Master in Astrophysics. <br> 
     Valencia International University (VIU). <br>
@@ -42,23 +48,23 @@ title: Students, courses and workshops
     
     
 &nbsp; **In process:**
-
- - **José Luis López López** (2021-today).<br> 
-    Master in Process Modeling and Optimization. <br>
-    Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
-    Thesis: *Predicción de trucos en imágenes de skateboard usando redes neuronales./Prediction of skateboard tricks in images using neural networks*. <br>
-    Co-supervised with Dra. Lilí Guadarrama.
  
  - **Francisco Tamayo** (2022-today).<br>
    PhD in Physics Education.<br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br>
-   Thesis: *Minería de datos para analizar el rendimiento académico del primer año de la ingeniería química en la materia de física./Data mining to analyze the academic performance of first year chemical engineering students in physics*. <br>
+   Thesis project: *Minería de datos para analizar el rendimiento académico del primer año de la ingeniería química en la materia de física./Data mining to analyze the academic performance of first year chemical engineering students in physics*. <br>
+   Co-supervised with Ricardo García Salcedo.
+   
+ - **José Luis López López** (2023-today).<br> 
+   PhD in Advanced Technology. <br>
+   CICATA-Legaria, Instituto Politécnico Nacional..<br> 
+   Thesis project: *Image processing using deep learning*. <br>
    Co-supervised with Ricardo García Salcedo.
 
  - **Erika Montero** (2023-today).<br>
    PhD in Physics Education. <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
-   Thesis: *Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático./Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
+   Thesis project: *Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático./Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
    Co-supervised with Ricardo García Salcedo.
 		
 	
