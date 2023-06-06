@@ -60,11 +60,11 @@ title: Research
 -----
 
 - **2023** 
-	- **[Poster]**. *Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and funda-
+	- [Poster] *Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and funda-
 mental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. Lisboa, Portugal.
 
 - **2022** 
-	- **[Conference]**. *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
+	- [Conference]. *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
 
 - **2021** 
 	- **Talk**: *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos.
@@ -84,13 +84,13 @@ mental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. L
 
 ## Posters 
 - **2022** 
-	- *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo.
-	- *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México.
-	- *Neural networks in cosmological data analysis*, 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil.
+	- **[Poster]**. *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo.
+	- **[Poster]**. *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México.
+	- **[Poster]**. *Neural networks in cosmological data analysis*, 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil.
 - **2021** 
-	- *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-	- *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-	- *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	- **[Poster]**. *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	- **[Poster]**. *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
+	- **[Poster]**. *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
 
 - **2019** 
 	- *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
