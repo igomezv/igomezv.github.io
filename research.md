@@ -67,7 +67,7 @@ mental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. L
 	- [Conference]. *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
 
 - **2021** 
-	- **Talk**: *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos.
+	- [Talk]. *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos.
 	- Seminar: *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato.
 	- *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
 	
