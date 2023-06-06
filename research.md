@@ -16,7 +16,6 @@ title: Research
 	- [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
 	- [Academia.edu](https://unam.academia.edu/IsidroG%C3%B3mezVargas).
 
-
 -----------------------------------------------------------
 
 # List of papers
@@ -60,8 +59,7 @@ title: Research
 -----
 
 - **2023** 
-	- [Poster] *Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and funda-
-mental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. Lisboa, Portugal.
+	- [Poster] *Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and fundamental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. Lisboa, Portugal.
 
 - **2022** 
 	- [Poster] *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo.
