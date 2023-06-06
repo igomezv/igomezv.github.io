@@ -6,8 +6,6 @@ title: Research
 
 - [List of papers](#list-of-papers).
 - [List of academic presentations](#list-of-academic-presentations).
-	- [Talks](#talks).
-	- [Posters](#posters).
 - [Peer reviews](#peer-reviews).
 - Research profiles: 
 	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
@@ -61,14 +59,18 @@ title: Research
 # List of academic presentations
 -----
 
+- **2023** 
+	- **[Poster]**. *Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and funda-
+mental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. Lisboa, Portugal.
 
 - **2022** 
-	- **Conference**: *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
+	- **[Conference]**. *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo.
 
 - **2021** 
 	- **Talk**: *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos.
 	- Seminar: *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato.
 	- *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
+	
 - **2020** 
 	- *Muestreo anidado, redes neuronales y SimpleMC*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
 	- *Métodos estadísticos con redes neuronales en cosmología observacional*, V Encuentro de Modelado Matemático en Física y Geometría, BUAP, MCTP.
