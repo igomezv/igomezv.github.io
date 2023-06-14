@@ -60,7 +60,7 @@ Related links:
 
 ### Radio program
 
-- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://fb.watch/l9Ck9n1AYE/).
+- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394).
  
 ---------
 
