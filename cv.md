@@ -16,11 +16,14 @@ title: CV
 ---
 
 ## Current:
- - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022.
- - Member of the Sociedad Mexicana de Física, 2022.
  - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
+  
+ - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022.
+ 
+ - Member of the Sociedad Mexicana de Física, 2022. 
+ 
 
 ## Past:
 - <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc).<br>
