@@ -46,8 +46,6 @@ title: CV
   Project: *Estimación de parámetros cosmológicos con el código Cosmosis*. <br> 
   Supervisor: Dr. Ulises Nucamendi Gómez.
 
- - Member of the Sociedad Mexicana de Física, 2022-2023. 
- 
 - April-May 2016. Visiting master student. <br> 
   Computer department, UABC-Ensenada. <br> 
   Project: *Agentes tutores inteligentes*.
