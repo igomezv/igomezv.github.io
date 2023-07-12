@@ -19,11 +19,12 @@ title: CV
  - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-today. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
-  
- - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022.
- 
- - Member of the Sociedad Mexicana de Física, 2022. 
- 
+
+ - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022-2026.
+
+ - Visiting professor. 2023-2026. <br>
+   CICATA-Legaria, Instituto Politécnico Nacional.<br>
+   
 
 ## Past:
 - <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc).<br>
@@ -45,6 +46,8 @@ title: CV
   Project: *Estimación de parámetros cosmológicos con el código Cosmosis*. <br> 
   Supervisor: Dr. Ulises Nucamendi Gómez.
 
+ - Member of the Sociedad Mexicana de Física, 2022-2023. 
+ 
 - April-May 2016. Visiting master student. <br> 
   Computer department, UABC-Ensenada. <br> 
   Project: *Agentes tutores inteligentes*.
