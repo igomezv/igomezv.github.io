@@ -66,6 +66,11 @@ title: Students, courses and workshops
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
    Thesis project: *Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático./Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
    Co-supervised with Ricardo García Salcedo.
+
+ - **Esteban Elías Gonzalez Mendez** (2023).<br>
+   Summer research stay for undergraduate students (remote).<br>
+   ICF-UNAM.<br>
+   Physics engineering (Universidad Tecnológica de la Mixteca).<br>
 		
 	
 #### Advisory
