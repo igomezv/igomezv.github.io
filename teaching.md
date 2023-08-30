@@ -67,6 +67,12 @@ title: Students, courses and workshops
    Thesis project: *Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático./Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
    Co-supervised with Ricardo García Salcedo.
 
+ - **Daniel Barrera Hernández** (2023-today).<br> 
+   PhD in Advanced Technology. <br>
+   CICATA-Legaria, Instituto Politécnico Nacional..<br> 
+   Thesis project: *Application of deep learning in electrocardiograms*. <br>
+   Co-supervised with Ricardo García Salcedo.
+
  - **Esteban Elías Gonzalez Mendez** (2023).<br>
    Summer research stay for undergraduate students.<br>
    ICF-UNAM.<br>
