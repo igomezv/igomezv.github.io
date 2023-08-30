@@ -68,7 +68,7 @@ title: Students, courses and workshops
    Co-supervised with Ricardo García Salcedo.
 
  - **Esteban Elías Gonzalez Mendez** (2023).<br>
-   Summer research stay for undergraduate students (remote).<br>
+   Summer research stay for undergraduate students.<br>
    ICF-UNAM.<br>
    Physics engineering (Universidad Tecnológica de la Mixteca).<br>
 		
