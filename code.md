@@ -19,7 +19,7 @@ Collaborating with Dr. JA Vazquez.
 
 Links:
  
- - [Repository](hhttps://github.com/ja-vazquez/SimpleMC) in GitHub.
+ - [Repository](https://github.com/ja-vazquez/SimpleMC) in GitHub.
  - [Documentation](https://igomezv.github.io/SimpleMC).
  - [Mini-course](https://github.com/igomezv/simplemc_workshop)
 
