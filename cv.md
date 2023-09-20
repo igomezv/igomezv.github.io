@@ -20,9 +20,9 @@ title: CV
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
 
- - SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022-2026.
+ - [SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022-2026](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 
- - Visiting professor. 2023-2026. <br>
+ - [Visiting professor. 2023-2026.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
    
 
@@ -33,7 +33,7 @@ title: CV
   
 - <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
-  Project: *Reversible nested sampling*.<br>
+  [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
   Advisor: Dr. Will Handley.</a>
 
 - August-October 2019. Visiting PhD student. <br> 
