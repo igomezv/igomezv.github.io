@@ -73,7 +73,7 @@ title: Students, courses and workshops
    Co-supervised with Ricardo García Salcedo.
    	
  -  **Francisco Javier Montaño** (2021-2022). <br> 
-    [Master in Astrophysics. (graduated)](https://www.dropbox.com/s/af9m3ijmnc4cmvk/Certificado_Direccion_TFM_Isidro_Gomez_Vargas-signed.pdf?dl=0)  <br> 
+    [Master in Astrophysics (graduated).](https://www.dropbox.com/s/af9m3ijmnc4cmvk/Certificado_Direccion_TFM_Isidro_Gomez_Vargas-signed.pdf?dl=0)  <br> 
     Valencia International University (VIU). <br>
     Thesis: *Análisis cosmológico con SNeIa y redes neuronales./Cosmological analysis with SNeIa and neural networks*. <br>
     Co-supervised with Ricardo García Salcedo.
