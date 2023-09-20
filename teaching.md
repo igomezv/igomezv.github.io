@@ -55,7 +55,7 @@ title: Students, courses and workshops
     Co-supervised with Dra. Lilí Guadarrama.
 
   -  **Julen Pastor Rodriguez** (2022-2023). <br> 
-    [Master in Astrophysics.](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado-Direcci-n_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&dl=0) <br> 
+    [Master in Astrophysics (graduated).](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado-Direcci-n_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&dl=0) <br> 
     Valencia International University (VIU). <br>
     Thesis: *Análisis cosmológico de supernovas con redes neuronales./Cosmological analysis of supernovae with neural networks*. <br>
     Co-supervised with Ricardo García Salcedo.
@@ -67,7 +67,7 @@ title: Students, courses and workshops
     Co-supervised with Ricardo García Salcedo.
     
  - **Daniel Barrera Hernández** (2021-2023). <br> 
-   [Master in Advanced Technology. (graduated)](https://www.dropbox.com/s/601u8nhx4owlupb/all_mta.pdf?dl=0) <br>
+   [Master in Advanced Technology (graduated).](https://www.dropbox.com/s/601u8nhx4owlupb/all_mta.pdf?dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br> 
    Thesis: *Aplicación de aprendizaje automático para el diagnóstico de enfermedades cardiovasculares usando electrocardiogramas./Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms*. <br>
    Co-supervised with Ricardo García Salcedo.
