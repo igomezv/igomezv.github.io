@@ -12,11 +12,7 @@ title: Students, courses and workshops
 ## Students
 ------------
 
-#### Thesis supervision
-
-
-    
-&nbsp; **Current:**
+#### Current:
  
  - **Daniel Barrera Hernández** (2023-today).<br> 
    PhD in Advanced Technology. <br>
@@ -43,8 +39,7 @@ title: Students, courses and workshops
    Co-supervised with Ricardo García Salcedo.
 
 
-   
-&nbsp; **Past:**
+#### Past:
 
  - **Esteban Elías Gonzalez Mendez** (2023).<br>
    [Summer research stay for undergraduate students.](https://www.dropbox.com/scl/fi/p9no950f7dsqufjpehaqu/Estancia_Esteban_Tec_Mixteca_ICF-UNAM.pdf?rlkey=mjsbx95iltnwvibl2ebrs898t&dl=0)<br>
