@@ -12,6 +12,8 @@ title: Students, courses and workshops
 ## Students
 ------------
 
+
+
 #### Current:
  
  - **Daniel Barrera Hernández** (2023-today).<br> 
