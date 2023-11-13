@@ -25,7 +25,7 @@ title: Research
 ##### | 5 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 2 preprints |
 
 
-- [Medel Esquivel, R., Gómez-Vargas, I., Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. arxiv:xxx.xxx.](https://arxiv.org/abs/2305.113xx)
+- [Medel Esquivel, R., Gómez-Vargas, I., Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. arxiv:2311.05699.](https://arxiv.org/abs/2311.05699)
 
 - [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2023). Coupled Multi Scalar Field Dark Energy. arxiv:305.11396.](https://arxiv.org/abs/2305.11396)
 
