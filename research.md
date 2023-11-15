@@ -22,7 +22,7 @@ title: Research
 
 ---
 
-##### | 5 JCR/Q1/Q2 | 6 Q3/Q4 | 1 other | 2 preprints |
+##### | 5 JCR/Q1/Q2 | 6 Q3/Q4 | 2 preprints |
 
 
 - [Medel Esquivel, R., Gómez-Vargas, I., Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. arxiv:2311.05699.](https://arxiv.org/abs/2311.05699)
@@ -52,8 +52,6 @@ title: Research
 
 - [Gómez-Vargas, I., Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
 
-
-- [Gómez Vargas, I. G., Esquivel, R. M., & Salcedo, R. G. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
 
 -----
 
