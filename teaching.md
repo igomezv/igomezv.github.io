@@ -13,7 +13,6 @@ title: Students, courses and workshops
 ------------
 
 
-
 #### Current:
  
  - **Daniel Barrera Hernández** (2023-today).<br> 
@@ -43,6 +42,13 @@ title: Students, courses and workshops
 
 #### Past:
 
+  -  **Raquel Cabezuelo Ortí** (2023). <br> 
+    [Master in Astrophysics (graduated).](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado-Direcci-n_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&dl=0) <br> 
+    Valencia International University (VIU). <br>
+    Thesis: *Análisis dinámico de un modelo cosmológico homogéneo e
+     isótropo acoplado con electrodinámica no lineal*. <br>
+     Co-supervised with Ricardo García Salcedo.
+    
  - **Esteban Elías Gonzalez Mendez** (2023).<br>
    [Summer research stay for undergraduate students.](https://www.dropbox.com/scl/fi/p9no950f7dsqufjpehaqu/Estancia_Esteban_Tec_Mixteca_ICF-UNAM.pdf?rlkey=mjsbx95iltnwvibl2ebrs898t&dl=0)<br>
    ICF-UNAM.<br>
@@ -92,6 +98,12 @@ title: Students, courses and workshops
 ## Courses
 ----------
 
+- Course: **Data Science intermedio/Intermediate Data Science.** <br> 
+  *Diplomado en Ciencia de Datos*. <br> 
+  2022, 2023, DGTIC-UNAM. <br> 
+  Specialization. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
+  
 - Course: **Cómputo evolutivo/Evolutionary Computation.** <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
@@ -103,12 +115,6 @@ title: Students, courses and workshops
   2023, DGTIC-UNAM. <br>
   Specialization. 10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
-
-- Course: **Data Science intermedio/Intermediate Data Science.** <br> 
-  *Diplomado en Ciencia de Datos*. <br> 
-  2022, DGTIC-UNAM. <br> 
-  Specialization. 30 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
 
 - Course: **Deep Learning.** <br> 
   2022, Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
