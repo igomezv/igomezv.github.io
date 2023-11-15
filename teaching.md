@@ -30,13 +30,13 @@ title: Students, courses and workshops
  - **Francisco Tamayo** (2022-today).<br>
    PhD in Physics Education.<br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br>
-   Thesis project: *Minería de datos para analizar el rendimiento académico del primer año de la ingeniería química en la materia de física./Data mining to analyze the academic performance of first year chemical engineering students in physics*. <br>
+   Thesis project: *Data mining to analyze the academic performance of first year chemical engineering students in physics*. <br>
    Co-supervised with Ricardo García Salcedo.
    
  - **Erika Montero** (2023-today).<br>
    PhD in Physics Education. <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
-   Thesis project: *Estudio de la base de datos PISA correspondiente a Latino América y el Caribe con algoritmos de Aprendizaje Automático./Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
+   Thesis project: *Study the PISA database corresponding to Latin America and the Caribbean region through Machine Learning algorithms*. <br>
    Co-supervised with Ricardo García Salcedo.
 
 
@@ -45,8 +45,7 @@ title: Students, courses and workshops
   -  **Raquel Cabezuelo Ortí** (2023). <br> 
     [Master in Astrophysics (graduated).](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado-Direcci-n_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&dl=0) <br> 
     Valencia International University (VIU). <br>
-    Thesis: *Análisis dinámico de un modelo cosmológico homogéneo e
-     isótropo acoplado con electrodinámica no lineal*. <br>
+    Thesis (Spanish version): *Dynamical analysis of a homogeneous and isotropic cosmological model coupled with nonlinear electrodynamics*. <br>
      Co-supervised with Ricardo García Salcedo.
     
  - **Esteban Elías Gonzalez Mendez** (2023).<br>
@@ -57,31 +56,31 @@ title: Students, courses and workshops
  - **José Luis López López** (2021-2023).<br> 
     [Master in Process Modeling and Optimization (graduated).](https://www.dropbox.com/scl/fi/ugp9e5zf719f3ovh8h30e/Dr.-Isidro-G-mez-Vargas-Co-Direcci-n.pdf?rlkey=8q1wmbghairmqqf3nsgk67we7&dl=0) <br>
     Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
-    Thesis: *Predicción de trucos en imágenes de skateboard usando redes neuronales./Prediction of skateboard tricks in images using neural networks*. <br>
+    Thesis (Spanish version): *Prediction of skateboard tricks in images using neural networks*. <br>
     Co-supervised with Dra. Lilí Guadarrama.
 
   -  **Julen Pastor Rodriguez** (2022-2023). <br> 
     [Master in Astrophysics (graduated).](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado-Direcci-n_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&dl=0) <br> 
     Valencia International University (VIU). <br>
-    Thesis: *Análisis cosmológico de supernovas con redes neuronales./Cosmological analysis of supernovae with neural networks*. <br>
+    Thesis (Spanish version): *Cosmological analysis of supernovae with neural networks*. <br>
     Co-supervised with Ricardo García Salcedo.
     
  -  **Luis Marín Díaz** (2022-2023). <br> 
     [Master in Astrophysics (graduated).](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado-Direcci-n_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&dl=0) <br> 
     Valencia International University (VIU). <br>
-    Thesis: *Reconstrucción del módulo distancia de SNIa con datos observacionales y procesos gaussianos./Reconstruction of the SNIa distance module with observational data and Gaussian processes*. <br>
+    Thesis (Spanish version): *Reconstruction of the SNIa distance module with observational data and Gaussian processes*. <br>
     Co-supervised with Ricardo García Salcedo.
     
  - **Daniel Barrera Hernández** (2021-2023). <br> 
    [Master in Advanced Technology (graduated).](https://www.dropbox.com/s/601u8nhx4owlupb/all_mta.pdf?dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional. <br> 
-   Thesis: *Aplicación de aprendizaje automático para el diagnóstico de enfermedades cardiovasculares usando electrocardiogramas./Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms*. <br>
+   Thesis (Spanish version): *Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms*. <br>
    Co-supervised with Ricardo García Salcedo.
    	
  -  **Francisco Javier Montaño** (2021-2022). <br> 
     [Master in Astrophysics (graduated).](https://www.dropbox.com/s/af9m3ijmnc4cmvk/Certificado_Direccion_TFM_Isidro_Gomez_Vargas-signed.pdf?dl=0)  <br> 
     Valencia International University (VIU). <br>
-    Thesis: *Análisis cosmológico con SNeIa y redes neuronales./Cosmological analysis with SNeIa and neural networks*. <br>
+    Thesis (Spanish version): *Cosmological analysis with SNeIa and neural networks*. <br>
     Co-supervised with Ricardo García Salcedo.
     
 	
