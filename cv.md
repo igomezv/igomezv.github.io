@@ -15,7 +15,8 @@ title: CV
 # Research positions 
 ---
 
- - December 2023 - today. Postdoctoral researcher. Geneva Observatory, department of astronoy, University of Geneva. <br>
+ - December 2023 - today. Postdoctoral researcher.<br>
+   Geneva Observatory, department of astronoy, University of Geneva. <br>
    Project: Deep learning in exoplanet detection. 
 
  - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">November 2021-October 2023. Postdoctoral researcher.<br>
