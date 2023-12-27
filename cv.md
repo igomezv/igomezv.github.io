@@ -28,7 +28,7 @@ title: CV
  - [Visiting professor. 2023-2026.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
    
-- <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Research project assistant (postdoc).<br>
+- <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Estadística en cosmología observacional*.</a>
   
