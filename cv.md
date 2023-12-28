@@ -19,15 +19,15 @@ title: CV
    Geneva Observatory, Department of Astronomy, University of Geneva. <br>
    Project: Deep learning in exoplanet detection. </a>
 
- - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">November 2021-October 2023. Postdoctoral researcher.<br>
-  Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
-  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
-
  - [SNI Candidate (Sistema Nacional de Investigadores, nivel candidato), 2022-2026](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 
  - [Visiting professor. 2023-2026.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>
    
+ - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">November 2021-October 2023. Postdoctoral researcher.<br>
+  Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
+  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
+  
 - <a href="https://www.fis.unam.mx/~javazquez/file_Isidro.html">May-October 2021. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Estadística en cosmología observacional*.</a>
