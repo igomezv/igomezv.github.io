@@ -15,9 +15,9 @@ title: CV
 # Research positions 
 ---
 
- - December 2023 - today. Postdoctoral researcher.<br>
+ - <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">December 2023 - today. Postdoctoral researcher.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br>
-   Project: Deep learning in exoplanet detection. 
+   Project: Deep learning in exoplanet detection. </a>
 
  - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">November 2021-October 2023. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
@@ -32,10 +32,10 @@ title: CV
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
   Project: *Estadística en cosmología observacional*.</a>
   
-- <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student.<br>
+- <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">March-October 2020. Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
-  [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
-  Advisor: Dr. Will Handley.</a>
+  [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br></a>
+  <a href="https://www.willhandley.co.uk/students/">Advisor: Dr. Will Handley.</a>
 
 - August-October 2019. Visiting PhD student. <br> 
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br> 
