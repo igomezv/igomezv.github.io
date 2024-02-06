@@ -25,7 +25,7 @@ title: CV
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
  
- - [Visiting professor. 2023-.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
+ - [Visiting professor. 2023.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>  
   
  - <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">March-October 2020. Visiting PhD student.<br>
