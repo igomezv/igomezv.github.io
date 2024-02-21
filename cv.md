@@ -28,7 +28,7 @@ title: CV
  - [Visiting professor. 2023.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>  
   
- - <a href="https://www.kicc.cam.ac.uk/directory/isidro-gomez-vargas-mr">March-October 2020. Visiting PhD student.<br>
+ - <a href="https://www.willhandley.co.uk/students/">March-October 2020. Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
   [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br></a>
   <a href="https://www.willhandley.co.uk/students/">Advisor: Dr. Will Handley.</a>
