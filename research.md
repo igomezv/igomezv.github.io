@@ -22,8 +22,10 @@ title: Research
 
 ---
 
-##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 0 preprints |
+##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 1 preprints |
 
+
+- [From Simulations to Reality: Dark Energy Reconstruction with Simulated SNIa data from the Vera C. Rubin Observatory. arXiv:2402.18124v1.](https://arxiv.org/abs/2402.18124)]
 
 - [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)
 
