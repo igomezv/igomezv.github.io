@@ -77,6 +77,12 @@ title: Students, courses and workshops
   Specialization. 30 hours. <br> 
   [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
   
+
+- Course: **Computational tools (intro to ML).** <br>
+  2023, CICATA-Legaria, IPN. <br>
+  Postgraduate (online). 30 hours. <br>
+  [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
+
 - Course: **Cómputo evolutivo/Evolutionary Computation.** <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
