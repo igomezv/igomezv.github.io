@@ -22,12 +22,14 @@ title: Research
 
 ---
 
-##### | 6 JCR/Q1/Q2 | 6 Q3/Q4 | 1 preprints |
+##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 1 preprints |
 
 
-- [Medel Esquivel, R., Gómez-Vargas, I., Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. arxiv:2311.05699.](https://arxiv.org/abs/2311.05699)
+- [Mitra, A., Gómez-Vargas, I., & Zarikas, V. (2024). From Simulations to Reality: Dark Energy Reconstruction with Simulated SNIa data from the Vera C. Rubin Observatory. arXiv:2402.18124v1.](https://arxiv.org/abs/2402.18124)
 
-- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2023). Coupled Multi Scalar Field Dark Energy. arxiv:305.11396. Accepted in Physical Review D.](https://journals.aps.org/prd/accepted/f1076Q4cRdf1703d56b019f62464882c3b2b488af)
+- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)
+
+- [Medel Esquivel, R., Gómez-Vargas, I., Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. Universe. 10(1) 11.](https://www.mdpi.com/2218-1997/10/1/11)
 
 - [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515)
 
@@ -100,7 +102,7 @@ title: Research
 
 [Peer reviews validated by Web of science](https://www.webofscience.com/wos/author/record/GYD-5531-2022):
 
-- 2 Physical Review D. [Private info](https://journals.aps.org/prd/).
+- 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
 - 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
 - 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
 
