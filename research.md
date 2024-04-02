@@ -103,7 +103,7 @@ title: Research
 [Peer reviews validated by Web of science](https://www.webofscience.com/wos/author/record/GYD-5531-2022):
 
 - 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
-- 1 Physics of the Dark Universe [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
+- 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
 - 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
 - 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
 
