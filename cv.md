@@ -55,7 +55,7 @@ title: CV
 
 - PhD in advanced technology.<br> 
   CICATA-Legaria, Instituto Politécnico Nacional.<br> 
-  From 2019-2020, associate PhD student at Instituto de Ciencias Físicas, UNAM. <br>
+  Two years as associate PhD student at Instituto de Ciencias Físicas, UNAM. <br>
   <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis: *Artificial neural networks in Bayesian Inference*.</a> <br>
   Advisors: Dr. Ricardo García Salcedo and Dr. José Alberto Vázquez.
 
