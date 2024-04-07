@@ -4,7 +4,7 @@ title: Code
 
 ---
 
-- [GitHub profile] (https://github.com/igomezv)
+- [GitHub profile](https://github.com/igomezv)
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
 - [crann](#crann)
