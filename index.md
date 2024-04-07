@@ -5,7 +5,7 @@ title: Isidro Gómez-Vargas
 
 <div align="center"><code>Physics, machine learning and writing. </code></div>
 
-<! -- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
+<!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
 
 <style>
