@@ -22,8 +22,10 @@ title: Research
 
 ---
 
-##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 1 preprints |
+##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 2 preprints |
 
+
+- [Garcia-Arroyo, G., Gómez-Vargas, I., & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
 - [Mitra, A., Gómez-Vargas, I., & Zarikas, V. (2024). From Simulations to Reality: Dark Energy Reconstruction with Simulated SNIa data from the Vera C. Rubin Observatory. arXiv:2402.18124v1.](https://arxiv.org/abs/2402.18124)
 
