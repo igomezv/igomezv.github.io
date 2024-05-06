@@ -22,7 +22,7 @@ title: Research
 
 ---
 
-##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 2 preprints |
+##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 4 preprints |
 
 
 - [Garcia-Arroyo, G., Gómez-Vargas, I., & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
