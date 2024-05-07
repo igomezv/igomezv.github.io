@@ -22,8 +22,10 @@ title: Research
 
 ---
 
-##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 4 preprints |
+##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 3 preprints |
 
+
+- [Gómez-Vargas, I., & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293.](https://arxiv.org/abs/2405.03293)
 
 - [Garcia-Arroyo, G., Gómez-Vargas, I., & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
