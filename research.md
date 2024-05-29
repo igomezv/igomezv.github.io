@@ -11,9 +11,8 @@ title: Research
 	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
 	- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
 	- [InspireHep](https://inspirehep.net/authors/1862237).
-	- [OrcID](https://orcid.org/0000-0002-6473-018X).
 	- [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
-	- [Academia.edu](https://unam.academia.edu/IsidroG%C3%B3mezVargas).
+	- [NASA/ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 -----------------------------------------------------------
 
@@ -21,10 +20,8 @@ title: Research
 
 ---
 
-##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 3 preprints |
+##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 4 preprints |
 
-
-- [Gómez-Vargas, I., & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293.](https://arxiv.org/abs/2405.03293)
 
 - [Garcia-Arroyo, G., Gómez-Vargas, I., & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
