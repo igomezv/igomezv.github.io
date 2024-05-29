@@ -20,12 +20,19 @@ title: Research
 
 ---
 
-##### | 7 JCR/Q1/Q2 | 6 Q3/Q4 | 4 preprints |
+##### | 8 JCR/Q1/Q2 | 6 Q3/Q4 | 3 preprints |
 
+
+- [Gómez-Vargas, I., & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1.](https://arxiv.org/abs/2405.03293)
 
 - [Garcia-Arroyo, G., Gómez-Vargas, I., & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
 - [Mitra, A., Gómez-Vargas, I., & Zarikas, V. (2024). From Simulations to Reality: Dark Energy Reconstruction with Simulated SNIa data from the Vera C. Rubin Observatory. arXiv:2402.18124v1.](https://arxiv.org/abs/2402.18124)
+
+
+<!-- 
+- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., Gómez-Vargas, I., Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. X(X) xx.](https://doi.org/10.1051/0004-6361/202450022)
+-->
 
 - [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)
 
