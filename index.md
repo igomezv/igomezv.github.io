@@ -20,20 +20,18 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
 
 <p>
-  &rarr; Intereses de investigación: aprendizaje profundo, inferencia Bayesiana, aprendizaje automático y astrofísica.
+  - Intereses de investigación: aprendizaje profundo, inferencia Bayesiana, aprendizaje automático y astrofísica.
 </p>
-
 <p>
-  &rarr; Otros intereses: escritura creativa, recursos didácticos.
+  - Otros intereses: escritura creativa, recursos didácticos.
 </p>
 
 --- 
 
 <p>
-  &rarr; Research interests: Deep Learning, Bayesian inference, machine learning, and astrophysics.
+  - Research interests: Deep Learning, Bayesian inference, machine learning, and astrophysics.
 </p>
-
 <p>	
-  &rarr; Other interests: creative writing and educational resources.
+  - Other interests: creative writing and educational resources.
 </p>
 
