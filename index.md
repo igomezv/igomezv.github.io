@@ -21,7 +21,9 @@ img {
 
 <p>
   &rarr; Intereses de investigación: aprendizaje profundo, inferencia Bayesiana, aprendizaje automático y astrofísica.
+</p>
 
+<p>
   &rarr; Otros intereses: escritura creativa, recursos didácticos.
 </p>
 
@@ -29,7 +31,9 @@ img {
 
 <p>
   &rarr; Research interests: Deep Learning, Bayesian inference, machine learning, and astrophysics.
-	
+</p>
+
+<p>	
   &rarr; Other interests: creative writing and educational resources.
 </p>
 
