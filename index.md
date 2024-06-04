@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Isidro Gómez-Vargas, Ph. D.
+
 ---
 
 <div align="center"><code>Physics, machine learning and writing. </code></div>
@@ -20,18 +21,12 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
 
 <p>
-  - Intereses de investigación: aprendizaje profundo, inferencia Bayesiana, aprendizaje automático y astrofísica.
-</p>
-<p>
-  - Otros intereses: escritura creativa, recursos didácticos.
+  Aprendizaje profundo, inferencia Bayesiana, astrofísica. Escritura creativa, recursos didácticos.
 </p>
 
 --- 
 
 <p>
-  - Research interests: Deep Learning, Bayesian inference, machine learning, and astrophysics.
-</p>
-<p>	
-  - Other interests: creative writing and educational resources.
+  Deep Learning, Bayesian inference, and astrophysics. Creative writing and educational resources.
 </p>
 
