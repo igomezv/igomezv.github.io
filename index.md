@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isidro Gómez-Vargas, PhD
+title: Isidro Gómez-Vargas
 ---
 
 <div align="center"><code>Physics, machine learning and writing. </code></div>
