@@ -3,7 +3,7 @@ layout: page
 title: Isidro Gómez-Vargas
 ---
 
-<div align="center"><code>PhD working in machine learning applied to astrophysical data </code></div>
+<div align="center"><code>PhD | Machine learning | Astrophysical | Writing </code></div>
 
 <!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
