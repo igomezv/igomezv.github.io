@@ -4,8 +4,8 @@ title: Research
 
 ---
 
-- [List of papers](#list-of-papers).
-- [List of academic presentations](#list-of-academic-presentations).
+- [Papers](#list-of-papers).
+- [Academic presentations](#list-of-academic-presentations).
 - [Peer reviews](#peer-reviews).
 - Research profiles: 
 	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
@@ -16,7 +16,7 @@ title: Research
 
 -----------------------------------------------------------
 
-# List of papers
+# Papers
 
 ---
 
@@ -63,7 +63,7 @@ title: Research
 
 -----
 
-# List of academic presentations
+# Academic presentations
 -----
 
 - **2023** 
