@@ -23,42 +23,39 @@ title: Research
 ##### | 8 JCR/Q1/Q2 | 6 Q3/Q4 | 3 preprints |
 
 
-- [Gómez-Vargas, I., & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1.](https://arxiv.org/abs/2405.03293)
+- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics.](https://doi.org/10.1051/0004-6361/202450022)
 
-- [Garcia-Arroyo, G., Gómez-Vargas, I., & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
+- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1.](https://arxiv.org/abs/2405.03293)
 
-- [Mitra, A., Gómez-Vargas, I., & Zarikas, V. (2024). From Simulations to Reality: Dark Energy Reconstruction with Simulated SNIa data from the Vera C. Rubin Observatory. arXiv:2402.18124v1.](https://arxiv.org/abs/2402.18124)
+- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
+- [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). From Simulations to Reality: Dark Energy Reconstruction with Simulated SNIa data from the Vera C. Rubin Observatory. arXiv:2402.18124v1.](https://arxiv.org/abs/2402.18124)
 
-- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., Gómez-Vargas, I., Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. X(X) xx.](https://doi.org/10.1051/0004-6361/202450022)
+- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)
 
+- [Medel Esquivel, R., **Gómez-Vargas, I.**, Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. Universe. 10(1) 11.](https://www.mdpi.com/2218-1997/10/1/11)
 
-- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., Gómez-Vargas, I., Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)
+- [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515)
 
-- [Medel Esquivel, R., Gómez-Vargas, I., Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. Universe. 10(1) 11.](https://www.mdpi.com/2218-1997/10/1/11)
+- [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
 
-- [Chacón, J., Gómez-Vargas, I., Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515)
+- [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) 
 
-- [Gómez-Vargas, I., Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
+- [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
-- [Gómez-Vargas, I., Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) 
+- [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 
-- [Rojas Olvera, J. de Dios , Gómez-Vargas, I., & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
+- [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
 
-- [Medel Esquivel, R., Gómez-Vargas, I., Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
 
-- [Gómez-Vargas, I., Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012021). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta)
 
-- [Medel-Esquivel, R., Gómez-Vargas, I., García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
+- [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)
 
-- [Medel-Esquivel, R., Gómez-Vargas, I., Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012021). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta)
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta)
 
-- [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., Gómez-Vargas, I., Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)
-
-- [Medel-Esquivel, R., Gómez-Vargas, I., Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta)
-
-
-- [Gómez-Vargas, I., Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
+- [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
 
 
 -----
