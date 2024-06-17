@@ -20,12 +20,6 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
 
 <p>
-  Aprendizaje profundo, inferencia Bayesiana, astrofísica. Escritura creativa, recursos didácticos.
-</p>
-
---- 
-
-<p>
-  Deep Learning, Bayesian inference, and astrophysics. Creative writing and educational resources.
+  Deep Learning, Bayesian inference, and astrophysics. Creative writing (in Spanish) and educational resources.
 </p>
 
