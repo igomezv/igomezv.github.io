@@ -39,7 +39,22 @@ Links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
 
-----------------
+---------------
+
+### neuralike
+
+Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up.
+
+Links:
+
+ - [Repository](https://github.com/igomezv/neuralike) in GitHub.
+ - [Implementation within SimpleMC and dynesty](https://github.com/igomezv/simplemc_tests/tree/neuralike).
+ - [Related paper](https://arxiv.org/abs/2405.03293).
+
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
+
+
+------------------
 
 ### crann
 
