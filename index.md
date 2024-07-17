@@ -20,6 +20,6 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
 
 <p>
-  Deep Learning, Bayesian inference, and astrophysics. Creative writing (in Spanish) and educational resources.
+  My research interests are Deep Learning, Bayesian inference, cosmology, and astrophysics. I enjoy writing short stories, essays, didactic material, and Python code.
 </p>
 

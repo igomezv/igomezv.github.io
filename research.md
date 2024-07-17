@@ -20,10 +20,12 @@ title: Research
 
 ---
 
-##### | 8 JCR/Q1/Q2 | 6 Q3/Q4 | 3 preprints |
+##### | 8 JCR/Q1/Q2 | 6 Q3/Q4 | 4 preprints |
 
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics.](https://doi.org/10.1051/0004-6361/202450022)
+
+- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Exploring the Evolution of Nonlinear Electrodynamics in the Universe: A Dynamical Systems Approach. arXiv:2407.00686.](https://arxiv.org/abs/2407.00686)
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1.](https://arxiv.org/abs/2405.03293)
 
@@ -62,6 +64,9 @@ title: Research
 
 # Academic presentations
 -----
+
+- **2024**
+	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, CH.
 
 - **2023** 
 	- [Seminar] *Aprendizaje automático en el análisis de datos cosmológicos*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
