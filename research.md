@@ -64,6 +64,7 @@ title: Research
 
 # Academic presentations
 -----
+[Last 5 years]
 
 - **2024**
 	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, CH.
@@ -92,15 +93,16 @@ title: Research
 	- [Seminar] *Redes Neuronales aplicadas a métodos estadísticos de la Cosmología Observacional*, Seminario de estudiantes de cosmología, Cuernavaca, Morelos. 
 - **2019** 
 	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
-	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
 
-- **2018** 
+
+<!--	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
+   - **2018** 
 	- [Talk] *Algoritmos de ciencias de datos para vacíos cósmicos*, Escuela Nacional de Cosmología Guanajuato. Guanajuato, México.
 	- [Poster] *Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
 	- [Poster] *Cosmic voids, spatial algorithms and data structures*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
 - **2017**
 	- [Talk] *Analisis de datos cosmológicos para el estudio de vacíos cósmicos*, Simposio de Tecnología Avanzada, CDMX. 
-	- [Conference] *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX. 
+	- [Conference] *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX.  -->
 
 	
 -----
