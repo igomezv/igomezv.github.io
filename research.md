@@ -67,7 +67,7 @@ title: Research
 [Last 5 years]
 
 - **2024**
-	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, CH.
+	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland.
 
 - **2023** 
 	- [Seminar] *Aprendizaje automático en el análisis de datos cosmológicos*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
