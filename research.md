@@ -23,7 +23,7 @@ title: Research
 ##### | 8 JCR/Q1/Q2 | 6 Q3/Q4 | 4 preprints |
 
 
-- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics.](https://doi.org/10.1051/0004-6361/202450022)
+- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
 - [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Exploring the Evolution of Nonlinear Electrodynamics in the Universe: A Dynamical Systems Approach. arXiv:2407.00686.](https://arxiv.org/abs/2407.00686)
 
