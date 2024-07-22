@@ -91,11 +91,11 @@ title: Research
 	- [Seminar] *Muestreo anidado, redes neuronales y SimpleMC*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
 	- [Talk] *Métodos estadísticos con redes neuronales en cosmología observacional*, V Encuentro de Modelado Matemático en Física y Geometría, BUAP, MCTP.
 	- [Seminar] *Redes Neuronales aplicadas a métodos estadísticos de la Cosmología Observacional*, Seminario de estudiantes de cosmología, Cuernavaca, Morelos. 
+
+<!--
 - **2019** 
 	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
-
-
-<!--	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
+	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
    - **2018** 
 	- [Talk] *Algoritmos de ciencias de datos para vacíos cósmicos*, Escuela Nacional de Cosmología Guanajuato. Guanajuato, México.
 	- [Poster] *Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
