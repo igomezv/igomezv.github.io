@@ -39,7 +39,7 @@ title: Students, courses and workshops
   Specialization. 10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
 
-- Course: **Deep Learning.** <br> 
+- **Deep Learning.** <br> 
   2022, Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
   Master in Process Modeling and Optimization. <br> 
   Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
