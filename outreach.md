@@ -4,6 +4,7 @@ title: Textbooks, outreach and didactic material
 ---
 
 - [Text Books](#text-books)
+- [Outreach](#papers)
 - [Outreach](#outreach)
 - [Digital didactic material](#digital-didactic-material)
 
@@ -38,12 +39,13 @@ Related links:
 
 - [ISBN list, INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&id_autor=276376).
 
+
 --------
 
-## Outreach
+## Papers
 ------------
 
-### Papers
+Didactic and outreach articles.
 
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
@@ -59,6 +61,13 @@ Related links:
 - [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
 
 - Sunday publications in the science section of the newspaper *El Sur del Itsmo* of Oaxaca, Mexico. 2013.
+
+
+--------
+
+## Outreach
+------------
+
 
 ### Talks
 

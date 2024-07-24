@@ -61,7 +61,7 @@ title: Research
  
 #### Other papers
 
-For outreach/didactic papers check [**outreach and didactic section**](research#outreach).
+For outreach/didactic articles, check the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
 
 -----
 
