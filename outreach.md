@@ -4,7 +4,7 @@ title: Textbooks, outreach and didactic material
 ---
 
 - [Text Books](#text-books)
-- [Outreach](#papers)
+- [Papers](#papers)
 - [Outreach](#outreach)
 - [Digital didactic material](#digital-didactic-material)
 
