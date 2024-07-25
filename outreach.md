@@ -47,15 +47,13 @@ Related links:
 
 Didactic, educational and outreach articles.
 
-##### | 1 JCR | 1 Q4 | 1 CONACYT | 4 other |
+### | 1 JCR | 1 Q4 | 1 CONACYT | 3 other |
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 
 - [Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
 
-- [**Gómez-Vargas, I.**, Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. (2021) Una Aplicación de las redes neuronales en la cosmología. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia).
-
-- [Vazquez, JA, **Gómez-Vargas, I** & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97).
+- [**Gómez-Vargas, I.**, Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. (2019) Una Aplicación de las redes neuronales en la cosmología. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia).
 
 - [**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
 

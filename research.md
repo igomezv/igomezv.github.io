@@ -20,7 +20,7 @@ title: Research
 
 ---
 
-##### | 8 JCR | 4 preprints |
+###  12 research papers:  8 Q1 | 4 preprints |
 
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
@@ -46,7 +46,7 @@ title: Research
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
 
-##### | 5 proceedings (Q4) |
+### 6 proceedings:  5 Q4 | 1 other |
 
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
@@ -55,13 +55,17 @@ title: Research
 
 - [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)
 
+- [Vazquez, JA, **Gómez-Vargas, I** & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97).
+
 - [Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta)
 
 - [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
  
-#### Other papers
 
-For outreach/didactic articles, check the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
+
+### 5 educational and outreach: 1 Q2 | 1 Q4 | 1 CONACYT | 2 other |
+
+Check list in the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
 
 -----
 
