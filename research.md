@@ -5,9 +5,9 @@ title: Research
 ---
 
 - [Papers](#list-of-papers).
-	 - [Research](#research)
- 	 - [Proceedings](#proceedings)
- 	 - [Outreach](#educational/outreach)
+	- [Research](#research).
+	- [Proceedings](#proceedings).
+	- [Outreach](#educational/outreach)
 - [Academic presentations](#list-of-academic-presentations).
 - [Peer reviews](#peer-reviews).
 - Research profiles: 
