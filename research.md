@@ -5,6 +5,9 @@ title: Research
 ---
 
 - [Papers](#list-of-papers).
+	 - [Research](#research)
+ 	 - [Proceedings](#proceedings)
+ 	 - [Outreach](#educational/outreach)
 - [Academic presentations](#list-of-academic-presentations).
 - [Peer reviews](#peer-reviews).
 - Research profiles: 
@@ -20,7 +23,9 @@ title: Research
 
 ---
 
-####  12 research:  | 8 Q1 | 4 preprints |
+### Research
+
+| 8 Q1 | 4 preprints | Total: 12
 
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
@@ -46,7 +51,8 @@ title: Research
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
 
-#### 6 proceedings: | 5 Q4 | 1 other |
+### Proceedings 
+| 5 Q4 | 1 other | Total: 6
 
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
@@ -63,9 +69,11 @@ title: Research
  
 
 
-#### 5 educational/outreach: | 1 Q2 | 1 Q4 | 1 CONACYT | 2 other |
+### Educational/outreach
 
-Check list in the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
+| 1 Q2 | 1 Q4 | 1 CONACYT | 2 other | Total: 5
+
+- Check list in the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
 
 -----
 
