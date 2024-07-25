@@ -23,6 +23,8 @@ title: Research
 
 ---
 
+| 8 Q1 | 1 Q2 | 6 Q4 | 1 CONACYT | 3 other | 4 preprints | Total: 23
+
 ### Research
 
 | 8 Q1 | 4 preprints | Total: 12
@@ -52,6 +54,7 @@ title: Research
 
 
 ### Proceedings 
+
 | 5 Q4 | 1 other | Total: 6
 
 
