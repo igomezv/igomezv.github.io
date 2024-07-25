@@ -7,6 +7,7 @@ title: Code
 - [GitHub profile](https://github.com/igomezv)
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
+- [neuralike](#neuralike)	
 - [crann](#crann)
 
 
@@ -38,6 +39,11 @@ Links:
  - [Related paper](https://arxiv.org/abs/2209.02685).
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
+
+Other projects using `nnogada`>
+ - https://github.com/igomezv/Reconstructing-RC-with-ANN
+ - https://github.com/igomezv/LSST_DE_neural_reconstruction
+ - https://github.com/igomezv/neuralike 
 
 ---------------
 
