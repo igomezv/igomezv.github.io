@@ -47,7 +47,7 @@ Related links:
 
 Didactic, educational and outreach articles.
 
-### | 1 JCR | 1 Q4 | 1 CONACYT | 3 other |
+| 1 JCR | 1 Q4 | 1 CONACYT | 2 other | Total: 5
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 
