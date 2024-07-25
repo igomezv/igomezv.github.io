@@ -40,10 +40,10 @@ Links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
 
-Other projects using `nnogada`>
- - https://github.com/igomezv/Reconstructing-RC-with-ANN
- - https://github.com/igomezv/LSST_DE_neural_reconstruction
- - https://github.com/igomezv/neuralike 
+Other projects using `nnogada`:
+ - [Reconstruncting Rotation Curves with neural networks](https://github.com/igomezv/Reconstructing-RC-with-ANN).
+ - [Dark energy reconstruction with LSST SNIa simulations](https://github.com/igomezv/LSST_DE_neural_reconstruction).
+ - [neuralike](https://github.com/igomezv/neuralike). 
 
 ---------------
 
