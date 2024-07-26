@@ -19,7 +19,9 @@ title: Research
 	- [Research](#research).
 	- [Proceedings](#proceedings).
 	- [Outreach](#educational/outreach)
+
 - [Academic presentations](#list-of-academic-presentations).
+
 - [Peer reviews](#peer-reviews).
 
 
