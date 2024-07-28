@@ -5,7 +5,6 @@ title: Research
 ---
 
 - Research profiles: 
-	- [ORCiD: 0000-0002-6473-018X](https://orcid.org/0000-0002-6473-018X).
 	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
 	- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
 
