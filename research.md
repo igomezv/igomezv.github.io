@@ -15,22 +15,25 @@ title: Research
 
 ---
 
-- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
-- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
-
-<!--
+- Full lists:
+	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
+	- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
 	- [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
-	- [InspireHep](https://inspirehep.net/authors/1862237).
-- [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022). 
--->
+- Type of paper:
+	- [Research](#research).
+	- [Proceedings](#proceedings).
+	- [Outreach](#educational/outreach)
 
 Research + proceedings + outreach:
 
 8 Q1 | 1 Q2 | 6 Q4 | 1 CONACYT | 3 other | 4 preprints | Total: 23
 
-- [Research](#research).
-- [Proceedings](#proceedings).
-- [Outreach](#educational/outreach)
+<!--
+	- [InspireHep](https://inspirehep.net/authors/1862237).
+- [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022). 
+-->
+
+
 
 ### Research
 
