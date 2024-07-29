@@ -25,6 +25,7 @@ title: Research
 -->
 
 Research + proceedings + outreach:
+
 8 Q1 | 1 Q2 | 6 Q4 | 1 CONACYT | 3 other | 4 preprints | Total: 23
 
 - [Research](#research).
