@@ -92,6 +92,7 @@ title: Research
 [Last 5 years]
 
 - **2024**
+	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, Mini Workshop on High Performance Computing in Science and Engineering, ICF-UNAM, Cuernavaca, Morelos, México.
 	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland.
 
 - **2023** 
