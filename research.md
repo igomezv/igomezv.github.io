@@ -8,7 +8,7 @@ title: Research
 	- [Research](#research).
 	- [Proceedings](#proceedings).
 	- [Outreach](#educational/outreach)
-- [Academic presentations](#list-of-academic-presentations).
+- [Academic presentations](#academic-presentations).
 - [Peer reviews](#peer-reviews).
 
 
@@ -90,7 +90,7 @@ title: Research
 [Last 5 years]
 
 - **2024**
-	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, Mini Workshop on High Performance Computing in Science and Engineering, ICF-UNAM, Cuernavaca, Morelos, México.
+	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, Morelos, México.
 	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland.
 
 - **2023** 
