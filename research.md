@@ -15,8 +15,8 @@ title: Research
 
 ---
 
-- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) 
-- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) |
+- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
+	- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
 
 <!--
 	- [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
