@@ -4,11 +4,12 @@ author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
    CV: "cv"
-   Research: "research" 
-   Teaching: "teaching"
-   Outreach/Didactics: "outreach"
-   Code: "code"
-   Other: "other"
+   Projects: "projects" 
+   Contact: "contact" 
+#   Teaching: "teaching"
+#   Outreach/Didactics: "outreach"
+#   Code: "code"
+#   Other: "other"
 
     
 # GitHub: "https://github.com/igomezv"
