@@ -9,8 +9,8 @@ title: Projects
 	- [Peer reviews](https://igomezv.github.io/research/#peer-reviews).
 - [Coding](https://igomezv.github.io/code/).
 	- [Cosmological parameter estimation](https://igomezv.github.io/code/#simplemc).
-	- [Neural Networks Optimized by Genetic Algorithms in Data Analysis](https://igomezv.github.io/code/#nnogada).
-	- [Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up.](https://igomezv.github.io/code/#neuralike).
+	- [Neural Networks Optimized by Genetic Algorithms](https://igomezv.github.io/code/#nnogada).
+	- [Bayesian inference speed-up](https://igomezv.github.io/code/#neuralike).
 - [Teaching and students](https://igomezv.github.io/teaching).
 	- [Lectures](https://igomezv.github.io/teaching/#courses).
 	- [Students](https://igomezv.github.io/teaching/#students).
