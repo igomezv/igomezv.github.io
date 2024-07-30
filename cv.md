@@ -38,16 +38,14 @@ title: CV
   Macmillan Education Latam, Ediciones SM, Edimend, Quipper, others. <br> 
   Authoring and technical revision of high shool textbooks. <br> 
   
- - <a href="https://www.willhandley.co.uk/students/">2020 (March-October). Visiting PhD student.<br>
+- <a href="https://www.willhandley.co.uk/students/">2020 (March-October). Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.<br> 
   [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br></a>
   Remote due to COVID19 pandemic.<br>
-  <a href="https://www.willhandley.co.uk/students/">Advisor: Dr. Will Handley.</a>
 
 - 2018 (September-October). Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
   Project: *Estimación de parámetros cosmológicos con el código Cosmosis*. <br> 
-  Supervisor: Dr. Ulises Nucamendi Gómez.
 
 - 2016 (April-May). Visiting master student. <br> 
   Computer department, UABC-Ensenada. <br> 
