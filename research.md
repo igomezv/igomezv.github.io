@@ -15,18 +15,14 @@ title: Research
 
 ---
 
-- Full lists:
-	- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
-	- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
-	- [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
-- Type of paper:
-	- [Research](#research).
-	- [Proceedings](#proceedings).
-	- [Outreach](#educational/outreach)
 
-Research + proceedings + outreach:
+- [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es).
+- [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas).
+- [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
-8 Q1 | 1 Q2 | 6 Q4 | 1 CONACYT | 3 other | 4 preprints | Total: 23
+- [Research](#research).
+- [Proceedings](#proceedings).
+- [Outreach](#educational/outreach)
 
 <!--
 	- [InspireHep](https://inspirehep.net/authors/1862237).
@@ -36,9 +32,6 @@ Research + proceedings + outreach:
 
 
 ### Research
-
-| 8 Q1 | 4 preprints | Total: 12
-
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
@@ -65,9 +58,6 @@ Research + proceedings + outreach:
 
 ### Proceedings 
 
-| 5 Q4 | 1 other | Total: 6
-
-
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
 
 - [Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012021). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta)
@@ -83,8 +73,6 @@ Research + proceedings + outreach:
 
 
 ### Educational/outreach
-
-| 1 Q2 | 1 Q4 | 1 CONACYT | 2 other | Total: 5
 
 - Check list in the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
 
