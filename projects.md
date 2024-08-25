@@ -5,6 +5,7 @@ title: Projects
 
 | [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) | [Teaching](https://igomezv.github.io/teaching) | [Textbooks and outreach](https://igomezv.github.io/outreach) | [Other](https://igomezv.github.io/other)|
 
+Index:
 
 - [Research](https://igomezv.github.io/research):
 	- [Papers](https://igomezv.github.io/research/#list-of-papers).
