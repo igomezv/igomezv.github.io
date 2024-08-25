@@ -3,18 +3,21 @@ layout: page
 title: Projects
 ---
 
-- [Research](https://igomezv.github.io/research).
+| [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) | [Teaching](https://igomezv.github.io/teaching) | [Textbooks and outreach](https://igomezv.github.io/outreach) | [Other](https://igomezv.github.io/other)|
+
+
+- [Research](https://igomezv.github.io/research):
 	- [Papers](https://igomezv.github.io/research/#list-of-papers).
 	- [Academic presentations](https://igomezv.github.io/research/#academic-presentations).
 	- [Peer reviews](https://igomezv.github.io/research/#peer-reviews).
-- [Coding](https://igomezv.github.io/code/).
+- [Programming](https://igomezv.github.io/code/):
 	- [Cosmological parameter estimation](https://igomezv.github.io/code/#simplemc).
 	- [Neural Networks Optimized by Genetic Algorithms](https://igomezv.github.io/code/#nnogada).
 	- [Bayesian inference speed-up](https://igomezv.github.io/code/#neuralike).
-- [Teaching](https://igomezv.github.io/teaching).
+- [Teaching](https://igomezv.github.io/teaching):
 	- [Lectures](https://igomezv.github.io/teaching/#courses).
 	- [Students](https://igomezv.github.io/teaching/#students).
-- [Textbooks and outreach](https://igomezv.github.io/outreach).
+- [Textbooks and outreach](https://igomezv.github.io/outreach):
 	- [Textbooks](https://igomezv.github.io/outreach/#text-books).
 	- [Papers](https://igomezv.github.io/outreach/#papers).
 	- [Outreach](https://igomezv.github.io/outreach/#outreach).
