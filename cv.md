@@ -15,10 +15,10 @@ title: CV
 # Work experience
 ---
 
- - <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">2023 - today. Postdoctoral researcher.<br>
-   Geneva Observatory, Department of Astronomy, University of Geneva. <br>
-   NCCR PlanetS, Swiss National Science Foundation.<br>
-   Project: Deep learning in exoplanet detection. </a>
+ - <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - today. Postdoctoral researcher.<br>
+   Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
+   <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
+   Project: Deep learning in exoplanet detection. 
 
  - [2022-2026. SNI Candidate. Sistema Nacional de Investigadores](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 

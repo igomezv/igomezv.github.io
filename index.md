@@ -23,3 +23,7 @@ img {
   My research interests are Deep Learning, Bayesian inference, cosmology, and astrophysics. I enjoy writing short stories, essays, didactic material, and Python code.
 </p>
 
+<p>
+  Contact information at the bottom of the website.
+</p>
+
