@@ -30,7 +30,7 @@ title: Research
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
-- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Exploring the Evolution of Nonlinear Electrodynamics in the Universe: A Dynamical Systems Approach. arXiv:2407.00686. Accepted in Universe.](https://arxiv.org/abs/2407.00686)
+- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://arxiv.org/abs/2407.00686)
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1.](https://arxiv.org/abs/2405.03293)
 
