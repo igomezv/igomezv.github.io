@@ -7,6 +7,7 @@ title: CV
 - [**Download my CV here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0).
 - [Work experience](#work-experience).
 - [Education](#education).
+- [Publications, teaching, programming and more](#ePublications-and-more).
 
 -----------------------------------------------------------
 
@@ -75,4 +76,8 @@ title: CV
  <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis: *Seguimiento Operacional de una Recarga de Combustible de un Reactor BWR con SIMULATE-3*. </a><br>
 
 
+---
+# Publications and more
 
+---
+| [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) | [Teaching](https://igomezv.github.io/teaching) | [Textbooks and outreach](https://igomezv.github.io/outreach) | [Other](https://igomezv.github.io/other)|
