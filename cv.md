@@ -7,7 +7,7 @@ title: CV
 - [**Download my CV here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0).
 - [Work experience](#work-experience).
 - [Education](#education).
-- [Publications, teaching, programming and more](#Publications-and-more).
+- [Publications, teaching, programming and more](#publications-and-more).
 
 -----------------------------------------------------------
 
