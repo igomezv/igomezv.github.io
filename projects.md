@@ -4,7 +4,7 @@ title: Projects
 ---
 
 | [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) |  [Teaching](https://igomezv.github.io/teaching) | 
-| [Textbooks](https://igomezv.github.io/outreach) | [Outreach](hhttps://igomezv.github.io/outreach/#paper) | [Other](https://igomezv.github.io/other)|
+| [Textbooks](https://igomezv.github.io/outreach) | [Outreach](https://igomezv.github.io/outreach/#paper) | [Other](https://igomezv.github.io/other)|
 
 Index:
 
