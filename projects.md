@@ -3,11 +3,8 @@ layout: page
 title: Projects
 ---
 
-| [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) | 
-
-| [Teaching](https://igomezv.github.io/teaching) | [Textbooks and outreach](https://igomezv.github.io/outreach) | 
-
-| [Other](https://igomezv.github.io/other)|
+| [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) |  [Teaching](https://igomezv.github.io/teaching) | 
+| [Textbooks and outreach](https://igomezv.github.io/outreach) | [Other](https://igomezv.github.io/other)|
 
 Index:
 
