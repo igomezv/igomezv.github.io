@@ -82,4 +82,4 @@ title: CV
 ---
 
 | [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) | [Teaching](https://igomezv.github.io/teaching) | 
-| [Textbooks and outreach](https://igomezv.github.io/outreach) | [Other](https://igomezv.github.io/other)|
+| [Textbooks](https://igomezv.github.io/outreach) | [Outreach](https://igomezv.github.io/outreach) |[ Other](https://igomezv.github.io/other)|
