@@ -21,6 +21,7 @@ img {
 
 <p>
   My research interests are Deep Learning, Bayesian inference, cosmology, and astrophysics. I enjoy writing short stories, essays, didactic material, and Python code.
+I am currently a postdoctoral researcher at the Geneva Observatory and, previously, at the ICF-UNAM. 
 </p>
 
 <p>
