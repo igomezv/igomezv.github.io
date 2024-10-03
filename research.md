@@ -79,6 +79,7 @@ title: Research
 [Last 5 years]
 
 - **2024**
+	- [Seminar] *Aprendizaje automático en la inferencia estadística de datos cosmológicos*, Seminario de Cosmología y Astrofísica Relativista. Physics department, CINVESTAV.
 	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, Morelos, México.
 	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland.
 
