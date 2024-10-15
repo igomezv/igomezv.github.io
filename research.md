@@ -29,7 +29,7 @@ title: Research
 ### Research
 
 
-- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1. Accepted in Physical Review D.](https://arxiv.org/abs/2405.03293)
+- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. arXiv:2405.03293v1. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
@@ -41,13 +41,13 @@ title: Research
 
 - [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)
 
-- [Medel Esquivel, R., **Gómez-Vargas, I.**, Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. Universe. 10(1) 11.](https://www.mdpi.com/2218-1997/10/1/11)
-
-- [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515)
-
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) 
+
+- [Medel Esquivel, R., **Gómez-Vargas, I.**, Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. Universe. 10(1) 11.](https://www.mdpi.com/2218-1997/10/1/11)
+
+- [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515)
 
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
