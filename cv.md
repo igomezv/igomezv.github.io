@@ -29,9 +29,9 @@ You can also download my CV in PDF format [**here**](https://www.dropbox.com/s/o
   Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.<br>
   Advisor: Jose Alberto Vazquez.
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2022-2023. Instructor of Machine Learning courses<br>
+- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2022-2023. Instructor of Machine Learning courses.</a><br>
   DGTIC, Universidad Nacional Autónoma de México (UNAM). <br>
-  Instructor of specialisation courses within the Applied Artificial Intelligence diploma course: intermediate data science, evolutionary computation and probabilistic reasoning..</a>
+  Instructor of specialisation courses within the Applied Artificial Intelligence diploma course: intermediate data science, evolutionary computation and probabilistic reasoning.
  
  - [2023. Visiting professor.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>  
