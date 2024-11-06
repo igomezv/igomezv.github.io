@@ -4,13 +4,12 @@ title: CV
 
 ---
 
-- [**Download my CV here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0).
 - [Work experience](#work-experience).
 - [Education](#education).
 - [Publications, teaching, programming and more](#publications-and-more).
 
+Download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0).
 -----------------------------------------------------------
-
 
 
 # Work experience
@@ -19,14 +18,16 @@ title: CV
  - <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - today. Postdoctoral researcher.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
-   Project: Deep learning in exoplanet detection. 
+   Project: Deep learning in exoplanet detection. <br> 
+   Advisor: Xavier Dumusque.
 
  - [2022-2026. SNI Candidate. Sistema Nacional de Investigadores](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-2023. Postdoctoral researcher.<br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   CONACYT National postdoctoral grant. <br>
-  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a>
+  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a><br>
+  Advisor: Jose Alberto Vazquez.
 
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2022-2023. Instructor of Machine Learning courses<br>
   DGTIC, Universidad Nacional Autónoma de México (UNAM). <br>
@@ -40,17 +41,16 @@ title: CV
   Authoring and technical revision of high shool textbooks. <br> 
   
 - <a href="https://www.willhandley.co.uk/students/">2020 (March-October). Visiting PhD student.<br>
-  Kavli Institute of Cosmology, University of Cambridge.<br> 
-  [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br></a>
+  Kavli Institute of Cosmology, University of Cambridge.</a><br> 
+  [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
   Remote due to COVID19 pandemic.<br>
+  Advisor: Will Handley. <br> 
 
 - 2018 (September-October). Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
   Project: *Estimación de parámetros cosmológicos con el código Cosmosis*. <br> 
+  Advisor: Ulises Nucamendi.
 
-- 2016 (April-May). Visiting master student. <br> 
-  Computer department, UABC-Ensenada. <br> 
-  Project: *Agentes tutores inteligentes*.
 
 
 ---
@@ -62,6 +62,7 @@ title: CV
   CICATA-Legaria, Instituto Politécnico Nacional.<br> 
   Associate PhD student at Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México. <br>
   <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis: *Artificial neural networks in Bayesian Inference*.</a> <br>
+  Advisors: Ricardo Garcia Salcedo and Jose Alberto Vazquez.<br>
 
 - Diplomat on Knowledge discovery with Big data tools. <br>
   Centro de Investigación en Computación, Instituto Politécnico Nacional. <br>
@@ -81,5 +82,25 @@ title: CV
 
 ---
 
-| [Research](https://igomezv.github.io/research) | [Programming](https://igomezv.github.io/code/) | [Teaching](https://igomezv.github.io/teaching) | 
-| [Textbooks](https://igomezv.github.io/outreach) | [Outreach](https://igomezv.github.io/outreach/#papers) |[ Other](https://igomezv.github.io/other)|
+Index:
+
+- [Research](https://igomezv.github.io/research):
+  - [Papers](https://igomezv.github.io/research/#papers).
+  - [Peer reviews](https://igomezv.github.io/research/#peer-reviews).
+  - [Academic presentations](https://igomezv.github.io/research/#academic-presentations).
+
+- [Programming](https://igomezv.github.io/code/):
+  - [SimpleMC](https://igomezv.github.io/code/#simplemc).
+  - [Nnogada](https://igomezv.github.io/code/#nnogada).
+  - [Neuralike](https://igomezv.github.io/code/#neuralike).
+
+- [Teaching](https://igomezv.github.io/teaching):
+  - [Courses taught](https://igomezv.github.io/teaching/#courses).
+  - [Supervised students](https://igomezv.github.io/teaching/#students).
+
+- [Textbooks and outreach](https://igomezv.github.io/outreach):
+  - [Textbooks](https://igomezv.github.io/outreach/#text-books).
+  - [Didactic, educational and outreach articles.](https://igomezv.github.io/outreach/#papers).
+  - [Outreach](https://igomezv.github.io/outreach/#outreach).
+  - [Digital and didactic resources](https://igomezv.github.io/outreach/#digital-didactic-material).
+- [Other](https://igomezv.github.io/other).

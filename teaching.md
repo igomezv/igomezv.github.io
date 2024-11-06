@@ -4,15 +4,15 @@ title: Students, courses and workshops
 ---
 
 
-- [Courses](#courses)
+- [Courses](#courses-taught)
 - [Workshops](#workshops)
-- [Students](#students)
+- [Students](#supervised-students)
 
 
 
 ----------
 
-## Courses
+## Courses taught
 ----------
 
 - **Intermediate Data Science.** <br> 
@@ -69,7 +69,7 @@ title: Students, courses and workshops
 
 --------------
 
-## Students
+## Supervised students
 ------------
 
 

@@ -27,7 +27,9 @@ Related links:
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 
-#### Others
+#### Others 
+
+Supplementary material, guides for the teacher or student.
 
 - Gómez Vargas, I. (2018) Guía didáctica “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
     

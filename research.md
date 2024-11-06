@@ -4,10 +4,11 @@ title: Research
 
 ---
 
-- [Papers](#list-of-papers).
-- [Academic presentations](#academic-presentations).
+- [Papers](#papers).
 - [Peer reviews](#peer-reviews).
+- [Academic presentations](#academic-presentations).
 
+Research profiles: [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [arXiv](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
 
 -----------------------------------------------------------
 
@@ -15,10 +16,9 @@ title: Research
 
 ---
 
-- Research profiles: [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [arXiv](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
-- [Research](#research).
+- [Research](#research-papers).
 - [Proceedings](#proceedings).
-- [Outreach](#educational-and-outreach).
+- [Outreach and educational](#educational-and-outreach).
 
 <!--
 	- [InspireHep](https://inspirehep.net/authors/1862237).
@@ -26,17 +26,17 @@ title: Research
 -->
 
 
-### Research
+### Research papers
 
-
-- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
-- [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024).Dark energy reconstruction analysis with artificial neural networks: Application on
-simulated Supernova Ia data from Rubin Observatory. arXiv:2402.18124v1. Accepted in Physics of the Dark Universe.](https://arxiv.org/abs/2402.18124)
+- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
 
-- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://arxiv.org/abs/2407.00686)
+- [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on
+simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
+
+- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://www.mdpi.com/2218-1997/10/9/353)
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
@@ -68,16 +68,31 @@ simulated Supernova Ia data from Rubin Observatory. arXiv:2402.18124v1. Accepted
 - [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
  
 
-
 ### Educational and outreach
 
 - Check list in the [**outreach and didactic papers section**](https://igomezv.github.io/outreach/#papers).
+
+	
+-----
+
+# Peer reviews
+-----
+
+[Peer reviews validated by Web of science](https://orcid.org/0000-0002-6473-018X):
+
+- 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
+- 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
+- 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
+- 1 Indian Journal of Physics. [Private info](https://link.springer.com/journal/12648).
+- 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
+- 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
+
 
 -----
 
 # Academic presentations
 -----
-[Last 5 years]
+[Last 4 years]
 
 - **2024**
 	- [Flash talk/poster] *Deep Learning strategies to planet detection using HARPS-N stellar spectra*, Junior Research Assembly (JURA) V. PlanetS, Murten, Switzerland.
@@ -102,13 +117,14 @@ simulated Supernova Ia data from Rubin Observatory. arXiv:2402.18124v1. Accepted
 	- [Poster] *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
 	- [Poster] *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
 	- [Poster] *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-	
+
+<!--	
 - **2020** 
 	- [Seminar] *Muestreo anidado, redes neuronales y SimpleMC*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
 	- [Talk] *Métodos estadísticos con redes neuronales en cosmología observacional*, V Encuentro de Modelado Matemático en Física y Geometría, BUAP, MCTP.
 	- [Seminar] *Redes Neuronales aplicadas a métodos estadísticos de la Cosmología Observacional*, Seminario de estudiantes de cosmología, Cuernavaca, Morelos. 
 
-<!--
+
 - **2019** 
 	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
 	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
@@ -119,19 +135,4 @@ simulated Supernova Ia data from Rubin Observatory. arXiv:2402.18124v1. Accepted
 - **2017**
 	- [Talk] *Analisis de datos cosmológicos para el estudio de vacíos cósmicos*, Simposio de Tecnología Avanzada, CDMX. 
 	- [Conference] *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX.  -->
-
-	
------
-
-# Peer reviews
------
-
-[Peer reviews validated by Web of science](https://www.webofscience.com/wos/author/record/GYD-5531-2022):
-
-- 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
-- 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
-- 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
-- 1 Indian Journal of Physics. [Private info](https://link.springer.com/journal/12648).
-- 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
-- 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
 
