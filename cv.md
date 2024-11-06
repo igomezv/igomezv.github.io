@@ -70,8 +70,8 @@ You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxm
   
 - Master's degree in advanced technology.<br>
  CICATA-Legaria, Instituto Politécnico Nacional. <br>
- <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis (Spanish version): *Augmented Reality Educational Mobile App* </a><br>
+ <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis (Spanish version): *Augmented Reality Educational Mobile App*. </a><br>
 
 - Bachelor degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation Using SIMULATE-3*. </a><br>
+ <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation*. </a><br>
