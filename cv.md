@@ -9,7 +9,7 @@ For an overview of my scientific work, please visit my research profiles on [**O
 
 You can also download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website:
 
-*·* [Work experience](#work-experience)  *·*  [Education](#education)  *·*  [Research](https://igomezv.github.io/research)  *·*  [Programming](https://igomezv.github.io/code/)  *·*  [Teaching](https://igomezv.github.io/teaching)  *·*  [Textbooks, didactic material and outreach](https://igomezv.github.io/outreach) · [Miscellany](https://igomezv.github.io/other).
+⦿ [Work experience](#work-experience) ⦿ [Education](#education) ⦿ [Research](https://igomezv.github.io/research) ⦿ [Programming](https://igomezv.github.io/code/) ⦿ [Teaching](https://igomezv.github.io/teaching) ⦿ [Textbooks, didactic material and outreach](https://igomezv.github.io/outreach) ⦿ [Miscellany](https://igomezv.github.io/other).
 
 
 -----------------------------------------------------------
