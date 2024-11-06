@@ -4,11 +4,24 @@ title: CV
 
 ---
 
-- [Work experience](#work-experience).
-- [Education](#education).
-- [Publications, teaching, programming and more](#publications-and-more).
 
-Download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0).
+For an overview of my scientific work, you can check my research profiles on [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) and [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas). Visit my [GitHub profile](https://github.com/igomezv) to explore machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. You can download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0). 
+
+Website index:
+
+- [Work experience](#work-experience).
+
+- [Education](#education).
+
+- [Research](https://igomezv.github.io/research):
+
+- [Programming](https://igomezv.github.io/code/):
+
+- [Teaching](https://igomezv.github.io/teaching):
+
+- [Textbooks, didactic material and outreach](https://igomezv.github.io/outreach):
+
+- [Miscellany](https://igomezv.github.io/other).
 
 
 -----------------------------------------------------------
@@ -79,29 +92,8 @@ Download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ew
 
 
 ---
-# Publications and more
+# Website index
 
 ---
 
-Index:
 
-- [Research](https://igomezv.github.io/research):
-  - [Papers](https://igomezv.github.io/research/#papers).
-  - [Peer reviews](https://igomezv.github.io/research/#peer-reviews).
-  - [Academic presentations](https://igomezv.github.io/research/#academic-presentations).
-
-- [Programming](https://igomezv.github.io/code/):
-  - [SimpleMC](https://igomezv.github.io/code/#simplemc).
-  - [Nnogada](https://igomezv.github.io/code/#nnogada).
-  - [Neuralike](https://igomezv.github.io/code/#neuralike).
-
-- [Teaching](https://igomezv.github.io/teaching):
-  - [Courses taught](https://igomezv.github.io/teaching/#courses).
-  - [Supervised students](https://igomezv.github.io/teaching/#students).
-
-- [Textbooks and outreach](https://igomezv.github.io/outreach):
-  - [Textbooks](https://igomezv.github.io/outreach/#text-books).
-  - [Didactic, educational and outreach articles.](https://igomezv.github.io/outreach/#papers).
-  - [Outreach](https://igomezv.github.io/outreach/#outreach).
-  - [Digital and didactic resources](https://igomezv.github.io/outreach/#digital-didactic-material).
-- [Other](https://igomezv.github.io/other).
