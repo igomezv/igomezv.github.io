@@ -15,7 +15,7 @@ You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxm
 # Work experience
 ---
 
- -  https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - today. Postdoctoral researcher.<br>
+ -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - today. Postdoctoral researcher.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
    Project: Deep learning in exoplanet detection. <br> 
