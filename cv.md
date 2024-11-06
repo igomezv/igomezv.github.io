@@ -7,20 +7,15 @@ title: CV
 
 For an overview of my scientific work, you can check my research profiles on [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) and [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas). Visit my [GitHub profile](https://github.com/igomezv) to explore machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. You can download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0). 
 
+
 Website index:
 
 - [Work experience](#work-experience).
-
 - [Education](#education).
-
-- [Research](https://igomezv.github.io/research):
-
-- [Programming](https://igomezv.github.io/code/):
-
-- [Teaching](https://igomezv.github.io/teaching):
-
-- [Textbooks, didactic material and outreach](https://igomezv.github.io/outreach):
-
+- [Research](https://igomezv.github.io/research).
+- [Programming](https://igomezv.github.io/code/).
+- [Teaching](https://igomezv.github.io/teaching).
+- [Textbooks, didactic material and outreach](https://igomezv.github.io/outreach).
 - [Miscellany](https://igomezv.github.io/other).
 
 
@@ -37,10 +32,10 @@ Website index:
 
  - [2022-2026. SNI Candidate. Sistema Nacional de Investigadores](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-2023. Postdoctoral researcher.<br>
+- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-2023. Postdoctoral researcher.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   CONACYT National postdoctoral grant. <br>
-  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.</a><br>
+  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.<br>
   Advisor: Jose Alberto Vazquez.
 
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2022-2023. Instructor of Machine Learning courses<br>
@@ -89,11 +84,3 @@ Website index:
 - Bachelor degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
  <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis: *Seguimiento Operacional de una Recarga de Combustible de un Reactor BWR con SIMULATE-3*. </a><br>
-
-
----
-# Website index
-
----
-
-
