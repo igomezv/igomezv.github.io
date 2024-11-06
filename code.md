@@ -1,16 +1,17 @@
-	---
+---
 layout: page
 title: Code
 
 ---
 
+You can visit my [GitHub profile](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
+
+Index: 
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
 - [neuralike](#neuralike)	
 - [crann](#crann)
 
-
-You can visit my [GitHub profile](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
 
 -----------------------------------------------------------
 

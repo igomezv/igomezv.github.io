@@ -4,11 +4,13 @@ title: Research
 
 ---
 
+
+Research profiles: [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [arXiv](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50), [InspireHep](https://inspirehep.net/authors/1862237?ui-citation-summary=true), [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
+
+Index: 
 - [Papers](#papers).
 - [Peer reviews](#peer-reviews).
 - [Academic presentations](#academic-presentations).
-
-Research profiles: [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [arXiv](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50).
 
 -----------------------------------------------------------
 
