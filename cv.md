@@ -26,7 +26,7 @@ You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxm
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-2023. Postdoctoral researcher.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   CONACYT National postdoctoral grant. <br>
-  Project: *Métodos estadísticos y de aprendizaje automático en cosmología observacional*.<br>
+  Project: *Statistical and machine learning methods in observational cosmology*.<br>
   Advisor: Jose Alberto Vazquez.
 
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2022-2023. Instructor of Machine Learning courses.</a><br>
@@ -40,15 +40,15 @@ You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxm
   Macmillan Education Latam, Ediciones SM, Edimend, Quipper, others. <br> 
   Authoring and technical revision of high shool textbooks. <br> 
   
-- <a href="https://www.willhandley.co.uk/students/">2020 (March-October). Visiting PhD student.<br>
+- <a href="https://www.willhandley.co.uk/students/">2020 (8 months). Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.</a><br> 
   [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
   Remote due to COVID19 pandemic.<br>
   Advisor: Will Handley. <br> 
 
-- 2018 (September-October). Visiting PhD student. <br> 
+- 2018 (2 months). Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
-  Project: *Estimación de parámetros cosmológicos con el código Cosmosis*. <br> 
+  Project: *Cosmological parameter estimation with Cosmosis code*. <br> 
   Advisor: Ulises Nucamendi.
 
 
