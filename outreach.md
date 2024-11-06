@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Textbooks, outreach and didactic material
+title: Textbooks, outreach and educational material
 ---
 
 - [Text Books](#text-books)
 - [Papers](#papers)
 - [Outreach](#outreach)
-- [Digital didactic material](#digital-didactic-material)
+- [Digital educational material](#digital-educational-material)
 
 -----------------------------------------------------------
 
@@ -79,7 +79,7 @@ Didactic, educational and outreach articles.
  
 ---------
 
-## Digital didactic material
+## Digital educational material
 ----------
 
 #### Augmented Reality app

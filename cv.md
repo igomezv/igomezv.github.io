@@ -7,7 +7,7 @@ title: CV
 
 For an overview of my scientific work, please visit my research profiles on [ORCiD](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) and [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas). My [GitHub profile](https://github.com/igomezv) contains machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. 
 
-You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: [⦿ Work experience](#work-experience) [⦿ Education](#education) [⦿ Research](https://igomezv.github.io/research) [⦿ Programming](https://igomezv.github.io/code/) [⦿ Teaching](https://igomezv.github.io/teaching) [⦿ Textbooks, didactic material and outreach](https://igomezv.github.io/outreach) [⦿ Miscellany](https://igomezv.github.io/other).
+You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: [⦿ Work experience](#work-experience) [⦿ Education](#education) [⦿ Research](https://igomezv.github.io/research) [⦿ Programming](https://igomezv.github.io/code/) [⦿ Teaching](https://igomezv.github.io/teaching) [⦿ Textbooks, educational material and outreach](https://igomezv.github.io/outreach) [⦿ Miscellany](https://igomezv.github.io/other).
 
 
 -----------------------------------------------------------
@@ -70,8 +70,8 @@ You can also download my CV in PDF format [here](https://www.dropbox.com/s/o1vxm
   
 - Master's degree in advanced technology.<br>
  CICATA-Legaria, Instituto Politécnico Nacional. <br>
- <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis: *Diseño y desarrollo de una aplicación para dispositivos móviles de realidad aumentada.* </a><br>
+ <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis (Spanish version): *Augmented Reality Educational Mobile App* </a><br>
 
 - Bachelor degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis: *Seguimiento Operacional de una Recarga de Combustible de un Reactor BWR con SIMULATE-3*. </a><br>
+ <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation Using SIMULATE-3*. </a><br>
