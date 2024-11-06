@@ -4,7 +4,6 @@ title: Code
 
 ---
 
-Some projects:
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
 - [neuralike](#neuralike)	
