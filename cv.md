@@ -5,7 +5,7 @@ title: CV
 ---
 
 
-For an overview of my scientific work, please visit my research profiles on [**OrcID**](https://orcid.org/0000-0002-6473-018X), [**Google Scholar**](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) and [**ResearchGate**](https://www.researchgate.net/profile/Isidro-Gomez-Vargas). Visit my [GitHub profile](https://github.com/igomezv) to explore machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. 
+For an overview of my scientific work, please visit my research profiles on [**OrcID**](https://orcid.org/0000-0002-6473-018X), [**Google Scholar**](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) and [**ResearchGate**](https://www.researchgate.net/profile/Isidro-Gomez-Vargas). Visit my [**GitHub** profile](https://github.com/igomezv) to explore machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. 
 
 You can also download my CV in PDF format [**here**](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: ⦿ [Work experience](#work-experience) ⦿ [Education](#education) ⦿ [Research](https://igomezv.github.io/research) ⦿ [Programming](https://igomezv.github.io/code/) ⦿ [Teaching](https://igomezv.github.io/teaching) ⦿ [Textbooks, didactic material and outreach](https://igomezv.github.io/outreach) ⦿ [Miscellany](https://igomezv.github.io/other).
 
