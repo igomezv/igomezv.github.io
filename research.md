@@ -16,7 +16,7 @@ Research profiles: [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Schol
 
 ---
 
-- [Research](#research-papers).
+- [Research](#research).
 - [Proceedings](#proceedings).
 - [Outreach and educational](#educational-and-outreach).
 
@@ -26,8 +26,7 @@ Research profiles: [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Schol
 -->
 
 
-### Research papers
-
+### Research
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
