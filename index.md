@@ -30,6 +30,6 @@ I am currently a postdoctoral researcher at the Geneva Observatory and, previous
 
 
 <p>
-  For contact information, please see the bottom of this website. Detailed CV available [here](https://igomezv.github.io/cv/).
+  Contact info at the bottom of this site. CV [here](https://igomezv.github.io/cv/).
 </p>
 
