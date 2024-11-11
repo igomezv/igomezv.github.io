@@ -29,6 +29,8 @@ Research profiles: [OrcID](https://orcid.org/0000-0002-6473-018X), [Google Schol
 
 ### Research
 
+9 as 1st/2nd author. 2 as collaborator.
+
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
@@ -54,6 +56,8 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 
 ### Proceedings 
+
+4 as 1st/2nd author, 1 as collaborator.
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
 
