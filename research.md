@@ -5,7 +5,7 @@ title: Research
 ---
 
 
-Research profiles: [<u>OrcID</u>](https://orcid.org/0000-0002-6473-018X), [Google Scholar](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [ResearchGate](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [arXiv](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50), [InspireHep](https://inspirehep.net/authors/1862237?ui-citation-summary=true), [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
+Research profiles: [<u>OrcID</u>](https://orcid.org/0000-0002-6473-018X), [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [<u>ADS</u>](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [<u>arXiv</u>](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50), [<u>InspireHep</u>](https://inspirehep.net/authors/1862237?ui-citation-summary=true), [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
 
 - [Papers](#papers).
 - [Peer reviews](#peer-reviews).
@@ -21,15 +21,10 @@ Research profiles: [<u>OrcID</u>](https://orcid.org/0000-0002-6473-018X), [Googl
 - [Proceedings](#proceedings).
 - [Outreach and educational](#educational-and-outreach).
 
-<!--
-	- [InspireHep](https://inspirehep.net/authors/1862237).
-- [Web of Science](https://www.webofscience.com/wos/author/record/GYD-5531-2022). 
--->
-
 
 ### Research
 
-9 as 1st/2nd author. 2 as collaborator.
+9 as 1st/2nd author. 
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
@@ -57,7 +52,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 ### Proceedings 
 
-4 as 1st/2nd author, 1 as collaborator.
+4 as 1st/2nd author.
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
 
