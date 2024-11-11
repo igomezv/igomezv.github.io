@@ -4,7 +4,7 @@ title: Code
 
 ---
 
-You can visit my [GitHub profile](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
+You can visit my [<u>GitHub profile</u>](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
 
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
