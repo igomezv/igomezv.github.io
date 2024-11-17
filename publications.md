@@ -14,13 +14,15 @@ title: Publications
 **Stats:**
 
 Total: 27
-- By indexing: 11 JCR | 6 Q4 | 1 CONACYT | 1 preprint | 1 SEP book | 4 ISBN | 3 other.
-- By category: 11 research | 6 proceedings | 6 educational/outreach | 5 textbooks.
+- By indexing: 
+	11 JCR | 6 Q4 | 1 CONACYT | 1 preprint | 1 SEP book | 4 ISBN | 3 other.
+- By category: 
+	11 research | 6 proceedings | 6 educational/outreach | 5 textbooks.
 
 
 ### Research
 
-**Total: 11** | 10 JCR | 1 preprint.
+**Total: 11**. 10 JCR | 1 preprint.
 
 [9 as 1st/2nd author.] 
 
