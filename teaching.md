@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Students, courses and workshops
+title: Teaching
 ---
 
 
-- [Courses](#courses-taught)
+- [Courses](#courses)
 - [Workshops](#workshops)
 - [Students](#supervised-students)
 
@@ -12,7 +12,7 @@ title: Students, courses and workshops
 
 ----------
 
-## Courses taught
+## Courses 
 ----------
 
 - **Intermediate Data Science.** <br> 

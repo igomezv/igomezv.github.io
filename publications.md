@@ -81,7 +81,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 - [**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
 
-- [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
+- [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada).
 
 
 
