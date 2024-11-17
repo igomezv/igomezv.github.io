@@ -21,8 +21,7 @@ Total: 27
 
 
 ### Research
-
-**Total: 11**. 10 JCR | 1 preprint.
+**Total: 11:** | 10 JCR | 1 preprint.
 
 [9 as 1st/2nd author.] 
 
