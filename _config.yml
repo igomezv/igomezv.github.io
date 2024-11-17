@@ -4,9 +4,9 @@ author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
    CV: "cv"
-#   Projects: "projects" 
+   Projects: "publications" 
 #   Contact: "contact" 
-#   Teaching: "teaching"
+   Teaching: "teaching"
 #   Outreach/Didactics: "outreach"
 #   Code: "code"
 #   Other: "other"
