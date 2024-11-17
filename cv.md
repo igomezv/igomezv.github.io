@@ -5,7 +5,8 @@ title: CV
 ---
 
 
-You can download my CV in PDF format [<u>here</u>](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: [⦿ <u>Work experience</u>](#work-experience) [⦿ <u>Education</u>](#education) [⦿ <u>Publications</u>](https://igomezv.github.io/publications) [⦿ <u>Programming</u>](https://igomezv.github.io/code/) [⦿ <u>Teaching</u>](https://igomezv.github.io/teaching) [⦿ <u>Educational material and outreach</u>](https://igomezv.github.io/outreach) [⦿ <u>Miscellany</u>](https://igomezv.github.io/other).
+You can download my CV in PDF format [<u>here</u>](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: 
+[⦿ <u>Work experience</u>](#work-experience) [⦿ <u>Education</u>](#education) [⦿ <u>Publications</u>](https://igomezv.github.io/publications) [⦿ <u>Programming</u>](https://igomezv.github.io/code/) [⦿ <u>Teaching</u>](https://igomezv.github.io/teaching) [⦿ <u>Educational material and outreach</u>](https://igomezv.github.io/outreach) [⦿ <u>Miscellany</u>](https://igomezv.github.io/other).
 
 For an overview of my scientific work, please visit my research profiles on [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) or [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es). My [<u>GitHub</u>](https://github.com/igomezv) contains machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. 
 
