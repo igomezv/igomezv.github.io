@@ -9,6 +9,7 @@ title: Publications
 - [Outreach and educational](#educational-and-outreach).
 - [Textbooks](#text-books).
 
+
 ## **Stats**
 
 **Total:** 27  
