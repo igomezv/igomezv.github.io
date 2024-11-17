@@ -9,25 +9,12 @@ title: Publications
 - [Outreach and educational](#educational-and-outreach).
 - [Textbooks](#text-books).
 
-
 ## **Stats**
 
-### **Total:** 27
+**Total:** 27  
+**By Indexing:** 11 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
+**By Category:** 11 Research, 6 Proceedings, 6 Educational/Outreach, 5 Textbooks.
 
-#### **By Indexing:**
-- 11 JCR  
-- 6 Q4  
-- 1 CONACYT  
-- 1 Preprint  
-- 1 SEP Book  
-- 4 ISBN  
-- 3 Other  
-
-#### **By Category:**
-- 11 Research  
-- 6 Proceedings  
-- 6 Educational/Outreach  
-- 5 Textbooks  
 
 
 ### Research
