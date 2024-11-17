@@ -22,7 +22,7 @@ title: Publications
 
 
 ### Research
-**Total: 11** | 10 JCR | 1 preprint.
+**Total: 11** | 10 JCR | 1 preprint |
 
 [9 as 1st/2nd author.] 
 
@@ -53,7 +53,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 -----
 
 ### Proceedings 
-**Total: 6** | 5 Q4 | 1 other.
+**Total: 6** | 5 Q4 | 1 other |
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
 
@@ -71,7 +71,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 -----
 
 ### Educational and outreach
-**Total: 6** | 1 JCR | 1 CONACYT | 1 Q4 | 2 other.
+**Total: 6** | 1 JCR | 1 CONACYT | 1 Q4 | 2 other |
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 
@@ -81,14 +81,14 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 - [**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
 
-- [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada).
+- [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)
 
 
 
 -----
 
 ### Textbooks
-**Total: 5** | 1 SEP book | 4 supplementary material.
+**Total: 5** | 1 SEP book | 4 supplementary material |
 
 *SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools. *Supplementary materials* are additional resources, such as guides for teachers or students, designed to support the primary textbook used in their courses.
 
