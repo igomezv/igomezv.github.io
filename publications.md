@@ -4,24 +4,34 @@ title: Publications
 
 ---
 
-
 - [Research](#research).
 - [Proceedings](#proceedings).
 - [Outreach and educational](#educational-and-outreach).
 - [Textbooks](#text-books).
 
 
-**Stats:**
+## **Stats**
 
-Total: 27
-- By indexing: 
-	11 JCR | 6 Q4 | 1 CONACYT | 1 preprint | 1 SEP book | 4 ISBN | 3 other.
-- By category: 
-	11 research | 6 proceedings | 6 educational/outreach | 5 textbooks.
+### **Total:** 27
+
+#### **By Indexing:**
+- 11 JCR  
+- 6 Q4  
+- 1 CONACYT  
+- 1 Preprint  
+- 1 SEP Book  
+- 4 ISBN  
+- 3 Other  
+
+#### **By Category:**
+- 11 Research  
+- 6 Proceedings  
+- 6 Educational/Outreach  
+- 5 Textbooks  
 
 
 ### Research
-**Total: 11:** | 10 JCR | 1 preprint.
+**Total: 11** | 10 JCR | 1 preprint.
 
 [9 as 1st/2nd author.] 
 
@@ -51,7 +61,6 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 
 ### Proceedings 
-
 **Total: 6** | 5 Q4 | 1 other.
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
@@ -68,7 +77,6 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 
 ### Educational and outreach
-
 **Total: 6** | 1 JCR | 1 CONACYT | 1 Q4 | 2 other.
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
@@ -83,7 +91,6 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 
 ### Textbooks
-
 **Total: 5** | 1 SEP book | 4 supplementary material.
 
 *SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools. *Supplementary materials* are additional resources, such as guides for teachers or students, designed to support the primary textbook used in their courses.
