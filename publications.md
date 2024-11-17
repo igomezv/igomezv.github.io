@@ -10,12 +10,16 @@ title: Publications
 - [Textbooks](#text-books).
 
 
+-----
+
 ## **Stats**
 
 **Total:** 27  
 **By Indexing:** 11 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
 **By Category:** 11 Research, 6 Proceedings, 6 Educational/Outreach, 5 Textbooks.
 
+
+-----
 
 
 ### Research
@@ -47,6 +51,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
 
 
+-----
 
 ### Proceedings 
 **Total: 6** | 5 Q4 | 1 other.
@@ -64,6 +69,8 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 - [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
 
 
+-----
+
 ### Educational and outreach
 **Total: 6** | 1 JCR | 1 CONACYT | 1 Q4 | 2 other.
 
@@ -77,6 +84,9 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 - [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)).
 
+
+
+-----
 
 ### Textbooks
 **Total: 5** | 1 SEP book | 4 supplementary material.
