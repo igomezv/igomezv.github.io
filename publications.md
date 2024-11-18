@@ -15,7 +15,7 @@ title: Publications
 
 **Total:** 27  
 **By Indexing:** 11 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
-**By Category:** 11 Research, 6 Proceedings, 6 Educational/Outreach, 5 Textbooks.
+**By Category:** 11 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks, 4 other.
 
 
 -----
