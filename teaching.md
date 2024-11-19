@@ -144,6 +144,8 @@ One main textbook and five supplementary materials, including guides for teacher
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 
+----------
+
 ### Papers
 
 See the full list in the [Educational and outreach publications section](https://igomezv.github.io/publications/#educational-and-outreach).
