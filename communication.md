@@ -11,7 +11,7 @@ title: Communication
 
 -----------------------------------------------------------
 
-# Academic presentations
+## Academic presentations
 -----
 [Last 4 years]
 

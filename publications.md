@@ -106,7 +106,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 -----
 
-# Peer reviews
+### Peer reviews
 -----
 
 - 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
