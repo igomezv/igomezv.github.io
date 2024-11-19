@@ -136,7 +136,7 @@ title: Teaching
 
 ### Textbooks
 
-One main textbook and five supplementary materials, including guides for teachers and students, designed to complement the primary textbook used in courses. See the full list in the [Textbooks Publication Section](https://igomezv.github.io/publications/#textbooks) or on the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
+One main textbook and four supplementary materials, including guides for teachers and students, designed to complement the primary textbook used in courses. See the full list in the [Textbooks Publication Section](https://igomezv.github.io/publications/#textbooks) or on the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
 
 <p><a href="https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1">Matemáticas 3, Travesías Series, Castillo Editions</a> is a mathematics textbook for high school. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). You can purchase it on <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a> or at <a href="https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150">El Sótano</a>. It is also available in the <a href="https://www.conaliteg.sep.gob.mx/secundaria.html">CONALITEG repository</a>.</p>
 
