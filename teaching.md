@@ -134,7 +134,7 @@ title: Teaching
 ## Educational material
 ----------
 
-## Textbooks
+### Textbooks
 
 One main textbook and five supplementary materials, including guides for teachers and students, designed to complement the primary textbook used in courses. See the full list in the [Textbooks Publication Section](https://igomezv.github.io/publications/#textbooks) or on the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
 
@@ -144,13 +144,13 @@ One main textbook and five supplementary materials, including guides for teacher
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 
-## Papers
+### Papers
 
 See the full list in the [Educational and outreach publications section](https://igomezv.github.io/publications/#educational-and-outreach).
 
 ----------------
 
-## Digital resources
+### Digital resources
 
 #### MOOC course
 Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas" for the MexicoX platform.
