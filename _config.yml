@@ -8,7 +8,7 @@ navbar-links:
 #   Contact: "contact" 
    Teaching: "teaching"
 #   Outreach/Didactics: "outreach"
-#   Code: "code"
+   Code: "code"
 #   Other: "other"
 
     
