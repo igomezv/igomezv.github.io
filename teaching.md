@@ -7,7 +7,10 @@ title: Teaching
 - [Courses](#courses)
 - [Workshops](#workshops)
 - [Students](#supervised-students)
-
+- [Educational material](#educational-material)
+  - [Textbooks](#textbooks)
+  - [Papers](#papers)
+  - [Digital resources](#digital-resources)
 
 
 ----------
@@ -125,3 +128,49 @@ title: Teaching
  - Joshua Briones Andrade (2022).
  - Hilkar Val Soberanes (2022-2023).
 
+
+---------
+
+## Educational material
+----------
+
+## Text Books
+
+One main textbook and five supplementary materials, including guides for teachers and students, designed to complement the primary textbook used in courses. See the full list in the [Textbooks Publication Section](https://igomezv.github.io/publications/#textbooks) or on the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
+
+<p><a href="https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1">Matemáticas 3, Travesías Series, Castillo Editions</a> is a mathematics textbook for high school. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). You can purchase it on <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a> or at <a href="https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150">El Sótano</a>. It is also available in the <a href="https://www.conaliteg.sep.gob.mx/secundaria.html">CONALITEG repository</a>.</p>
+
+
+![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
+
+
+## Papers
+
+See the full list in the [Educational and outreach publications section](https://igomezv.github.io/publications/#educational-and-outreach).
+
+----------------
+
+## Digital resources
+
+#### MOOC course
+Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas" for the MexicoX platform.
+
+In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
+
+Related links:
+- MOOC <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">website</a>.
+- [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
+
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
+
+#### Augmented Reality app
+
+Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
+
+Related links:
+- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>.
+- <a href="https://github.com/igomezv/RAsolidsrev">GitHub</a> repository.
+- Paper in <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D"> Latin American Journal of Physics Education</a>.
+- <a href="https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada">Essay</a> in a young writers book.
+
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}

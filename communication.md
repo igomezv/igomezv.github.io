@@ -1,30 +1,15 @@
 ---
 layout: page
-title: Research
+title: Communication
 
 ---
 
 
-Research profiles: [<u>OrcID</u>](https://orcid.org/0000-0002-6473-018X), [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [<u>ADS</u>](https://ui.adsabs.harvard.edu/search/q=author%3A%22G%C3%B3mez-Vargas%2C%20Isidro%22&sort=date%20desc%2C%20bibcode%20desc&p_=0), [<u>arXiv</u>](https://arxiv.org/search/?query=G%C3%B3mez-Vargas%2C+Isidro&searchtype=author&abstracts=show&order=-announced_date_first&size=50), [<u>InspireHep</u>](https://inspirehep.net/authors/1862237?ui-citation-summary=true), [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022).
+- [Academic presentations](#academic-presentations)
+- [Outreach](#outreach)
+- [Articles](#articles)
 
-
-	
------
-
-# Peer reviews
------
-
-[Peer reviews validated by Web of science](https://orcid.org/0000-0002-6473-018X):
-
-- 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
-- 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
-- 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
-- 1 Indian Journal of Physics. [Private info](https://link.springer.com/journal/12648).
-- 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
-- 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
-
-
------
+-----------------------------------------------------------
 
 # Academic presentations
 -----
@@ -72,3 +57,26 @@ Research profiles: [<u>OrcID</u>](https://orcid.org/0000-0002-6473-018X), [<u>Go
 	- [Talk] *Analisis de datos cosmológicos para el estudio de vacíos cósmicos*, Simposio de Tecnología Avanzada, CDMX. 
 	- [Conference] *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX.  -->
 
+
+--------
+
+## Outreach
+------------
+
+
+### Talks
+
+- **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo.
+- **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química.
+
+### Radio program
+
+- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394).
+
+
+---------
+
+## Papers
+-----------
+
+See the full list in the [Educational and outreach publications section](https://igomezv.github.io/publications/#educational-and-outreach).
