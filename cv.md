@@ -5,7 +5,7 @@ title: CV
 ---
 
 
-For an overview of my scientific work, please visit my research profiles on [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) or [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es). My [<u>GitHub</u>](https://github.com/igomezv) contains machine learning and programming projects, as well as materials from tutorials, courses, and workshops I have conducted. 
+For an overview of my scientific work, please visit my research profiles on [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) or [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es). My [<u>GitHub</u>](https://github.com/igomezv) contains machine learning, diverse code, and materials from courses I have conducted. 
 
 
 Also, you can download my CV in PDF format [<u>here</u>](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: 

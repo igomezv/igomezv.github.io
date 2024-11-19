@@ -7,7 +7,8 @@ title: Publications
 - [Research](#research).
 - [Proceedings](#proceedings).
 - [Outreach and educational](#educational-and-outreach).
-- [Textbooks](#text-books).
+- [Textbooks](#textbooks).
+- [Peer reviews](#peer-reviews).
 
 
 -----
@@ -101,3 +102,16 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 - **Gómez Vargas, I.** (2018) Matemáticas II. Guía para maestros. Serie Infinita.Ediciones Castillo. ISBN: 978-607-540-464-6.
     
 - **Gómez Vargas, I.** (2018) Matemáticas I. Guía para maestros. Serie Infinita. Ediciones Castillo. ISBN: 978-607-540-361-8.
+
+
+-----
+
+# Peer reviews
+-----
+
+- 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
+- 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
+- 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
+- 1 Indian Journal of Physics. [Private info](https://link.springer.com/journal/12648).
+- 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
+- 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
