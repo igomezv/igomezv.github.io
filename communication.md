@@ -76,7 +76,7 @@ title: Communication
 
 ---------
 
-## Papers
+## Articles
 -----------
 
 See the full list in the [Educational and outreach publications section](https://igomezv.github.io/publications/#educational-and-outreach).
