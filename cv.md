@@ -5,7 +5,7 @@ title: CV
 ---
 
 
-For an overview of my scientific work, please visit my research profiles on [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) or [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q). Also, you can download my CV in PDF format [<u>here</u>](https://www.dropbox.com/s/o1vxmjvus3y4ewj/CV_eng.pdf?dl=0), or explore the content of this website: 
+For an overview of my scientific work, please visit my research profiles on [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X), [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas), [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) or [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q). Also, you can download my CV in PDF format [<u>here</u>](https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0), or explore the content of this website: 
 [⦿ <u>Work experience</u>](#work-experience) [⦿ <u>Education</u>](#education) [⦿ <u>Publications</u>](https://igomezv.github.io/publications) [⦿ <u>Programming</u>](https://igomezv.github.io/code/) [⦿ <u>Teaching</u>](https://igomezv.github.io/teaching) [⦿ <u>Communication</u>](https://igomezv.github.io/communication) [⦿ <u>Miscellany</u>](https://igomezv.github.io/other).
 
 
