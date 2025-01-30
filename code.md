@@ -61,6 +61,7 @@ Links:
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
 
 
+<!-- 
 ------------------
 
 ### crann
@@ -76,4 +77,4 @@ Links:
 ![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
 
 
-
+-->
