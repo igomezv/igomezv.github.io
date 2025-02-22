@@ -18,6 +18,7 @@ title: Teaching
 ## Courses 
 ----------
 
+
 - **Intermediate Data Science.** <br> 
   *Diplomado en Ciencia de Datos*. <br> 
   2022, 2023, DGTIC-UNAM. <br> 
@@ -42,11 +43,16 @@ title: Teaching
   Specialization. 10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
 
-- **Deep Learning.** <br> 
+- **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
   2022, Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
   Master in Process Modeling and Optimization. <br> 
   Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
   [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
+
+- **[Research seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
+  *Maestría en Ciencias (Astrofísica)*. <br> 
+  2024, Universidad de Guanajuato. <br> 
+  8 hours. <br>. 
 
 - High school physics and mathematics courses (2013-2014). <br>
   CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
@@ -119,7 +125,21 @@ title: Teaching
     Thesis (Spanish version): [*Cosmological analysis with SNeIa and neural networks*](https://www.dropbox.com/scl/fi/8105lxy6r8ihlhymb1vot/TFM_VIU_Javier.pdf?rlkey=wsucsvmyf9lgklo4ho53346w6&st=xhuxkzsp&dl=0) <br>.
     Co-supervised with Ricardo García Salcedo.
     
-	
+
+#### Thesis Committee	
+  
+  - **Jazhiel Chacón** (2023 - in process). <br> 
+   [PhD in Computer Sciences.](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0) <br>
+   CIC, Instituto Politécnico Nacional. <br> 
+   Thesis project: [*Comparing cosmological structure formation models with deep learning*](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0). <br>
+
+ - **Juan de Dios Rojas Olvera** (2024). <br> 
+   [Master in Astronomy.](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0) <br>
+   Institute of Astronomy. UNAM. <br> 
+   Thesis project: [*Optimization of Astrophysical and Cosmological Systems with Physically Informed Neural Networks*](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0). <br>
+
+
+
 #### Advisory
 
  As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate physics students from the Facultad de Ciencias, UNAM:
