@@ -63,6 +63,13 @@ title: Teaching
 ## Workshops
 -------------
 
+- **Organizing Committee of the HPC-ML Workshop**.<br>
+  II-Mini Workshop on HPC in Science and Engineering. <br>
+  2023, Instituto de Ciencias Físicas, UNAM. <br>
+  From 16-18 August. <br>
+  20 hours. <br>
+  [Link to workshop material](https://www.fis.unam.mx/mini_workshop/).
+
 - **Machine Learning Basics**.<br>
   2021, 3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
   Universidad de Guanajuato. <br>
@@ -71,7 +78,7 @@ title: Teaching
   [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
 - **Cosmology with SimpleMC**. <br>
-  2020, Instituto de Ciencias Físicas, UNAM. <br>
+  2020, . <br>
   15 hours. <br>
   [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
 
