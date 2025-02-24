@@ -89,19 +89,57 @@ title: Teaching
 ------------
 
 
-#### Former:
+#### Thesis Committee 
+  
+  - **Jazhiel Chacón** (2023 - in process). <br> 
+   [PhD in Computer Sciences.](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0) <br>
+   CIC, Instituto Politécnico Nacional. <br> 
+   Thesis project: [*Comparing cosmological structure formation models with deep learning*](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0). <br>
 
-  -  **Raquel Cabezuelo Ortí** (2023). <br> 
+ - **Juan de Dios Rojas Olvera** (2024). <br> 
+   [Master in Astronomy.](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0) <br>
+   Institute of Astronomy. UNAM. <br> 
+   Thesis (Spanish version): [*Optimization of Astrophysical and Cosmological Systems with Physically Informed Neural Networks*](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0). <br>
+
+#### Co-supervised
+
+  - **Rodrigo Mendez** (2022-). <br> 
+    [Master in Astrophysics.](hhttps://www.dropbox.com/scl/fi/bymet4b7h8famd69wxh8f/Asignacion-Co-Dir_Tesis_Gomez-Vargas.pdf?rlkey=knjmffcw31afnuqasmi21p6k6&st=cy40eyk7&dl=0) <br> 
+    Universidad de Guanajuato. <br>
+    Thesis project: [*Analysis of the relationship between entropy estimators based on the dynamical properties of galaxies and the ICM using machine learning*](https://www.dropbox.com/scl/fi/bymet4b7h8famd69wxh8f/Asignacion-Co-Dir_Tesis_Gomez-Vargas.pdf?rlkey=knjmffcw31afnuqasmi21p6k6&st=cy40eyk7&dl=0). <br>
+    Co-supervised with Cesar Caretta.
+
+  - **Francisco Tamayo** (2022-). <br> 
+    [PhD in Educational Physics.](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0) <br> 
+    CICATA-IPN. <br>
+    Thesis project: [*Educational data mining to analyze academic performance in physics.*](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0). <br>
+    Co-supervised with Ricardo García.
+
+  - **Erika Montero** (2022-). <br> 
+    [PhD in Educational Physics.](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0) <br> 
+    CICATA-IPN. <br>
+    Thesis project: [*Machine Learning to analyze PISA tests in physics.*](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0). <br>
+    Co-supervised with Ricardo García.
+
+  - **José Luis López** (2022-). <br> 
+    [PhD in Advanced Technology.](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0) <br> 
+    CICATA-IPN. <br>
+    Thesis project: [*Training athletes with Artificial Intelligence.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0). <br>
+    Co-supervised with Ricardo García.
+
+  - **Daniel Barrera** (2023-). <br> 
+    [PhD in Advanced Technology.](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0) <br> 
+    CICATA-IPN. <br>
+    Thesis project: [*Deep Learning in medical diagnosis.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0). <br>
+    Co-supervised with Ricardo García.
+
+  - **Raquel Cabezuelo Ortí** (2023). <br> 
     [Master in Astrophysics.](https://www.dropbox.com/scl/fi/k20uhnb0qn4yvc3p7l6bk/Certificado_direccion_Raquel.pdf?rlkey=rm39dirhcrcs5ouhngtiyfqju&st=d081ob0b&dl=0) <br> 
     Valencia International University (VIU). <br>
     Thesis (Spanish version): [*Dynamical analysis of a homogeneous and isotropic cosmological model coupled with nonlinear electrodynamics*](https://www.dropbox.com/scl/fi/t7s7g6kyv0izvjxpypnci/TFM_VIU_Raquel.pdf?rlkey=25abz1ih8dqlrib18ridew8am&st=tobyqlnd&dl=0). <br>
-     Co-supervised with Ricardo García Salcedo.
-    
- - **Esteban Elías Gonzalez Mendez** (2023).<br>
-   [Summer research stay for undergraduate students.](https://www.dropbox.com/scl/fi/p9no950f7dsqufjpehaqu/Estancia_Esteban_Tec_Mixteca_ICF-UNAM.pdf?rlkey=mjsbx95iltnwvibl2ebrs898t&dl=0)<br>
-   ICF-UNAM.<br>
-   Physics engineering (Universidad Tecnológica de la Mixteca).<br>
-   
+    Co-supervised with Ricardo García Salcedo.
+  
+
  - **José Luis López López** (2021-2023).<br> 
     [Master in Process Modeling and Optimization.](https://www.dropbox.com/scl/fi/ugp9e5zf719f3ovh8h30e/Dr.-Isidro-G-mez-Vargas-Co-Direcci-n.pdf?rlkey=8q1wmbghairmqqf3nsgk67we7&dl=0) <br>
     Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
@@ -133,28 +171,12 @@ title: Teaching
     Co-supervised with Ricardo García Salcedo.
     
 
-#### Thesis Committee	
-  
-  - **Jazhiel Chacón** (2023 - in process). <br> 
-   [PhD in Computer Sciences.](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0) <br>
-   CIC, Instituto Politécnico Nacional. <br> 
-   Thesis project: [*Comparing cosmological structure formation models with deep learning*](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0). <br>
+#### Supervised:
 
- - **Juan de Dios Rojas Olvera** (2024). <br> 
-   [Master in Astronomy.](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0) <br>
-   Institute of Astronomy. UNAM. <br> 
-   Thesis project: [*Optimization of Astrophysical and Cosmological Systems with Physically Informed Neural Networks*](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0). <br>
-
-
-
-#### Advisory
-
- As a postdoctoral researcher in Dr. José Alberto Vázquez's group at ICF-UNAM, I have advised some undergraduate physics students from the Facultad de Ciencias, UNAM:
-
- - Juan de Dios Rojas Olvera (2021-2022).
- - Joshua Briones Andrade (2022).
- - Hilkar Val Soberanes (2022-2023).
-
+ - **Esteban Elías Gonzalez Mendez** (2023).<br>
+   [Summer research stay for undergraduate students.](https://www.dropbox.com/scl/fi/p9no950f7dsqufjpehaqu/Estancia_Esteban_Tec_Mixteca_ICF-UNAM.pdf?rlkey=mjsbx95iltnwvibl2ebrs898t&dl=0)<br>
+   ICF-UNAM.<br>
+   Physics engineering (Universidad Tecnológica de la Mixteca).<br>
 
 ---------
 
