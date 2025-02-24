@@ -51,6 +51,8 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 - [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. arXiv:2502.12915.](https://arxiv.org/abs/2502.12915)
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
+
+
 -----
 
 ### Proceedings 
