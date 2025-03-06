@@ -69,12 +69,12 @@ title: Communication
 
 ### Talks
 
-- **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo.
-- **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química.
+- **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo. [Online].
+- **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química. [Online].
 
 ### Radio program
 
-- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394).
+- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394). [On-site].
 
 
 ---------
