@@ -15,7 +15,7 @@ title: Publications
 
 
 **Total:** 28  
-**By Indexing:** 11 JCR, 6 Q4, 1 CONACYT, 2 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
+**By Indexing:** 12 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
 **By Category:** 12 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks, 4 other.
 
 
@@ -23,11 +23,13 @@ title: Publications
 
 
 ### Research
-**Total: 12** | 10 JCR | 2 preprint |
+**Total: 12** | 11 JCR | 1 preprint |
 
 [9 as 1st/2nd author.] 
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
+
+- [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. arXiv:2502.12915. Accepted in Physics of the Dark Universe.](https://arxiv.org/abs/2502.12915)
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
 
@@ -47,8 +49,6 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 - [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515)
 
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120)
-
-- [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. arXiv:2502.12915.](https://arxiv.org/abs/2502.12915)
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
