@@ -29,7 +29,7 @@ title: Publications
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
-- [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. arXiv:2502.12915. Accepted in Physics of the Dark Universe.](https://arxiv.org/abs/2502.12915)
+- [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. Physics of the Dark Universe. 101901(48).](https://doi.org/10.1016/j.dark.2025.101901)
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
 
