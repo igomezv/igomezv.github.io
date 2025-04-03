@@ -19,6 +19,9 @@ title: Publications
 **By Category:** 12 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks, 4 other.
 
 
+| [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q)| [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I).
+
+
 -----
 
 
