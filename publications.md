@@ -15,8 +15,8 @@ title: Publications
 
 
 **Total:** 28  
-**By Indexing:** 12 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
-**By Category:** 12 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks, 4 other.
+**By Indexing:** 12 JCR, 6 Q4, 1 CONACYT, 2 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
+**By Category:** 13 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks, 4 other.
 
 
 | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q)| [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I).
@@ -26,7 +26,7 @@ title: Publications
 
 
 ### Research
-**Total: 12** | 11 JCR | 1 preprint |
+**Total: 13** | 11 JCR | 2 preprint |
 
 [9 as 1st/2nd author.] 
 
@@ -55,7 +55,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
-
+- [Di Valentino, E., et al (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>arXiv e-prints</i>,  arXiv:2504.01669.](https://arxiv.org/abs/2504.01669)
 -----
 
 ### Proceedings 
