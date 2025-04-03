@@ -56,6 +56,8 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
 - [Di Valentino, E., et al (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>arXiv e-prints</i>,  arXiv:2504.01669.](https://arxiv.org/abs/2504.01669)
+
+
 -----
 
 ### Proceedings 
