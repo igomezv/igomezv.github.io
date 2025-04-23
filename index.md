@@ -30,6 +30,7 @@ I am currently a postdoctoral researcher at the Geneva Observatory and, previous
 
 
 <p>
-  Contact info at the bottom of this site. CV  <a href="https://igomezv.github.io/cv/"><u>here</u></a>.
+  | <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0"><u>CV</u></a>. | [⦿ <u>Work experience</u>](#work-experience) | [⦿ <u>Education</u>](#education) | [⦿ <u>Publications</u>](https://igomezv.github.io/publications) | [⦿ <u>Programming</u>](https://igomezv.github.io/code/)  | [⦿ <u>Teaching</u>](https://igomezv.github.io/teaching) | [⦿ <u>Communication</u>](https://igomezv.github.io/communication) | [⦿ <u>Miscellany</u>](https://igomezv.github.io/other) |
+
 </p>
 
