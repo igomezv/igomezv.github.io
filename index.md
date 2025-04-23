@@ -3,7 +3,7 @@ layout: page
 title: Isidro Gómez-Vargas
 ---
 
-<div align="center"><code>PhD Machine Learning Physics </code></div>
+<div align="center"><code>PhD | Machine Learning | Astrophysics </code></div>
 
 <!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
@@ -20,7 +20,7 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
 
 <p>
-  My research interests are Deep Learning, Bayesian inference, cosmology, and astrophysics. I enjoy writing short stories, educational material, and Python code.
+  My research interests are Deep Learning, Bayesian inference, cosmology, and exoplanets. I enjoy writing short stories, educational material, and Python code.
 </p>
 
 
@@ -30,6 +30,6 @@ I am currently a postdoctoral researcher at the Geneva Observatory and, previous
 
 
 <p>
-  <a href="https://igomezv.github.io/cv/#work-experience"> ⦿ <u>CV</u> </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u>Work experience</u> </a>  <a href="https://igomezv.github.io/cv/#education">⦿ <u>Education</u> </a>  <a href="https://igomezv.github.io/cv/#publications">⦿ <u>Publications</u> </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u> Coding </u> </a>  <a href="https://igomezv.github.io/cv/#teaching">⦿ <u>Teaching</u> </a>  <a href="https://igomezv.github.io/cv/#communication">⦿ <u>Communication </u> </a>  <a href="https://igomezv.github.io/cv/#other">⦿ <u>Miscellany</u> </a>
+  <a href="https://igomezv.github.io/cv/#work-experience"> ⦿ <u>CV</u> </a>  <a href="https://igomezv.github.io/cv/#publications">⦿ <u>Publications</u> </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u> Coding </u> </a>  <a href="https://igomezv.github.io/cv/#teaching">⦿ <u>Teaching</u> </a>  <a href="https://igomezv.github.io/cv/#communication">⦿ <u>Communication </u> </a>  <a href="https://igomezv.github.io/cv/#other">⦿ <u>Miscellany</u> </a>
 </p>
 
