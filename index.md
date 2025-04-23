@@ -3,7 +3,7 @@ layout: page
 title: Isidro Gómez-Vargas
 ---
 
-<div align="center"><code>PhD | Machine Learning | Physics </code></div>
+<div align="center"><code>PhD Machine Learning Physics </code></div>
 
 <!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
@@ -30,6 +30,6 @@ I am currently a postdoctoral researcher at the Geneva Observatory and, previous
 
 
 <p>
-  <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0"> | ⦿ <u>CV</u> | </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u>Work experience</u> | </a>  <a href="https://igomezv.github.io/cv/#education">⦿ <u>Education</u> | </a>  <a href="https://igomezv.github.io/cv/#publications">⦿ <u>Publications</u> | </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u> Coding </u> | </a>  <a href="https://igomezv.github.io/cv/#teaching">⦿ <u>Teaching</u> | </a>  <a href="https://igomezv.github.io/cv/#communication">⦿ <u>Communication </u> | </a>  <a href="https://igomezv.github.io/cv/#other">⦿ <u>Miscellany</u> | </a>
+  <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0"> ⦿ <u>CV</u> </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u>Work experience</u> </a>  <a href="https://igomezv.github.io/cv/#education">⦿ <u>Education</u> </a>  <a href="https://igomezv.github.io/cv/#publications">⦿ <u>Publications</u> </a>  <a href="https://igomezv.github.io/cv/#work-experience">⦿ <u> Coding </u> </a>  <a href="https://igomezv.github.io/cv/#teaching">⦿ <u>Teaching</u> </a>  <a href="https://igomezv.github.io/cv/#communication">⦿ <u>Communication </u> </a>  <a href="https://igomezv.github.io/cv/#other">⦿ <u>Miscellany</u> </a>
 </p>
 
