@@ -30,7 +30,6 @@ I am currently a postdoctoral researcher at the Geneva Observatory and, previous
 
 
 <p>
-  | <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0"><u>CV</u></a>. | [⦿ <u>Work experience</u>](#work-experience) | [⦿ <u>Education</u>](#education) | [⦿ <u>Publications</u>](https://igomezv.github.io/publications) | [⦿ <u>Programming</u>](https://igomezv.github.io/code/)  | [⦿ <u>Teaching</u>](https://igomezv.github.io/teaching) | [⦿ <u>Communication</u>](https://igomezv.github.io/communication) | [⦿ <u>Miscellany</u>](https://igomezv.github.io/other) |
-
+  <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0"><u> ⦿ CV</u></a>  <a href="https://igomezv.github.io/cv/#work-experience"><u> ⦿ Work experience </u></a>  <a href="https://igomezv.github.io/cv/#education"><u> ⦿ Education </u></a>  <a href="https://igomezv.github.io/cv/#publications"><u> ⦿ Publications </u></a>  <a href="https://igomezv.github.io/cv/#work-experience"><u> ⦿ Coding </u></a>  <a href="https://igomezv.github.io/cv/#teaching"><u> ⦿ Teaching </u></a>  <a href="https://igomezv.github.io/cv/#communication"><u> ⦿ Communication </u></a>  <a href="https://igomezv.github.io/cv/#other"><u> ⦿ Miscellany </u></a>.
 </p>
 
