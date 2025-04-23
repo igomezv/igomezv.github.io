@@ -29,7 +29,8 @@ I am currently a postdoctoral researcher at the Geneva Observatory and, previous
 </p>
 
 
+<!-- 
 <p>
   <a href="https://igomezv.github.io/cv"> ⦿ <u>CV</u> </a>  <a href="https://igomezv.github.io/publications">⦿ <u>Publications</u> </a>  <a href="https://igomezv.github.io/code">⦿ <u> Coding </u> </a>  <a href="https://igomezv.github.io/teaching">⦿ <u>Teaching</u> </a>  <a href="https://igomezv.github.io/communication">⦿ <u>Communication </u> </a>  <a href="https://igomezv.github.io/other">⦿ <u>Other</u> </a>
 </p>
-
+-->   
