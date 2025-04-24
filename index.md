@@ -25,7 +25,7 @@ img {
 
 
 <p>
-I am currently a postdoctoral researcher at the Geneva Observatory and, previously, at the ICF-UNAM. 
+I am currently a postdoctoral researcher at the <a href="https://www.unige.ch/sciences/astro/en/">Department of Astronomy</a> of the University of Geneva and, previously at the <a href="https://www.fis.unam.mx/">ICF-UNAM</a>. 
 </p>
 
 
