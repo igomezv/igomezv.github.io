@@ -29,6 +29,10 @@ I am currently a postdoctoral researcher at the <a href="https://www.unige.ch/sc
 </p>
 
 
+<div align="center">
+  <img alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=igomezv.github.io" />
+</div>
+
 <!-- 
 <p>
   <a href="https://igomezv.github.io/cv"> ⦿ <u>CV</u> </a>  <a href="https://igomezv.github.io/publications">⦿ <u>Publications</u> </a>  <a href="https://igomezv.github.io/code">⦿ <u> Coding </u> </a>  <a href="https://igomezv.github.io/teaching">⦿ <u>Teaching</u> </a>  <a href="https://igomezv.github.io/communication">⦿ <u>Communication </u> </a>  <a href="https://igomezv.github.io/other">⦿ <u>Other</u> </a>
