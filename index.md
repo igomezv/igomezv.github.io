@@ -30,8 +30,9 @@ I am currently a postdoctoral researcher at the <a href="https://www.unige.ch/sc
 
 
 <div align="center">
-  <img alt="Visits" src="https://visitor-badge.glitch.me/badge?page_id=igomezv.github.io" />
+  <img alt="counter" src="https://visitor-badge.glitch.me/badge?page_id=igomezv.github.io" />
 </div>
+
 
 <!-- 
 <p>
