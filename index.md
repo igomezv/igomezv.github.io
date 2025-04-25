@@ -29,9 +29,12 @@ I am currently a postdoctoral researcher at the <a href="https://www.unige.ch/sc
 </p>
 
 
+
 <div align="center">
-  <img alt="counter" src="https://visitor-badge.glitch.me/badge?page_id=igomezv.github.io" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visits&query=value&url=https://api.countapi.xyz/hit/igomezv.github.io/visits" alt="c+=1">
 </div>
+
+
 
 
 <!-- 
