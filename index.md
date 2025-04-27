@@ -30,18 +30,6 @@ I am currently a postdoctoral researcher at the <a href="https://www.unige.ch/sc
 
 
 
-<div align="center">
-<!-- hitwebcounter Code START -->
-  <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=20499936&style=0007&nbdigits=5&type=page&initCount=10"
-         title="C"
-         alt="c+=1"
-         border="0"/>
-  </a>
-<!-- hitwebcounter Code END -->
-</div>
-
-
 
 <!-- 
 <p>
