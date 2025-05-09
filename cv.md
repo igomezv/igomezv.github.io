@@ -38,18 +38,26 @@ Download my CV in PDF format [<u>here</u>](https://www.dropbox.com/scl/fi/t9ijai
   Macmillan Education Latam, Ediciones SM, Edimend, Quipper, others. <br> 
   Authoring and technical revision of high shool textbooks. <br> 
   
+
+
+# Research stays
+---
+
 - <a href="https://www.willhandley.co.uk/students/">2020 (8 months). Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.</a><br> 
   [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
   Remote due to COVID19 pandemic.<br>
-  Advisor: Will Handley. <br> 
+  Host: Will Handley. <br> 
 
 - 2018 (2 months). Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
   Project: *Cosmological parameter estimation with Cosmosis code*. <br> 
-  Advisor: Ulises Nucamendi.
+  Host: Ulises Nucamendi.
 
-
+- 2016 (6 weeks). Visiting master student <br> 
+  Computer Department, Universidad Autónoma de Baja California. <br> 
+  Project: *Cosmological parameter estimation with Cosmosis code*. <br> 
+  Host: Ulises Nucamendi.
 
 ---
 # Education
