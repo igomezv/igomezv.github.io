@@ -16,6 +16,7 @@ title: Communication
 [Last 4 years]
 
 - **2025**
+	- [Seminar] *Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*. Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
 	- [Seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 
 - **2024**
