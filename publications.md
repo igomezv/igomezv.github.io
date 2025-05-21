@@ -15,7 +15,7 @@ title: Publications
 
 
 **Total:** 28  
-**By Indexing:** 12 JCR, 6 Q4, 1 CONACYT, 2 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
+**By Indexing:** 13 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 4 ISBN, 3 Other.  
 **By Category:** 13 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks, 4 other.
 
 
@@ -26,13 +26,16 @@ title: Publications
 
 
 ### Research
-**Total: 13** | 11 JCR | 2 preprint |
+**Total: 13** | 12 JCR | 1 preprint |
 
 [9 as 1st/2nd author.] 
 
-- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
+
+- [Di Valentino, E., et al (**Including Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Accepted in Physics of the Dark Universe</i>,  arXiv:2504.01669.](https://arxiv.org/abs/2504.01669)
 
 - [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. Physics of the Dark Universe. 101901(48).](https://doi.org/10.1016/j.dark.2025.101901)
+
+- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022)
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293)
 
@@ -55,7 +58,6 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833)
 
-- [Di Valentino, E., et al (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>arXiv e-prints</i>,  arXiv:2504.01669.](https://arxiv.org/abs/2504.01669)
 
 
 -----
