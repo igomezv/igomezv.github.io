@@ -31,7 +31,7 @@ title: Publications
 [9 as 1st/2nd author.] 
 
 
-- [Di Valentino, E., et al (**Including Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Accepted in Physics of the Dark Universe</i>,  arXiv:2504.01669.](https://arxiv.org/abs/2504.01669)
+- [Di Valentino, E., et al (including **Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Accepted in Physics of the Dark Universe</i>,  arXiv:2504.01669.](https://arxiv.org/abs/2504.01669)
 
 - [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. Physics of the Dark Universe. 101901(48).](https://doi.org/10.1016/j.dark.2025.101901)
 
