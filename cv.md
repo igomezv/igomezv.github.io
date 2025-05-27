@@ -45,17 +45,23 @@ Download my CV in PDF format [<u>here</u>](https://www.dropbox.com/scl/fi/t9ijai
 
 - 2025 (1 week). Visiting researcher. <br> 
   Instituto de Ciencias del Espacio. (ICE-CSIC), Barcelona, Spain. <br> 
+  Deep Learning in exoplanet detection. <br>
   Host: Manuel Perger. 
 
 - <a href="https://www.willhandley.co.uk/students/">2020 (8 months). Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.</a><br> 
-  [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
+  [*Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
   Remote due to COVID19 pandemic.<br>
   Host: Will Handley. <br> 
 
 - 2018 (2 months). Visiting PhD student. <br> 
+  Instituto de Ciencias Físicas, UNAM. <br> 
+  Algorithms in cosmology. <br>
+  Host: José Alberto Vázquez. <br> 
+
+- 2018 (2 months). Visiting PhD student. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
-  Project: *Cosmological parameter estimation with Cosmosis code*. <br> 
+  *Cosmological parameter estimation with Cosmosis code*. <br> 
   Host: Ulises Nucamendi.
 
 
