@@ -43,6 +43,10 @@ Download my CV in PDF format [<u>here</u>](https://www.dropbox.com/scl/fi/t9ijai
 # Research stays
 ---
 
+- 2025 (1 week). Visiting researcher. <br> 
+  Instituto de Ciencias del Espacio. (ICE-CSIC), Barcelona, Spain. <br> 
+  Host: Manuel Perger. 
+
 - <a href="https://www.willhandley.co.uk/students/">2020 (8 months). Visiting PhD student.<br>
   Kavli Institute of Cosmology, University of Cambridge.</a><br> 
   [Project: *Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
@@ -54,10 +58,6 @@ Download my CV in PDF format [<u>here</u>](https://www.dropbox.com/scl/fi/t9ijai
   Project: *Cosmological parameter estimation with Cosmosis code*. <br> 
   Host: Ulises Nucamendi.
 
-- 2016 (6 weeks). Visiting master student <br> 
-  Computer Department, Universidad Autónoma de Baja California. <br> 
-  Project: *Cosmological parameter estimation with Cosmosis code*. <br> 
-  Host: Ulises Nucamendi.
 
 ---
 # Education
