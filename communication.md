@@ -13,7 +13,7 @@ title: Communication
 
 ## Academic presentations
 -----
-[Last 4 years]
+[Last 5 years.]
 
 - **2025**
 	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
@@ -39,12 +39,13 @@ title: Communication
 	- [Talk] *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos. [On-site].
 	- [Seminar] *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato. [Online].
 	- [Seminar] *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos. [Online].
-	- [Poster] *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
-	- [Poster] *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
-	- [Poster] *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
 
 <!--	
 - **2020** 
+
+	- [Poster] *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
+	- [Poster] *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
+	- [Poster] *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
 	- [Seminar] *Muestreo anidado, redes neuronales y SimpleMC*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
 	- [Talk] *Métodos estadísticos con redes neuronales en cosmología observacional*, V Encuentro de Modelado Matemático en Física y Geometría, BUAP, MCTP.
 	- [Seminar] *Redes Neuronales aplicadas a métodos estadísticos de la Cosmología Observacional*, Seminario de estudiantes de cosmología, Cuernavaca, Morelos. 
