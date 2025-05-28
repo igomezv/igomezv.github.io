@@ -70,6 +70,8 @@ title: Communication
 
 ### Talks
 
+
+- **05/2025**. [*Scientific Applications of Machine Learning*, **International Congress on Biotechnology, Engineering and Stem**](https://sites.google.com/view/congresosonabiin/home?authuser=0). Sociedad Nacional de Biotecnología e Ingeniería [Online].
 - **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo. [Online].
 - **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química. [Online].
 
