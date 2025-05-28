@@ -16,7 +16,7 @@ title: Communication
 [Last 4 years]
 
 - **2025**
-	- [Seminar] *Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*. Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
+	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
 	- [Seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 
 - **2024**
@@ -71,7 +71,7 @@ title: Communication
 ### Talks
 
 
-- **05/2025**. [*Scientific Applications of Machine Learning*, **International Congress on Biotechnology, Engineering and Stem**](https://sites.google.com/view/congresosonabiin/home?authuser=0). Sociedad Nacional de Biotecnología e Ingeniería [Online].
+- **05/2025**. [*Scientific Applications of Machine Learning*, International Congress on Biotechnology, Engineering and Stem.](https://sites.google.com/view/congresosonabiin/home?authuser=0). Sociedad Nacional de Biotecnología e Ingeniería [Online].
 - **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo. [Online].
 - **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química. [Online].
 
