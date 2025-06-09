@@ -98,13 +98,14 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 -----
 
 ### Textbooks
-**| 1 SEP book | 
+
+**| 1 SEP book | **
 
 *SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools.
 
 - [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020) Matemáticas III. Serie Travesías. Ediciones Castillo. ISBN: 978-607-540-522-3. Book authorized by Secretaría de Educación Pública (SEP) and CONALITEG.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1). 
 
-**|  4 supplementary material |
+**|  4 supplementary material |**
 
  *Supplementary materials* are additional resources, such as guides for teachers or students, designed to support the main textbook used in their courses. Since these materials are complementary, I do not count them in my publication count.
 
