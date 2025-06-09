@@ -102,8 +102,6 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 
 *SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools.
 
-**SEP book:**
-
 - [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020) Matemáticas III. Serie Travesías. Ediciones Castillo. ISBN: 978-607-540-522-3. Book authorized by Secretaría de Educación Pública (SEP) and CONALITEG.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1). 
 
 #### Supplementary material
