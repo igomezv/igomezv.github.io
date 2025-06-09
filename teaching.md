@@ -52,7 +52,7 @@ title: Teaching
 - **[Research seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
   *Maestría en Ciencias (Astrofísica)*. <br> 
   2024, Universidad de Guanajuato. <br> 
-  8 hours. <br>. 
+  8 hours. <br>
 
 - High school physics and mathematics courses (2013-2014). <br>
   CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
@@ -78,7 +78,7 @@ title: Teaching
   [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
 - **Cosmology with SimpleMC**. <br>
-  2020, . <br>
+  2020 . <br>
   15 hours. <br>
   [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
 
@@ -88,8 +88,9 @@ title: Teaching
 ## Supervised students
 ------------
 
+(Completed/Total)
 
-#### Thesis Committee 
+#### Thesis Committee (1/2)
   
   - **Jazhiel Chacón** (2023 - in process). <br> 
    [PhD in Computer Sciences.](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0) <br>
@@ -101,14 +102,14 @@ title: Teaching
    Institute of Astronomy. UNAM. <br> 
    Thesis (Spanish version): [*Optimization of Astrophysical and Cosmological Systems with Physically Informed Neural Networks*](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0). <br>
 
-#### Undergraduate 
+#### Undergraduate (1/1)
 
  - **Esteban Elías Gonzalez Mendez** (2023).<br>
    [Summer research stay for undergraduate students.](https://www.dropbox.com/scl/fi/p9no950f7dsqufjpehaqu/Estancia_Esteban_Tec_Mixteca_ICF-UNAM.pdf?rlkey=mjsbx95iltnwvibl2ebrs898t&dl=0)<br>
    ICF-UNAM.<br>
    Physics engineering (Universidad Tecnológica de la Mixteca).<br>
 
-#### Master
+#### Master (6/7)
 
 - **Rodrigo Mendez** (2022-). <br> 
     [Master in Astrophysics.](hhttps://www.dropbox.com/scl/fi/bymet4b7h8famd69wxh8f/Asignacion-Co-Dir_Tesis_Gomez-Vargas.pdf?rlkey=knjmffcw31afnuqasmi21p6k6&st=cy40eyk7&dl=0) <br> 
@@ -152,30 +153,30 @@ title: Teaching
     Thesis (Spanish version): [*Cosmological analysis with SNeIa and neural networks*](https://www.dropbox.com/scl/fi/8105lxy6r8ihlhymb1vot/TFM_VIU_Javier.pdf?rlkey=wsucsvmyf9lgklo4ho53346w6&st=xhuxkzsp&dl=0) <br>.
     Co-supervised with Ricardo García Salcedo.
 
-#### Ph.D.
+#### Ph.D. (0/4)
   
   - **Francisco Tamayo** (2022-). <br> 
     [PhD in Educational Physics.](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0) <br> 
     CICATA-IPN. <br>
-    Thesis project: [*Educational data mining to analyze academic performance in physics.*](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0). <br>
+    Thesis project: [*Educational data mining to analyze academic performance in physics.*](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0) <br>
     Co-supervised with Ricardo García.
 
   - **Erika Montero** (2022-). <br> 
     [PhD in Educational Physics.](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0) <br> 
     CICATA-IPN. <br>
-    Thesis project: [*Machine Learning to analyze PISA tests in physics.*](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0). <br>
+    Thesis project: [*Machine Learning to analyze PISA tests in physics.*](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0) <br>
     Co-supervised with Ricardo García.
 
   - **José Luis López** (2022-). <br> 
     [PhD in Advanced Technology.](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0) <br> 
     CICATA-IPN. <br>
-    Thesis project: [*Training athletes with Artificial Intelligence.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0). <br>
+    Thesis project: [*Training athletes with Artificial Intelligence.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0) <br>
     Co-supervised with Ricardo García.
 
   - **Daniel Barrera** (2023-). <br> 
     [PhD in Advanced Technology.](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0) <br> 
     CICATA-IPN. <br>
-    Thesis project: [*Deep Learning in medical diagnosis.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0). <br>
+    Thesis project: [*Deep Learning in medical diagnosis.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0) <br>
     Co-supervised with Ricardo García.
 
 
