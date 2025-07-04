@@ -16,6 +16,7 @@ title: Communication
 [Last 5 years.]
 
 - **2025**
+	- [Conference] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf). The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6).  Porto, Portugal. [On-site].
 	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
 	- [Seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 
