@@ -120,7 +120,7 @@ simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe
 ### Peer reviews
 -----
 
-- 3 Physical Review D. [Private info](https://journals.aps.org/prd/).
+- 4 Physical Review D. [Private info](https://journals.aps.org/prd/).
 - 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
 - 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
 - 1 European Physical Journal C. [Private info](https://link.springer.com/journal/10052). 
