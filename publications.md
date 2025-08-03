@@ -30,6 +30,7 @@ title: Publications
 
 [10 as 1st/2nd author.] 
 
+- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2025). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Developed methodological and conceptual aspects of the study, wrote and reviewed the manuscript. Provided guidance to the PhD student (first author). Corresponding author.
 
 - [Di Valentino, E., et al (including **Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Physics of the Dark Universe</i>, 101965](https://www.sciencedirect.com/science/article/pii/S221268642500158X?casa_token=1pzbCgFVFhYAAAAA:xFQO_B3yP3qO76NhzYfQHD1tFqy4-VJgJTWSkEw-91MFqGWrWP82aX5mCX8U2gvOYKLRnnmQOVO) <br>**Contribution:** Authored and critically reviewed Sections *3.3 Reconstruction techniques* and *3.4 Bioinspired algorithms in model selection*, contributing expertise in machine learning methods and genetic algorithms.
 
@@ -38,6 +39,8 @@ title: Publications
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>**Contribution:** Participated in the critical review of the manuscript, ensuring methodological clarity in the use of the neural network models.
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, analysis, and writing.
+
+- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding and analysis, and wrote the manuscript. Corresponding author.
 
 - [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>**Contribution:** Co-lead author. Performed the majority of the conceptual and methodological development, led the coding and writing. Corresponding author.
 
@@ -54,11 +57,6 @@ title: Publications
 - [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>**Contribution:** Conceptual and methodological aspects, developed code and analysis; substantially contributed to writing. Provided guidance to the PhD student (first author).
 
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>**Contribution:** Advised the PhD student (first author), contributed to the manuscript writing, and ensured scientific rigor.
-
-- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2025). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Developed methodological and conceptual aspects of the study, wrote and reviewed the manuscript. Provided guidance to the PhD student (first author). Corresponding author.
-
-- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Reconstructing rotation curves with artificial neural networks. arXiv:2404.05833v1.](https://arxiv.org/abs/2404.05833) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding and analysis, and wrote the manuscript. Corresponding author.
-
 
 -----
 
