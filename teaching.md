@@ -90,9 +90,9 @@ title: Teaching
 
 (Completed/Total)
 
-#### Thesis Committee (1/2)
+#### Thesis Committee (2/2)
   
-  - **Jazhiel Chacón** (2023 - in process). <br> 
+  - **Jazhiel Chacón** (2023 - 2025). <br> 
    [PhD in Computer Sciences.](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0) <br>
    CIC, Instituto Politécnico Nacional. <br> 
    Thesis project: [*Comparing cosmological structure formation models with deep learning*](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0). <br>
