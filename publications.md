@@ -46,7 +46,7 @@ title: Publications
 
 - [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://www.mdpi.com/2218-1997/10/9/353) <br>**Contribution:** Conducted Bayesian analysis, contributed to the data interpretation, wrote the data analysis section, and provided scientific oversight through manuscript review.
 
-- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511) <br>**Contribution:** Executed the Bayesian statistical framework, authored the data analysis section, and provided scientific oversight through manuscript review.
+- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511) <br>**Contribution:** Executed the Bayesian statistical framework, authored the data analysis section, update of the data in SimpleMC for this paper, and provided scientific oversight through manuscript review.
 
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, analysis, and writing.
 
@@ -56,24 +56,25 @@ title: Publications
 
 - [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>**Contribution:** Conceptual and methodological aspects, developed code and analysis; substantially contributed to writing. Provided guidance to the PhD student (first author).
 
-- [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>**Contribution:** Advised the PhD student (first author), contributed to the manuscript writing, and ensured scientific rigor.
+- [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>**Contribution:** Advised the undergraduated student (first author), contributed to the manuscript writing, and ensured scientific rigor.
 
 -----
 
 ### Proceedings 
 **Total: 6** | 5 Q4 | 1 other |
 
-- [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
+- [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta) <br>**Contribution:** Lead author.
 
-- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012021). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta)
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012021). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta) <br>**Contribution:** Reviewed the manuscript and contributed to coding.
 
-- [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)
 
-- [Vazquez, JA, **Gómez-Vargas, I** & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97).
+- [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta) <br>**Contribution:** Reviewed the manuscript, contributed to coding, and assisted the undergraduate student (first author).
 
-- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta)
+- [Vazquez, JA, **Gómez-Vargas, I** & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97). <br>**Contribution:** Co-lead author. 
 
-- [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta) <br>**Contribution:** Reviewed the manuscript.
+
+- [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta) <br>**Contribution:** Lead author.
 
 
 -----
@@ -82,12 +83,15 @@ title: Publications
 **Total: 6** | 1 JCR | 1 CONACYT | 1 Q4 | 2 other |
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
+<br>**Contribution:** Reviewed the manuscript and contributed to coding examples.
 
-- [Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA) <br>**Contribution:** Contributed to project discussion and manuscript review.
 
 - [**Gómez-Vargas, I.**, Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. (2019) Una Aplicación de las redes neuronales en la cosmología. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia).
+<br>**Contribution:** Lead author.
 
 - [**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
+<br>**Contribution:** Lead author.
 
 - [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)
 
