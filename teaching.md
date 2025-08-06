@@ -153,6 +153,7 @@ title: Teaching
     Thesis (Spanish version): [*Cosmological analysis with SNeIa and neural networks*](https://www.dropbox.com/scl/fi/8105lxy6r8ihlhymb1vot/TFM_VIU_Javier.pdf?rlkey=wsucsvmyf9lgklo4ho53346w6&st=xhuxkzsp&dl=0) <br>.
     Co-supervised with Ricardo García Salcedo.
 
+<!-- 
 #### Ph.D. (0/4)
   
   - **Francisco Tamayo** (2022-). <br> 
@@ -179,7 +180,7 @@ title: Teaching
     Thesis project: [*Deep Learning in medical diagnosis.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0) <br>
     Co-supervised with Ricardo García.
 
-
+--> 
 ---------
 
 ## Educational material
