@@ -14,9 +14,9 @@ title: Publications
 -----
 
 
-**Total:** 25  
-**By Indexing:** 13 JCR, 6 Q4, 1 CONACYT, 2 Preprint, 1 SEP Book, 3 Other.  
-**By Category:** 14 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks.
+**Total:** 26  
+**By Indexing:** 13 JCR, 6 Q4, 1 CONACYT, 3 Preprint, 1 SEP Book, 3 Other.  
+**By Category:** 15 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks.
 
 
 | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q)| [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I).
@@ -26,11 +26,13 @@ title: Publications
 
 
 ### Research
-**Total: 14** | 12 JCR | 2 preprint |
+**Total: 14** | 12 JCR | 3 preprint |
 
 [10 as 1st/2nd author.] 
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2025). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Developed methodological and conceptual aspects of the study, wrote and reviewed the manuscript. Provided guidance to the PhD student (first author). Corresponding author.
+
+- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2025). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. arXiv preprint arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
 
 - [Di Valentino, E., et al (including **Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Physics of the Dark Universe</i>, 101965](https://www.sciencedirect.com/science/article/pii/S221268642500158X?casa_token=1pzbCgFVFhYAAAAA:xFQO_B3yP3qO76NhzYfQHD1tFqy4-VJgJTWSkEw-91MFqGWrWP82aX5mCX8U2gvOYKLRnnmQOVO) <br>**Contribution:** Authored and critically reviewed Sections *3.3 Reconstruction techniques* and *3.4 Bioinspired algorithms in model selection*, contributing expertise in machine learning methods and genetic algorithms.
 
