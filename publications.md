@@ -26,7 +26,7 @@ title: Publications
 
 
 ### Research
-**Total: 14** | 12 JCR | 3 preprint |
+**Total: 15** | 12 JCR | 3 preprint |
 
 [10 as 1st/2nd author.] 
 
