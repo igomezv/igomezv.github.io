@@ -5,7 +5,8 @@ title: CV
 ---
 
 
-Download my CV in PDF format [<u>here</u>](https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=0). 
+Download my CV in PDF format 
+<a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>here</a>.
 
 
 -----------------------------------------------------------
