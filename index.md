@@ -17,7 +17,7 @@ img {
 </style>
 
 
-<img src="https://igomezv.github.io/assets/img/isidroBN.png" width="150" height="180">
+<img src="https://igomezv.github.io/assets/img/isidro2.png" width="150" height="180">
 
 <p>
   My research interests are Deep Learning, Bayesian inference, and astrophysics. I enjoy writing short stories, and Python code.
