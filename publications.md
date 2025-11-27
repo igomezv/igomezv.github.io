@@ -104,11 +104,12 @@ title: Publications
 ### Textbooks
 **Total: 5** | 1 SEP book | 4 Supplementary material |
 
-*SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools.
-
-*Supplementary materials* are additional resources, such as guides for teachers or students, designed to support the main textbook used in their courses. Since these materials are complementary, I do not count them in my publication count.
+*SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools:
 
 - [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020) Matemáticas III. Serie Travesías. Ediciones Castillo. ISBN: 978-607-540-522-3. Book authorized by Secretaría de Educación Pública (SEP) and CONALITEG.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1). 
+
+
+*Supplementary materials* are additional resources, such as guides for teachers or students, designed to support the main textbook used in their courses. Since these materials are complementary, I do not count them in my publication count:
  
 - **Gómez Vargas, I.** (2018) Guía didáctica “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
     
