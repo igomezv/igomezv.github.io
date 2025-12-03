@@ -20,7 +20,7 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidro2.jpg" width="180" height="180">
 
 <p>
-  My research interests are Deep Learning, Bayesian inference, and astrophysics. I enjoy writing short stories, and Python code.
+  My research interests are Deep Learning, Bayesian inference, and exoplanets and cosmology. I enjoy writing short stories, and Python code.
 </p>
 
 
