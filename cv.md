@@ -14,7 +14,18 @@ Download my CV in PDF format
 # Work experience
 ---
 
- -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - today. Postdoctoral researcher.<br>
+ - <a href="https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/">
+  2025 – Today. MSCA COFUND Postdoctoral Fellow.<br> </a>
+  <a href="https://www.iaa.csic.es/">
+  Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain.<br>
+  </a>
+  <a href="https://www.ice.csic.es/">
+  Joint affiliation: Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain.<br>
+  </a>
+  Project: Generative Deep Learning for Stellar Observations and Exoplanet Detection with PLATO.<br>
+  Advisors: Javier Pascual Granado; Aldo Serenelli.
+
+ -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - 2025 Postdoctoral researcher.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
    Project: Deep learning in exoplanet detection. <br> 

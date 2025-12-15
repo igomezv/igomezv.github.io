@@ -24,7 +24,7 @@ img {
 </p>
 
 <p>
-I am an <a href="https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/">MSCA COFUND Postdoctoral Fellow – ALLIES Program</a>, based at the Instituto de Astrofísica de Andalucía (IAA-CSIC), with a joint affiliation to the Instituto de Ciencias del Espacio (ICE-CSIC). Previously, I held postdoctoral research positions at the <a href="https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/gomez-vargas-isidro">Department of Astronomy</a> of the University of Geneva and at the <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">Instituto de Ciencias Físicas (ICF-UNAM)</a>.
+I am a <a href="https://aihub.csic.es">MSCA COFUND Postdoctoral Fellow – ALLIES Program</a>, based at the IAA-CSIC. Previously, I held postdoctoral research positions at the <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy</a> of the University of Geneva and at the <a href="https://www.fis.unam.mx">ICF-UNAM</a>.
 </p>
 
 
