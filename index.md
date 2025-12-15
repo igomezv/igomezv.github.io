@@ -3,7 +3,7 @@ layout: page
 title: Isidro Gómez-Vargas
 ---
 
-<div align="center"><code>PhD | Machine Learning | Physics </code></div>
+<div align="center"><code>Postdoctoral Researcher | Machine Learning | Astrophysics </code></div>
 
 <!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
@@ -20,12 +20,11 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidro2.jpg" width="180" height="180">
 
 <p>
-  My research interests are Deep Learning, Bayesian inference, and exoplanets and cosmology. I enjoy writing short stories, and Python code.
+  My research interests include deep learning, Bayesian inference, and astrophysics. I enjoy writing short stories and Python code.
 </p>
 
-
 <p>
-I am currently a postdoctoral researcher at the <a href="https://www.unige.ch/sciences/astro/en/">Department of Astronomy</a> of the University of Geneva and, previously at the <a href="https://www.fis.unam.mx/">ICF-UNAM</a>. 
+I am an <a href="https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/">MSCA COFUND Postdoctoral Fellow – ALLIES Program</a>, based at the Instituto de Astrofísica de Andalucía (IAA-CSIC), with a joint affiliation to the Instituto de Ciencias del Espacio (ICE-CSIC). Previously, I held postdoctoral research positions at the <a href="https://www.unige.ch/sciences/astro/exoplanets/team/scientific-collaborators/gomez-vargas-isidro">Department of Astronomy</a> of the University of Geneva and at the <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">Instituto de Ciencias Físicas (ICF-UNAM)</a>.
 </p>
 
 
