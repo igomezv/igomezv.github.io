@@ -25,7 +25,7 @@ Download my CV in PDF format
   Project: Generative Deep Learning for Stellar Observations and Exoplanet Detection with PLATO.<br>
   Advisors: Javier Pascual Granado; Aldo Serenelli.
 
- -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - 2025 Postdoctoral researcher.<br>
+ -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - 2025. Postdoctoral researcher.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
    Project: Deep learning in exoplanet detection. <br> 
