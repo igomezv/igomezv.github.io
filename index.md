@@ -24,7 +24,7 @@ img {
 </p>
 
 <p>
-I am a <a href="https://aihub.csic.es">MSCA COFUND Postdoctoral Fellow, ALLIES Program</a>, based at the  <a href="https://www.iaa.csic.es/"> IAA-CSIC</a>. Before that,, I held postdoctoral research positions at the <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy of the University of Geneva</a> and at the <a href="https://www.fis.unam.mx">ICF-UNAM</a>.
+I am a <a href="https://aihub.csic.es">MSCA COFUND Postdoctoral Fellow, ALLIES Program</a>, based at the  <a href="https://www.iaa.csic.es/"> IAA-CSIC</a>. Before that, I held postdoctoral research positions at the <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy of the University of Geneva</a> and at the <a href="https://www.fis.unam.mx">ICF-UNAM</a>.
 </p>
 
 
