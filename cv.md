@@ -14,39 +14,35 @@ Download my CV in PDF format
 # Work experience
 ---
 
- - <a href="https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/">
-  2025 – Today. MSCA COFUND Postdoctoral Fellow.<br> </a>
-  <a href="https://www.iaa.csic.es/">
-  Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain.<br>
-  </a>
-  <a href="https://www.ice.csic.es/">
-  Joint affiliation: Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain.<br>
-  </a>
-  Project: Generative Deep Learning for Stellar Observations and Exoplanet Detection with PLATO.<br>
-  Advisors: Javier Pascual Granado; Aldo Serenelli.
+ - **2025 – Present. Postdoctoral Research Fellow**.<br> 
+  [Instituto de Astrofísica de Andalucía (IAA-CSIC)](https://www.iaa.csic.es/), Granada, Spain  
+  Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain  
+  Funded under the Horizon Europe MSCA-COFUND programme [ALLIES  (Artificial inteLLigence In sustainable dEvelopment goalS)](https://aihub.csic.es).  
+  **Project:** Generative deep learning for stellar observations and exoplanet detection with PLATO.  
+  **Advisors:** Javier Pascual Granado; Aldo Serenelli.
 
- -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">2023 - 2025. Postdoctoral researcher.<br>
+ -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">**2023 - 2025. Postdoctoral researcher**.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
-   Project: Deep learning in exoplanet detection. <br> 
-   Advisor: Xavier Dumusque.
+   **Project**: Deep learning in exoplanet detection. <br> 
+   **Advisor**: Xavier Dumusque.
 
- - [2022-2026. SNI Candidate. Sistema Nacional de Investigadores](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
+ - [**2022-2026. SNI Candidate. Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2021-2023. Postdoctoral researcher.</a><br>
+- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2021-2023. Postdoctoral researcher**.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   CONACYT National postdoctoral grant. <br>
-  Project: *Statistical and machine learning methods in observational cosmology*.<br>
-  Advisor: Jose Alberto Vazquez.
+  **Project**: Statistical and machine learning methods in observational cosmology.<br>
+  **Advisor**: Jose Alberto Vazquez.
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">2022-2023. Instructor of Machine Learning courses.</a><br>
+- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2022-2023. Instructor of Machine Learning courses**.</a><br>
   DGTIC, Universidad Nacional Autónoma de México (UNAM). <br>
   Instructor of specialisation courses within the Applied Artificial Intelligence diploma course: intermediate data science, evolutionary computation and probabilistic reasoning.
  
- - [2023. Visiting professor.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
+ - [**2023. Visiting professor**.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>  
    
-- 2015-2023. Technical reviewer and author. <br> 
+- **2015-2023. Technical reviewer and author**. <br> 
   Macmillan Education Latam, Ediciones SM, Edimend, Quipper, others. <br> 
   Authoring and technical revision of high shool textbooks. <br> 
   

@@ -20,12 +20,17 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidro2.jpg" width="180" height="180">
 
 <p>
-  My research interests include deep learning, Bayesian inference, and astrophysics. I enjoy writing short stories and Python code.
+My research interests lie at the intersection of machine learning, Bayesian inference, and astrophysics, with a focus on data-driven modeling and statistical methods in astronomical observations. I enjoy writing short stories and Python code.
 </p>
 
 <p>
-I am a <a href="https://aihub.csic.es">MSCA COFUND Postdoctoral Fellow, ALLIES Program</a>, based at the  <a href="https://www.iaa.csic.es/"> IAA-CSIC</a>. Before that, I held postdoctoral research positions at the <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy of the University of Geneva</a> and at the <a href="https://www.fis.unam.mx">ICF-UNAM</a>.
+  I am currently a Postdoctoral Research Fellow funded under the MSCA-COFUND programme <a href="https://aihub.csic.es">ALLIES (Artificial inteLLigence In sustainable dEvelopment goalS)</a>,
+  based at the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>.
+  Before, I held postdoctoral research positions at the
+  <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy, University of Geneva</a>
+  and at the <a href="https://www.fis.unam.mx">Instituto de Ciencias Físicas, UNAM (ICF-UNAM)</a>.
 </p>
+
 
 
 
