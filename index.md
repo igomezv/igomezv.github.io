@@ -17,7 +17,7 @@ img {
 </style>
 
 
-<img src="https://igomezv.github.io/assets/img/isidro2.jpg" width="180" height="180">
+<img src="https://igomezv.github.io/assets/img/isidro2mx.jpg" width="180" height="180">
 
 <p>
 My research interests lie at the intersection of machine learning, Bayesian inference, and astrophysics, with a focus on data-driven modeling and statistical methods in astronomical observations. I enjoy writing short stories and Python code.
