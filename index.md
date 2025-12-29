@@ -24,7 +24,7 @@ My research interests lie at the intersection of machine learning, Bayesian infe
 </p>
 
 <p>
-  I am currently a Postdoctoral Research Fellow funded under the MSCA-COFUND programme <a href="https://aihub.csic.es">ALLIES (Artificial inteLLigence In sustainable dEvelopment goalS)</a>,
+  I am currently a Postdoctoral Research Fellow funded under the MSCA-COFUND programme <a href="https://aihub.csic.es">ALLIES</a>,
   based at the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>.
   Before, I held postdoctoral research positions at the
   <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy, University of Geneva</a>
