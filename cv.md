@@ -18,7 +18,7 @@ Download my CV in PDF format
   [Instituto de Astrofísica de Andalucía (IAA-CSIC)](https://www.iaa.csic.es/), Granada, Spain  
   Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain  
   Funded under the Horizon Europe MSCA-COFUND programme [ALLIES  (Artificial inteLLigence In sustainable dEvelopment goalS)](https://aihub.csic.es).  
-  **Project:** Generative deep learning for stellar observations and exoplanet detection with PLATO.  
+  **Project:** [Generative deep learning for stellar observations and exoplanet detection with PLATO](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/).  
   **Advisors:** Javier Pascual Granado; Aldo Serenelli.
 
  -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">**2023 - 2025. Postdoctoral researcher**.<br>
