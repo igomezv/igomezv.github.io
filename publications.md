@@ -31,7 +31,7 @@ title: Publications
 [10 as 1st/2nd author.] 
 
 
-- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Reconstructing rotation curves with artificial neural networks. Accepted in Physics of the Dark Universe. arXiv:2404.05833v1.](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding, [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN) and analysis, and wrote the manuscript. Corresponding author.
+- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Reconstructing rotation curves with artificial neural networks. Accepted in Physics of the Dark Universe. arXiv:2404.05833v1.](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding, [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. Corresponding author.
 
 - [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. Accepted in  Journal of Cosmology and Astroparticle Physics, arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
 
@@ -43,7 +43,7 @@ title: Publications
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>**Contribution:** Participated in the critical review of the manuscript, ensuring methodological clarity in the use of the neural network models.
 
-- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, analysis, [GitHub Repository](https://github.com/igomezv/nnogada) and writing.
+- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, data analysis, [GitHub Repository](https://github.com/igomezv/nnogada) and writing.
 
 - [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>**Contribution:** Co-lead author. Performed the majority of the conceptual and methodological development, led the coding, [GitHub Repository](https://github.com/igomezv/LSST_DE_neural_reconstruction), and writing. Corresponding author.
 
@@ -51,9 +51,9 @@ title: Publications
 
 - [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511) <br>**Contribution:** Executed the Bayesian statistical framework, authored the data analysis section, update of the data in SimpleMC for this paper, and provided scientific oversight through manuscript review.
 
-- [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding,[GitHub Repository](https://github.com/igomezv/neuralCosmoReconstruction) analysis, and writing.
+- [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, development of the [GitHub Repository](https://github.com/igomezv/nnogada), data analysis, and writing.
 
-- [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, [GitHub Repository](https://github.com/igomezv/nnogada), analysis, and writing.
+- [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding,[GitHub Repository](https://github.com/igomezv/neuralCosmoReconstruction), data analysis, and writing.
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Morales Sánchez, AA., García-Salcedo, R. & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. Universe. 10(1) 11.](https://www.mdpi.com/2218-1997/10/1/11) <br>**Contribution:** Co-lead author. Designed the study, developed the algorithms and codebase, and authored substantial parts of the paper. Provided guidance to the PhD student (first author).
 
