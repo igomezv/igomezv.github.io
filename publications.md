@@ -15,7 +15,7 @@ title: Publications
 
 
 **Total:** 26  
-**By Indexing:** 15 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 3 Other.  
+**By Indexing:** 14 JCR, 6 Q4, 1 CONACYT, 2 Preprint, 1 SEP Book, 3 Other.  
 **By Category:** 15 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks.
 
 
@@ -26,14 +26,14 @@ title: Publications
 
 
 ### Research
-**Total: 15** | 14 JCR | 1 preprint |
+**Total: 15** | 13 JCR | 2 preprint |
 
 [10 as 1st/2nd author.] 
 
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Reconstructing rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding, [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. Corresponding author.
 
-- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. Accepted in  Journal of Cosmology and Astroparticle Physics, arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
+- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. arXiv preprint arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2025). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Contribution methodological and conceptual aspects of the study, wrote and reviewed the manuscript. Developer of the [GitHub Repository](https://github.com/igomezv/NcosmoVAE). Provided guidance to the PhD student (first author). Corresponding author.
 
