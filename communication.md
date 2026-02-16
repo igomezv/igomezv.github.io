@@ -13,7 +13,7 @@ title: Communication
 
 ## Academic presentations
 -----
-[Last 5 years.]
+[After obtaining the PhD]
 
 - **2025**
 	- [Conference] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
