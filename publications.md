@@ -31,7 +31,7 @@ title: Publications
 [10 as 1st/2nd author.] 
 
 
-- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Co-lead author, contribution methodological and conceptual aspects of the study, wrote and reviewed the manuscript. Developer of the [GitHub Repository](https://github.com/igomezv/NcosmoVAE). Provided guidance to the PhD student (first author). Corresponding author.
+- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Co-lead author; led conceptual and methodological development and manuscript preparation; developed the [GitHub Repository](https://github.com/igomezv/NcosmoVAE); provided guidance to the first author (PhD student); corresponding author.
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding, [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. Corresponding author.
 
