@@ -30,26 +30,19 @@ title: Publications
 
 [10 as 1st/2nd author.] 
 
+#### Machine Learning Methods Applied to Astrophysical Data
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Co-lead the conceptual and methodological development and manuscript preparation; developed the [GitHub Repository](https://github.com/igomezv/NcosmoVAE); provided guidance to the first author (PhD student); corresponding author.
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>**Contribution:** Co-lead author. Designed and implemented the methodology, carried out coding, [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. Corresponding author.
 
-- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. arXiv preprint arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
-
 - [Di Valentino, E., et al (including **Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Physics of the Dark Universe</i>, 101965](https://www.sciencedirect.com/science/article/pii/S221268642500158X?casa_token=1pzbCgFVFhYAAAAA:xFQO_B3yP3qO76NhzYfQHD1tFqy4-VJgJTWSkEw-91MFqGWrWP82aX5mCX8U2gvOYKLRnnmQOVO) <br>**Contribution:** Contributed substantially to Sections 3.3 (Reconstruction Techniques) and 3.4 (Bioinspired Algorithms in Model Selection), providing expertise in ML-based reconstruction and genetic-algorithm model selection; implemented and produced the neural network reconstruction presented in the right panel of Fig. 64.
-
-- [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. Physics of the Dark Universe. 101901(48).](https://doi.org/10.1016/j.dark.2025.101901) <br>**Contribution:** Led the Bayesian statistical analysis, authored the data analysis section, and contributed to the overall scientific review and refinement of the manuscript. Corresponding author.
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>**Contribution:** Participated in the critical review of the manuscript, ensuring methodological clarity in the use of the neural network models.
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, data analysis, [GitHub Repository](https://github.com/igomezv/nnogada) and writing.
 
 - [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>**Contribution:** Co-lead author. Performed the majority of the conceptual and methodological development, led the coding, [GitHub Repository](https://github.com/igomezv/LSST_DE_neural_reconstruction), and writing. Corresponding author.
-
-- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://www.mdpi.com/2218-1997/10/9/353) <br>**Contribution:** Conducted Bayesian analysis, contributed to the data interpretation, wrote the data analysis section, and provided scientific oversight through manuscript review.
-
-- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511) <br>**Contribution:** Executed the Bayesian statistical framework, authored the data analysis section, update of the data in SimpleMC for this paper, and provided scientific oversight through manuscript review.
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural Networks Optimized by Genetic Algorithms in Cosmology. Physical Review D. 107(4). 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, development of the [GitHub Repository](https://github.com/igomezv/nnogada), data analysis, and writing.
 
@@ -60,6 +53,18 @@ title: Publications
 - [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. Physical Review D. 107(12). 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>**Contribution:** Conceptual and methodological aspects, developed code and analysis; substantially contributed to writing. Provided guidance to the PhD student (first author).
 
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>**Contribution:** Advised the undergraduated student (first author), contributed to the manuscript writing, and ensured scientific rigor.
+
+
+#### Bayesian Analysis Applied to Astrophysical Data
+
+
+- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. arXiv preprint arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
+
+- [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. Physics of the Dark Universe. 101901(48).](https://doi.org/10.1016/j.dark.2025.101901) <br>**Contribution:** Led the Bayesian statistical analysis, authored the data analysis section, and contributed to the overall scientific review and refinement of the manuscript. Corresponding author.
+
+- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://www.mdpi.com/2218-1997/10/9/353) <br>**Contribution:** Conducted Bayesian analysis, contributed to the data interpretation, wrote the data analysis section, and provided scientific oversight through manuscript review.
+
+- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511) <br>**Contribution:** Executed the Bayesian statistical framework, authored the data analysis section, update of the data in SimpleMC for this paper, and provided scientific oversight through manuscript review.
 
 -----
 
