@@ -9,7 +9,8 @@ You can visit my [<u>GitHub profile</u>](https://github.com/igomezv) to explore 
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
 - [neuralike](#neuralike)	
-- [crann](#crann)
+- [Cosmological reconstructions with ANN](#annreconstructions)
+- [VAE for N-body cosmological simulations](#ncosmovae)
 
 
 -----------------------------------------------------------
@@ -61,20 +62,39 @@ Links:
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
 
 
-<!-- 
+
 ------------------
 
-### crann
+### ANN Reconstructions
 
-CRANN (Cosmological Reconstructions with Artificial Neural Networks). Python notebooks with model-independent reconstructions for cosmological functions. We will soon clean up the code and shape it into a library for ease of use. 
+Cosmological Reconstructions with Artificial Neural Networks. Python implementations for model-independent reconstructions for cosmological functions, considering uncertainty quantification and hyperparameter optimization.
 
-
-Links:
-
-- Cosmological Reconstructions with Artificial Neural Networks ([arXiv](https://arxiv.org/abs/2104.00595)).
-- [Repository](https://github.com/igomezv/crann) in GitHub.
-
-![Figura](https://igomezv.github.io/assets/img/reconstruction.png){: .mx-auto.d-block :}
+![Figura](https://igomezv.github.io/assets/img/rec1.png){: .mx-auto.d-block :}
+![Figura](https://igomezv.github.io/assets/img/rec2.png){: .mx-auto.d-block :}
 
 
--->
+- New repository gathering our previous methods (following three references). In process [here](https://github.com/igomezv/alp).
+	
+- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, et al (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br> 
+	- [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. Corresponding author.
+
+- [Mitra, A., **Gómez-Vargas, I.**, et al (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
+	- [GitHub Repository](https://github.com/igomezv/LSST_DE_neural_reconstruction), and writing. Corresponding author.
+
+- [**Gómez-Vargas, I.**, et al. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
+	- [Repository](https://github.com/igomezv/neuralCosmoReconstruction) in GitHub.
+
+
+------------------
+
+### NcosmoVAE
+
+Variational Autoencoder as a framework to train a Variational Autoencoder with N-body cosmological simulations.
+
+
+
+- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Co-lead the conceptual and methodological development and manuscript preparation; developed the [GitHub Repository](https://github.com/igomezv/NcosmoVAE); provided guidance to the first author (PhD student); corresponding author.
+	- [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub.
+
+![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
+
