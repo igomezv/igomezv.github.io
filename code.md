@@ -9,7 +9,7 @@ You can visit my [<u>GitHub profile</u>](https://github.com/igomezv) to explore 
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)	
 - [neuralike](#neuralike)	
-- [Cosmological reconstructions with ANN](#annreconstructions)
+- [ANN reconstructions](#annreconstructions)
 - [NCosmoVAE](#ncosmovae)
 
 
