@@ -92,5 +92,5 @@ Variational Autoencoder as a framework to train a Variational Autoencoder with N
 - [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub. Paper: [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D.](https://arxiv.org/abs/2507.18054) <br>
 	- 
 
-![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
+![Figura](https://igomezv.github.io/assets/img/Nbody.jpg){: .mx-auto.d-block :}
 
