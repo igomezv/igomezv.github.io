@@ -10,7 +10,7 @@ You can visit my [<u>GitHub profile</u>](https://github.com/igomezv) to explore 
 - [nnogada](#nnogada)	
 - [neuralike](#neuralike)	
 - [Cosmological reconstructions with ANN](#annreconstructions)
-- [VAE for N-body cosmological simulations](#ncosmovae)
+- [NCosmoVAE](#ncosmovae)
 
 
 -----------------------------------------------------------
@@ -89,7 +89,8 @@ Cosmological Reconstructions with Artificial Neural Networks. Python implementat
 
 Variational Autoencoder as a framework to train a Variational Autoencoder with N-body cosmological simulations.
 
-- [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub. Paper: [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D.](https://arxiv.org/abs/2507.18054) <br>
+- [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub. 
+- Paper: [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D.](https://arxiv.org/abs/2507.18054) <br>
 	- 
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.jpg){: .mx-auto.d-block :}
