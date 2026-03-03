@@ -75,14 +75,12 @@ Cosmological Reconstructions with Artificial Neural Networks. Python implementat
 
 - New repository gathering our previous methods (following three references). In process [here](https://github.com/igomezv/alp).
 	
-- [Garcia-Arroyo, G., **Gómez-Vargas, I.**, et al (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br> 
-	- [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. Corresponding author.
+- [GitHub Repository reconstructing rotation curves with ANN+MCDO+genetic algorithms](https://github.com/igomezv/Reconstructing-RC-with-ANN). Paper: [Garcia-Arroyo, G., **Gómez-Vargas, I.**, et al (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br> 
 
-- [Mitra, A., **Gómez-Vargas, I.**, et al (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
-	- [GitHub Repository](https://github.com/igomezv/LSST_DE_neural_reconstruction), and writing. Corresponding author.
+- [GitHub Repository reconstructing LSST SNeIa with ANN+MCDO+genetic algorithms](https://github.com/igomezv/LSST_DE_neural_reconstruction). Paper: [Mitra, A., **Gómez-Vargas, I.**, et al (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
 
-- [**Gómez-Vargas, I.**, et al. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-	- [Repository](https://github.com/igomezv/neuralCosmoReconstruction) in GitHub.
+- [Repository with notebooks using neural networks with Monte Carlo Dropout for cosmological functions.](https://github.com/igomezv/neuralCosmoReconstruction) in GitHub. Paper: [**Gómez-Vargas, I.**, et al. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
+	- 
 
 
 ------------------
@@ -91,10 +89,8 @@ Cosmological Reconstructions with Artificial Neural Networks. Python implementat
 
 Variational Autoencoder as a framework to train a Variational Autoencoder with N-body cosmological simulations.
 
-
-
-- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D. arXiv preprint arXiv:2507.18054.](https://arxiv.org/abs/2507.18054) <br>**Contribution:** Co-lead the conceptual and methodological development and manuscript preparation; developed the [GitHub Repository](https://github.com/igomezv/NcosmoVAE); provided guidance to the first author (PhD student); corresponding author.
-	- [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub.
+- [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub. Paper: [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D.](https://arxiv.org/abs/2507.18054) <br>
+	- 
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
 
