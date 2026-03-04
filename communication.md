@@ -13,9 +13,10 @@ title: Communication
 
 ## Academic presentations
 -----
-[After obtaining the PhD]
 
 - **2026**
+	- [Seminar] *Inferencia Bayesiana y Aprendizaje Automático
+en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
 	
 - **2025**
