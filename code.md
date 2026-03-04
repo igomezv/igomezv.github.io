@@ -10,7 +10,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)
 - [neuralike](#neuralike)
-- [ANN Reconstructions](#ann-reconstructions)
+- [Cosmo Reconstructions](#ann-reconstructions)
 - [NCosmoVAE](#ncosmovae)
 
 ---
@@ -27,7 +27,7 @@ Work developed in collaboration with **Dr. J. A. Vázquez**.
 **Links**
 
 - GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
-- Documentation: [docs/SimpleMC](https://igomezv.github.io/SimpleMC)  
+- Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
 - GitHub repository: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
@@ -44,7 +44,7 @@ Work developed in collaboration with **Dr. J. A. Vázquez**.
 
 - GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
-- Related paper: [arXiv](https://arxiv.org/abs/2209.02685)
+- Related: [PRD paper with the method.](https://arxiv.org/abs/2209.02685)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
 
@@ -66,7 +66,7 @@ Deep learning and genetic-algorithm techniques designed to **speed up Bayesian i
 
 - GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 - GitHub repository: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
-- Related paper: [arXiv](https://arxiv.org/abs/2405.03293)
+- Related: [PRD paper with the method.](https://arxiv.org/abs/2405.03293)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
 
@@ -85,16 +85,16 @@ Python implementations for **model-independent reconstructions of cosmological f
 
 **Repositories**
 
-- GitHub repository: [igomezv/alp](https://github.com/igomezv/alp)
+- GitHub repository gathering previous works [In process]: [igomezv/alp](https://github.com/igomezv/alp)
 
-- GitHub repository: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
-  Related paper: [Journal](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
+- GitHub repository reconstructing rotation curves: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
+  Related: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
 
-- GitHub repository: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
-  Related paper: [Journal](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
+- GitHub repository reconstructing SNeIa from LSST simulations: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
+  Related paper: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
 
-- GitHub repository: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
-  Related paper: [DOI](https://doi.org/10.1140/epjc/s10052-023-11435-9)
+- GitHub repository reconstructing cosmological functions: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
+  Related: [EPJC paper.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
 
 ---
 
@@ -107,6 +107,6 @@ Variational autoencoder framework trained on **N-body cosmological simulations**
 **Links**
 
 - GitHub repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
-- Related paper: [arXiv](https://arxiv.org/abs/2507.18054)
+- Related: [PRD paper.](https://arxiv.org/abs/2507.18054)
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
