@@ -25,7 +25,7 @@ Cosmological parameter estimation code originally developed by Dr. A. Slosar and
 
 - GitHub repository with the library: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
 - Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
-- GitHub repository: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
+- Workshop/tutorial: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
