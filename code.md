@@ -109,4 +109,4 @@ Variational autoencoder framework trained on **N-body cosmological simulations**
 - GitHub repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
 - Related paper: [arXiv](https://arxiv.org/abs/2507.18054)
 
-![Figura](https://igomezv.github.io/assets/img/Nbody.jpg){: .mx-auto.d-block :}
+![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
