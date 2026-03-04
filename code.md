@@ -19,14 +19,11 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Cosmological parameter inference toolkit for robust parameter estimation and sampling.**
 
-Cosmological parameter estimation code originally developed by Dr. A. Slosar and Dr. J. A. Vázquez.  
-Between **2019 and 2023**, I contributed to maintenance and new features, including nested sampling, Metropolis–Hastings convergence criteria, post-processing utilities, and additional analysis options.
-
-Work developed in collaboration with **Dr. J. A. Vázquez**.
+Cosmological parameter estimation code originally developed by Dr. A. Slosar and Dr. J. A. Vázquez. Between **2019 and 2023**, I contributed to maintenance and new features, including nested sampling, Metropolis–Hastings convergence criteria, post-processing utilities, and additional analysis options.
 
 **Links**
 
-- GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
+- GitHub repository with the library: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
 - Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
 - GitHub repository: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
 
@@ -42,7 +39,7 @@ Work developed in collaboration with **Dr. J. A. Vázquez**.
 
 **Links**
 
-- GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
+- GitHub repository with the library: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
 - Related: [PRD paper with the method.](https://arxiv.org/abs/2209.02685)
 
@@ -50,9 +47,9 @@ Work developed in collaboration with **Dr. J. A. Vázquez**.
 
 **Projects using `nnogada`**
 
-- GitHub repository: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
-- GitHub repository: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
-- GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
+- [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
+- [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
+- [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 
 ---
 
@@ -64,8 +61,8 @@ Deep learning and genetic-algorithm techniques designed to **speed up Bayesian i
 
 **Links**
 
-- GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
-- GitHub repository: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
+- GitHub repository with the implementation/library: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
+- Using `neuralike` within `SimpleMC` using nested sampling from `dynesty`library: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 - Related: [PRD paper with the method.](https://arxiv.org/abs/2405.03293)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
@@ -85,15 +82,15 @@ Python implementations for **model-independent reconstructions of cosmological f
 
 **Repositories**
 
-- GitHub repository gathering previous works [In process]: [igomezv/alp](https://github.com/igomezv/alp)
+- In progres. Library to reproduce our previous works: [igomezv/alp](https://github.com/igomezv/alp)
 
-- GitHub repository reconstructing rotation curves: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
+- Reconstructing rotation curves with Monte Carlo Dropout and gentetic algorithsm, through our `nnogada` code, for hyperparameter optimization: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
   Related: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
 
-- GitHub repository reconstructing SNeIa from LSST simulations: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
+- Reconstructing SNeIa from LSST simulations with Monte Carlo Dropout and genetic algorihtms for hyperparameter optimization (with `nnogada`): [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
   Related paper: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
 
-- GitHub repository reconstructing cosmological functions: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
+- Reconstructing cosmological functions with Monte Carlo Dropout and grid hyperparameter optimization: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
   Related: [EPJC paper.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
 
 ---
@@ -102,11 +99,11 @@ Python implementations for **model-independent reconstructions of cosmological f
 
 **Variational autoencoders for fast generative modeling of cosmological N-body simulations.**
 
-Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realizations.
+Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realizations. Hyperparameter optimization with genetic algorithms using the `optuna`library.
 
 **Links**
 
-- GitHub repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
+- GitHub repository with the library: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
 - Related: [PRD paper.](https://arxiv.org/abs/2507.18054)
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
