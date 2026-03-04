@@ -23,7 +23,7 @@ Cosmological parameter estimation code originally developed by Dr. A. Slosar and
 
 **Links**
 
-- GitHub repository with the library: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
+- Library GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
 - Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
 - Workshop/tutorial: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
 
@@ -39,7 +39,7 @@ Cosmological parameter estimation code originally developed by Dr. A. Slosar and
 
 **Links**
 
-- GitHub repository with the library: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
+- Library GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
 - Related: [PRD paper with the method.](https://arxiv.org/abs/2209.02685)
 
@@ -61,7 +61,7 @@ Deep learning and genetic-algorithm techniques designed to **speed up Bayesian i
 
 **Links**
 
-- GitHub repository with the implementation/library: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
+- Library GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 - Using `neuralike` within `SimpleMC` using nested sampling from `dynesty`library: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 - Related: [PRD paper with the method.](https://arxiv.org/abs/2405.03293)
 
@@ -82,13 +82,13 @@ Python implementations for **model-independent reconstructions of cosmological f
 
 **Repositories**
 
-- In progres. Library to reproduce our previous works: [igomezv/alp](https://github.com/igomezv/alp)
+- [In progress] Library to reproduce our previous works: [igomezv/alp](https://github.com/igomezv/alp)
 
 - Reconstructing rotation curves with Monte Carlo Dropout and gentetic algorithsm, through our `nnogada` code, for hyperparameter optimization: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
   Related: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
 
-- Reconstructing SNeIa from LSST simulations with Monte Carlo Dropout and genetic algorihtms for hyperparameter optimization (with `nnogada`): [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
-  Related paper: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
+- Reconstructing SNeIa from LSST simulations with Monte Carlo Dropout and genetic algorihtms for hyperparameter optimization with our `nnogada` code: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
+  Related: [PDU paper.](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
 
 - Reconstructing cosmological functions with Monte Carlo Dropout and grid hyperparameter optimization: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
   Related: [EPJC paper.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
@@ -99,11 +99,11 @@ Python implementations for **model-independent reconstructions of cosmological f
 
 **Variational autoencoders for fast generative modeling of cosmological N-body simulations.**
 
-Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realizations. Hyperparameter optimization with genetic algorithms using the `optuna`library.
+Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realizations. Hyperparameter optimization with genetic algorithms using the `optuna` Python library.
 
 **Links**
 
-- GitHub repository with the library: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
+- Library repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
 - Related: [PRD paper.](https://arxiv.org/abs/2507.18054)
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
