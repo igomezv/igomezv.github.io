@@ -1,97 +1,112 @@
 ---
 layout: page
 title: Code
+---
+
+You can visit my [GitHub profile](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
+
+## Contents
+
+- [SimpleMC](#simplemc)
+- [nnogada](#nnogada)
+- [neuralike](#neuralike)
+- [ANN Reconstructions](#ann-reconstructions)
+- [NCosmoVAE](#ncosmovae)
 
 ---
 
-You can visit my [<u>GitHub profile</u>](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
+## SimpleMC
 
-- [SimpleMC](#simplemc)
-- [nnogada](#nnogada)	
-- [neuralike](#neuralike)	
-- [ANN reconstructions](#annreconstructions)
-- [NCosmoVAE](#ncosmovae)
+**Cosmological parameter inference toolkit for robust parameter estimation and sampling.**
 
+Cosmological parameter estimation code originally developed by Dr. A. Slosar and Dr. J. A. Vázquez.  
+Between **2019 and 2023**, I contributed to maintenance and new features, including nested sampling, Metropolis–Hastings convergence criteria, post-processing utilities, and additional analysis options.
 
------------------------------------------------------------
+Work developed in collaboration with **Dr. J. A. Vázquez**.
 
-### SimpleMC
-Cosmological parameter estimation code developed by Dr. A. Slosar and Dr. JA Vazquez. From 2019 to 2023, I helped in maintaining the code, and incorporating nested sampling, convergence criteria for Metropolis-Hastings, post-processing options and other new features.
+**Links**
 
-Collaborating with Dr. JA Vazquez.
-
-Links:
- 
- - [Repository](https://github.com/ja-vazquez/SimpleMC) in GitHub.
- - [Documentation](https://igomezv.github.io/SimpleMC).
- - [Mini-course](https://github.com/igomezv/simplemc_workshop)
+- GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
+- Documentation: [docs/SimpleMC](https://igomezv.github.io/SimpleMC)  
+- GitHub repository: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
 
 ![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
-----------------
+---
 
-### nnogada
+## nnogada
 
-Neural Networks Optimized by Genetic Algorithms in Data Analysis (nnogada).
+**Neural networks optimized with genetic algorithms for flexible, data-driven inference.**
 
-Links:
+**Neural Networks Optimized by Genetic Algorithms in Data Analysis (nnogada)** is a framework that combines neural networks with genetic algorithms for efficient modeling, reconstruction, and parameter inference.
 
- - [Repository](https://github.com/igomezv/nnogada) in GitHub.
- - [Documentation](https://igomezv.github.io/nnogada/).
- - [Related paper](https://arxiv.org/abs/2209.02685).
+**Links**
+
+- GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
+- Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
+- Related paper: [arXiv](https://arxiv.org/abs/2209.02685)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
 
-Other projects using `nnogada`:
- - [Reconstruncting Rotation Curves with neural networks](https://github.com/igomezv/Reconstructing-RC-with-ANN).
- - [Dark energy reconstruction with LSST SNIa simulations](https://github.com/igomezv/LSST_DE_neural_reconstruction).
- - [neuralike](https://github.com/igomezv/neuralike). 
+**Projects using `nnogada`**
 
----------------
+- GitHub repository: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
+- GitHub repository: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
+- GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 
-### neuralike
+---
 
-Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up.
+## neuralike
 
-Links:
+**Surrogate-assisted Bayesian inference to accelerate cosmological likelihood evaluations.**
 
- - [Repository](https://github.com/igomezv/neuralike) in GitHub.
- - [Implementation within SimpleMC and dynesty](https://github.com/igomezv/simplemc_tests/tree/neuralike).
- - [Related paper](https://arxiv.org/abs/2405.03293).
+Deep learning and genetic-algorithm techniques designed to **speed up Bayesian inference in cosmology**, particularly within sampling pipelines where likelihood evaluations dominate the cost.
+
+**Links**
+
+- GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
+- GitHub repository: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
+- Related paper: [arXiv](https://arxiv.org/abs/2405.03293)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
 
+---
 
+## ANN Reconstructions
 
-------------------
+**Model-independent cosmological reconstructions with uncertainty-aware neural networks.**
 
-### ANN Reconstructions
+Python implementations for **model-independent reconstructions of cosmological functions** using artificial neural networks, incorporating uncertainty quantification and hyperparameter optimization.
 
-Cosmological Reconstructions with Artificial Neural Networks. Python implementations for model-independent reconstructions for cosmological functions, considering uncertainty quantification and hyperparameter optimization.
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
+  <img src="https://igomezv.github.io/assets/img/rec1.png" style="width:48%; height:auto;" />
+  <img src="https://igomezv.github.io/assets/img/rec2.png" style="width:48%; height:auto;" />
+</div>
 
-![Figura](https://igomezv.github.io/assets/img/rec1.png){: .mx-auto.d-block :}
-![Figura](https://igomezv.github.io/assets/img/rec2.png){: .mx-auto.d-block :}
+**Repositories**
 
+- GitHub repository: [igomezv/alp](https://github.com/igomezv/alp)
 
-- New repository gathering our previous methods (following three references). In process [here](https://github.com/igomezv/alp).
-	
-- [GitHub Repository reconstructing rotation curves with ANN+MCDO+genetic algorithms](https://github.com/igomezv/Reconstructing-RC-with-ANN). Paper: [Garcia-Arroyo, G., **Gómez-Vargas, I.**, et al (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br> 
+- GitHub repository: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
+  Related paper: [Journal](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
 
-- [GitHub Repository reconstructing LSST SNeIa with ANN+MCDO+genetic algorithms](https://github.com/igomezv/LSST_DE_neural_reconstruction). Paper: [Mitra, A., **Gómez-Vargas, I.**, et al (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. Physics of the Dark Universe, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
+- GitHub repository: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
+  Related paper: [Journal](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
 
-- [Repository with notebooks using neural networks with Monte Carlo Dropout for cosmological functions.](https://github.com/igomezv/neuralCosmoReconstruction) in GitHub. Paper: [**Gómez-Vargas, I.**, et al. (2023). Neural Network Reconstructions for the Hubble Parameter, Growth Rate and Distance Modulus. European Physical Journal C. 83(4). 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-	- 
+- GitHub repository: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
+  Related paper: [DOI](https://doi.org/10.1140/epjc/s10052-023-11435-9)
 
+---
 
-------------------
+## NCosmoVAE
 
-### NcosmoVAE
+**Variational autoencoders for fast generative modeling of cosmological N-body simulations.**
 
-Variational Autoencoder as a framework to train a Variational Autoencoder with N-body cosmological simulations.
+Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realizations.
 
-- [Repository](https://github.com/igomezv/NcosmoVAE) in GitHub. 
-- Paper: [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, et al (2026). Variational autoencoder for generating realistic $ N $-body simulations for dark matter halos. Accepted in Physical Review D.](https://arxiv.org/abs/2507.18054) <br>
-	- 
+**Links**
+
+- GitHub repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
+- Related paper: [arXiv](https://arxiv.org/abs/2507.18054)
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.jpg){: .mx-auto.d-block :}
-
