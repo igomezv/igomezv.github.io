@@ -5,8 +5,6 @@ title: Code
 
 You can visit my [GitHub profile](https://github.com/igomezv) to explore additional projects, as well as materials from tutorials, courses, and workshops.
 
-## Contents
-
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)
 - [neuralike](#neuralike)
