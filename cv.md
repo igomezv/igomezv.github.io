@@ -4,8 +4,7 @@ title: CV
 
 ---
 
-
-Download my CV in PDF format 
+Download the PDF version of the CV 
 <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>here</a>.
 
 
@@ -14,37 +13,39 @@ Download my CV in PDF format
 # Work experience
 ---
 
- - **2025 – Present. Postdoctoral Research Fellow**.<br> 
+ - **2025–Present. Postdoctoral Research Fellow**.<br> 
   [Instituto de Astrofísica de Andalucía (IAA-CSIC)](https://www.iaa.csic.es/), Granada, Spain  
   Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain  
-  Funded under the Horizon Europe MSCA-COFUND programme [ALLIES  (Artificial inteLLigence In sustainable dEvelopment goalS)](https://aihub.csic.es).  
+  Funded through the **Horizon Europe MSCA-COFUND programme**  
+  [ALLIES – Artificial inteLLigence In sustainable dEvelopment goalS](https://aihub.csic.es)  
+  (Grant Agreement No. 101126626).
   **Project:** [Generative deep learning for stellar observations and exoplanet detection with PLATO](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/).  
-  **Advisors:** Javier Pascual Granado; Aldo Serenelli.
+  **Supervisors:** Javier Pascual Granado; Aldo Serenelli.
 
- -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">**2023 - 2025. Postdoctoral researcher**.<br>
+ -  <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">**2023–2025. Postdoctoral researcher**.<br>
    Geneva Observatory, Department of Astronomy, University of Geneva. <br> </a>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.<br> </a>
    **Project**: Deep learning in exoplanet detection. <br> 
-   **Advisor**: Xavier Dumusque.
+   **Supervisor**: Xavier Dumusque.
 
- - [**2022-2026. SNI Candidate. Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
+ - [**2022–2026. SNI Candidate. Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2021-2023. Postdoctoral researcher**.</a><br>
+- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2021–2023. Postdoctoral researcher**.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   CONACYT National postdoctoral grant. <br>
   **Project**: Statistical and machine learning methods in observational cosmology.<br>
-  **Advisor**: Jose Alberto Vazquez.
+  **Supervisor**: Jose Alberto Vazquez.
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2022-2023. Instructor of Machine Learning courses**.</a><br>
+- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2022–2023. Instructor of Machine Learning courses**.</a><br>
   DGTIC, Universidad Nacional Autónoma de México (UNAM). <br>
   Instructor of specialisation courses within the Applied Artificial Intelligence diploma course: intermediate data science, evolutionary computation and probabilistic reasoning.
  
- - [**2023. Visiting professor**.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
+ - [**2023–2026. Visiting professor**.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>  
    
-- **2015-2023. Technical reviewer and author**. <br> 
+- **2015–2023. Technical reviewer and author**. <br> 
   Macmillan Education Latam, Ediciones SM, Edimend, Quipper, others. <br> 
-  Authoring and technical revision of high shool textbooks. <br> 
+  Authoring and technical revision of high school textbooks. <br> 
   
 
 
@@ -78,20 +79,20 @@ Download my CV in PDF format
 
 ---
 
-- PhD in advanced technology.<br> 
+- PhD in Advanced Technology.<br> 
   CICATA-Legaria, Instituto Politécnico Nacional.<br> 
   Associate PhD student at Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México. <br>
   <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis: *Artificial neural networks in Bayesian Inference*.</a> <br>
   Advisors: Ricardo Garcia Salcedo and Jose Alberto Vazquez.<br>
 
-- Diplomat on Knowledge discovery with Big data tools. <br>
+- Diploma on Knowledge discovery with Big data tools. <br>
   Centro de Investigación en Computación, Instituto Politécnico Nacional. <br>
   192 hours.
   
-- Master's degree in advanced technology.<br>
+- Master's degree in Advanced Technology.<br>
  CICATA-Legaria, Instituto Politécnico Nacional. <br>
  <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis (Spanish version): *Augmented Reality Educational Mobile App*. </a><br>
 
-- Bachelor degree in physics and mathematics. <br>
+- Bachelor's degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
  <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation*. </a><br>
