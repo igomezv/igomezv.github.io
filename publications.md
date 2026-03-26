@@ -133,6 +133,7 @@ title: Publications
 
 - 4 Physical Review D. [Private info](https://journals.aps.org/prd/).
 - 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
+- 1 Journal of Cosmology and Astroparticle Physics. [Private info](https://iopscience.iop.org/journal/1475-7516).
 - 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
 - 1 European Physical Journal C. [Private info](https://link.springer.com/journal/10052). 
 - 1 Indian Journal of Physics. [Private info](https://link.springer.com/journal/12648).
