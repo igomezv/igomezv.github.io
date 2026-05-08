@@ -3,14 +3,9 @@ layout: page
 title: Teaching
 ---
 
-
 - [Courses](#courses)
+- [Students](#students)
 - [Workshops](#workshops)
-- [Students](#supervised-students)
-- [Educational material](#educational-material)
-  - [Textbooks](#textbooks)
-  - [Papers](#papers)
-  - [Digital resources](#digital-resources)
 
 
 ----------
@@ -18,18 +13,11 @@ title: Teaching
 ## Courses 
 ----------
 
+- **[Research seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
+  *Maestría en Ciencias (Astrofísica)*. <br> 
+  2024, Universidad de Guanajuato. <br> 
+  8 hours. <br>
 
-- **Intermediate Data Science.** <br> 
-  *Diplomado en Ciencia de Datos*. <br> 
-  2022, 2023, DGTIC-UNAM. <br> 
-  Specialization. 30 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
-  
-
-- **Computational tools (intro to ML).** <br>
-  2023, CICATA-Legaria, IPN. <br>
-  Postgraduate (online). 30 hours. <br>
-  [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
 
 - **Evolutionary Computation.** <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
@@ -43,49 +31,33 @@ title: Teaching
   Specialization. 10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
 
+- **Computational tools (intro to ML).** <br>
+  2023, CICATA-Legaria, IPN. <br>
+  Postgraduate (online). 30 hours. <br>
+  [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
+  
+- **Intermediate Data Science.** <br> 
+  *Diplomado en Ciencia de Datos*. <br> 
+  2022, 2023, DGTIC-UNAM. <br> 
+  Specialization. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
+
 - **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
   2022, Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
   Master in Process Modeling and Optimization. <br> 
   Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
   [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
-- **[Research seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
-  *Maestría en Ciencias (Astrofísica)*. <br> 
-  2024, Universidad de Guanajuato. <br> 
-  8 hours. <br>
+#### Early Teaching Experience
 
 - High school physics and mathematics courses (2013-2014). <br>
   CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
   Courses of Algebra, Physics, Differential equations, etc.
 
 
-------------
-## Workshops
--------------
-
-- **Organizing Committee of the HPC-ML Workshop**.<br>
-  II-Mini Workshop on HPC in Science and Engineering. <br>
-  2023, Instituto de Ciencias Físicas, UNAM. <br>
-  From 16-18 August. <br>
-  20 hours. <br>
-  [Link to workshop material](https://www.fis.unam.mx/mini_workshop/).
-
-- **Machine Learning Basics**.<br>
-  2021, 3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
-  Universidad de Guanajuato. <br>
-  From June 28 to July 2. <br>
-  4.5 hours. <br>
-  [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
-
-- **Cosmology with SimpleMC**. <br>
-  2020 . <br>
-  15 hours. <br>
-  [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
-
-
 --------------
 
-## Supervised students
+## Students
 ------------
 
 (Completed/Total)
@@ -153,6 +125,7 @@ title: Teaching
     Thesis (Spanish version): [*Cosmological analysis with SNeIa and neural networks*](https://www.dropbox.com/scl/fi/8105lxy6r8ihlhymb1vot/TFM_VIU_Javier.pdf?rlkey=wsucsvmyf9lgklo4ho53346w6&st=xhuxkzsp&dl=0) <br>.
     Co-supervised with Ricardo García Salcedo.
 
+
 <!-- 
 #### Ph.D. (0/4)
   
@@ -181,50 +154,26 @@ title: Teaching
     Co-supervised with Ricardo García.
 
 --> 
----------
 
-## Educational material
-----------
+------------
+## Workshops
+-------------
 
-### Textbooks
+- **Organizing Committee of the HPC-ML Workshop**.<br>
+  II-Mini Workshop on HPC in Science and Engineering. <br>
+  2023, Instituto de Ciencias Físicas, UNAM. <br>
+  From 16-18 August. <br>
+  20 hours. <br>
+  [Link to workshop material](https://www.fis.unam.mx/mini_workshop/).
 
-One main textbook and four supplementary materials, including guides for teachers and students, designed to complement the primary textbook used in courses. See the full list in the [Textbooks Publication Section](https://igomezv.github.io/publications/#textbooks) or on the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
+- **Machine Learning Basics**.<br>
+  2021, 3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
+  Universidad de Guanajuato. <br>
+  From June 28 to July 2. <br>
+  4.5 hours. <br>
+  [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
-<p><a href="https://www.dropbox.com/scl/fi/ziuibfaf9nt0q2fivxyzh/cert_SEP.pdf?rlkey=kb80l6e4ix7pus76bop5kz4qm&st=rvos2jxd&dl=0">Matemáticas 3, Travesías Series, Castillo Editions</a> is a mathematics textbook for high school. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). You can purchase it on <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a> or at <a href="https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150">El Sótano</a>. It is also available in the <a href="https://www.conaliteg.sep.gob.mx/secundaria.html">CONALITEG repository</a>.</p>
-
-
-![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
-
-
-----------
-
-### Papers
-
-See the full list in the [Educational and outreach publications section](https://igomezv.github.io/publications/#educational-and-outreach).
-
-----------------
-
-### Digital resources
-
-#### MOOC course
-Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas" for the MexicoX platform.
-
-In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
-
-Related links:
-- MOOC <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">website</a>.
-- [YouTube](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) playlist.
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
-
-#### Augmented Reality app
-
-Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
-
-Related links:
-- <a href="https://www.academia.edu/35480448/Dise%C3%B1o_y_desarrollo_de_una_aplicaci%C3%B3n_para_dispositivos_m%C3%B3viles_de_realidad_aumentada">Thesis</a>.
-- <a href="https://github.com/igomezv/RAsolidsrev">GitHub</a> repository.
-- Paper in <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D"> Latin American Journal of Physics Education</a>.
-- <a href="https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada">Essay</a> in a young writers book.
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
+- **Cosmology with SimpleMC**. <br>
+  2020 . <br>
+  15 hours. <br>
+  [Link to workshop material](https://github.com/igomezv/simplemc_workshop).

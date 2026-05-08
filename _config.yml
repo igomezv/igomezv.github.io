@@ -4,10 +4,10 @@ author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
 navbar-links:
    CV: "cv"
-   Publications: "publications" 
+   Research: "research" 
 #   Contact: "contact" 
    Teaching: "teaching"
-   Communication: "communication"
+   Outreach: "outreach"
    Code: "code"
    Other: "other"
 
