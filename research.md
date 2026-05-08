@@ -7,30 +7,23 @@ title: Research
 - [Papers](#papers)
 	- [Machine Learning in Astrophysics](#machine-learning-in-astrophysics)
 	- [Bayesian analysis in Cosmology](#bayesian-analysis-in-cosmology)
-	- [Conference papers]
-- [Proceedings](#proceedings)
-- [Peer reviews](#peer-reviews)
+- [Conference papers](#conference-papers)
+- [Peer review activity](#peer-review-activity)
 - [Academic presentations](#academic-presentations)
 
 -----
 
 ## Papers
 
-**Total:** 26  
-**By Indexing:** 15 JCR, 6 Q4, 1 CONACYT, 1 Preprint, 1 SEP Book, 3 Other.  
-**By Category:** 15 Research, 6 Proceedings, 6 Educational/Outreach, 1 Textbooks.
+**Total:** 20  
+**By Indexing:** 14 JCR, 5 Q4, 1 Preprint.  
+**By Category:** 15 Research, 5 Proceedings.
 
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I).
 
 
------
-
-
-### Papers
-**Total: 15** | 14 JCR | 1 preprint |
-
-[10 as 1st/2nd author.] 
+[9 as lead or co-lead author.] 
 
 #### Machine Learning in Astrophysics
 
@@ -70,8 +63,9 @@ title: Research
 
 -----
 
-### Proceedings 
-**Total: 6** | 5 Q4 | 1 other |
+### Conference papers
+
+**Total: 5** | 5 Q4 |
 
 - [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta) <br>**Contribution:** Lead author.
 
@@ -80,8 +74,6 @@ title: Research
 
 - [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta) <br>**Contribution:** Reviewed the manuscript, contributed to coding, [GitHub Repository](https://github.com/igomezv/cardio_dosis), and assisted the undergraduate student (first author).
 
-- [Vazquez, JA, **Gómez-Vargas, I** & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97). <br>**Contribution:** Co-lead author. 
-
 - [Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta) <br>**Contribution:** Reviewed the manuscript.
 
 - [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta) <br>**Contribution:** Lead author.
@@ -89,7 +81,7 @@ title: Research
 
 -----
 
-### Peer reviews
+### Peer review activity
 -----
 
 - 4 Physical Review D. [Private info](https://journals.aps.org/prd/).
