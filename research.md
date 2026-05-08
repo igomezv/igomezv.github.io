@@ -6,9 +6,10 @@ title: Research
 
 - [Papers](#papers)
 	- [Machine Learning in Astrophysics](#machine-learning-in-astrophysics)
-	- [Bayesian analysis in Cosmology](#bayesian-analysis-in-cosmology)
+	- [Bayesian analysis](#bayesian-analysis-in-astrophysics)
 - [Conference papers](#conference-papers)
 - [Peer review activity](#peer-review-activity)
+- [Observational Experience](#observational-experience)
 - [Academic presentations](#academic-presentations)
 
 -----
@@ -50,7 +51,7 @@ title: Research
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>**Contribution:** Co-lead author. Advised the undergraduated student (first author), contributed to the manuscript writing, and ensured scientific rigor.
 
 
-#### Bayesian Analysis in Cosmology
+#### Bayesian Analysis in Astrophysics
 
 
 - [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. arXiv preprint arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
@@ -84,14 +85,18 @@ title: Research
 ### Peer review activity
 -----
 
-- 4 Physical Review D. [Private info](https://journals.aps.org/prd/).
-- 1 IEEE Transactions on Pattern Analysis and Machine Intelligence. [Private info](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
-- 1 Journal of Cosmology and Astroparticle Physics. [Private info](https://iopscience.iop.org/journal/1475-7516).
-- 1 Physics of the Dark Universe. [Private info](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
-- 1 European Physical Journal C. [Private info](https://link.springer.com/journal/10052). 
-- 1 Indian Journal of Physics. [Private info](https://link.springer.com/journal/12648).
-- 1 Ciencia ergo-sum. [Private info](https://cienciaergosum.uaemex.mx).
-- 1 Frontiers in Public Health. [Public info](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
+- [Physical Review D.](https://journals.aps.org/prd/).
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
+- [Journal of Cosmology and Astroparticle Physics.](https://iopscience.iop.org/journal/1475-7516).
+- [Physics of the Dark Universe.](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
+- [European Physical Journal C.](https://link.springer.com/journal/10052). 
+- [Indian Journal of Physics.](https://link.springer.com/journal/12648).
+- [Ciencia ergo-sum. ](https://cienciaergosum.uaemex.mx).
+- [Frontiers in Public Health.](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
+- CRC Press.
+- COMIA 2026.
+- External evaluator at "Internal Research Grants Programme", University of Malta.
+
 
 -----
 ## Academic presentations

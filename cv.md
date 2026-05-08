@@ -7,6 +7,11 @@ title: CV
 Download the PDF version of the CV 
 <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>here</a>.
 
+- [Papers](#work-experience)
+- [Research stays](#research-stays)
+- [Observational Experience](#observational-experience)
+- [Education](#education)
+
 
 -----------------------------------------------------------
 
@@ -72,6 +77,15 @@ Download the PDF version of the CV
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
   *Cosmological parameter estimation with Cosmosis code*. <br> 
   Host: Ulises Nucamendi.
+
+
+----
+### Observational Experience
+
+---
+
+- ESO 3.6m Telescope (2025, 8 nights).
+- Swiss Euler 1.2m Telescope (2024–2025, 8 nights).
 
 
 ---
