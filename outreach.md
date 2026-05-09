@@ -4,8 +4,8 @@ title: Outreach
 
 ---
 
-- [Papers](#papers)
 - [Textbooks](#textbooks)
+- [Outreach papers](#outreach-papers)
 - [Talks](#talks)
 - [Media](#media)
 - [Digital resources](#digital-resources)
@@ -13,10 +13,23 @@ title: Outreach
 
 ----------
 
-### Papers
+## Textbooks
+
+<p><a href="https://www.dropbox.com/scl/fi/ziuibfaf9nt0q2fivxyzh/cert_SEP.pdf?rlkey=kb80l6e4ix7pus76bop5kz4qm&st=rvos2jxd&dl=0">Matemáticas 3, Travesías Series, Castillo Editions</a> is a mathematics textbook for high school. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). You can purchase it on <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a> or at <a href="https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150">El Sótano</a>. It is also available in the <a href="https://www.conaliteg.sep.gob.mx/secundaria.html">CONALITEG repository</a>.</p>
 
 
-**Total: 6** | 1 JCR | 1 CONACYT | 1 Q4 | 3 other |
+- [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020) Matemáticas III. Serie Travesías. Ediciones Castillo. ISBN: 978-607-540-522-3. Book authorized by Secretaría de Educación Pública (SEP) and CONALITEG.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1). 
+
+
+![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
+ 
+
+Full list, including supplemental material, such as guides for teachers or students, designed to support the main textbook used in their courses is avaiable in the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
+
+
+------------
+
+## Outreach apers
 
 - [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
 <br>**Contribution:** Reviewed the manuscript and contributed to coding examples and [GitHub Repository](https://github.com/igomezv/IntroMCMC).
@@ -33,53 +46,25 @@ title: Outreach
 
 - [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)
 
------------
 
-### Textbooks
-**Total: 5** | 1 SEP book | 4 Supplementary material |
+----------
 
- See the full list in the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
-
-*SEP book* refers to a textbook approved by the Secretaría de Educación Pública (SEP) and utilized in public high schools:
-
-- [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020) Matemáticas III. Serie Travesías. Ediciones Castillo. ISBN: 978-607-540-522-3. Book authorized by Secretaría de Educación Pública (SEP) and CONALITEG.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1). 
-
-
-<p><a href="https://www.dropbox.com/scl/fi/ziuibfaf9nt0q2fivxyzh/cert_SEP.pdf?rlkey=kb80l6e4ix7pus76bop5kz4qm&st=rvos2jxd&dl=0">Matemáticas 3, Travesías Series, Castillo Editions</a> is a mathematics textbook for high school. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). You can purchase it on <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a> or at <a href="https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150">El Sótano</a>. It is also available in the <a href="https://www.conaliteg.sep.gob.mx/secundaria.html">CONALITEG repository</a>.</p>
-
-
-![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
-
-
-
-*Supplementary materials* are additional resources, such as guides for teachers or students, designed to support the main textbook used in their courses. Since these materials are complementary, I do not count them in my publication count:
- 
-- **Gómez Vargas, I.** (2018) Guía didáctica “Ciencias 2. Física. Secundaria Savia. Guía Esencial para aprender a pensar”, 3th ed. Editorial SM. ISBN: 978-607-24-2959-8.
-    
-- Corona Tinoco, M. & **Gómez Vargas, I.** (2018) Guía didáctica “Ciencias 3. Química. Secundaria Savia. Guía Esencial para aprender a pensar", 1st ed. Editorial SM. ISBN: 978-607-24-2958-1.
-    
-- **Gómez Vargas, I.** (2018) Matemáticas II. Guía para maestros. Serie Infinita.Ediciones Castillo. ISBN: 978-607-540-464-6.
-    
-- **Gómez Vargas, I.** (2018) Matemáticas I. Guía para maestros. Serie Infinita. Ediciones Castillo. ISBN: 978-607-540-361-8.
-
------------
-
-### Talks
+## Talks
 
 
 - **05/2025**. [*Scientific Applications of Machine Learning*, International Congress on Biotechnology, Engineering and Stem.](https://sites.google.com/view/congresosonabiin/home?authuser=0). Sociedad Nacional de Biotecnología e Ingeniería [Online].
 - **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo. [Online].
 - **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química. [Online].
 
-### Media
+## Media
 
 - **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394). [On-site].
 
 ----------------
 
-### Digital resources
+## Digital resources
 
-#### MOOC course
+### MOOC course
 Development of the MOOC course "Formación docente para la enseñanza de Matemáticas básicas" for the MexicoX platform.
 
 In collaboration with: UPEV-IPN, Dr. Daniel Sanchez Guzman, Dr. Ricardo García Salcedo and Ricardo Medel Esquivel.
@@ -90,7 +75,7 @@ Related links:
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
-#### Augmented Reality app
+### Augmented Reality app
 
 Didactic exploration of Augmented Reality. Development with Unity-3D, vuforia and C#.
 
