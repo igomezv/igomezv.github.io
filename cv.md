@@ -22,7 +22,7 @@ Download the PDF version of the CV
   [Instituto de Astrofísica de Andalucía (IAA-CSIC)](https://www.iaa.csic.es/), Granada, Spain.  
   Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain  
   Funded through the **Horizon Europe MSCA-COFUND programme**  
-  [ALLIES – Artificial inteLLigence In sustainable dEvelopment goalS (Grant Agreement No. 101126626)](https://cordis.europa.eu/project/id/101126626)  
+  [ALLIES – Artificial inteLLigence In sustainable dEvelopment goalS (Grant Agreement No. 101126626)](https://cordis.europa.eu/project/id/101126626).
   .<br> 
   **Project:** [Generative deep learning for stellar observations and exoplanet detection with PLATO](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/).<br> 
   **Supervisors:** Javier Pascual Granado; Aldo Serenelli.
@@ -79,15 +79,6 @@ Download the PDF version of the CV
   Host: Ulises Nucamendi.
 
 
-----
-### Observational Experience
-
----
-
-- ESO 3.6m Telescope (2025, 8 nights).
-- Swiss Euler 1.2m Telescope (2024–2025, 8 nights).
-
-
 ---
 # Education
 
@@ -110,3 +101,14 @@ Download the PDF version of the CV
 - Bachelor's degree in physics and mathematics. <br>
   Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
  <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation*. </a><br>
+ 
+ 
+ 
+----
+# Observational Experience
+
+---
+
+- ESO 3.6m Telescope (2025, 8 nights).
+- Swiss Euler 1.2m Telescope (2024–2025, 8 nights).
+
