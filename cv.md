@@ -56,33 +56,31 @@ title: CV
 - Memberships: PoeT WG1 (2026), PlanetS (2023–2025), and CosmoVerse WG2 (2024–2025).
 
 
-
 ---
 # Research stays
 
 ---
 
-- 2025 (1 week). Visiting researcher. <br> 
-  Instituto de Ciencias del Espacio. (ICE-CSIC), Barcelona, Spain. <br> 
-  Deep Learning in exoplanet detection. <br>
-  Host: Manuel Perger. 
+- **2025 (1 week). Visiting researcher**. <br> 
+  Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. <br> 
+  Deep learning in exoplanet detection. <br>
+  Host: Manuel Perger.
 
-- <a href="https://www.willhandley.co.uk/students/">2020 (8 months). Visiting PhD student.<br>
-  Kavli Institute of Cosmology, University of Cambridge.</a><br> 
-  [*Bayesian inference: Reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
-  Remote due to COVID19 pandemic.<br>
-  Host: Will Handley. <br> 
+- <a href="https://www.willhandley.co.uk/students/">**2020 (8 months). Visiting PhD student**.<br>
+  Kavli Institute for Cosmology, University of Cambridge, United Kingdom.</a><br> 
+  [*Bayesian inference and reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
+  Remote stay due to the COVID-19 pandemic.<br>
+  Host: Will Handley.<br> 
 
-- 2018 (2 months). Visiting PhD student. <br> 
-  Instituto de Ciencias Físicas, UNAM. <br> 
+- **2018 (2 months). Visiting PhD student**. <br> 
+  Instituto de Ciencias Físicas, UNAM, Mexico. <br> 
   Algorithms in cosmology. <br>
-  Host: José Alberto Vázquez. <br> 
+  Host: José Alberto Vázquez.<br> 
 
-- 2018 (2 months). Visiting PhD student. <br> 
-  Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás Hidalgo. <br> 
-  *Cosmological parameter estimation with Cosmosis code*. <br> 
+- **2018 (2 months). Visiting PhD student**. <br> 
+  Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás de Hidalgo, Mexico. <br> 
+  *Cosmological parameter estimation with the Cosmosis code*. <br> 
   Host: Ulises Nucamendi.
-
 
 ---
 # Education
