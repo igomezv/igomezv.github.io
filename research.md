@@ -4,7 +4,7 @@ title: Research
 
 ---
 
-Research focused on the intersection of deep learning, Bayesian inference and astrophysics (exoplanets, stellar activity, cosmology).
+Research focused on the intersection of deep learning, Bayesian inference and astrophysics (exoplanets, stellar activity, cosmology). 
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | [<u>GitHub</u>](https://github.com/igomezv) |
 <br>
@@ -176,6 +176,7 @@ Collection of Python implementations for model-independent reconstruction of cos
 - 2025. External evaluator for the *Internal Research Grants Programme*, University of Malta.
 - 2023. Reviewer for CONACYT postdoctoral grants.
 - 2026. Reviewer for COMIA 2026.
+
 
 -----
 ## Selected presentations
