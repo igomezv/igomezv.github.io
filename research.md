@@ -152,84 +152,54 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
 
+
 -----
 
 ## Scientific Service
------
-
-- [Physical Review D.](https://journals.aps.org/prd/).
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
-- [Journal of Cosmology and Astroparticle Physics.](https://iopscience.iop.org/journal/1475-7516).
-- [Physics of the Dark Universe.](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
-- [European Physical Journal C.](https://link.springer.com/journal/10052). 
-- [Indian Journal of Physics.](https://link.springer.com/journal/12648).
-- [Ciencia ergo-sum. ](https://cienciaergosum.uaemex.mx).
-- [Frontiers in Public Health.](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
-- 2025. CRC Press.
-- COMIA 2026.
-- 2025. External evaluator at "Internal Research Grants Programme", University of Malta.
-- 2023. Reviewer of CONACYT postdoctoral grants.
-
 
 -----
-## Academic presentations
+
+### Journal peer review
+
+- [Physical Review D](https://journals.aps.org/prd/).
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
+- [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516).
+- [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
+- [European Physical Journal C](https://link.springer.com/journal/10052). 
+- [Indian Journal of Physics](https://link.springer.com/journal/12648).
+- [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx).
+- [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
+
+### Editorial and evaluation activities
+
+- 2025. Reviewer for CRC Press.
+- 2025. External evaluator for the *Internal Research Grants Programme*, University of Malta.
+- 2023. Reviewer for CONACYT postdoctoral grants.
+- 2026. Reviewer for COMIA 2026.
+
+-----
+## Selected presentations
 -----
 
 - **2026**
-	- [Seminar] *Inferencia Bayesiana y Aprendizaje Automático
-en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
-	
+
 - **2025**
-	- [Conference] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
 	- [Conference] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
-	- [Poster] [*SpeckleNet: a large-scale PSF subtraction deep learning model for exoplanetdetection and characterization in high contrast imaging*](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
-	- [Conference] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf). The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6).  Porto, Portugal. [On-site].
-	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
-	- [Seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
+
+	- [Conference] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf) The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6), Porto, Portugal. [On-site].
+
+	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
+
+	- [Conference] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
 
 - **2024**
-	- [Flash talk/poster] *Deep Learning strategies to planet detection using HARPS-N stellar spectra*, Junior Research Assembly (JURA) V. PlanetS, Murten, Switzerland. [On-site].
-	- [Seminar] *Aprendizaje automático en la inferencia estadística de datos cosmológicos*, Seminario de Cosmología y Astrofísica Relativista. Physics department, CINVESTAV. [Online].
-	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, Morelos, México. [Online].
-	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland. [On-site]
+	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
 
-- **2023** 
-	- [Seminar] *Aprendizaje automático en el análisis de datos cosmológicos*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos. [On-site]
-	- [Poster] *Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and fundamental physics (CosmoVerse). Faculdade de Ciências da Universidade de Lisboa. Lisboa, Portugal. [On-site].
+	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
 
-- **2022** 
-	- [Poster] *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo. [On-site].
-	- [Conference] *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo. [On-site].
-	- [Poster] *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México. [On-site].
-	- [Poster] *Neural networks in cosmological data analysis*, 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil. [On-site].
+- **2023**
+	- [Poster] *Neural networks in cosmological data analysis*, CosmoVerse Meeting: *Addressing observational tensions in cosmology with systematics and fundamental physics*, Faculdade de Ciências da Universidade de Lisboa, Portugal. [On-site].
 
-<!--
-- **2021** 
-	- [Talk] *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos. [On-site].
-	- [Seminar] *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato. [Online].
-	- [Seminar] *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos. [Online].
-
-	
-- **2020** 
-
-	- [Poster] *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
-	- [Poster] *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
-	- [Poster] *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
-	- [Seminar] *Muestreo anidado, redes neuronales y SimpleMC*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos.
-	- [Talk] *Métodos estadísticos con redes neuronales en cosmología observacional*, V Encuentro de Modelado Matemático en Física y Geometría, BUAP, MCTP.
-	- [Seminar] *Redes Neuronales aplicadas a métodos estadísticos de la Cosmología Observacional*, Seminario de estudiantes de cosmología, Cuernavaca, Morelos. 
-
-
-- **2019** 
-	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
-	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
-   - **2018** 
-	- [Talk] *Algoritmos de ciencias de datos para vacíos cósmicos*, Escuela Nacional de Cosmología Guanajuato. Guanajuato, México.
-	- [Poster] *Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-	- [Poster] *Cosmic voids, spatial algorithms and data structures*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-- **2017**
-	- [Talk] *Analisis de datos cosmológicos para el estudio de vacíos cósmicos*, Simposio de Tecnología Avanzada, CDMX. 
-	- [Conference] *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX.  -->
-
-
+- **2022**
+	- [Poster] *Neural networks in cosmological data analysis*, 25th International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro, Brazil. [On-site].
