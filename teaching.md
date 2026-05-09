@@ -47,11 +47,6 @@ title: Teaching
   Postgraduate course (online). 30 hours. <br>
   [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
 
-#### Early Teaching Experience
-
-- High school physics and mathematics courses (2013–2014). <br>
-  CECyT-8, Instituto Politécnico Nacional, and other institutions. <br>
-
 
 --------------
 
