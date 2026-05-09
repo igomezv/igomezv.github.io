@@ -4,40 +4,26 @@ title: Research
 
 ---
 
+Research focused on the intersection of deep learning, Bayesian inference and astrophysics (exoplanets, stellar activity, cosmology).
+
+Links: | [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | [<u>GitHub</u>](https://github.com/igomezv) |
+
 - [Papers](#papers)
-	- [Machine Learning in Astrophysics](#machine-learning-in-astrophysics)
-	- [Bayesian analysis](#bayesian-analysis-in-astrophysics)
 - [Research code](#research-code)
-- [Conference papers](#conference-papers)
-- [Peer review activity](#peer-review-activity)
-- [Observational Experience](#observational-experience)
+- [Reviewing and evaluation](#reviewing-and-evaluation-activity)
 - [Academic presentations](#academic-presentations)
 
 -----
 
-## Papers
+## Selected publications
 
-**Total:** 20  
-**By Indexing:** 14 JCR, 5 Q4, 1 Preprint.  
-**By Category:** 15 Research, 5 Proceedings.
+Selected publications highlighting lead/co-lead work, research software, and major collaborations.
 
-
-| [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I).
-
-
-### Selected publications
-
-[9 as lead or co-lead author.] 
-
-#### Machine Learning in Astrophysics
+### Lead and co-lead publications	
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520 .](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>**Contribution:** Co-lead autor. Contribution to the conceptual and methodological development and manuscript preparation; developed the [GitHub Repository](https://github.com/igomezv/NcosmoVAE); provided guidance to the first author (PhD student); corresponding author.
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>. 102240(52).](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>**Contribution:** Co-lead author. Corresponding author. Designed and implemented the methodology, carried out coding, [GitHub Repository](https://github.com/igomezv/Reconstructing-RC-with-ANN), data analysis, and manuscript writing. 
-
-- [Di Valentino, E., et al (including **Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Physics of the Dark Universe</i>, 101965](https://www.sciencedirect.com/science/article/pii/S221268642500158X?casa_token=1pzbCgFVFhYAAAAA:xFQO_B3yP3qO76NhzYfQHD1tFqy4-VJgJTWSkEw-91MFqGWrWP82aX5mCX8U2gvOYKLRnnmQOVO) <br>**Contribution:** Contributed substantially to Sections 3.3 (Reconstruction Techniques) and 3.4 (Bioinspired Algorithms in Model Selection), providing expertise in ML-based reconstruction and genetic-algorithm model selection; implemented and produced the neural network reconstruction presented in the right panel of Fig. 64.
-
-- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>**Contribution:** Participated in the critical review of the manuscript, ensuring methodological clarity in the use of the neural network models.
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep Learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8) 083518.](https://arxiv.org/abs/2405.03293) <br>**Contribution:** Lead author. Responsible for conceptualization, methodology, coding, data analysis, [GitHub Repository](https://github.com/igomezv/nnogada) and writing.
 
@@ -53,22 +39,19 @@ title: Research
 
 - [Rojas Olvera, J. de Dios , **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. Universe, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>**Contribution:** Co-lead author. Advised the undergraduated student (first author), contributed to the manuscript writing, and ensured scientific rigor.
 
+### Selected collaborative publications
 
-#### Bayesian Analysis in Astrophysics
 
+- [Di Valentino, E., et al (including **Gómez-Vargas, I.**)(2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics, <i>Physics of the Dark Universe</i>, 101965](https://www.sciencedirect.com/science/article/pii/S221268642500158X?casa_token=1pzbCgFVFhYAAAAA:xFQO_B3yP3qO76NhzYfQHD1tFqy4-VJgJTWSkEw-91MFqGWrWP82aX5mCX8U2gvOYKLRnnmQOVO) <br>**Contribution:** Contributed substantially to Sections 3.3 (Reconstruction Techniques) and 3.4 (Bioinspired Algorithms in Model Selection), providing expertise in ML-based reconstruction and genetic-algorithm model selection; implemented and produced the neural network reconstruction presented in the right panel of Fig. 64.
 
-- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$ z $ SNe Ia Data. arXiv preprint arXiv:2508.10514.](https://arxiv.org/abs/2508.10514)<br>**Contribution:** Bayesian statistical analysis, writing the data analysis section.
+- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A.C., Latham, D.W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>**Contribution:** Participated in the critical review of the manuscript, ensuring methodological clarity in the use of the neural network models.
 
 - [Tamayo, D., Urquilla, E. & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. Physics of the Dark Universe. 101901(48).](https://doi.org/10.1016/j.dark.2025.101901) <br>**Contribution:** Corresponding author. Led the Bayesian statistical analysis, authored the data analysis section, and contributed to the overall scientific review and refinement of the manuscript. 
 
-- [García-Salcedo, R., **Gómez-Vargas, I.**, González, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined Studies Approach to Rule Out Cosmological Models Which Are Based on Nonlinear Electrodynamics. Universe, 10(9), 353.](https://www.mdpi.com/2218-1997/10/9/353) <br>**Contribution:** Conducted Bayesian analysis, contributed to the data interpretation, wrote the data analysis section, and provided scientific oversight through manuscript review.
-
-- [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I. & Sen, Anjan A. (2024). Coupled Multi Scalar Field Dark Energy. Physical Review D. 109(2) 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511) <br>**Contribution:** Executed the Bayesian statistical framework, authored the data analysis section, update of the data in SimpleMC for this paper, and provided scientific oversight through manuscript review.
-
 -----
-## Research code
+## Research software
 
-## SimpleMC
+### SimpleMC
 
 **Cosmological parameter inference toolkit for robust parameter estimation and sampling.**
 
@@ -84,7 +67,7 @@ Cosmological parameter estimation code originally developed by Dr. A. Slosar and
 
 ---
 
-## nnogada
+### nnogada
 
 **Neural networks optimized with genetic algorithms for flexible, data-driven inference.**
 
@@ -106,7 +89,7 @@ Cosmological parameter estimation code originally developed by Dr. A. Slosar and
 
 ---
 
-## neuralike
+### neuralike
 
 **Surrogate-assisted Bayesian inference to accelerate cosmological likelihood evaluations.**
 
@@ -122,7 +105,7 @@ Deep learning and genetic-algorithm techniques designed to **speed up Bayesian i
 
 ---
 
-## ANN Reconstructions
+### ANN Reconstructions
 
 **Model-independent cosmological reconstructions with uncertainty-aware neural networks.**
 
@@ -148,7 +131,7 @@ Python implementations for **model-independent reconstructions of cosmological f
 
 ---
 
-## NCosmoVAE
+### NCosmoVAE
 
 **Variational autoencoders for fast generative modeling of cosmological N-body simulations.**
 
@@ -162,27 +145,10 @@ Variational autoencoder framework trained on **N-body cosmological simulations**
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
 
 
------------------
-
-### Conference papers
-
-**Total: 5** | 5 Q4 |
-
-- [**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a bayesian inference framework. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012022). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta) <br>**Contribution:** Lead author.
-
-- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012021). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta) <br>**Contribution:** Reviewed the manuscript and contributed to coding.
-
-
-- [Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. In Journal of Physics: Conference Series (Vol. 1723, No. 1, p. 012034). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta) <br>**Contribution:** Reviewed the manuscript, contributed to coding, [GitHub Repository](https://github.com/igomezv/cardio_dosis), and assisted the undergraduate student (first author).
-
-- [Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Moltalvo, T., & Salcedo, R. G. (2019, June). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012038). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta) <br>**Contribution:** Reviewed the manuscript.
-
-- [**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019, June). Cosmic voids, spatial algorithms and data structures. In Journal of Physics: Conference Series (Vol. 1221, No. 1, p. 012031). IOP Publishing.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta) <br>**Contribution:** Lead author.
-
 
 -----
 
-### Peer review activity
+## Scientific Service
 -----
 
 - [Physical Review D.](https://journals.aps.org/prd/).
@@ -193,9 +159,10 @@ Variational autoencoder framework trained on **N-body cosmological simulations**
 - [Indian Journal of Physics.](https://link.springer.com/journal/12648).
 - [Ciencia ergo-sum. ](https://cienciaergosum.uaemex.mx).
 - [Frontiers in Public Health.](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
-- CRC Press.
+- 2025. CRC Press.
 - COMIA 2026.
-- External evaluator at "Internal Research Grants Programme", University of Malta.
+- 2025. External evaluator at "Internal Research Grants Programme", University of Malta.
+- 2023. Reviewer of CONACYT postdoctoral grants.
 
 
 -----
@@ -231,12 +198,13 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 	- [Poster] *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México. [On-site].
 	- [Poster] *Neural networks in cosmological data analysis*, 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil. [On-site].
 
+<!--
 - **2021** 
 	- [Talk] *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos. [On-site].
 	- [Seminar] *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato. [Online].
 	- [Seminar] *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos. [Online].
 
-<!--	
+	
 - **2020** 
 
 	- [Poster] *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
