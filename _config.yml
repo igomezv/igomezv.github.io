@@ -8,7 +8,7 @@ navbar-links:
 #   Contact: "contact" 
    Teaching: "teaching"
    Outreach: "outreach"
-   Other: "other"
+#   Other: "other"	
 
     
 # GitHub: "https://github.com/igomezv"
