@@ -7,7 +7,7 @@ title: CV
 Download the PDF version of the CV 
 <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>here</a>.
 
-- [Papers](#work-experience)
+- [Work experience](#work-experience)
 - [Research stays](#research-stays)
 - [Observational Experience](#observational-experience)
 - [Education](#education)
