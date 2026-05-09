@@ -45,14 +45,10 @@ title: CV
 ---
 
 - Horizon Europe MSCA-COFUND ALLIES Fellowship (2025–2027).
-
 - [**2023–2026. Visiting professor**](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0). <br>
   CICATA-Legaria, Instituto Politécnico Nacional, Mexico.<br>
-
 - [**SNI Candidate (2022–2026). Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
-
 - CONACYT National Postdoctoral Grant (2021–2023).
-
 - Memberships: PoeT WG1 (2026), PlanetS (2023–2025), and CosmoVerse WG2 (2024–2025).
 
 
@@ -82,33 +78,33 @@ title: CV
   *Cosmological parameter estimation with the Cosmosis code*. <br> 
   Host: Ulises Nucamendi.
 
+
 ---
 # Education
 
 ---
 
-- PhD in Advanced Technology.<br> 
-  CICATA-Legaria, Instituto Politécnico Nacional.<br> 
-  Associate PhD student at Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México. <br>
-  <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis: *Artificial neural networks in Bayesian Inference*.</a> <br>
-  Advisors: Ricardo Garcia Salcedo and Jose Alberto Vazquez.<br>
+- **PhD in Advanced Technology**.<br> 
+  CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br> 
+  Associate PhD student at Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
+  <a href="https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference">PhD thesis: *Artificial Neural Networks in Bayesian Inference*.</a> <br>
+  Advisors: Ricardo García Salcedo and José Alberto Vázquez.<br>
 
-- Diploma on Knowledge discovery with Big data tools. <br>
-  Centro de Investigación en Computación, Instituto Politécnico Nacional. <br>
-  192 hours.
+- **Master's degree in Advanced Technology**.<br>
+  CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br>
+  <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis (Spanish version): *Augmented Reality Educational Mobile App*.</a><br>
+
+- **Diploma in Knowledge Discovery with Big Data Tools**. <br>
+  Centro de Investigación en Computación, Instituto Politécnico Nacional, Mexico. <br>
+  192 hours.<br>
   
-- Master's degree in Advanced Technology.<br>
- CICATA-Legaria, Instituto Politécnico Nacional. <br>
- <a href="https://tesis.ipn.mx/handle/123456789/24066">Thesis (Spanish version): *Augmented Reality Educational Mobile App*. </a><br>
+- **Bachelor's degree in Physics and Mathematics**. <br>
+  Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional, Mexico. <br>
+  <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation*.</a><br> 
 
-- Bachelor's degree in physics and mathematics. <br>
-  Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional. <br>
- <a href="https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3">Thesis (Spanish version): *BWR Nuclear Reactor Refuel Cycle Simulation*. </a><br>
- 
- 
  
 ----
-# Observational Experience
+## Observational Experience
 
 ---
 
