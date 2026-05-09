@@ -6,8 +6,7 @@ title: Outreach
 
 - [Textbooks](#textbooks)
 - [Outreach papers](#outreach-papers)
-- [Talks](#talks)
-- [Media](#media)
+- [Talks and media](#talks-and-media)
 - [Digital resources](#digital-resources)
 
 
@@ -15,50 +14,35 @@ title: Outreach
 
 ## Textbooks
 
-<p><a href="https://www.dropbox.com/scl/fi/ziuibfaf9nt0q2fivxyzh/cert_SEP.pdf?rlkey=kb80l6e4ix7pus76bop5kz4qm&st=rvos2jxd&dl=0">Matemáticas 3, Travesías Series, Castillo Editions</a> is a mathematics textbook for high school. It has been approved by the Secretaría de Educación Pública (SEP) and included in the repository of the Comisión Nacional de Libros de Texto Gratuitos (CONALITEG). You can purchase it on <a href="https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224">Amazon</a> or at <a href="https://www.elsotano.com/libro/travesias-secundaria-matematicas-3_10554150">El Sótano</a>. It is also available in the <a href="https://www.conaliteg.sep.gob.mx/secundaria.html">CONALITEG repository</a>.</p>
-
-
-- [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020) Matemáticas III. Serie Travesías. Ediciones Castillo. ISBN: 978-607-540-522-3. Book authorized by Secretaría de Educación Pública (SEP) and CONALITEG.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1). 
-
+- [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020). *Matemáticas III. Serie Travesías*. Ediciones Castillo. ISBN: 978-607-540-522-3.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1)  
+  Mathematics textbook for Mexican high schools, approved by the Secretaría de Educación Pública (SEP) and included in the CONALITEG repository.
 
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
- 
 
-Full list, including supplemental material, such as guides for teachers or students, designed to support the main textbook used in their courses is avaiable in the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
-
+Additional educational materials, including teacher and student guides associated with this series, are available in the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
 
 ------------
 
-## Outreach apers
+## Outreach papers
 
-- [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
-<br>**Contribution:** Reviewed the manuscript and contributed to coding examples and [GitHub Repository](https://github.com/igomezv/IntroMCMC).
+- [Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). An introduction to markov chain monte carlo. Boletín de Estadística e Investigación Operativa, 1(37), 47-74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo).
 
-- [Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA) <br>**Contribution:** Contributed to project discussion and manuscript review.
+- [Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead. The Physics Teacher, 59(6), 480-481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA) 
 
 - [**Gómez-Vargas, I.**, Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. (2019) Una Aplicación de las redes neuronales en la cosmología. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial -Mexican Society of Artificial Intelligence-](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia).
-<br>**Contribution:** Lead author.
-
-- [Vazquez, JA, **Gómez-Vargas, I** & Medel-Esquivel, R. (2019) Cosmología observacional con Redes Neuronales Artificiales. Proceedings of the UNAM Physics Summer School](https://www.fis.unam.mx/pdfs/Memorias%20Escuela%20de%20Verano%202019.pdf#page=97). <br>**Contribution:** Co-lead author. 
-
-- [**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
-<br>**Contribution:** Lead author and developer of the [GitHub Repository](https://github.com/igomezv/RAsolidsrev).
-
-- [**Gómez Vargas, Isidro** (2017) Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)
 
 
 ----------
 
-## Talks
+## Talks and media
 
 
 - **05/2025**. [*Scientific Applications of Machine Learning*, International Congress on Biotechnology, Engineering and Stem.](https://sites.google.com/view/congresosonabiin/home?authuser=0). Sociedad Nacional de Biotecnología e Ingeniería [Online].
 - **03/2023**. *Programación y Datos para Aprender Conceptos de Cosmología*, Instituto de Física, Universidad Autónoma de Santo Domingo. [Online].
+- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394). [On-site].
 - **03/2022**. *Redes Neuronales Artificiales: Múltiples operaciones simples para resolver problemas complejos*, Facultad de Química, Universidad Autónoma del Carmen. Seminario de Estudiantes de Ingeniería Química. [Online].
 
-## Media
 
-- **09/06/2023**. [Interview: *"Aprendizaje automático al acecho: desde aplicaciones de moda hasta el estudio del cosmos"*, in the Ojo de la Mosca program, Instituto Morelense de Radio y Televisión](https://www.facebook.com/ICFUNAM/posts/637723451719394). [On-site].
 
 ----------------
 
