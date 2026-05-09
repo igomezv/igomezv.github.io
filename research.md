@@ -172,10 +172,10 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 ### Editorial and evaluation activities
 
-- 2025. Reviewer for CRC Press.
-- 2025. External evaluator for the *Internal Research Grants Programme*, University of Malta.
-- 2023. Reviewer for CONACYT postdoctoral grants.
-- 2026. Reviewer for COMIA 2026.
+- Reviewer for CRC Press (2025).
+- External evaluator for the *Internal Research Grants Programme*, University of Malta (2025).
+- Reviewer for CONACYT postdoctoral grants (2023).
+- Reviewer for COMIA 2026.
 
 
 -----
