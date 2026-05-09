@@ -4,18 +4,18 @@ title: CV
 
 ---
 
-Download the PDF version of the CV 
-<a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>here</a>.
+<a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>Download PDF</a>.
 
-- [Work experience](#work-experience)
-- [Research stays](#research-stays)
-- [Observational Experience](#observational-experience)
+- [Research Positions](#research-positions)
+- [Awards, Grants and Memberships](#awards-grants-and-memberships)
+- [Research Stays](#research-stays)
 - [Education](#education)
+- [Observational Experience](#observational-experience)
 
 
 -----------------------------------------------------------
+# Research positions
 
-# Work experience
 ---
 
  - **2025–Present. Postdoctoral Research Fellow**.<br> 
@@ -33,28 +33,31 @@ Download the PDF version of the CV
    **Project**: Deep learning in exoplanet detection. <br> 
    **Supervisor**: Xavier Dumusque.
 
- - [**2022–2026. SNI Candidate. Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
-
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2021–2023. Postdoctoral researcher**.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
   CONACYT National postdoctoral grant. <br>
   **Project**: Statistical and machine learning methods in observational cosmology.<br>
   **Supervisor**: Jose Alberto Vazquez.
 
-- <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2022–2023. Instructor of Machine Learning courses**.</a><br>
-  DGTIC, Universidad Nacional Autónoma de México (UNAM). <br>
-  Instructor of specialisation courses within the Applied Artificial Intelligence diploma course: intermediate data science, evolutionary computation and probabilistic reasoning.
- 
  - [**2023–2026. Visiting professor**.](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) <br>
    CICATA-Legaria, Instituto Politécnico Nacional.<br>  
-   
-- **2015–2023. Technical reviewer and author**. <br> 
-  Macmillan Education Latam, Ediciones SM, Edimend, Quipper, others. <br> 
-  Authoring and technical revision of high school textbooks. <br> 
   
+---
+# Awards, grants and memberships
+
+---
+
+- ALLIES MSCA-COFUND Fellowship (2025–2027).
+- [**SNI Candidate (2022-2026). Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
+- CONACYT National Postdoctoral Grant (2021–2023).
+- Proyectos de Desarrollo Tecnológico o Innovación para alumnos del IPN 2018.
+- PNPC-CONACYT Scholarships (MSc/PhD).
+- Memberships: PoeT WG1 (2026), PlanetS (2023-2025), CosmoVerse WG2 (2024-2025).
 
 
+---
 # Research stays
+
 ---
 
 - 2025 (1 week). Visiting researcher. <br> 
