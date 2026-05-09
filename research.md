@@ -10,9 +10,9 @@ Research focused on the intersection of deep learning, Bayesian inference and as
 <br>
 
 - [Selected publications](#publications)
-- [Research code](#research-code)
-- [Reviewing and evaluation](#reviewing-and-evaluation-activity)
-- [Academic presentations](#academic-presentations)
+- [Research code](#research-software)
+- [Scientific Service](#scientific-service)
+- [Selected presentations](#selected-presentations)
 
 -----
 
