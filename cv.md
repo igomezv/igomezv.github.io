@@ -45,9 +45,9 @@ title: CV
 ---
 
 - Horizon Europe MSCA-COFUND ALLIES Fellowship (2025–2027).
-- [**2023–2026. Visiting professor**](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0). <br>
-  CICATA-Legaria, Instituto Politécnico Nacional, Mexico.<br>
-- [**SNI Candidate (2022–2026). Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0).
+- [**Visiting professor**](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) (2023–2026). <br>
+  CICATA, Instituto Politécnico Nacional, Mexico.<br>
+- [**SNI Candidate. Sistema Nacional de Investigadores**](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0) (2022–2026).
 - CONACYT National Postdoctoral Grant (2021–2023).
 - Memberships: PoeT WG1 (2026), PlanetS (2023–2025), and CosmoVerse WG2 (2024–2025).
 
