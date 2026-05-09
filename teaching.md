@@ -10,49 +10,47 @@ title: Teaching
 
 ----------
 
-## Courses 
+## Courses
 ----------
 
-- **[Research seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
+- **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
+  2022, Centro de Investigación en Matemáticas (CIMAT), Aguascalientes, Mexico.<br>
+  Master in Process Modeling and Optimization. <br> 
+  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DLCIMATAGS).
+
+- **[Research Seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
   *Maestría en Ciencias (Astrofísica)*. <br> 
-  2024, Universidad de Guanajuato. <br> 
+  2024, Universidad de Guanajuato, Mexico. <br> 
   8 hours. <br>
 
+- **Intermediate Data Science.** <br> 
+  *Diplomado en Ciencia de Datos*. <br> 
+  2022–2023, DGTIC-UNAM. <br> 
+  Specialization course. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio).
 
 - **Evolutionary Computation.** <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
-  Specialization. 20 hours. <br>
+  Specialization course. 20 hours. <br>
   [Link to course material](https://github.com/igomezv/ComputoEvolutivo).
-  
+
 - **Probabilistic Reasoning.** <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
-  Specialization. 10 hours. <br>
+  Specialization course. 10 hours. <br>
   [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
 
-- **Computational tools (intro to ML).** <br>
-  2023, CICATA-Legaria, IPN. <br>
-  Postgraduate (online). 30 hours. <br>
+- **Computational Tools (Introduction to Machine Learning).** <br>
+  2023, CICATA-Legaria, Instituto Politécnico Nacional. <br>
+  Postgraduate course (online). 30 hours. <br>
   [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
-  
-- **Intermediate Data Science.** <br> 
-  *Diplomado en Ciencia de Datos*. <br> 
-  2022, 2023, DGTIC-UNAM. <br> 
-  Specialization. 30 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DataScienceIntermedio). 
-
-- **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
-  2022, Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br>
-  Master in Process Modeling and Optimization. <br> 
-  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DLCIMATAGS). 
 
 #### Early Teaching Experience
 
-- High school physics and mathematics courses (2013-2014). <br>
-  CECyT-8 of the Instituto Politécnico Nacional and other institutions. <br>
-  Courses of Algebra, Physics, Differential equations, etc.
+- High school physics and mathematics courses (2013–2014). <br>
+  CECyT-8, Instituto Politécnico Nacional, and other institutions. <br>
 
 
 --------------
@@ -60,120 +58,78 @@ title: Teaching
 ## Students
 ------------
 
-(Completed/Total)
+### Master Supervision
 
-#### Thesis Committee (2/2)
-  
-  - **Jazhiel Chacón** (2023 - 2025). <br> 
-   [PhD in Computer Sciences.](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0) <br>
-   CIC, Instituto Politécnico Nacional. <br> 
-   Thesis project: [*Comparing cosmological structure formation models with deep learning*](https://www.dropbox.com/scl/fi/xph2um8miqzysrftid5gm/SIP-16-Jazhiel-Chac-n-Para-firma-digital-Dres.-externos_signed.pdf?rlkey=zxojlb6kregfuk0ze9dpsib4f&st=6ijk83x0&dl=0). <br>
-
- - **Juan de Dios Rojas Olvera** (2024). <br> 
-   [Master in Astronomy.](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0) <br>
-   Institute of Astronomy. UNAM. <br> 
-   Thesis (Spanish version): [*Optimization of Astrophysical and Cosmological Systems with Physically Informed Neural Networks*](https://www.dropbox.com/scl/fi/psqyoipcuymcqlmbetaid/Citatorio_313307579_Rojas-Olvera-Juan-De-Dios_Maestria-4196-2.pdf?rlkey=d4f0fnfjp9zpn9mdl36qr3206&st=ku5y2rmk&dl=0). <br>
-
-#### Undergraduate (1/1)
-
- - **Esteban Elías Gonzalez Mendez** (2023).<br>
-   [Summer research stay for undergraduate students.](https://www.dropbox.com/scl/fi/p9no950f7dsqufjpehaqu/Estancia_Esteban_Tec_Mixteca_ICF-UNAM.pdf?rlkey=mjsbx95iltnwvibl2ebrs898t&dl=0)<br>
-   ICF-UNAM.<br>
-   Physics engineering (Universidad Tecnológica de la Mixteca).<br>
-
-#### Master (6/7)
-
-- **Rodrigo Mendez** (2022-). <br> 
-    [Master in Astrophysics.](hhttps://www.dropbox.com/scl/fi/bymet4b7h8famd69wxh8f/Asignacion-Co-Dir_Tesis_Gomez-Vargas.pdf?rlkey=knjmffcw31afnuqasmi21p6k6&st=cy40eyk7&dl=0) <br> 
-    Universidad de Guanajuato. <br>
-    Thesis project: [*Analysis of the relationship between entropy estimators based on the dynamical properties of galaxies and the ICM using machine learning*](https://www.dropbox.com/scl/fi/bymet4b7h8famd69wxh8f/Asignacion-Co-Dir_Tesis_Gomez-Vargas.pdf?rlkey=knjmffcw31afnuqasmi21p6k6&st=cy40eyk7&dl=0). <br>
-    Co-supervised with Cesar Caretta.
+- **Rodrigo Mendez** (2022–present). <br> 
+  Master in Astrophysics, Universidad de Guanajuato. <br>
+  Thesis project: *Entropy estimators and intracluster medium analysis with machine learning*. <br>
+  Co-supervised with Cesar Caretta.
 
 - **Raquel Cabezuelo Ortí** (2023). <br> 
-    [Master in Astrophysics.](https://www.dropbox.com/scl/fi/k20uhnb0qn4yvc3p7l6bk/Certificado_direccion_Raquel.pdf?rlkey=rm39dirhcrcs5ouhngtiyfqju&st=d081ob0b&dl=0) <br> 
-    Valencia International University (VIU). <br>
-    Thesis (Spanish version): [*Dynamical analysis of a homogeneous and isotropic cosmological model coupled with nonlinear electrodynamics*](https://www.dropbox.com/scl/fi/t7s7g6kyv0izvjxpypnci/TFM_VIU_Raquel.pdf?rlkey=25abz1ih8dqlrib18ridew8am&st=tobyqlnd&dl=0). <br>
-    Co-supervised with Ricardo García Salcedo.
+  Master in Astrophysics, Valencia International University (VIU). <br>
+  Thesis: *Dynamical analysis of cosmological models coupled with nonlinear electrodynamics*. <br>
+  Co-supervised with Ricardo García Salcedo.
 
- - **José Luis López López** (2021-2023).<br> 
-    [Master in Process Modeling and Optimization.](https://www.dropbox.com/scl/fi/ugp9e5zf719f3ovh8h30e/Dr.-Isidro-G-mez-Vargas-Co-Direcci-n.pdf?rlkey=8q1wmbghairmqqf3nsgk67we7&dl=0) <br>
-    Centro de Investigación en Matemáticas (CIMAT), unidad Aguascalientes.<br> 
-    Thesis (Spanish version): [*Prediction of skateboard tricks in images using neural networks*](https://www.dropbox.com/scl/fi/clh8ojs9kzqht0gmswemv/CIMAT_Tesis.pdf?rlkey=t3kx63afljtncb1hofizljq8r&st=du2j7gxs&dl=0). <br>
-    Co-supervised with Dra. Lilí Guadarrama.
+- **José Luis López López** (2021–2023). <br> 
+  Master in Process Modeling and Optimization, CIMAT Aguascalientes. <br> 
+  Thesis: *Prediction of skateboard tricks in images using neural networks*. <br>
+  Co-supervised with Dra. Liliana Guadarrama Bustos.
 
-  -  **Julen Pastor Rodriguez** (2022-2023). <br> 
-    [Master in Astrophysics.](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado_direccion_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&st=4pm1swke&dl=0) <br> 
-    Valencia International University (VIU). <br>
-    Thesis (Spanish version): [*Cosmological analysis of supernovae with neural networks*](https://www.dropbox.com/scl/fi/hui2jp0oxo2kwcbj90uef/TFM_VIU_Julen.pdf?rlkey=rs2ntab29zzxkj6ua1hun5x3i&st=d641ctvy&dl=0). <br>
-    Co-supervised with Ricardo García Salcedo.
+- **Julen Pastor Rodriguez** (2022–2023). <br> 
+  Master in Astrophysics, Valencia International University (VIU). <br>
+  Thesis: *Cosmological analysis of supernovae with neural networks*. <br>
+  Co-supervised with Ricardo García Salcedo.
     
- -  **Luis Marín Díaz** (2022-2023). <br> 
-    [Master in Astrophysics.](https://www.dropbox.com/scl/fi/qud99cfd6dblpw3v24ywi/Certificado_direccion_Luis_y_Julen.pdf?rlkey=f6oopp6ku99tzgmrn9ih7yph1&st=4pm1swke&dl=0) <br> 
-    Valencia International University (VIU). <br>
-    Thesis (Spanish version): [*Reconstruction of the SNIa distance module with observational data and Gaussian processes*](https://www.dropbox.com/scl/fi/z41lsqsu8ermgodte3ayf/TFM_VIU_Luis.pdf?rlkey=nmglxfstxt66covwxonysn51k&st=f8gcgz0t&dl=0). <br>
-    Co-supervised with Ricardo García Salcedo.
+- **Luis Marín Díaz** (2022–2023). <br> 
+  Master in Astrophysics, Valencia International University (VIU). <br>
+  Thesis: *Reconstruction of SNIa distance modulus with Gaussian processes*. <br>
+  Co-supervised with Ricardo García Salcedo.
     
- - **Daniel Barrera Hernández** (2021-2023). <br> 
-   [Master in Advanced Technology.](https://www.dropbox.com/s/601u8nhx4owlupb/all_mta.pdf?dl=0) <br>
-   CICATA-Legaria, Instituto Politécnico Nacional. <br> 
-   Thesis (Spanish version): [*Application of machine learning to the diagnosis of cardiovascular diseases using electrocardiograms*](https://www.dropbox.com/scl/fi/s3fa6kxaiqwdulvs5vagz/TesisDaniel.pdf?rlkey=ucsgjgzo969oe8ecw4ojbg99q&st=yk2hx9cg&dl=0). <br>
-   Co-supervised with Ricardo García Salcedo.
+- **Daniel Barrera Hernández** (2021–2023). <br> 
+  Master in Advanced Technology, CICATA-Legaria, Instituto Politécnico Nacional. <br> 
+  Thesis: *Machine learning for cardiovascular disease diagnosis using electrocardiograms*. <br>
+  Co-supervised with Ricardo García Salcedo.
    	
- -  **Francisco Javier Montaño** (2021-2022). <br> 
-    [Master in Astrophysics.](https://www.dropbox.com/scl/fi/i9227zcvwwu7zg12sukn8/Certificado_direccion_Javier.pdf?rlkey=9q9qjefi3zrgpcktpnru1fdjd&st=i9cd0mxv&dl=0)  <br> 
-    Valencia International University (VIU). <br>
-    Thesis (Spanish version): [*Cosmological analysis with SNeIa and neural networks*](https://www.dropbox.com/scl/fi/8105lxy6r8ihlhymb1vot/TFM_VIU_Javier.pdf?rlkey=wsucsvmyf9lgklo4ho53346w6&st=xhuxkzsp&dl=0) <br>.
-    Co-supervised with Ricardo García Salcedo.
+- **Francisco Javier Montaño** (2021–2022). <br> 
+  Master in Astrophysics, Valencia International University (VIU). <br>
+  Thesis: *Cosmological analysis with SNeIa and neural networks*. <br>
+  Co-supervised with Ricardo García Salcedo.
 
+### Undergraduate Supervision
 
-<!-- 
-#### Ph.D. (0/4)
+- **Esteban Elías Gonzalez Mendez** (2023).<br>
+  Summer undergraduate research stay, ICF-UNAM.<br>
+  Physics Engineering, Universidad Tecnológica de la Mixteca.<br>
+
+### Thesis Committees
   
-  - **Francisco Tamayo** (2022-). <br> 
-    [PhD in Educational Physics.](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0) <br> 
-    CICATA-IPN. <br>
-    Thesis project: [*Educational data mining to analyze academic performance in physics.*](https://www.dropbox.com/scl/fi/yawr5jngj42z6nzzxjx58/CICATALEG741-CONSTANCIA.pdf?rlkey=fycbg8p47rlf6g123mq2jm047&st=nf1gds5k&dl=0) <br>
-    Co-supervised with Ricardo García.
+- **Jazhiel Chacón** (2023–2025). <br> 
+  PhD in Computer Science, Instituto Politécnico Nacional. <br> 
+  Thesis project: *Comparing cosmological structure formation models with deep learning*. <br>
 
-  - **Erika Montero** (2022-). <br> 
-    [PhD in Educational Physics.](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0) <br> 
-    CICATA-IPN. <br>
-    Thesis project: [*Machine Learning to analyze PISA tests in physics.*](https://www.dropbox.com/scl/fi/jnoy5dblj6a6r1kyh47ai/SIP-19BISErika_CT2_firmado.pdf?rlkey=t9edb5cvnsodmea2y37sjl8zq&st=ly7hrwlm&dl=0) <br>
-    Co-supervised with Ricardo García.
+- **Juan de Dios Rojas Olvera** (2024). <br> 
+  Master in Astronomy, Instituto de Astronomía, UNAM. <br> 
+  Thesis: *Optimization of astrophysical and cosmological systems with physics-informed neural networks*. <br>
 
-  - **José Luis López** (2022-). <br> 
-    [PhD in Advanced Technology.](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0) <br> 
-    CICATA-IPN. <br>
-    Thesis project: [*Training athletes with Artificial Intelligence.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=6k0checw&dl=0) <br>
-    Co-supervised with Ricardo García.
-
-  - **Daniel Barrera** (2023-). <br> 
-    [PhD in Advanced Technology.](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0) <br> 
-    CICATA-IPN. <br>
-    Thesis project: [*Deep Learning in medical diagnosis.*](https://www.dropbox.com/scl/fi/hmmnziul6lt008f1j5ekf/sip-19bis-2024_signed-signed.pdf?rlkey=j11xxibbmc9lz63znp05356x0&st=9vz60h80&dl=0) <br>
-    Co-supervised with Ricardo García.
-
---> 
 
 ------------
 ## Workshops
 -------------
 
+Selected workshops and community training activities in machine learning, cosmology, and scientific computing.
+
 - **Organizing Committee of the HPC-ML Workshop**.<br>
-  II-Mini Workshop on HPC in Science and Engineering. <br>
+  II Mini Workshop on HPC in Science and Engineering. <br>
   2023, Instituto de Ciencias Físicas, UNAM. <br>
-  From 16-18 August. <br>
-  20 hours. <br>
   [Link to workshop material](https://www.fis.unam.mx/mini_workshop/).
 
 - **Machine Learning Basics**.<br>
-  2021, 3rd edition of Mexican Astro-Cosmo-Statistics School. <br>
+  2021, 3rd Mexican Astro-Cosmo-Statistics School. <br>
   Universidad de Guanajuato. <br>
-  From June 28 to July 2. <br>
   4.5 hours. <br>
   [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
 - **Cosmology with SimpleMC**. <br>
-  2020 . <br>
+  2020. <br>
   15 hours. <br>
   [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
