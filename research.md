@@ -4,11 +4,10 @@ title: Research
 
 ---
 
-Research focused on the intersection of deep learning, Bayesian inference and astrophysics (exoplanets, stellar activity, cosmology). 
-
+Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
 
 - [Selected publications](#publications)
-- [Research code](#research-software)
+- [Research software](#research-software)
 - [Scientific Service](#scientific-service)
 - [Selected presentations](#selected-presentations)
 
@@ -24,26 +23,25 @@ Selected publications. For a complete publication list, see [HERE](https://igome
 ### Lead and co-lead
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
-**Contribution:** Co-developed the methodological framework and manuscript preparation; developed the [GitHub repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student); corresponding author.
+**Contribution:** Co-lead author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student); corresponding author.
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>, 52, 102240.](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>
-**Contribution:** Co-lead author and corresponding author. Developed the methodology, implementation, and data analysis; developed the [GitHub repository](https://github.com/igomezv/Reconstructing-RC-with-ANN).
+**Contribution:** Co-lead author and corresponding author. Developed the methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/Reconstructing-RC-with-ANN).
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://arxiv.org/abs/2405.03293) <br>
-**Contribution:** Lead author. Developed the inference framework, methodology, and implementation; developed the [GitHub repository](https://github.com/igomezv/nnogada).
+**Contribution:** Lead author. Developed the inference framework, methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
 
 - [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. <i>Physics of the Dark Universe</i>, 46, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
-**Contribution:** Co-lead author and corresponding author. Led the methodological development, implementation, and analysis; developed the [GitHub repository](https://github.com/igomezv/LSST_DE_neural_reconstruction).
+**Contribution:** Co-lead author and corresponding author. Led the methodological development, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/LSST_DE_neural_reconstruction).
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. Developed the methodology, implementation, and analysis; developed the [GitHub repository](https://github.com/igomezv/nnogada).
+**Contribution:** Lead author. Developed the methodology, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
 
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-**Contribution:** Lead author. Developed the reconstruction methodology and implementation; developed the [GitHub repository](https://github.com/igomezv/neuralCosmoReconstruction).
+**Contribution:** Lead author. Developed the reconstruction methodology and implementation; developed the associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction).
 
 - [Chacón, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2023). Analysis of dark matter halo structure formation in N-body simulations with machine learning. Physical Review D. 107(12), 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>
-**Contribution:** Co-developed the methodological framework, implementation, and analysis; supervised the first author (PhD student).
-
+**Contribution:** Co-lead author. Co-developed the methodological framework, implementation, and analysis; supervised the first author (PhD student).
 
 ### Collaborations
 
@@ -51,11 +49,10 @@ Selected publications. For a complete publication list, see [HERE](https://igome
 **Contribution:** Contributed to the sections on reconstruction techniques and bioinspired algorithms for model selection, including material related to neural-network reconstruction.
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A. C., Latham, D. W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>
-**Contribution:** Contributed to manuscript review and methodological discussion of the neural-network approach for exoplanet detection.
+**Contribution:** Contributed to manuscript review and methodological discussion of neural-network approaches for exoplanet detection.
 
 - [Tamayo, D., Urquilla, E., & **Gómez-Vargas, I.** (2025). Equivalence of dark energy models: A theoretical and Bayesian perspective. <i>Physics of the Dark Universe</i>, 48, 101901.](https://doi.org/10.1016/j.dark.2025.101901) <br>
 **Contribution:** Corresponding author. Led the Bayesian statistical analysis and contributed to manuscript preparation and scientific review.
-
 
 -----
 ## Research software
@@ -63,7 +60,6 @@ Selected publications. For a complete publication list, see [HERE](https://igome
 ---
 
 Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv).
-
 
 ### SimpleMC
 
@@ -91,7 +87,6 @@ Additional projects and software repositories are available on my [GitHub profil
 
 - Library GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
-- Related publication: [Physical Review D paper.](https://arxiv.org/abs/2209.02685)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
 
@@ -113,7 +108,6 @@ Additional projects and software repositories are available on my [GitHub profil
 
 - Library GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 - Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
-- Related publication: [Physical Review D paper.](https://arxiv.org/abs/2405.03293)
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
 
@@ -134,14 +128,11 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 - [In progress] Unified library reproducing previous reconstruction analyses: [igomezv/alp](https://github.com/igomezv/alp)
 
-- Rotation-curve reconstruction with Monte Carlo Dropout and genetic-algorithm hyperparameter optimization using `nnogada`: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
-  Related publication: [Physics of the Dark Universe paper.](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
+- Rotation-curve reconstruction with Monte Carlo Dropout and genetic-algorithm hyperparameter optimization using `nnogada`: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)
 
-- Dark-energy reconstruction from LSST simulated SNe Ia data using Monte Carlo Dropout and genetic-algorithm optimization with `nnogada`: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
-  Related publication: [Physics of the Dark Universe paper.](https://www.sciencedirect.com/science/article/pii/S2212686424002887)
+- Dark-energy reconstruction from LSST simulated SNe Ia data using Monte Carlo Dropout and genetic-algorithm optimization with `nnogada`: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)
 
-- Reconstruction of cosmological observables with Monte Carlo Dropout and grid-based hyperparameter optimization: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)  
-  Related publication: [European Physical Journal C paper.](https://doi.org/10.1140/epjc/s10052-023-11435-9)
+- Reconstruction of cosmological observables with Monte Carlo Dropout and grid-based hyperparameter optimization: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)
 
 ---
 
@@ -153,11 +144,9 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 **Links**
 
-- Library repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)  
-- Related publication: [Physical Review D paper.](https://arxiv.org/abs/2507.18054)
+- Library repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
-
 
 -----
 
@@ -167,22 +156,21 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 ### Journal peer review
 
-- [Physical Review D](https://journals.aps.org/prd/).
-- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34).
-- [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516).
-- [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe).
-- [European Physical Journal C](https://link.springer.com/journal/10052). 
-- [Indian Journal of Physics](https://link.springer.com/journal/12648).
-- [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx).
-- [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full).
+- [Physical Review D](https://journals.aps.org/prd/)
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34)
+- [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516)
+- [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe)
+- [European Physical Journal C](https://link.springer.com/journal/10052)
+- [Indian Journal of Physics](https://link.springer.com/journal/12648)
+- [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx)
+- [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)
 
 ### Editorial and evaluation activities
 
-- Reviewer for CRC Press (2025).
-- External evaluator for the *Internal Research Grants Programme*, University of Malta (2025).
-- Reviewer for CONACYT postdoctoral grants (2023).
-- Reviewer for COMIA 2026.
-
+- Reviewer for CRC Press (2025)
+- External evaluator for the *Internal Research Grants Programme*, University of Malta (2025)
+- Reviewer for CONACYT postdoctoral grants (2023)
+- Reviewer for COMIA 2026
 
 -----
 ## Selected presentations
@@ -208,5 +196,3 @@ Complete list: [Full presentations](https://igomezv.github.io/full_presentations
 	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
 
 	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
-
-
