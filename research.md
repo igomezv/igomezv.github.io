@@ -127,11 +127,8 @@ Collection of Python implementations for model-independent reconstruction of cos
 **Repositories**
 
 - Unified library reproducing previous reconstruction analyses `astro-layer perceptron`: [igomezv/alp](https://github.com/igomezv/alp)
-
 - Rotation-curve reconstruction with Monte Carlo Dropout and genetic-algorithm hyperparameter optimization using `nnogada`: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)
-
 - Dark-energy reconstruction from LSST simulated SNe Ia data using Monte Carlo Dropout and genetic-algorithm optimization with `nnogada`: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)
-
 - Reconstruction of cosmological observables with Monte Carlo Dropout and grid-based hyperparameter optimization: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)
 
 ---
@@ -150,7 +147,7 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 -----
 
-## Scientific Service
+## Scientific service
 
 -----
 
