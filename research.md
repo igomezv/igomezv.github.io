@@ -45,7 +45,7 @@ Selected publications. For a complete publication list, see [HERE](https://igome
 **Contribution:** Co-developed the methodological framework, implementation, and analysis; supervised the first author (PhD student).
 
 
-### Collaborative
+### Collaborations
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to the sections on reconstruction techniques and bioinspired algorithms for model selection, including material related to neural-network reconstruction.
@@ -61,6 +61,9 @@ Selected publications. For a complete publication list, see [HERE](https://igome
 ## Research software
 
 ---
+
+Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv).
+
 
 ### SimpleMC
 
@@ -185,7 +188,9 @@ Collection of Python implementations for model-independent reconstruction of cos
 ## Selected presentations
 -----
 
-For full list of presentations [HERE](https://igomezv.github.io/full_presentations/)
+Selected invited talks, conference presentations, and seminars.
+
+Complete list: [Full presentations](https://igomezv.github.io/full_presentations/).
 
 - **2026**
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
@@ -204,8 +209,4 @@ For full list of presentations [HERE](https://igomezv.github.io/full_presentatio
 
 	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
 
-- **2023**
-	- [Poster] *Neural networks in cosmological data analysis*, CosmoVerse Meeting: *Addressing observational tensions in cosmology with systematics and fundamental physics*, Faculdade de Ciências da Universidade de Lisboa, Portugal. [On-site].
 
-- **2022**
-	- [Poster] *Neural networks in cosmological data analysis*, 25th International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro, Brazil. [On-site].
