@@ -174,7 +174,7 @@ Collection of Python implementations for model-independent reconstruction of cos
 -----
 
 Selected invited talks, conference presentations, and seminars.
-Complete list: [<u>Full presentations</u>](https://igomezv.github.io/full_presentations/).
+Complete list: [<u>HERE</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
