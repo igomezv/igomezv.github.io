@@ -137,7 +137,7 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 **Variational autoencoders for generative modeling of cosmological N-body simulations.**
 
-`NCosmoVAE` is a variational autoencoder framework trained on cosmological N-body simulations to generate realistic dark matter halo realizations. The project incorporates hyperparameter optimization using genetic algorithms and the `optuna` Python library.
+`NCosmoVAE` is a variational autoencoder framework trained on cosmological N-body simulations to generate realistic dark matter halo realizations. The project incorporates hyperparameter optimization using genetic algorithms with the `optuna` Python library.
 
 **Links**
 
