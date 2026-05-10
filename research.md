@@ -45,7 +45,7 @@ Selected publications. For a complete publication list, see [HERE](https://igome
 **Contribution:** Co-developed the methodological framework, implementation, and analysis; supervised the first author (PhD student).
 
 
-### Collaborative publications
+### Collaborative
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to the sections on reconstruction techniques and bioinspired algorithms for model selection, including material related to neural-network reconstruction.
