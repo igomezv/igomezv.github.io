@@ -6,8 +6,6 @@ title: Research
 
 Research focused on the intersection of deep learning, Bayesian inference and astrophysics (exoplanets, stellar activity, cosmology). 
 
-| [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | [<u>GitHub</u>](https://github.com/igomezv) |
-<br>
 
 - [Selected publications](#publications)
 - [Research code](#research-software)
@@ -18,8 +16,13 @@ Research focused on the intersection of deep learning, Bayesian inference and as
 
 ## Publications
 
+Selected publications. For full list of papers [HERE](https://igomezv.github.io/full_papers/) or in the following links:
 
-### Selected lead and co-lead publications
+| [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCiD</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiV</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) | 
+<br>
+
+
+### Lead and co-lead
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
 **Contribution:** Co-developed the methodological framework and manuscript preparation; developed the [GitHub repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student); corresponding author.
@@ -42,7 +45,8 @@ Research focused on the intersection of deep learning, Bayesian inference and as
 - [Chacón, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2023). Analysis of dark matter halo structure formation in N-body simulations with machine learning. Physical Review D. 107(12), 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>
 **Contribution:** Co-developed the methodological framework, implementation, and analysis; supervised the first author (PhD student).
 
-### Selected collaborative publications
+
+### Collaborative publications
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to the sections on reconstruction techniques and bioinspired algorithms for model selection, including material related to neural-network reconstruction.
@@ -181,6 +185,8 @@ Collection of Python implementations for model-independent reconstruction of cos
 -----
 ## Selected presentations
 -----
+
+For full list of presentations [HERE](https://igomezv.github.io/full_presentations/)
 
 - **2026**
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
