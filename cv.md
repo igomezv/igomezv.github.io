@@ -7,7 +7,7 @@ title: CV
 
 Short academic CV. For publications, software, and presentations, see the <a href="/research/">Research</a> section.
 
-<a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download>Download PDF</a>.
+<a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download><u>Download PDF</u></a>.
 
 - [Research Positions](#research-positions)
 - [Awards, Grants and Memberships](#awards-grants-and-memberships)
