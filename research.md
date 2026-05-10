@@ -15,7 +15,7 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 ## Publications
 
-Selected publications. For a complete publication list, see [<u>HERE</u>](https://igomezv.github.io/full_papers/) or the following profiles:
+Selected publications. For a complete publication list, see [<u>here</u>](https://igomezv.github.io/full_papers/) or the following profiles:
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
@@ -174,7 +174,7 @@ Collection of Python implementations for model-independent reconstruction of cos
 -----
 
 Selected invited talks, conference presentations, and seminars.
-Complete list: [<u>HERE</u>](https://igomezv.github.io/full_presentations/).
+Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
