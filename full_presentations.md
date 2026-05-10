@@ -4,15 +4,6 @@ title: Presentations
 
 ---
 
-
-- [Academic presentations](#academic-presentations)
-
------
-
-
-## Academic presentations
------
-
 - **2026**
 	- [Seminar] *Inferencia Bayesiana y Aprendizaje Automático
 en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
@@ -60,15 +51,6 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 
 - **2019** 
 	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
-	- [Poster] *Estado del arte de la aplicación de las Redes Neuronales Artificiales en Radiología diagnóstica*, XIX International Symposium on Solid State Dosimetry, Zacatecas, México.
 
-- **2018** 
-	- [Talk] *Algoritmos de ciencias de datos para vacíos cósmicos*, Escuela Nacional de Cosmología Guanajuato. Guanajuato, México.
-	- [Poster] *Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-	- [Poster] *Cosmic voids, spatial algorithms and data structures*, IX International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX.
-
-- **2017**
-	- [Talk] *Analisis de datos cosmológicos para el estudio de vacíos cósmicos*, Simposio de Tecnología Avanzada, CDMX. 
-	- [Conference] *La Realidad Aumentada como herramienta didáctica en geometría 3D*, LASERA, CDMX.  -->
 
 
