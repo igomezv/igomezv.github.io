@@ -8,7 +8,7 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 - [Selected publications](#publications)
 - [Research software](#research-software)
-- [Scientific Service](#scientific-service)
+- [Scientific service](#scientific-service)
 - [Selected presentations](#selected-presentations)
 
 -----
@@ -126,7 +126,7 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 **Repositories**
 
-- [In progress] Unified library reproducing previous reconstruction analyses: [igomezv/alp](https://github.com/igomezv/alp)
+- Unified library reproducing previous reconstruction analyses `astro-layer perceptron`: [igomezv/alp](https://github.com/igomezv/alp)
 
 - Rotation-curve reconstruction with Monte Carlo Dropout and genetic-algorithm hyperparameter optimization using `nnogada`: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)
 
