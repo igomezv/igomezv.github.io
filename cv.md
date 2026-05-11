@@ -9,11 +9,11 @@ Short academic CV. For publications, software, and presentations, see the <a hre
 
 <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download><u>Download PDF</u></a>.
 
-- [Research Positions](#research-positions)
-- [Awards, Grants and Memberships](#awards-grants-and-memberships)
-- [Research Stays](#research-stays)
+- [Research positions](#research-positions)
+- [Honors and memberships](#honors-and-memberships)
+- [Research stays](#research-stays)
 - [Education](#education)
-- [Observational Experience](#observational-experience)
+- [Observational experience](#observational-experience)
 
 
 ----------------------------------
@@ -43,7 +43,7 @@ Short academic CV. For publications, software, and presentations, see the <a hre
   
   
 ---
-# Awards, grants and memberships
+# Honors and memberships
 
 ---
 
