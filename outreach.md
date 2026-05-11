@@ -52,9 +52,7 @@ Development of the MOOC course *Formación docente para la enseñanza de Matemá
 
 In collaboration with UPEV-IPN, Daniel Sánchez Guzmán, Ricardo García Salcedo, and Ricardo Medel Esquivel.
 
-Related links:
-- MOOC <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">website</a>
-- [YouTube playlist](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1)
+Related links: MOOC <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">website</a> | [YouTube playlist](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1) |
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/mooc.png){: .mx-auto.d-block :}
 
@@ -62,9 +60,7 @@ Related links:
 
 Educational augmented reality application developed with Unity-3D, Vuforia, and C# for teaching 3D geometry concepts.
 
-Related links:
-- <a href="https://github.com/igomezv/RAsolidsrev">GitHub repository</a>
-- <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D">Paper </a>.
-- <a href="https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada">Essay</a>.
+Related links: <a href="https://github.com/igomezv/RAsolidsrev">GitHub repository</a> | <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D">Paper</a> |
+
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/RA.png){: .mx-auto.d-block :}
