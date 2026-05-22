@@ -20,7 +20,7 @@ For selected publications, see the [Research page](https://igomezv.github.io/res
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. *Physics of the Dark Universe*, 52, 102240.](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
 
-- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for Evolving Dark Energy from LRG1 and Low-$z$ SNe Ia Data. *European Physical Journal C*, 86, 564.](https://doi.org/10.1140/epjc/s10052-026-15806-w)
+- [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for evolving dark energy from DESI DR2 BAO and Pantheon+, DES-Dovekie, and Union3. *European Physical Journal C*, 86, 564.](https://doi.org/10.1140/epjc/s10052-026-15806-w)
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. *Physics of the Dark Universe*, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X)
 
