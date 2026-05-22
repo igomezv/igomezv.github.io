@@ -4,17 +4,16 @@ title: Papers
 
 ---
 
-- [Papers](#papers)
+Full list of papers. For selected publications, see the [Research page](https://igomezv.github.io/research/).
+
+- [Full papers](#full-research-papers)
 - [Conference papers](#conference-papers)
 - [Outreach and education](#outreach-and-education)
 
 -----
 
 
-## Papers
-
-
-For selected publications, see the [Research page](https://igomezv.github.io/research/).
+## Full-research papers
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. *Physical Review D*, 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff)
 
