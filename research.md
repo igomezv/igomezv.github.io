@@ -63,7 +63,7 @@ Additional projects and software repositories are available on my [GitHub profil
 
 **Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
 
-- Library GitHub repository: [igomezv/SimpleMC](https://github.com/igomezv/doppleriann)
+- Library GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
 
 
 ### SimpleMC
