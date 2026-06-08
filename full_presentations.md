@@ -5,7 +5,7 @@ title: Presentations
 ---
 
 - **2026**
-	- [Talk] *Beyond Harvey-like models: studying the shared residual structure of the stellar background*, INnovative techniques for the study of Magnetic Activity in intermediate mass stars (INMA) - kick-off online meeting. Instituto de Astrofísica de Andalucía (IAA-CSIC). [Online].
+	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INnovative techniques for the study of Magnetic Activity in intermediate mass stars (INMA) - kick-off online meeting. Instituto de Astrofísica de Andalucía (IAA-CSIC). [Online].
 	- [Seminar] *Inferencia Bayesiana y Aprendizaje Automático
 en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
