@@ -6,14 +6,14 @@ title: Research
 
 Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
 
-- [Selected publications](#publications)
-- [Research software](#research-software)
+- [Selected publications](#selected-publications) | [Full list](https://igomezv.github.io/full_papers/)) 
+- [Research software](#research-software)  | [Full code contributions on GitHub](https://github.com/igomezv)
+- [Selected presentations](#selected-presentations) | [Full list](https://igomezv.github.io/full_presentations/)
 - [Scientific service](#scientific-service)
-- [Selected presentations](#selected-presentations)
 
 -----
 
-## Publications
+## Selected publications
 
 Selected publications. For a complete publication list, see [<u>here</u>](https://igomezv.github.io/full_papers/) or the following profiles:
 
@@ -40,10 +40,8 @@ Selected publications. For a complete publication list, see [<u>here</u>](https:
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
 **Contribution:** Lead author. Developed the reconstruction methodology and implementation; developed the associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction).
 
-- [Chacón, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2023). Analysis of dark matter halo structure formation in N-body simulations with machine learning. Physical Review D. 107(12), 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>
-**Contribution:** Co-lead author. Co-developed the methodological framework, implementation, and analysis; supervised the first author (PhD student).
 
-### Collaborations
+### Selected collaborations
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to the sections on reconstruction techniques and bioinspired algorithms for model selection, including material related to neural-network reconstruction.
@@ -55,7 +53,7 @@ Selected publications. For a complete publication list, see [<u>here</u>](https:
 **Contribution:** Corresponding author. Led the Bayesian statistical analysis and contributed to manuscript preparation and scientific review.
 
 -----
-## Research software
+## Selected research software
 
 ---
 
@@ -145,6 +143,26 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 ![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
 
+
+-----
+## Selected presentations
+-----
+
+Selected invited talks, conference presentations, and seminars.
+Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
+
+- **2026**
+	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
+- **2025**
+	- [Conference] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
+	- [Conference] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf) The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6), Porto, Portugal. [On-site].
+	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
+	- [Conference] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
+- **2024**
+	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
+	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
+
+
 -----
 
 ## Scientific service
@@ -168,21 +186,3 @@ Collection of Python implementations for model-independent reconstruction of cos
 - Reviewer for CRC Press (2025).
 - External evaluator for the *Internal Research Grants Programme*, University of Malta (2025).
 - Reviewer for CONACYT postdoctoral grants (2023).
-
------
-## Selected presentations
------
-
-Selected invited talks, conference presentations, and seminars.
-Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
-
-- **2026**
-	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
-- **2025**
-	- [Conference] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
-	- [Conference] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf) The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6), Porto, Portugal. [On-site].
-	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
-	- [Conference] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
-- **2024**
-	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
-	- [Talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
