@@ -53,7 +53,7 @@ Selected publications. For a complete publication list, see [<u>here</u>](https:
 **Contribution:** Corresponding author. Led the Bayesian statistical analysis and contributed to manuscript preparation and scientific review.
 
 -----
-## Selected research software
+## Research software
 
 ---
 
