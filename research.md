@@ -23,7 +23,7 @@ Selected publications. For a complete publication list, see [<u>here</u>](https:
 ### Lead and co-lead
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
-**Contribution:** Co-lead author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student); corresponding author.
+**Contribution:** Co-lead and corresponding author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>, 52, 102240.](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>
 **Contribution:** Co-lead author and corresponding author. Developed the methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/Reconstructing-RC-with-ANN).
@@ -58,6 +58,13 @@ Selected publications. For a complete publication list, see [<u>here</u>](https:
 ---
 
 Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv).
+
+### Doppleriann
+
+**Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
+
+- Library GitHub repository: [ja-vazquez/SimpleMC](https://github.com/igomezv/doppleriann)
+
 
 ### SimpleMC
 
@@ -98,7 +105,7 @@ Additional projects and software repositories are available on my [GitHub profil
 
 ### neuralike
 
-**Surrogate-assisted Bayesian inference for accelerating cosmological likelihood evaluations.**
+**Bayesian inference for accelerating cosmological likelihood evaluations.**
 
 `neuralike` implements deep-learning surrogate models combined with genetic-algorithm optimization to accelerate Bayesian inference workflows in cosmology, particularly for computationally expensive likelihood evaluations within sampling pipelines.
 
@@ -128,20 +135,6 @@ Collection of Python implementations for model-independent reconstruction of cos
 - Galaxy rotation curves: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)
 - LSST supernova simulations: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)
 - Cosmological observables reconstruction: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)
-
----
-
-### NCosmoVAE
-
-**Variational autoencoders for generative modeling of cosmological N-body simulations.**
-
-`NCosmoVAE` is a variational autoencoder framework trained on cosmological N-body simulations to generate realistic dark matter halo realizations. The project incorporates hyperparameter optimization using genetic algorithms with the `optuna` Python library.
-
-**Links**
-
-- Library repository: [igomezv/NcosmoVAE](https://github.com/igomezv/NcosmoVAE)
-
-![Figura](https://igomezv.github.io/assets/img/Nbody.png){: .mx-auto.d-block :}
 
 
 -----
