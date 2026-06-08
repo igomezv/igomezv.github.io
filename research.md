@@ -6,9 +6,9 @@ title: Research
 
 Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
 
-- [Selected publications](#selected-publications) | [Full list](https://igomezv.github.io/full_papers/)) 
-- [Research software](#research-software)  | [Full code contributions on GitHub](https://github.com/igomezv)
-- [Selected presentations](#selected-presentations) | [Full list](https://igomezv.github.io/full_presentations/)
+- | [Selected publications](#selected-publications) | [Full list](https://igomezv.github.io/full_papers/) |
+- | [Research software](#research-software)  | [Full code contributions on GitHub](https://github.com/igomezv) |
+- | [Selected presentations](#selected-presentations) | [Full list](https://igomezv.github.io/full_presentations/) |
 - [Scientific service](#scientific-service)
 
 -----
