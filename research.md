@@ -6,16 +6,16 @@ title: Research
 
 Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
 
-- [Selected publications](#selected-publications) • [Complete list of publications](https://igomezv.github.io/full_papers/)
-- [Research software](#research-software) • [Full list of code contributions](https://github.com/igomezv)
-- [Selected presentations](#selected-presentations) • [Complete list of presentations](https://igomezv.github.io/full_presentations/)
+- [Publications](#selected-publications) · [All publications](https://igomezv.github.io/full_papers/)
+- [Software](#research-software) · [Code contributions](https://github.com/igomezv)
+- [Presentations](#selected-presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
 - [Scientific service](#scientific-service)
 
 -----
 
-## Selected publications
+## Publications
 
-Selected publications. For a complete publication list, see [<u>here</u>](https://igomezv.github.io/full_papers/) or the following profiles:
+**Selected publications**. For a complete publication list, see [<u>here</u>](https://igomezv.github.io/full_papers/) or the following profiles:
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
@@ -53,7 +53,7 @@ Selected publications. For a complete publication list, see [<u>here</u>](https:
 **Contribution:** Corresponding author. Led the Bayesian statistical analysis and contributed to manuscript preparation and scientific review.
 
 -----
-## Research software
+## Software
 
 ---
 
@@ -138,10 +138,10 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 
 -----
-## Selected presentations
+## Presentations
 -----
 
-Selected invited talks, conference presentations, and seminars.
+**Selected invited** talks, conference presentations, and seminars.
 Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
