@@ -178,7 +178,7 @@ Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
 
 ### Editorial and evaluation activities
 
-- Reviewer for COMIA 2026.
+- [Reviewer for COMIA 2026](http://smia.itmorelos.mx/reconocimientos_comia/revisores2026.php?idn=MTEw).
 - Reviewer for CRC Press (2025).
 - External evaluator for the *Internal Research Grants Programme*, University of Malta (2025).
 - Reviewer for CONACYT postdoctoral grants (2023).
