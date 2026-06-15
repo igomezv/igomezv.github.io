@@ -56,7 +56,7 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 **Contribution:** Corresponding author. Led the Bayesian statistical analysis and contributed to manuscript preparation and scientific review.
 
 -----
-## Resarch software
+## Research software
 
 ---
 
