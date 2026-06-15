@@ -24,7 +24,7 @@ Short academic CV. For publications, software, and presentations, see the <a hre
  - **2025–Present. Postdoctoral Research Fellow**.<br> 
   [Instituto de Astrofísica de Andalucía (IAA-CSIC)](https://www.iaa.csic.es/), Granada, Spain. <br>
   Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain. <br>
-  Funded through the **Horizon Europe MSCA-COFUND programme**  
+  Funded through the *Horizon Europe MSCA-COFUND programme*  
   [ALLIES – Artificial inteLLigence In sustainable dEvelopment goalS (Grant Agreement No. 101126626)](https://cordis.europa.eu/project/id/101126626).<br> 
   **Project:** [Generative deep learning for stellar observations and exoplanet detection with PLATO](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/).<br> 
   **Supervisors:** Javier Pascual Granado and Aldo Serenelli.
@@ -51,7 +51,7 @@ Short academic CV. For publications, software, and presentations, see the <a hre
 - [Visiting professor](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) (2023–2026). CICATA, Instituto Politécnico Nacional.<br>
 - [SNI Candidate. Sistema Nacional de Investigadores](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0) (2022–2026).
 - CONACYT National Postdoctoral Grant (2021–2023).
-- Memberships: PoeT WG1 (2026), PlanetS WG B7 (2023–2025), and CosmoVerse WG2 (2024–2025).
+- Memberships: PLATO, PoeT WG1 (2026), PlanetS WG B7 (2023–2025), and CosmoVerse WG2 (2024–2025).
 
 
 ---
