@@ -22,6 +22,9 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 ### Lead and co-lead
 
+- [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection. Accepted in Astronomy & Astrophysics.](https://github.com/igomezv/doppleriann) <br>
+**Contribution:** Lead and corresponding author. Developed the associated [code library](https://github.com/igomezv/doppleriann).
+
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
 **Contribution:** Co-lead and corresponding author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
 
