@@ -15,6 +15,8 @@ Full list of papers. For selected publications, see the [Research page](https://
 
 ## Full-research papers
 
+- [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection. Accepted in Astronomy & Astrophysics.](https://github.com/igomezv/doppleriann) 
+
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. *Physical Review D*, 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff)
 
 - [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. *Physics of the Dark Universe*, 52, 102240.](https://www.sciencedirect.com/science/article/pii/S2212686426000294)
