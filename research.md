@@ -172,6 +172,7 @@ Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
 - [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516)
 - [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe)
 - [European Physical Journal C](https://link.springer.com/journal/10052)
+- [Astronomy and Computing](https://www.sciencedirect.com/journal/astronomy-and-computing)
 - [Indian Journal of Physics](https://link.springer.com/journal/12648)
 - [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx)
 - [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)
