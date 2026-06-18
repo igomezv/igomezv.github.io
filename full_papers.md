@@ -15,7 +15,7 @@ Full list of papers. For selected publications, see the [Research page](https://
 
 ## Full-research papers
 
-- [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in Radial-Velocity Data with Deep Learning toward Earth-mass Exoplanet Detection. Accepted in Astronomy & Astrophysics. arXiv:2606.18464.](https://arxiv.org/abs/2606.18464)
+- [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Accepted in Astronomy & Astrophysics. arXiv:2606.18464.](https://arxiv.org/abs/2606.18464)
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. *Physical Review D*, 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff)
 
