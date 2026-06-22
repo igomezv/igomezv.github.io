@@ -6,9 +6,9 @@ title: Research
 
 Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
 
-- [Publications](#selected-publications) · [All publications](https://igomezv.github.io/full_papers/)
+- [Publications](#publications) · [All publications](https://igomezv.github.io/full_papers/)
 - [Software](#research-software) · [Code contributions](https://github.com/igomezv)
-- [Presentations](#selected-presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
+- [Presentations](#presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
 - [Scientific service](#scientific-service)
 
 -----
@@ -21,6 +21,9 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 <br>
 
 ### Lead and co-lead
+
+- [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Accepted in Astronomy & Astrophysics. arXiv:2606.18464.](https://arxiv.org/abs/2606.18464) <br>
+**Contribution:** Lead and corresponding author. Developed the associated [code library](https://github.com/igomezv/doppleriann).
 
 - [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
 **Contribution:** Co-lead and corresponding author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
@@ -56,7 +59,7 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 **Contribution:** Corresponding author. Led the Bayesian statistical analysis and contributed to manuscript preparation and scientific review.
 
 -----
-## Software
+## Research software
 
 ---
 
@@ -172,6 +175,7 @@ Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
 - [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516)
 - [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe)
 - [European Physical Journal C](https://link.springer.com/journal/10052)
+- [Astronomy and Computing](https://www.sciencedirect.com/journal/astronomy-and-computing)
 - [Indian Journal of Physics](https://link.springer.com/journal/12648)
 - [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx)
 - [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)

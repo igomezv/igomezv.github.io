@@ -13,7 +13,7 @@ title: Outreach
 
 ## Textbooks
 
-- [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020). *Matemáticas III. Serie Travesías*. Ediciones Castillo. ISBN: 978-607-540-522-3.](https://recursos.edicionescastillo.com/secundariaspublicas/visualizador/3_mat_tra/index.html#page/1)  
+- [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020). *Matemáticas III. Serie Travesías*. Ediciones Castillo. ISBN: 978-607-540-522-3.](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224)  
   Mathematics textbook for Mexican high schools, approved by the Secretaría de Educación Pública (SEP) and included in the CONALITEG repository.
 
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
