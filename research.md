@@ -17,7 +17,7 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 **Selected publications**. For a complete publication list, see [<u>here</u>](https://igomezv.github.io/full_papers/) or the following profiles:
 
-| [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
+| [<u>ADS</u>](https://ui.adsabs.harvard.edu/search?q=author:"Gómez-Vargas, Isidro"&sort=date%20desc) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
 
 ### Lead and co-lead
