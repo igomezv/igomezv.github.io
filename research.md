@@ -172,6 +172,7 @@ Complete list: [<u>here</u>](https://igomezv.github.io/full_presentations/).
 
 - [Physical Review D](https://journals.aps.org/prd/)
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34)
+- [Physical Review Letters](https://journals.aps.org/prl/)
 - [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516)
 - [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe)
 - [European Physical Journal C](https://link.springer.com/journal/10052)
