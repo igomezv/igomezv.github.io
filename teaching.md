@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Teaching and Supervision
+title: Teaching and supervision
 ---
 
 - [Courses](#courses)
-- [Student Supervision](#student-supervision)
+- [Student supervision](#student-supervision)
 - [Workshops](#workshops)
 
 
@@ -50,10 +50,10 @@ title: Teaching and Supervision
 
 --------------
 
-## Student Supervision
+## Student supervision
 ------------
 
-### Master Supervision
+### Master supervision
 
 - **Rodrigo Mendez Hernández** (2022–2023). <br> 
   Master in Astrophysics, Universidad de Guanajuato. <br>
@@ -90,7 +90,7 @@ title: Teaching and Supervision
   Thesis: *Cosmological analysis with SNeIa and neural networks*. <br>
   Co-supervised with Ricardo García Salcedo.
 
-### Undergraduate Mentoring
+### Undergraduate mentoring
 
 - **Esteban Elías González Méndez** (2023).<br>
   Summer undergraduate research stay, ICF-UNAM.<br>
@@ -108,7 +108,7 @@ title: Teaching and Supervision
   Co-supervised with José Alberto Vázquez.<br>
   
 
-### Thesis Committees
+### Thesis committees
   
 - **Jazhiel Chacón Lavanderos** (2023–2025). <br> 
   PhD in Computer Science, Instituto Politécnico Nacional. <br> 
