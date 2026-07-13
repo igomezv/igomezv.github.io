@@ -80,7 +80,7 @@ git fetch upstream
 ```
 Una vez hecho lo anterior, se puede actualizar nuestra copia local desde el repositorio original mediante:
 ```
-git pull upstream master
+git pull upstream main
 ```
 
 --------------------------------
@@ -105,7 +105,7 @@ donde la bandera <code>--hard</code> indica que se resetearán los archivos del 
 --------------------------------
 ## Entre las ramas
 
-Las ramas (<code>branch</code>) son muy útiles para mantener ordenado el código y hacer modificaciones bajo propósitos específicos. Por defecto, la rama existente es <code>master</code>. Para ver las ramas existentes:
+Las ramas (<code>branch</code>) son muy útiles para mantener ordenado el código y hacer modificaciones bajo propósitos específicos. Por defecto, la rama existente es <code>main</code>. Para ver las ramas existentes:
 ```
 git branch
 ```
@@ -133,5 +133,4 @@ Similar que con los archivos, para comparar dos ramas:
 ```
 git diff nombre_rama_1..nombre_rama_2
 ```
-
 

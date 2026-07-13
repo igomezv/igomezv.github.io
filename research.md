@@ -100,7 +100,7 @@ Additional projects and software repositories are available on my [GitHub profil
 - Library GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
 
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/nnogada.png){: .mx-auto.d-block :}
 
 **Projects using `nnogada`**
 
@@ -121,7 +121,7 @@ Additional projects and software repositories are available on my [GitHub profil
 - Library GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 - Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
 
 ---
 

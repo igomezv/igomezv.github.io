@@ -41,7 +41,7 @@ Cosmological parameter estimation code originally developed by Dr. A. Slosar and
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
 - Related: [PRD paper with the method.](https://arxiv.org/abs/2209.02685)
 
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/nnogada.png){: .mx-auto.d-block :}
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/nnogada.png){: .mx-auto.d-block :}
 
 **Projects using `nnogada`**
 
@@ -63,7 +63,7 @@ Deep learning and genetic-algorithm techniques designed to **speed up Bayesian i
 - Using `neuralike` within `SimpleMC` using nested sampling from `dynesty`library: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 - Related: [PRD paper with the method.](https://arxiv.org/abs/2405.03293)
 
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/master/assets/img/neuralike.png){: .mx-auto.d-block :}
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
 
 ---
 
