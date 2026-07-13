@@ -1,6 +1,6 @@
-# Isidro GV
+Personal website and academic profile of Isidro Gómez-Vargas.
 
-Personal website and academic profile.
+# Index
 
 ## Main Pages
 
