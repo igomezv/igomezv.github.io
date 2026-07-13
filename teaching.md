@@ -7,7 +7,6 @@ title: Teaching and supervision
 - [Student supervision](#student-supervision)
 - [Workshops](#workshops)
 
-
 ----------
 
 ## Courses
@@ -17,12 +16,6 @@ title: Teaching and supervision
   *Maestría en Ciencias (Astrofísica)*. <br> 
   2024, Universidad de Guanajuato, Mexico. <br> 
   8 hours. <br>
-
-- **Intermediate Data Science.** <br> 
-  *Diplomado en Ciencia de Datos*. <br> 
-  2022, 2023, DGTIC-UNAM. <br> 
-  Specialization course. 30 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DataScienceIntermedio).
 
 - **Evolutionary Computation.** <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
@@ -41,6 +34,12 @@ title: Teaching and supervision
   Postgraduate course (online). 30 hours. <br>
   [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
   
+- **Intermediate Data Science.** <br> 
+  *Diplomado en Ciencia de Datos*. <br> 
+  2022, 2023, DGTIC-UNAM. <br> 
+  Specialization course. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio).
+
 - **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
   2022, Centro de Investigación en Matemáticas (CIMAT), Aguascalientes, Mexico.<br>
   Master in Process Modeling and Optimization. <br> 
