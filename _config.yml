@@ -163,11 +163,11 @@ matomo:
 # in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
 # See more details at https://staticman.net/
 staticman:
- repository : "igomezv/igomezv.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : main # If you're not using the `main` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  repository: "igomezv/igomezv.github.io" # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch: main # If you're not using the `main` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # (optional) URL of your own deployment, with a trailing slash eg. https://<your-api>/v3/entry/github/ (will fallback to a public GitLab instance)
- # reCaptcha:
- #   siteKey  : # Use your own site key, you need to apply for one on Google
+  # reCaptcha:
+  #   siteKey  : # Use your own site key, you need to apply for one on Google
  #   secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
