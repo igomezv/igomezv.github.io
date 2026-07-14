@@ -59,7 +59,7 @@ For the complete list, see [Collaborative](https://igomezv.github.io/full_papers
 
 ---
 
-Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv).
+Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv) or in [Code section](https://igomezv.github.io/code).
 
 ### doppleriann
 
@@ -122,26 +122,6 @@ Additional projects and software repositories are available on my [GitHub profil
 - Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
-
----
-
-### ANN Reconstructions
-
-**Neural-network cosmological reconstructions with uncertainty quantification.**
-
-Collection of Python implementations for model-independent reconstruction of cosmological observables using artificial neural networks, Monte Carlo Dropout uncertainty estimation, and hyperparameter optimization techniques.
-
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
-  <img src="https://igomezv.github.io/assets/img/rec1.png" style="width:48%; height:auto;" />
-  <img src="https://igomezv.github.io/assets/img/rec2.png" style="width:48%; height:auto;" />
-</div>
-
-**Repositories**
-
-- Unified reconstruction library: [igomezv/alp](https://github.com/igomezv/alp)
-- Galaxy rotation curves: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)
-- LSST supernova simulations: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)
-- Cosmological observables reconstruction: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)
 
 
 -----
