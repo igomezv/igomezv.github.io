@@ -15,26 +15,20 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 ## Publications
 
-For a complete publication list, see [All publications](https://igomezv.github.io/full_papers/) or the profiles below:
+For a complete publication list, see [<i>All publications</i>](https://igomezv.github.io/full_papers/) or the profiles below:
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
 
-### Selected Lead-Author and Co-Led Publications
+### Selected Lead-Author Publications
 
-For the complete list, see [Led and co-led](https://igomezv.github.io/full_papers/#led-and-co-led).
+For the complete list, see [<i>Led and co-led</i>](https://igomezv.github.io/full_papers/#led-and-co-led).
 
 - [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Accepted in Astronomy & Astrophysics. arXiv:2606.18464.](https://doi.org/10.1051/0004-6361/202659375) <br>
 **Contribution:** Lead and corresponding author. Developed the associated [code library](https://github.com/igomezv/doppleriann).
 
-- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
-**Contribution:** Co-lead and corresponding author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
-
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
 **Contribution:** Lead author. Developed the inference framework, methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
-
-- [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. <i>Physics of the Dark Universe</i>, 46, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
-**Contribution:** Co-lead author and corresponding author. Led the methodological development, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/LSST_DE_neural_reconstruction).
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
 **Contribution:** Lead author. Developed the methodology, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
@@ -45,7 +39,7 @@ For the complete list, see [Led and co-led](https://igomezv.github.io/full_paper
 
 ### Selected Collaborative Publications
 
-For the complete list, see [Collaborative](https://igomezv.github.io/full_papers/#collaborative).
+For the complete list, see [<i>Collaborative</i>](https://igomezv.github.io/full_papers/#collaborative).
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64.
@@ -59,7 +53,7 @@ For the complete list, see [Collaborative](https://igomezv.github.io/full_papers
 
 ---
 
-Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv) or in [Code section](https://igomezv.github.io/code).
+Additional projects and software repositories are available on my [<i>GitHub profile</i>](https://github.com/igomezv) or in [<i>Code section</i>](https://igomezv.github.io/code).
 
 ### doppleriann
 
