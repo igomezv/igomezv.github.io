@@ -40,9 +40,7 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 	- [Seminar] *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato. [Online].
 	- [Seminar] *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos. [Online].
 
-
 - **2020** 
-
 	- [Poster] *Neural network training within a Bayesian inference framework*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
 	- [Poster] *The inverse problem of a dynamical system solved with genetic algorithms*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
 	- [Poster] *Data Mining applied to interventional cardiology procedures*, X International Congress of Physics Engineering, UAM-Azcapotzalco, CDMX. [Online].
