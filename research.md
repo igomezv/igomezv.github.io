@@ -15,14 +15,14 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 ## Publications
 
-For a complete publication list, see [<i>All publications</i>](https://igomezv.github.io/full_papers/) or the profiles below:
+For a complete publication list, see [<u>All publications</u>](https://igomezv.github.io/full_papers/) or the profiles below:
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
 
 ### Selected Lead-Author Publications
 
-For the complete list, see [<i>Led and co-led</i>](https://igomezv.github.io/full_papers/#led-and-co-led).
+For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/full_papers/#led-and-co-led).
 
 - [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Accepted in Astronomy & Astrophysics. arXiv:2606.18464.](https://doi.org/10.1051/0004-6361/202659375) <br>
 **Contribution:** Lead and corresponding author. Developed the associated [code library](https://github.com/igomezv/doppleriann).
@@ -39,7 +39,7 @@ For the complete list, see [<i>Led and co-led</i>](https://igomezv.github.io/ful
 
 ### Selected Collaborative Publications
 
-For the complete list, see [<i>Collaborative</i>](https://igomezv.github.io/full_papers/#collaborative).
+For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full_papers/#collaborative).
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64.
@@ -53,7 +53,7 @@ For the complete list, see [<i>Collaborative</i>](https://igomezv.github.io/full
 
 ---
 
-Additional projects and software repositories are available on my [<i>GitHub profile</i>](https://github.com/igomezv) or in [<i>Code section</i>](https://igomezv.github.io/code).
+Additional projects and software repositories are available on my [<u>GitHub profile</u>](https://github.com/igomezv) or in [<u>Code section</u>](https://igomezv.github.io/code).
 
 ### doppleriann
 
