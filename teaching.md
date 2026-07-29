@@ -17,13 +17,13 @@ title: Teaching and supervision
   2024, Universidad de Guanajuato, Mexico. <br> 
   8 hours. <br>
 
-- **Evolutionary Computation.** <br>
+- [**Evolutionary Computation.**](https://www.dropbox.com/scl/fi/gqcy1dymdm2ipojceitzw/curso_evol_dgtic_23.pdf?rlkey=cu1nb9zv2ja5y9lhs3lxa2ksk&st=j037qckv&dl=0) <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
   Specialization course. 20 hours. <br>
   [Link to course material](https://github.com/igomezv/ComputoEvolutivo).
 
-- **Probabilistic Reasoning.** <br>
+- [**Probabilistic Reasoning.**](https://www.dropbox.com/scl/fi/96a3auajwtmw37jnl6bly/curso_proba_dgtic_23.pdf?rlkey=w4oqtuahpdldcy58iba8a7ztv&st=rybqsi0n&dl=0) <br>
   *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
   2023, DGTIC-UNAM. <br>
   Specialization course. 10 hours. <br>
@@ -34,7 +34,7 @@ title: Teaching and supervision
   Postgraduate course (online). 30 hours. <br>
   [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
   
-- **Intermediate Data Science.** <br> 
+- [**Intermediate Data Science.**](https://www.dropbox.com/scl/fi/p89n9sgpty2qdceejzfpo/curso_DS_dgtic_23.pdf?rlkey=s28v7652hehwrnbrclb1hkii2&st=q4pyw6yr&dl=0) <br> 
   *Diplomado en Ciencia de Datos*. <br> 
   2022, 2023, DGTIC-UNAM. <br> 
   Specialization course. 30 hours. <br> 
@@ -124,17 +124,17 @@ title: Teaching and supervision
 
 Workshops and community training activities in machine learning, and scientific computing.
 
-- **Organizing Committee of the HPC-ML Workshop**.<br>
+- [**Organizing Committee of the HPC-ML Workshop**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0).<br>
   II Mini Workshop on HPC in Science and Engineering. <br>
   2023, Instituto de Ciencias Físicas, UNAM. <br>
   [Link to workshop material](https://www.fis.unam.mx/mini_workshop/).
 
-- **Machine Learning Basics**.<br>
+- [**Machine Learning Basics**](https://www.dropbox.com/scl/fi/cx09asz355xy0jn8am89w/curso_workshop_ML.pdf?rlkey=zdtkkt3b942ha19vgjnyjtmdo&st=gvkwa9eq&dl=0).<br>
   2021, 3rd Mexican Astro-Cosmo-Statistics School. <br>
   Universidad de Guanajuato. <br>
   4.5 hours. <br>
   [Link to workshop material](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
-- **Cosmology with SimpleMC**. <br>
+- [**Cosmology with SimpleMC**](https://www.dropbox.com/scl/fi/1klpfsrfw6vwo41ts3p4h/curso_worksho_simplemc_2020.pdf?rlkey=6ok6ygkgineza0r6p9aswy29s&st=wzbak0z6&dl=0). <br>
   2020, 15 hours. <br>
   [Link to workshop material](https://github.com/igomezv/simplemc_workshop).
