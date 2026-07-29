@@ -5,7 +5,7 @@ title: Presentations
 ---
 
 - **2026**
-	- [Poster] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://conferences.au.dk/tasc10-kasc17) TASC10/KASC17, Aarhus University. [Hybrid].
+	- [Poster] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://doi.org/10.5281/zenodo.21281645) TASC10/KASC17, Aarhus University. [Hybrid].
 	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INnovative techniques for the study of Magnetic Activity in intermediate mass stars (INMA) - kick-off online meeting. Instituto de Astrofísica de Andalucía (IAA-CSIC). [Online].
 	- [Seminar] *Inferencia Bayesiana y Aprendizaje Automático
 en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
