@@ -7,7 +7,7 @@ title: Research
 Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
 
 - [Publications](#publications) · [All publications](https://igomezv.github.io/full_papers/)
-- [Software](#research-software) · [All code contributions](https://igomezv.github.io/code/)
+- [Code](#selected-code) · [All code](https://igomezv.github.io/code/)
 - [Presentations](#presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
 - [Scientific service](#scientific-service)
 
@@ -15,29 +15,23 @@ Research focused on the intersection of deep learning, Bayesian inference, and a
 
 ## Publications
 
-For a complete publication list, see [All publications](https://igomezv.github.io/full_papers/) or the profiles below:
+For a complete publication list, see [<u>All publications</u>](https://igomezv.github.io/full_papers/) or the profiles below:
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
 
-### Selected Lead-Author and Co-Led Publications
+### Selected Lead-Author Publications
 
-For the complete list, see [Led and co-led](https://igomezv.github.io/full_papers/#led-and-co-led).
+For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/full_papers/#led-and-co-led).
 
 - [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Accepted in Astronomy & Astrophysics. arXiv:2606.18464.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. Developed the associated [code library](https://github.com/igomezv/doppleriann).
-
-- [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
-**Contribution:** Co-lead and corresponding author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
+**Contribution:** Lead and corresponding author. Developed the associated [Python library](https://github.com/igomezv/doppleriann).
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-**Contribution:** Lead author. Developed the inference framework, methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
-
-- [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. <i>Physics of the Dark Universe</i>, 46, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
-**Contribution:** Co-lead author and corresponding author. Led the methodological development, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/LSST_DE_neural_reconstruction).
+**Contribution:** Lead author. Developed the inference framework, methodology, implementation, and data analysis; developed the associated [Python  library](https://github.com/igomezv/nnogada).
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. Developed the methodology, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
+**Contribution:** Lead author. Developed the methodology, implementation, and analysis; developed the associated [Python library](https://github.com/igomezv/nnogada).
 
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
 **Contribution:** Lead author. Developed the reconstruction methodology and implementation; developed the associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction).
@@ -45,7 +39,7 @@ For the complete list, see [Led and co-led](https://igomezv.github.io/full_paper
 
 ### Selected Collaborative Publications
 
-For the complete list, see [Collaborative](https://igomezv.github.io/full_papers/#collaborative).
+For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full_papers/#collaborative).
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
 **Contribution:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64.
@@ -55,11 +49,11 @@ For the complete list, see [Collaborative](https://igomezv.github.io/full_papers
 
 
 -----
-## Research software
+## Selected Code
 
 ---
 
-Additional projects and software repositories are available on my [GitHub profile](https://github.com/igomezv) or in [Code section](https://igomezv.github.io/code).
+Additional projects and software repositories are available on my [<u>GitHub profile</u>](https://github.com/igomezv) or in [<u>All code projects</u>](https://igomezv.github.io/code).
 
 ### doppleriann
 
@@ -73,19 +67,6 @@ Additional projects and software repositories are available on my [GitHub profil
 ![Figura](https://igomezv.github.io/assets/img/doppleriann_workflow.png){: .mx-auto.d-block :}
 ![Figura](https://igomezv.github.io/assets/img/doppleriann_periodogram.png){: .mx-auto.d-block :}
 
-### SimpleMC
-
-**Cosmological parameter inference toolkit for Bayesian analysis and statistical sampling.**
-
-`SimpleMC` is a cosmological parameter estimation framework originally developed by Dr. A. Slosar and Dr. J. A. Vázquez. Between **2019 and 2023**, I contributed to the development and maintenance of the codebase, including nested sampling implementations, convergence criteria for Metropolis–Hastings algorithms, post-processing utilities, and additional analysis modules.
-
-**Links**
-
-- Library GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
-- Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
-- Workshop/tutorial: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
-
-![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
 ---
 
@@ -122,6 +103,23 @@ Additional projects and software repositories are available on my [GitHub profil
 - Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
+
+
+---
+
+### SimpleMC
+
+**Cosmological parameter inference toolkit for Bayesian analysis and statistical sampling.**
+
+`SimpleMC` is a cosmological parameter estimation framework originally developed by Dr. A. Slosar and Dr. J. A. Vázquez. Between **2019 and 2023**, I contributed to the development and maintenance of the codebase, including nested sampling implementations, convergence criteria for Metropolis–Hastings algorithms, post-processing utilities, and additional analysis modules.
+
+**Links**
+
+- Library GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
+- Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
+- Workshop/tutorial: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
+
+![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
 
 
 -----

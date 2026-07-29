@@ -31,6 +31,7 @@ Personal website and academic profile of Isidro Gómez-Vargas.
 
 ## Code
 
+- [Doppleriann](https://igomezv.github.io/code/#doppleriann)
 - [SimpleMC](https://igomezv.github.io/code/#simplemc)
 - [nnogada](https://igomezv.github.io/code/#nnogada)
 - [neuralike](https://igomezv.github.io/code/#neuralike)
