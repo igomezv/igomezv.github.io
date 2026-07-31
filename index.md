@@ -30,10 +30,13 @@ I am currently a Postdoctoral Research Fellow funded through the MSCA-COFUND pro
 <a href="https://www.unige.ch/sciences/astro/exoplanets">Department of Astronomy, University of Geneva</a> 
 and at the 
 <a href="https://www.fis.unam.mx">Instituto de Ciencias Físicas, UNAM (ICF-UNAM)</a>.
-
-Open to collaborations.
-
 </p>
+
+<p>
+Open to collaborations. 
+</p>
+
+
 
 
 
