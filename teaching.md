@@ -3,56 +3,16 @@ layout: page
 title: Teaching and supervision
 ---
 
-- [Courses](#courses)
 - [Student supervision](#student-supervision)
+- [Courses](#courses)
 - [Workshops](#workshops)
 
-----------
 
-## Courses
-----------
-
-- **[Research Seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
-  *Maestría en Ciencias (Astrofísica)*. <br> 
-  2024, Universidad de Guanajuato, Mexico. <br> 
-  8 hours. <br>
-
-- [**Evolutionary Computation.**](https://www.dropbox.com/scl/fi/gqcy1dymdm2ipojceitzw/curso_evol_dgtic_23.pdf?rlkey=cu1nb9zv2ja5y9lhs3lxa2ksk&st=j037qckv&dl=0) <br>
-  *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
-  2023, DGTIC-UNAM. <br>
-  Specialization course. 20 hours. <br>
-  [Link to course material](https://github.com/igomezv/ComputoEvolutivo).
-
-- [**Probabilistic Reasoning.**](https://www.dropbox.com/scl/fi/96a3auajwtmw37jnl6bly/curso_proba_dgtic_23.pdf?rlkey=w4oqtuahpdldcy58iba8a7ztv&st=rybqsi0n&dl=0) <br>
-  *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
-  2023, DGTIC-UNAM. <br>
-  Specialization course. 10 hours. <br>
-  [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
-
-- **Computational Tools (Introduction to Machine Learning).** <br>
-  2023, CICATA-Legaria, Instituto Politécnico Nacional. <br>
-  Postgraduate course (online). 30 hours. <br>
-  [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
-  
-- [**Intermediate Data Science.**](https://www.dropbox.com/scl/fi/p89n9sgpty2qdceejzfpo/curso_DS_dgtic_23.pdf?rlkey=s28v7652hehwrnbrclb1hkii2&st=q4pyw6yr&dl=0) <br> 
-  *Diplomado en Ciencia de Datos*. <br> 
-  2022, 2023, DGTIC-UNAM. <br> 
-  Specialization course. 30 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DataScienceIntermedio).
-
-- **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
-  2022, Centro de Investigación en Matemáticas (CIMAT), Aguascalientes, Mexico.<br>
-  Master in Process Modeling and Optimization. <br> 
-  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
-  [Link to course material](https://github.com/igomezv/DLCIMATAGS).
-
-
---------------
-
+------------
 ## Student supervision
 ------------
 
-As a postdoctoral researcher, I am not currently a primary supervisor; however, I am available to co-supervise student projects.
+I am available to co-supervise student projects in machine learning and astrophysics.
 
 
 ### Master supervision
@@ -121,7 +81,47 @@ As a postdoctoral researcher, I am not currently a primary supervisor; however, 
   Thesis: *Optimization of astrophysical and cosmological systems with physics-informed neural networks*. <br>
 
 
-------------
+----------
+
+## Courses
+----------
+
+- **[Research Seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br> 
+  *Maestría en Ciencias (Astrofísica)*. <br> 
+  2024, Universidad de Guanajuato, Mexico. <br> 
+  8 hours. <br>
+
+- [**Evolutionary Computation.**](https://www.dropbox.com/scl/fi/gqcy1dymdm2ipojceitzw/curso_evol_dgtic_23.pdf?rlkey=cu1nb9zv2ja5y9lhs3lxa2ksk&st=j037qckv&dl=0) <br>
+  *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
+  2023, DGTIC-UNAM. <br>
+  Specialization course. 20 hours. <br>
+  [Link to course material](https://github.com/igomezv/ComputoEvolutivo).
+
+- [**Probabilistic Reasoning.**](https://www.dropbox.com/scl/fi/96a3auajwtmw37jnl6bly/curso_proba_dgtic_23.pdf?rlkey=w4oqtuahpdldcy58iba8a7ztv&st=rybqsi0n&dl=0) <br>
+  *Diplomado en Inteligencia Artificial Aplicada*.  <br> 
+  2023, DGTIC-UNAM. <br>
+  Specialization course. 10 hours. <br>
+  [Link to course material](https://github.com/igomezv/RazonamientoProbabilistico).
+
+- **Computational Tools (Introduction to Machine Learning).** <br>
+  2023, CICATA-Legaria, Instituto Politécnico Nacional. <br>
+  Postgraduate course (online). 30 hours. <br>
+  [Link to course material](https://github.com/igomezv/HerramientasComputacionales).
+  
+- [**Intermediate Data Science.**](https://www.dropbox.com/scl/fi/p89n9sgpty2qdceejzfpo/curso_DS_dgtic_23.pdf?rlkey=s28v7652hehwrnbrclb1hkii2&st=q4pyw6yr&dl=0) <br> 
+  *Diplomado en Ciencia de Datos*. <br> 
+  2022, 2023, DGTIC-UNAM. <br> 
+  Specialization course. 30 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DataScienceIntermedio).
+
+- **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br> 
+  2022, Centro de Investigación en Matemáticas (CIMAT), Aguascalientes, Mexico.<br>
+  Master in Process Modeling and Optimization. <br> 
+  Co-teaching with Dra. Liliana Guadarrama Bustos. 45 hours. <br> 
+  [Link to course material](https://github.com/igomezv/DLCIMATAGS).
+
+
+--------------
 ## Workshops 
 -------------
 
