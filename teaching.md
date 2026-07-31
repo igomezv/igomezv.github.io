@@ -52,6 +52,9 @@ title: Teaching and supervision
 ## Student supervision
 ------------
 
+As a postdoctoral researcher, I am not currently a primary supervisor; however, I am available to co-supervise student projects.
+
+
 ### Master supervision
 
 - **Rodrigo Mendez Hernández** (2022–2023). <br> 
