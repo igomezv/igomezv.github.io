@@ -4,7 +4,8 @@ title: Research
 
 ---
 
-Research focused on the intersection of deep learning, Bayesian inference, and astrophysics, with applications to cosmology, exoplanets, and stellar activity.
+My research combines machine learning, Bayesian inference, and astrophysics, with a current focus on modelling stellar activity in radial-velocity and photometric data for exoplanet detection. I welcome collaborations in these areas.
+
 
 - [Publications](#publications) · [All publications](https://igomezv.github.io/full_papers/)
 - [Code](#selected-code) · [All code](https://igomezv.github.io/code/)
