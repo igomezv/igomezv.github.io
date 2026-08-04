@@ -12,7 +12,7 @@ title: Teaching and supervision
 ## Student supervision
 ------------
 
-I am available to co-supervise student projects in machine learning and astrophysics.
+I am available to co-supervise student projects in machine learning and astrophysics. Please email me if interested.
 
 
 ### Master supervision
