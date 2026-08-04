@@ -164,4 +164,4 @@ Complete list, including posters, [<u>here</u>](https://igomezv.github.io/full_p
 
 - **Conference reviewer**: [MICAI 2026](https://micai.org/2026/), [COMIA 2026](http://smia.itmorelos.mx/reconocimientos_comia/revisores2026.php?idn=MTEw).
 - **Book reviewer**: CRC Press (2025).
-- **Grant evaluator:**: [*Internal Research Grants Programme*, University of Malta (2025)](https://www.dropbox.com/scl/fi/efw1yucijonrxu12g69mp/Malta_Reviewer_Certification.pdf?rlkey=vtkbl05zebisyvw1z36u51c7u&st=hhzv4mt8&dl=0), and CONACYT postdoctoral grants (2023).
+- **Grant evaluator**: [*Internal Research Grants Programme*, University of Malta (2025)](https://www.dropbox.com/scl/fi/efw1yucijonrxu12g69mp/Malta_Reviewer_Certification.pdf?rlkey=vtkbl05zebisyvw1z36u51c7u&st=hhzv4mt8&dl=0), and CONACYT postdoctoral grants (2023).
