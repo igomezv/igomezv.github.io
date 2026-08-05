@@ -16,7 +16,7 @@ My research combines machine learning, Bayesian inference, and astrophysics, wit
 
 ## Publications
 
-For a complete publication list, see [<u>All publications</u>](https://igomezv.github.io/full_papers/) or the profiles below:
+For a complete publication list, see [<u>All publications</u>](https://igomezv.github.io/full_papers/).
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
