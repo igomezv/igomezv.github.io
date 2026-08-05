@@ -11,6 +11,11 @@ Complete list of articles.
 - [Conference proceedings](#conference-proceedings)
 - [Outreach, education, and science communication](#outreach-education-and-science-communication)
 
+
+| [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
+<br>
+
+
 -----
 
 ## Research Articles
