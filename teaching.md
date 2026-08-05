@@ -22,16 +22,6 @@ I am available to co-supervise student projects in machine learning and astrophy
   Thesis project: *Entropy estimators and intracluster medium analysis with machine learning*. <br>
   Co-supervised with Cesar Caretta.
 
-- **Raquel Cabezuelo Ortí** (2023). <br> 
-  Master in Astrophysics, Valencia International University (VIU). <br>
-  Thesis: *Dynamical analysis of cosmological models coupled with nonlinear electrodynamics*. <br>
-  Co-supervised with Ricardo García Salcedo.
-
-- **José Luis López López** (2021–2023). <br> 
-  Master in Process Modeling and Optimization, CIMAT Aguascalientes. <br> 
-  Thesis: *Prediction of skateboard tricks in images using neural networks*. <br>
-  Co-supervised with Liliana Guadarrama Bustos.
-
 - **Julen Pastor Rodriguez** (2022–2023). <br> 
   Master in Astrophysics, Valencia International University (VIU). <br>
   Thesis: *Cosmological analysis of supernovae with neural networks*. <br>
@@ -42,11 +32,21 @@ I am available to co-supervise student projects in machine learning and astrophy
   Thesis: *Reconstruction of SNIa distance modulus with Gaussian processes*. <br>
   Co-supervised with Ricardo García Salcedo.
     
+- **José Luis López López** (2021–2023). <br> 
+  Master in Process Modeling and Optimization, CIMAT Aguascalientes. <br> 
+  Thesis: *Prediction of skateboard tricks in images using neural networks*. <br>
+  Co-supervised with Liliana Guadarrama Bustos.
+  
 - **Daniel Barrera Hernández** (2021–2023). <br> 
   Master in Advanced Technology, CICATA-Legaria, Instituto Politécnico Nacional. <br> 
   Thesis: *Machine learning for cardiovascular disease diagnosis using electrocardiograms*. <br>
   Co-supervised with Ricardo García Salcedo.
-   	
+
+- **Raquel Cabezuelo Ortí** (2023). <br> 
+  Master in Astrophysics, Valencia International University (VIU). <br>
+  Thesis: *Dynamical analysis of cosmological models coupled with nonlinear electrodynamics*. <br>
+  Co-supervised with Ricardo García Salcedo.
+  
 - **Francisco Javier Montaño** (2021–2022). <br> 
   Master in Astrophysics, Valencia International University (VIU). <br>
   Thesis: *Cosmological analysis with SNeIa and neural networks*. <br>
