@@ -32,10 +32,6 @@ and at the
 <a href="https://www.fis.unam.mx">Instituto de Ciencias Físicas, UNAM (ICF-UNAM)</a>.
 </p>
 
-<p>
-Open to collaborations. 
-</p>
-
 
 
 
