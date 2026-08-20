@@ -60,7 +60,7 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 
 **Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
 
-`doppleriann` is Python package for modeling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper: [doi.org/10.1051/0004-6361/202659375](https://doi.org/10.1051/0004-6361/202659375).
+`doppleriann` is Python package for modeling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper [Gómez-Vargas, I., et al (2026). A&A, 712, A31.](https://doi.org/10.1051/0004-6361/202659375)
 
 - Library GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
 - Docs: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
