@@ -59,7 +59,7 @@ title: CV
 
 ---
 
-- **2025 (1 week). Visiting researcher**. <br> 
+- **2025 (1 week). Invited researcher**. <br> 
   Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. <br> 
   Deep learning in exoplanet detection. <br>
   Host: Manuel Perger.
