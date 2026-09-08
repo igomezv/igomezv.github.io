@@ -31,7 +31,7 @@ title: CV
  - <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">**2023–2025. Postdoctoral researcher**.</a><br>
    Geneva Observatory, Department of Astronomy, University of Geneva, Switzerland. <br>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.</a><br>
-   Funded through the SNSF project SPECTRE (<a href="https://data.snf.ch/grants/grant/215200">Grant No. 215200</a>; PI: Xavier Dumusque).<br>
+   Position funded through the SNSF project SPECTRE (<a href="https://data.snf.ch/grants/grant/215200">Grant No. 215200</a>; PI: Xavier Dumusque).<br>
    **Project:** Deep learning in exoplanet detection.<br> 
    **Supervisor:** Xavier Dumusque.
 
