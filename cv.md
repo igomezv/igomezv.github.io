@@ -61,7 +61,7 @@ title: CV
 
 - **2025 (1 week). Invited researcher**. <br> 
   Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. <br> 
-  Deep Learning in Exoplanet Detection. <br>
+  *Deep Learning in Exoplanet Detection*. <br>
   Host: Manuel Perger.
 
 - <a href="https://handley-lab.co.uk/group/">**2020 (8 months). Visiting PhD student**.<br>
