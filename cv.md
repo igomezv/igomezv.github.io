@@ -25,20 +25,20 @@ title: CV
   Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain. <br>
   Funded through the *Horizon Europe MSCA-COFUND programme*  
   [ALLIES – Artificial inteLLigence In sustainable dEvelopment goalS (Grant Agreement No. 101126626)](https://cordis.europa.eu/project/id/101126626).<br> 
-  **Project:** [Generative deep learning for stellar observations and exoplanet detection with PLATO](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/).<br> 
+  **Project:** [Machine Learning for Stellar Observations and Exoplanet Detection in Preparation for the PLATO Mission](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/).<br> 
   **Supervisors:** Javier Pascual Granado and Aldo Serenelli.
 
  - <a href="https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/">**2023–2025. Postdoctoral researcher**.</a><br>
    Geneva Observatory, Department of Astronomy, University of Geneva, Switzerland. <br>
    <a href="https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/">NCCR PlanetS, Swiss National Science Foundation.</a><br>
    Position funded through the SNSF project SPECTRE (<a href="https://data.snf.ch/grants/grant/215200">Grant No. 215200</a>; PI: Xavier Dumusque).<br>
-   **Project:** Deep learning in exoplanet detection.<br> 
+   **Project:** Deep Learning for Exoplanet Detection in Radial-Velocity Measurements.<br> 
    **Supervisor:** Xavier Dumusque.
 
 - <a href="https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas">**2021–2023. Postdoctoral researcher**.</a><br>
   Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM), Mexico. <br>
   Funded through the CONACYT National Postdoctoral Grant. <br>
-  **Project:** Statistical and machine learning methods in observational cosmology.<br>
+  **Project:** Statistical and Machine Learning Methods in Observational Cosmology.<br>
   **Supervisor:** José Alberto Vázquez.  
   
   
@@ -61,23 +61,23 @@ title: CV
 
 - **2025 (1 week). Invited researcher**. <br> 
   Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. <br> 
-  Deep learning in exoplanet detection. <br>
+  Deep Learning in Exoplanet Detection. <br>
   Host: Manuel Perger.
 
 - <a href="https://handley-lab.co.uk/group/">**2020 (8 months). Visiting PhD student**.<br>
   Kavli Institute for Cosmology, University of Cambridge, United Kingdom.</a><br> 
-  [*Bayesian inference and reversible nested sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
+  [*Bayesian Inference and Reversible Nested Sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0)<br>
   Remote stay due to the COVID-19 pandemic.<br>
   Host: Will Handley.<br> 
 
 - **2018 (2 months). Visiting PhD student**. <br> 
   Instituto de Ciencias Físicas, UNAM, Mexico. <br> 
-  Algorithms in cosmology. <br>
+  *Algorithms in Cosmology.* <br>
   Host: José Alberto Vázquez.<br> 
 
 - **2018 (2 months). Visiting PhD student**. <br> 
   Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás de Hidalgo, Mexico. <br> 
-  *Cosmological parameter estimation with the Cosmosis code*. <br> 
+  *Cosmological Parameter Estimation with the CosmoSIS Code*. <br> 
   Host: Ulises Nucamendi.
 
 
