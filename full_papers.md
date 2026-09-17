@@ -26,7 +26,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. Developed the associated [code library](https://github.com/igomezv/doppleriann).
+**Contribution:** Lead and corresponding author. I developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, the method recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days under cross-validation, while temperature-based spectral representations improved predictive uncertainty and generalisation to unseen spectra.
 
 </li>
 <li markdown="1">
@@ -44,7 +44,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-**Contribution:** Lead author. Developed the inference framework, methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
+**Contribution:** Lead author. Developed the inference framework, methodology, implementation and data analysis, together with the associated software [neuralike Python  library](https://github.com/igomezv/neuralike).
 
 </li>
 <li markdown="1">
@@ -56,7 +56,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. Developed the methodology, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/nnogada).
+**Contribution:** Lead author. I developed the methodology, implementation and analysis, together with the associated [nnogada framework](https://github.com/igomezv/nnogada). The work demonstrated that genetic algorithms can efficiently optimise neural-network architectures across distinct cosmological tasks, outperforming exhaustive grid-based hyperparameter searches in predictive performance while reducing the architecture-search burden.
 
 </li>
 <li markdown="1">
@@ -74,7 +74,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-**Contribution:** Lead author. Developed the reconstruction methodology and implementation; developed the associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction).
+**Contribution:** Lead author. I developed the reconstruction methodology, implementation and associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced neural-network reconstruction of cosmological observables from sparse datasets with minimal theoretical assumptions and uncertainty assessment, and also explored a variational-autoencoder approach for generating synthetic covariance matrices.
 
 </li>
 <li markdown="1">
