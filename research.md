@@ -35,7 +35,7 @@ For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/ful
 **Contribution:** Lead author. I developed the methodology, implementation and analysis, together with the associated [nnogada framework](https://github.com/igomezv/nnogada). The work demonstrated that genetic algorithms can efficiently optimise neural-network architectures across distinct cosmological tasks, outperforming exhaustive grid-based hyperparameter searches in predictive performance while reducing the architecture-search burden.
 
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-**Contribution:** Lead author. I developed the reconstruction methodology, implementation and associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced neural-network reconstruction of cosmological observables from sparse datasets with minimal theoretical assumptions and uncertainty assessment, and also explored a variational-autoencoder approach for generating synthetic covariance matrices.
+**Contribution:** Lead author. I developed the reconstruction methodology, implementation and associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced model-independent neural reconstruction of cosmological observables for small datasets with Monte Carlo dropout and explored variational autoencoders for synthetic covariance matrices.
 
 
 ### Selected Collaborative Publications
