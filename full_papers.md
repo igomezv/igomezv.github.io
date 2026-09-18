@@ -103,7 +103,7 @@ Complete list of articles.
 <li markdown="1">
 
 [Tamayo, D., Urquilla, E., & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. *Physics of the Dark Universe*, 48, 101901.](https://doi.org/10.1016/j.dark.2025.101901)<br>
-**Contribution:** Contributed to the Bayesian cosmological parameter estimation.
+**Contribution:** Corresponding author. Contributed to the Bayesian cosmological parameter estimation.
 
 </li>
 <li markdown="1">
