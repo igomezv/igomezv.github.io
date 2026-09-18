@@ -44,7 +44,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-**Contribution:** Lead author. Developed the inference framework, methodology, implementation and data analysis, together with the associated software [neuralike Python  library](https://github.com/igomezv/neuralike).
+**Contribution:** Lead and corresponding author. Developed the inference framework, methodology, implementation and data analysis, together with the associated software [neuralike Python  library](https://github.com/igomezv/neuralike).
 
 </li>
 <li markdown="1">
