@@ -91,7 +91,7 @@ Complete list of articles.
 <li markdown="1">
 
 [Chaudhary, H., Capozziello, S., Sharma, V. K., **Gómez-Vargas, I.**, & Mustafa, G. (2026). Evidence for evolving dark energy from DESI DR2 BAO and Pantheon+, DES-Dovekie, and Union3. *European Physical Journal C*, 86, 564.](https://doi.org/10.1140/epjc/s10052-026-15806-w)<br>
-**Contribution:** Contributed to the Bayesian cosmological parameter estimation.
+**Contribution:** Contributed to Bayesian cosmological parameter estimation and to writing the Methods and Datasets sections.
 
 </li>
 <li markdown="1">
@@ -103,7 +103,7 @@ Complete list of articles.
 <li markdown="1">
 
 [Tamayo, D., Urquilla, E., & **Gómez-Vargas, I.** (2025). Equivalence of Dark Energy Models: A Theoretical and Bayesian Perspective. *Physics of the Dark Universe*, 48, 101901.](https://doi.org/10.1016/j.dark.2025.101901)<br>
-**Contribution:** Corresponding author. Contributed to the Bayesian cosmological parameter estimation.
+**Contribution:** Corresponding author. Contributed to Bayesian cosmological parameter estimation and to writing the Methods and Datasets sections.
 
 </li>
 <li markdown="1">
@@ -115,13 +115,13 @@ Complete list of articles.
 <li markdown="1">
 
 [Vázquez, J. A., Tamayo, D., Garcia-Arroyo, G., **Gómez-Vargas, I.**, Quiros, I., & Sen, A. A. (2024). Coupled Multi Scalar Field Dark Energy. *Physical Review D*, 109(2), 023511.](https://link.aps.org/doi/10.1103/PhysRevD.109.023511)<br>
-**Contribution:** Contributed to the Bayesian cosmological parameter estimation.
+**Contribution:** Contributed to Bayesian cosmological parameter estimation and to writing the Methods and Datasets sections.
 
 </li>
 <li markdown="1">
 
 [Garcia-Salcedo, R., **Gómez-Vargas, I.**, Gonzalez, T., Martinez-Badenes, V., & Quiros, I. (2024). Combined studies approach to rule out cosmological models which are based on nonlinear electrodynamics. Universe, 10(9), 353.](https://www.mdpi.com/2218-1997/10/9/353)<br>
-**Contribution:** Contributed to the Bayesian cosmological parameter estimation.
+**Contribution:** Contributed to Bayesian cosmological parameter estimation and to writing the Methods and Datasets sections.
 
 </li>
 </ol>
