@@ -26,13 +26,13 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. I developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, the method recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days under cross-validation, while temperature-based spectral representations improved predictive uncertainty and generalisation to unseen spectra.
+**Contribution:** Lead and corresponding author. Developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, the method recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days under cross-validation, while temperature-based spectral representations improved predictive uncertainty and generalisation to unseen spectra.
 
 </li>
 <li markdown="1">
 
 [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
-**Contribution:** Co-lead and corresponding author. Co-developed the methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
+**Contribution:** Co-lead and corresponding author. Methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
 
 </li>
 <li markdown="1">
@@ -56,7 +56,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. I developed the methodology, implementation and analysis, together with the associated [nnogada framework](https://github.com/igomezv/nnogada). The work demonstrated that genetic algorithms can efficiently optimise neural-network architectures across distinct cosmological tasks, outperforming exhaustive grid-based hyperparameter searches in predictive performance while reducing the architecture-search burden.
+**Contribution:** Lead author. Developed the methodology, implementation and analysis, together with the associated [nnogada framework](https://github.com/igomezv/nnogada). The work demonstrated that genetic algorithms can efficiently optimise neural-network architectures across distinct cosmological tasks, outperforming exhaustive grid-based hyperparameter searches in predictive performance while reducing the architecture-search burden.
 
 </li>
 <li markdown="1">
