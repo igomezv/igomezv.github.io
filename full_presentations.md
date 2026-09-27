@@ -5,6 +5,7 @@ title: Presentations
 ---
 
 - **2026**
+	- [Flash talk/poster] [*Characterizing stellar populations with symbolic and generative machine learning in the PLATO era*, 5th AIHUB Summer School](https://aihub.csic.es/en/summer-school-2026/). La Cristalera, Madrid, Spain. [On-site].
 	- [Poster] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://doi.org/10.5281/zenodo.21281645) TASC10/KASC17, Aarhus University. [Hybrid].
 	- [Poster] [*Linking Fractal Variability to Magnetic Cycles in Sun-like stars*.](https://doi.org/10.5281/zenodo.22343414) TASC10/KASC17, Aarhus University. [Hybrid].
 	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INnovative techniques for the study of Magnetic Activity in intermediate mass stars (INMA) - kick-off online meeting. Instituto de Astrofísica de Andalucía (IAA-CSIC). [Online].
