@@ -26,7 +26,7 @@ Complete list of articles.
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. Developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, our best model was using temperature-based spectral representations, and it recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days, considering its predictive uncertainty and generalisation to unseen spectra.
+**Contribution:** Lead and corresponding author. Developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, our best model uses temperature-based spectral representations, and it recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days, considering its predictive uncertainty and generalisation to unseen spectra.
 
 </li>
 <li markdown="1">
