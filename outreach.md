@@ -5,6 +5,7 @@ title: Outreach
 ---
 
 - [Textbooks](#textbooks)
+- [Editorial activities](#editorial-activities)
 - [Outreach papers](#outreach-papers)
 - [Talks and media](#talks-and-media)
 - [Digital resources](#digital-resources)
@@ -19,6 +20,12 @@ title: Outreach
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
 Additional educational materials, including teacher and student guides associated with this series, are available in the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
+
+------------
+
+## Editorial activities
+
+- **08/2026–present.** Member of the editorial committee (*comité de redacción*) of the [IAA magazine](https://www.iaa.csic.es/revista/), published by the Instituto de Astrofísica de Andalucía (IAA-CSIC), starting with issue no. 79 (August 2026).
 
 ------------
 
