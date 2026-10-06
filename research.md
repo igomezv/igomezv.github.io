@@ -4,7 +4,7 @@ title: Research
 
 ---
 
-My research combines machine learning, Bayesian inference, and astrophysics, with a current focus on modelling stellar activity in radial-velocity and photometric data for exoplanet detection. I welcome collaborations in these areas.
+My current research focuses on modelling stellar activity in radial-velocity and photometric data to support exoplanet detection. I use machine learning and Bayesian inference to develop and assess these methods, building on my earlier work in cosmology. I welcome collaborations in these areas.
 
 
 - [Publications](#publications) · [All publications](https://igomezv.github.io/full_papers/)
@@ -26,16 +26,16 @@ For a complete publication list, see [<u>All publications</u>](https://igomezv.g
 For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/full_papers/#led-and-co-led).
 
 - [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. Developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, our best model uses temperature-based spectral representations, and it recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days, considering its predictive uncertainty and generalisation to unseen spectra.
+**Contribution:** Lead and corresponding author. Developed the deep-learning framework and the associated [doppleriann Python library](https://github.com/igomezv/doppleriann), and conducted the analysis. Using HARPS-N solar spectra with injected planetary signals, the best-performing model used temperature-based spectral representations and recovered signals with amplitudes as low as 25 cm/s over periods of 10–550 days. The study also assessed predictive uncertainty and generalisation to unseen spectra.
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-**Contribution:** Lead and corresponding author. Developed the inference framework, methodology, implementation and data analysis, together with the associated software [neuralike Python  library](https://github.com/igomezv/neuralike).
+**Contribution:** Lead and corresponding author. Developed and implemented the inference framework, conducted the data analysis, and created the associated [neuralike Python library](https://github.com/igomezv/neuralike).
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. Developed the methodology, implementation and analysis, together with the associated [nnogada framework](https://github.com/igomezv/nnogada). The work demonstrated that genetic algorithms can efficiently optimise neural-network architectures across distinct cosmological tasks, outperforming exhaustive grid-based hyperparameter searches in predictive performance while reducing the architecture-search burden.
+**Contribution:** Lead author. Developed and implemented the methodology, conducted the analysis, and created the associated [nnogada framework](https://github.com/igomezv/nnogada). In the tasks studied, genetic-algorithm optimisation improved predictive performance compared with exhaustive grid-based hyperparameter searches and reduced the architecture-search burden.
 
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-**Contribution:** Lead author. Developed the reconstruction methodology, implementation and associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced model-independent neural reconstruction of cosmological observables for small datasets with Monte Carlo dropout and explored variational autoencoders for synthetic covariance matrices.
+**Contribution:** Lead author. Developed and implemented the reconstruction methodology and associated [software](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced model-independent neural reconstructions of cosmological observables from small datasets using Monte Carlo dropout, and explored variational autoencoders for generating synthetic covariance matrices.
 
 
 ### Selected Collaborative Publications
@@ -60,10 +60,10 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 
 **Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
 
-`doppleriann` is Python package for modeling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper [Gómez-Vargas, I., et al (2026). A&A, 712, A31.](https://doi.org/10.1051/0004-6361/202659375)
+`doppleriann` is a Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It implements the framework presented in our paper [Gómez-Vargas et al. (2026). A&A, 712, A31.](https://doi.org/10.1051/0004-6361/202659375)
 
-- Library GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
-- Docs: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
+- GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
+- Documentation: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
 
 ![Figura](https://igomezv.github.io/assets/img/doppleriann_workflow.png){: .mx-auto.d-block :}
 ![Figura](https://igomezv.github.io/assets/img/doppleriann_periodogram.png){: .mx-auto.d-block :}
@@ -73,13 +73,13 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 
 ### nnogada
 
-**Neural networks optimized with genetic algorithms for data-driven inference and reconstruction.**
+**Neural networks optimised with genetic algorithms for data-driven inference and reconstruction.**
 
-`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modeling, reconstruction, and parameter inference in astrophysical and cosmological applications.
+`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modelling, reconstruction, and parameter inference in astrophysical and cosmological applications.
 
 **Links**
 
-- Library GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
+- GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/nnogada.png){: .mx-auto.d-block :}
@@ -94,13 +94,13 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 
 ### neuralike
 
-**Bayesian inference for accelerating cosmological likelihood evaluations.**
+**Deep-learning surrogate models for faster cosmological Bayesian inference.**
 
-`neuralike` implements deep-learning surrogate models combined with genetic-algorithm optimization to accelerate Bayesian inference workflows in cosmology, particularly for computationally expensive likelihood evaluations within sampling pipelines.
+`neuralike` combines deep-learning surrogate models with genetic-algorithm optimisation to accelerate Bayesian inference in cosmology by approximating computationally expensive likelihood evaluations.
 
 **Links**
 
-- Library GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
+- GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 - Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
@@ -116,7 +116,7 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 
 **Links**
 
-- Library GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
+- GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
 - Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
 - Workshop/tutorial: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
 
@@ -127,8 +127,8 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 ## Presentations
 -----
 
-**Selected invited** talks, conference presentations, and seminars.
-Complete list, including posters, [<u>here</u>](https://igomezv.github.io/full_presentations/).
+**Selected** invited talks, conference presentations, and seminars.
+For the complete list, including posters, see [<u>All presentations</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
@@ -161,7 +161,7 @@ Complete list, including posters, [<u>here</u>](https://igomezv.github.io/full_p
 - [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx)
 - [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)
 
-### Review and Evaluation Activities
+### Review and evaluation activities
 
 - **Conference reviewer**: [MICAI 2026](https://micai.org/2026/), [COMIA 2026](http://smia.itmorelos.mx/reconocimientos_comia/revisores2026.php?idn=MTEw).
 - **Book reviewer**: CRC Press (2025).
