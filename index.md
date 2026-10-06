@@ -20,7 +20,7 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidro2mx.jpg" width="180" height="180">
 
 <p>
-I develop computational tools for astrophysics, with applications ranging from cosmology to exoplanet detection. I enjoy writing short stories and Python code.
+I develop machine-learning and Bayesian methods for analysing astronomical data, from cosmology to exoplanet detection. I enjoy writing short stories and Python code.
 </p>
 
 <p>
