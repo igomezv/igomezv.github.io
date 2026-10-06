@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Complete list of articles.
+Complete list of publications.
 
 - [Research articles](#research-articles)
   - [Led and co-led](#led-and-co-led)
@@ -18,69 +18,69 @@ Complete list of articles.
 
 -----
 
-## Research Articles
+## Research articles
 
-### Led and Co-Led
+### Led and co-led
 
 <ol reversed start="10" markdown="1">
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. Developed the deep-learning framework, analysis and associated the associated [doppleriann Python library](https://github.com/igomezv/doppleriann). Using HARPS-N solar spectra with injected planetary signals, our best model uses temperature-based spectral representations, and it recovered planetary signals down to amplitudes of 25 cm/s over periods of 10–550 days, considering its predictive uncertainty and generalisation to unseen spectra.
+**Contribution:** Lead and corresponding author. Developed the deep-learning framework and the associated [doppleriann Python library](https://github.com/igomezv/doppleriann), and conducted the analysis. Using HARPS-N solar spectra with injected planetary signals, the best-performing model used temperature-based spectral representations and recovered signals with amplitudes as low as 25 cm/s over periods of 10–550 days. The study also assessed predictive uncertainty and generalisation to unseen spectra.
 
 </li>
 <li markdown="1">
 
 [Chacón-Lavanderos, J., **Gómez-Vargas, I.**, Menchaca-Mendez, R., & Vázquez, J. A. (2026). Variational autoencoder for generating realistic N-body simulations for dark matter halos. Physical Review D. 113(6), 063520.](https://journals.aps.org/prd/abstract/10.1103/b6lj-rlff) <br>
-**Contribution:** Co-lead and corresponding author. Methodological framework and manuscript preparation; developed the associated [code repository](https://github.com/igomezv/NcosmoVAE); supervised the first author (PhD student).
+**Contribution:** Co-lead and corresponding author. Contributed to the methodological framework and manuscript preparation, developed the associated [software](https://github.com/igomezv/NcosmoVAE), and supervised the first author (PhD student).
 
 </li>
 <li markdown="1">
 
 [Garcia-Arroyo, G., **Gómez-Vargas, I.**, & Vázquez, J. A. (2026). Data-driven modeling of rotation curves with artificial neural networks. <i>Physics of the Dark Universe</i>, 52, 102240.](https://www.sciencedirect.com/science/article/pii/S2212686426000294) <br>
-**Contribution:** Co-lead author and corresponding author. Developed the methodology, implementation, and data analysis; developed the associated [code repository](https://github.com/igomezv/Reconstructing-RC-with-ANN).
+**Contribution:** Co-lead and corresponding author. Developed and implemented the methodology, conducted the data analysis, and created the associated [software](https://github.com/igomezv/Reconstructing-RC-with-ANN).
 
 </li>
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-**Contribution:** Lead and corresponding author. Developed the inference framework, methodology, implementation and data analysis, together with the associated software [neuralike Python  library](https://github.com/igomezv/neuralike).
+**Contribution:** Lead and corresponding author. Developed and implemented the inference framework, conducted the data analysis, and created the associated [neuralike Python library](https://github.com/igomezv/neuralike).
 
 </li>
 <li markdown="1">
 
 [Mitra, A., **Gómez-Vargas, I.**, & Zarikas, V. (2024). Dark energy reconstruction analysis with artificial neural networks: Application on simulated Supernova Ia data from Rubin Observatory. <i>Physics of the Dark Universe</i>, 46, 101706.](https://www.sciencedirect.com/science/article/pii/S2212686424002887) <br>
-**Contribution:** Co-lead author and corresponding author. Led the methodological development, implementation, and analysis; developed the associated [code repository](https://github.com/igomezv/LSST_DE_neural_reconstruction).
+**Contribution:** Co-lead and corresponding author. Led the methodological development, implementation, and analysis, and created the associated [software](https://github.com/igomezv/LSST_DE_neural_reconstruction).
 
 </li>
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. Developed the methodology, implementation and analysis, together with the associated [nnogada framework](https://github.com/igomezv/nnogada). The work demonstrated that genetic algorithms can efficiently optimise neural-network architectures across distinct cosmological tasks, outperforming exhaustive grid-based hyperparameter searches in predictive performance while reducing the architecture-search burden.
+**Contribution:** Lead author. Developed and implemented the methodology, conducted the analysis, and created the associated [nnogada framework](https://github.com/igomezv/nnogada). In the tasks studied, genetic-algorithm optimisation improved predictive performance compared with exhaustive grid-based hyperparameter searches and reduced the architecture-search burden.
 
 </li>
 <li markdown="1">
 
 [Medel Esquivel, R., **Gómez-Vargas, I.**, Morales Sánchez, A. A., García-Salcedo, R., & Vázquez, J. A. (2023). Cosmological parameter estimation with Genetic Algorithms. *Universe*, 10(1), 11.](https://www.mdpi.com/2218-1997/10/1/11)<br>
-**Contribution:** Co-lead author. Writing, conceptual development, and advising the PhD student (first author).
+**Contribution:** Co-lead author. Contributed to manuscript writing and conceptual development, and advised the first author (PhD student).
 
 </li>
 <li markdown="1">
 
 [Chacón, J., **Gómez-Vargas, I.**, Menchaca Mendez, R., & Vázquez, J. A. (2023). Analysis of Dark Matter Halo Structure Formation in N-body Simulations with Machine Learning. *Physical Review D*, 107(12), 123515.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.123515) <br>
-**Contribution:** Co-lead author and corresponding author. Co-led the methodological development, implementation, and analysis.
+**Contribution:** Co-lead and corresponding author. Co-led the methodological development, implementation, and analysis.
 
 </li>
 <li markdown="1">
 
 [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-**Contribution:** Lead author. I developed the reconstruction methodology, implementation and associated [code repository](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced model-independent neural reconstruction of cosmological observables for small datasets with Monte Carlo dropout and explored variational autoencoders for synthetic covariance matrices.
+**Contribution:** Lead author. Developed and implemented the reconstruction methodology and associated [software](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced model-independent neural reconstructions of cosmological observables from small datasets using Monte Carlo dropout, and explored variational autoencoders for generating synthetic covariance matrices.
 
 </li>
 <li markdown="1">
 
 [Rojas Olvera, J. de Dios, **Gómez-Vargas, I.**, & Vázquez, J. A. (2022). Observational Cosmology with Artificial Neural Networks. *Universe*, 8(2), 120.](https://www.mdpi.com/2218-1997/8/2/120) <br>
-**Contribution:** Co-lead author. Writing, conceptual development, and advising the undergraduate student (first author).
+**Contribution:** Co-lead author. Contributed to manuscript writing and conceptual development, and advised the first author (undergraduate student).
 
 </li>
 </ol>
@@ -128,7 +128,7 @@ Complete list of articles.
 
 -----
 
-## Conference Proceedings
+## Conference proceedings
 
 <ol reversed start="5" markdown="1">
 <li markdown="1">
@@ -160,7 +160,7 @@ Complete list of articles.
 
 -----
 
-## Outreach, Education, and Science Communication
+## Outreach, education, and science communication
 
 <ol reversed start="5" markdown="1">
 <li markdown="1">

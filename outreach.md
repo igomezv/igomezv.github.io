@@ -15,17 +15,17 @@ title: Outreach
 ## Textbooks
 
 - [Medel Esquivel, R., García Salcedo, R. & **Gómez Vargas, I.** (2020). *Matemáticas III. Serie Travesías*. Ediciones Castillo. ISBN: 978-607-540-522-3.](https://www.amazon.com.mx/Matem%C3%A1ticas-Ricardo-Garc%C3%ADa-Salcedo-Esquivel/dp/6075405224)  
-  Mathematics textbook for Mexican high schools, approved by the Secretaría de Educación Pública (SEP) and included in the CONALITEG repository.
+  A mathematics textbook for Mexican high schools, approved by the Secretaría de Educación Pública (SEP) and included in the CONALITEG repository.
 
 ![Figura](https://igomezv.github.io/assets/img/mateTravesias.png){: .mx-auto.d-block :}
 
-Additional educational materials, including teacher and student guides associated with this series, are available in the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
+Additional educational materials, including teacher and student guides, can be found on the [ISBN-INDAUTOR website](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=busqueda_menu&amp;id_autor=276376).
 
 ------------
 
 ## Editorial activities
 
-- **08/2026–present.** Member of the editorial committee (*comité de redacción*) of the [IAA magazine](https://www.iaa.csic.es/revista/), published by the Instituto de Astrofísica de Andalucía (IAA-CSIC), starting with issue no. 79 (August 2026).
+- **08/2026–present.** Member of the editorial committee (*comité de redacción*) of the [IAA magazine](https://www.iaa.csic.es/revista/), published by the Instituto de Astrofísica de Andalucía (IAA-CSIC), since issue no. 79 (August 2026).
 
 ------------
 
@@ -53,21 +53,21 @@ Additional educational materials, including teacher and student guides associate
 
 ## Digital resources
 
-### MOOC course
+### MOOC
 
-Development of the MOOC course *Formación docente para la enseñanza de Matemáticas básicas* for the MexicoX platform.
+Contributed to the development of the MOOC *Formación docente para la enseñanza de Matemáticas básicas* for the MexicoX platform.
 
-In collaboration with UPEV-IPN, Daniel Sánchez Guzmán, Ricardo García Salcedo, and Ricardo Medel Esquivel.
+Collaborators: UPEV-IPN, Daniel Sánchez Guzmán, Ricardo García Salcedo, and Ricardo Medel Esquivel.
 
-Related links: MOOC <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">website</a>, [YouTube playlist](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1).
+Resources: <a href="https://mexicox.gob.mx/courses/course-v1:IPN-UPEV+FDEMNS_01+2016/about">Course website</a> and [YouTube playlist](https://www.youtube.com/playlist?list=PLgJ20i9oGSHaglqU9oVdFHcvsGWdmCsG1).
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/mooc.png){: .mx-auto.d-block :}
 
-### Augmented Reality app
+### Augmented reality app
 
-Educational augmented reality application developed with Unity-3D, Vuforia, and C# for teaching 3D geometry concepts.
+An educational augmented reality app for teaching concepts in 3D geometry, developed using Unity-3D, Vuforia, and C#.
 
-Related links: <a href="https://github.com/igomezv/RAsolidsrev">GitHub repository</a>, <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D">paper</a>.
+Resources: <a href="https://github.com/igomezv/RAsolidsrev">GitHub repository</a> and <a href="https://www.academia.edu/38601945/Realidad_Aumentada_como_herramienta_did%C3%A1ctica_en_geometr%C3%ADa_3D">associated paper</a>.
 
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/RA.png){: .mx-auto.d-block :}
