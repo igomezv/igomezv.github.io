@@ -139,6 +139,6 @@ Workshops and community training activities in machine learning and scientific c
   [Workshop materials](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).
 
 - [**Cosmology with SimpleMC**](https://www.dropbox.com/scl/fi/1klpfsrfw6vwo41ts3p4h/curso_worksho_simplemc_2020.pdf?rlkey=6ok6ygkgineza0r6p9aswy29s&st=wzbak0z6&dl=0). <br>
-  2020. Duration: 15 hours. <br>
+  2020\. Duration: 15 hours. <br>
   [Workshop materials](https://github.com/igomezv/simplemc_workshop).
   
