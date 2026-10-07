@@ -3,7 +3,7 @@ layout: page
 title: Isidro Gómez-Vargas
 ---
 
-<div align="center"><code>Computational Astrophysics | Machine Learning | Bayesian Inference</code></div>
+<div align="center"><code>Machine Learning | Bayesian Inference | Astrophysics </code></div>
 
 <!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
@@ -20,13 +20,13 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidro2mx.jpg" width="180" height="180">
 
 <p>
-I am a computational astrophysicist who develops machine-learning and statistical methods for astronomical data. My current research focuses on stellar activity and exoplanet detection.
+Computational astrophysicist who develops machine learning and statistical methods for astronomical data. My current research focuses on stellar activity and exoplanet detection.
 </p>
 
 <p>
-I am a Postdoctoral Research Fellow at
+Postdoctoral Research Fellow at
 <a href="https://www.iaa.csic.es/">IAA-CSIC</a>, through the MSCA-COFUND 
-<a href="https://aihub.csic.es">ALLIES</a> programme, with ICE-CSIC as a joint host. Previously, I held postdoctoral positions at the
+<a href="https://aihub.csic.es">ALLIES</a> programme, with ICE-CSIC as a joint host. Previous postdoctoral positions at the
 <a href="https://www.unige.ch/sciences/astro/exoplanets">University of Geneva</a>
 and
 <a href="https:/www.fis.unam.mx/">UNAM</a>.
