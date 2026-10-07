@@ -26,16 +26,20 @@ For a complete publication list, see [<u>All publications</u>](https://igomezv.g
 For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/full_papers/#led-and-co-led).
 
 - [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-**Contribution:** Lead and corresponding author. Developed the deep-learning framework and the associated [doppleriann Python library](https://github.com/igomezv/doppleriann), and conducted the analysis. Using HARPS-N solar spectra with injected planetary signals, the best-performing model used temperature-based spectral representations and recovered signals with amplitudes as low as 25 cm/s over periods of 10–550 days. The study also assessed predictive uncertainty and generalisation to unseen spectra.
+**My contribution:** Lead and corresponding author. Developed the deep-learning framework and the associated [doppleriann Python library](https://github.com/igomezv/doppleriann), and conducted the analysis. <br>
+**Main contribution to the field:** Using HARPS-N solar spectra with injected planetary signals, the best-performing model recovered signals as small as 25 cm/s at periods of 10–550 days using temperature-based spectral representations. The study also evaluated predictive uncertainty and generalisation to unseen spectra.
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-**Contribution:** Lead and corresponding author. Developed and implemented the inference framework, conducted the data analysis, and created the associated [neuralike Python library](https://github.com/igomezv/neuralike). The framework accelerates cosmological Bayesian inference using neural networks trained on-the-fly during nested sampling, with architectures optimised by genetic algorithms. It was evaluated across dark-energy models and observational datasets.
+**My contribution:** Lead and corresponding author. Developed and implemented the inference framework, conducted the data analysis, and created the associated [neuralike Python library](https://github.com/igomezv/neuralike). <br>
+**Main contribution to the field:** The framework accelerates cosmological Bayesian inference by training neural-network likelihood surrogates on-the-fly during nested sampling, with architectures optimised by genetic algorithms. It was evaluated across dark-energy models and observational datasets.
 
 - [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-**Contribution:** Lead author. Developed and implemented the methodology, conducted the analysis, and created the associated [nnogada framework](https://github.com/igomezv/nnogada). In the tasks studied, genetic-algorithm optimisation improved predictive performance compared with exhaustive grid-based hyperparameter searches and reduced the architecture-search burden.
+**My contribution:** Lead author. Developed and implemented the methodology, conducted the analysis, and created the associated [nnogada framework](https://github.com/igomezv/nnogada). <br>
+**Main contribution to the field:** For the tasks studied, genetic-algorithm optimisation improved predictive performance over exhaustive grid searches while reducing the architecture-search burden.
 
 - [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-**Contribution:** Lead author. Developed and implemented the reconstruction methodology and associated [software](https://github.com/igomezv/neuralCosmoReconstruction). The study introduced model-independent neural reconstructions of cosmological observables from small datasets using Monte Carlo dropout, and explored variational autoencoders for generating synthetic covariance matrices.
+**My contribution:** Lead author. Developed and implemented the reconstruction methodology and created the associated [software](https://github.com/igomezv/neuralCosmoReconstruction). <br>
+**Main contribution to the field:** The study introduced model-independent neural-network reconstructions of cosmological observables from small datasets, using Monte Carlo dropout to estimate uncertainty. It also explored variational autoencoders for generating synthetic covariance matrices.
 
 
 ### Selected Collaborative Publications
@@ -43,10 +47,12 @@ For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/ful
 For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full_papers/#collaborative).
 
 - [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
-**Contribution:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64.
+**My contribution:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64. <br>
+**Main contribution to the field:** The white paper synthesises observational tensions in cosmology, possible systematic effects, proposed new physics, and emerging analysis methods, providing a research roadmap for the coming decade.
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A. C., Latham, D. W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>
-**Contribution:** Contributed to manuscript review and methodological discussion of neural-network approaches for radial-velocity-based exoplanet detection.
+**My contribution:** Reviewed the manuscript and contributed to methodological discussions of neural-network approaches for radial-velocity-based exoplanet detection. <br>
+**Main contribution to the field:** A convolutional neural network models stellar activity from spectral-line profile variations, improving sensitivity to planetary signals. Injection tests reached detection thresholds in semi-amplitude of 0.5 m/s for Alpha Centauri B and Tau Ceti, and 0.2 m/s for HARPS-N solar data.
 
 
 -----
