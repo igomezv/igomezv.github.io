@@ -27,7 +27,7 @@ For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/ful
 
 - [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
 **My contribution:** Lead and corresponding author. Developed the deep-learning framework and the associated [doppleriann Python library](https://github.com/igomezv/doppleriann), and conducted the analysis. <br>
-**Main contribution to the field:** Demonstrated a physically motivated deep-learning approach to recovering weak planetary Doppler signals from real solar spectra. In cross-validation tests on HARPS-N observations with injected signals, the best-performing model recovered amplitudes, phases, and periods for signals with amplitudes down to 25 cm/s and periods of 10–550 days. The study compared temperature- and flux-based spectral representations and assessed predictive uncertainty and generalisation to unseen spectra, supporting progress towards Earth-mass planet detection.
+**Main contribution to the field:** Developed and validated a physically motivated deep-learning framework for recovering and characterising weak planetary Doppler signals from real solar spectra. In cross-validation tests on HARPS-N observations with injected signals, the best-performing model recovered amplitudes, phases, and periods for signals with amplitudes down to 25 cm/s and periods of 10–550 days. The study compared temperature- and flux-based spectral representations and assessed predictive uncertainty and generalisation to unseen spectra, supporting progress towards Earth-mass planet detection.
 
 - [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
 **My contribution:** Lead and corresponding author. Developed and implemented the inference framework, conducted the data analysis, and created the associated [neuralike Python library](https://github.com/igomezv/neuralike). <br>
@@ -52,7 +52,7 @@ For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full
 
 - [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A. C., Latham, D. W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>
 **My contribution:** Reviewed the manuscript and contributed to methodological discussions of neural-network approaches for radial-velocity-based exoplanet detection. <br>
-**Main contribution to the field:** A convolutional neural network models stellar activity from spectral-line profile variations, improving sensitivity to planetary signals. Injection tests reached detection thresholds in semi-amplitude of 0.5 m/s for Alpha Centauri B and Tau Ceti, and 0.2 m/s for HARPS-N solar data.
+**Main contribution to the field:** Demonstrated the use of convolutional neural networks to model stellar activity from spectral-line profile variations, improving sensitivity to weak planetary signals. Applications to Alpha Centauri B, Tau Ceti, and HARPS-N solar observations illustrated the potential of deep learning for activity mitigation in radial-velocity searches.
 
 
 -----
