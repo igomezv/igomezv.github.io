@@ -3,7 +3,7 @@ layout: page
 title: Isidro Gómez-Vargas
 ---
 
-<div align="center"><code>Computational Astrophysics | Machine Learning | Statistical Methods</code></div>
+<div align="center"><code>Computational Astrophysics | Machine Learning | Bayesian Inference</code></div>
 
 <!-- ![Figura](https://igomezv.github.io/assets/img/collage1.png){: .mx-auto.d-block :} -->						
  
