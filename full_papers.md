@@ -133,27 +133,32 @@ Complete list of publications.
 <ol reversed start="5" markdown="1">
 <li markdown="1">
 
-[**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a Bayesian inference framework. *Journal of Physics: Conference Series*, 1723(1), 012022.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta)
+[**Gómez-Vargas, I.**, Esquivel, R. M., García-Salcedo, R., & Vázquez, J. A. (2021). Neural network within a Bayesian inference framework. *Journal of Physics: Conference Series*, 1723(1), 012022.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012022/meta) <br>
+<span class="publication-contributions" markdown="span">**Role:** Lead author. Developed and implemented the method, wrote the manuscript, and presented the work at the conference.</span>
 
 </li>
 <li markdown="1">
 
-[Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. *Journal of Physics: Conference Series*, 1723(1), 012021.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta)
+[Medel-Esquivel, R., **Gómez-Vargas, I.**, Montalvo, T. R., Vázquez, J. A., & García-Salcedo, R. (2021). The inverse problem of a dynamical system solved with genetic algorithms. *Journal of Physics: Conference Series*, 1723(1), 012021.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012021/meta) <br>
+<span class="publication-contributions" markdown="span">**Role:** Contributed to code development, manuscript writing, and manuscript review.</span>
 
 </li>
 <li markdown="1">
 
-[Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. *Journal of Physics: Conference Series*, 1723(1), 012034.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta)
+[Toledo, M. R., Vázquez, E. R., García-Salcedo, R., **Gómez-Vargas, I.**, Uruchurtu, E. S., & Rivera-Montalvo, T. (2021). Data Mining applied to interventional cardiology procedures. *Journal of Physics: Conference Series*, 1723(1), 012034.](https://iopscience.iop.org/article/10.1088/1742-6596/1723/1/012034/meta) <br>
+<span class="publication-contributions" markdown="span">**Role:** Contributed to code development, manuscript writing, and manuscript review, and advised the first author (undergraduate student) on the data-mining analysis.</span>
 
 </li>
 <li markdown="1">
 
-[Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Montalvo, T., & Salcedo, R. G. (2019). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. *Journal of Physics: Conference Series*, 1221(1), 012038.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta)
+[Medel-Esquivel, R., **Gómez-Vargas, I.**, Rivera-Montalvo, T., & Salcedo, R. G. (2019). Cosmological evolution for magnetic universe based in a simple nonlinear electrodynamics. *Journal of Physics: Conference Series*, 1221(1), 012038.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012038/meta) <br>
+<span class="publication-contributions" markdown="span">**Role:** Contributed to critical review of the manuscript and scientific discussions.</span>
 
 </li>
 <li markdown="1">
 
-[**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019). Cosmic voids, spatial algorithms and data structures. *Journal of Physics: Conference Series*, 1221(1), 012031.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta)
+[**Gómez-Vargas, I.**, Medel-Esquivel, R., & García-Salcedo, R. (2019). Cosmic voids, spatial algorithms and data structures. *Journal of Physics: Conference Series*, 1221(1), 012031.](https://iopscience.iop.org/article/10.1088/1742-6596/1221/1/012031/meta) <br>
+<span class="publication-contributions" markdown="span">**Role:** Lead author. Wrote and presented the work.</span>
 
 </li>
 </ol>
@@ -165,27 +170,32 @@ Complete list of publications.
 <ol reversed start="5" markdown="1">
 <li markdown="1">
 
-[Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). *An introduction to Markov chain Monte Carlo*. Boletín de Estadística e Investigación Operativa, 37(1), 47–74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo)
+[Medel Esquivel, R., **Gómez-Vargas, I.**, Vázquez, J. A., & Salcedo, R. G. (2021). *An introduction to Markov chain Monte Carlo*. Boletín de Estadística e Investigación Operativa, 37(1), 47–74.](https://www.researchgate.net/publication/350485874_An_introduction_to_Markov_Chain_Monte_Carlo) <br>
+<span class="publication-contributions" markdown="span">**Role:** Co-developed the associated [IntroMCMC repository](https://github.com/igomezv/IntroMCMC), produced plots, and contributed to manuscript writing and review and scientific discussions.</span>
 
 </li>
 <li markdown="1">
 
-[Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). *A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead*. The Physics Teacher, 59(6), 480–481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA)
+[Medel-Esquivel, R., **Gómez-Vargas, I.**, García-Salcedo, R., & Vázquez, J. A. (2021). *A Simple Estimation of the Size of Carbon Atoms Using a Pencil Lead*. The Physics Teacher, 59(6), 480–481.](https://aapt.scitation.org/doi/full/10.1119/10.0006135?casa_token=BE9FYdTwF0MAAAAA%3AddmWH4-Q-HSKcmdfN0XpYaVOf3mrE2asvvt_d-NRiEMuaktvW1dlQ8LC0IHnllappZWfCfwS7g45YA) <br>
+<span class="publication-contributions" markdown="span">**Role:** Contributed to manuscript review and scientific discussions, and supported the experimental design.</span>
 
 </li>
 <li markdown="1">
 
-[**Gómez-Vargas, I.**, Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. (2019). *Una aplicación de las redes neuronales en la cosmología*. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial.](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia)
+[**Gómez-Vargas, I.**, Medel-Esquivel, R., Vázquez, J. A., & García-Salcedo, R. (2019). *Una aplicación de las redes neuronales en la cosmología*. Komputer Sapiens, outreach journal of the Sociedad Mexicana de Inteligencia Artificial.](https://www.researchgate.net/publication/339617226_Una_Aplicacion_de_las_Redes_Neuronales_Artificiales_en_la_Cosmologia) <br>
+<span class="publication-contributions" markdown="span">**Role:** Lead and corresponding author. Developed the content and wrote the manuscript.</span>
 
 </li>
 <li markdown="1">
 
-[**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469)
+[**Gómez-Vargas, I.**, Medel Esquivel, R. M., & García-Salcedo, R. (2018). Realidad Aumentada como herramienta didáctica en geometría 3D. Latin-American Journal of Physics Education, 12(4), 3.](https://dialnet.unirioja.es/servlet/articulo?codigo=6960469) <br>
+<span class="publication-contributions" markdown="span">**Role:** Lead author. Developed and implemented the augmented-reality application, available in the [RAsolidsrev repository](https://github.com/igomezv/RAsolidsrev), and wrote the manuscript.</span>
 
 </li>
 <li markdown="1">
 
-[**Gómez Vargas, Isidro** (2017). Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada)
+[**Gómez Vargas, Isidro** (2017). Posibilidad didáctica de la Realidad Aumentada. Sólo ensayo. Antología de jóvenes escritores Volumen II.](https://www.academia.edu/35480477/Posibilidad_did%C3%A1ctica_de_la_Realidad_Aumentada) <br>
+<span class="publication-contributions" markdown="span">**Award:** [Second place, postgraduate category, Premio de Ensayo Innovación Educativa 2016](https://www.cronica.com.mx/notas-politecnico_entrega_premios_de_ensayo_a_la_innovacion_educativa-999820-2016.html), Instituto Politécnico Nacional.</span>
 
 </li>
 </ol>
