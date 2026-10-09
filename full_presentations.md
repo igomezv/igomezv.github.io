@@ -9,22 +9,22 @@ title: Presentations
 	- [Poster] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://doi.org/10.5281/zenodo.21281645) TASC10/KASC17, Aarhus University. [Hybrid].
 	- [Poster] [*Linking Fractal Variability to Magnetic Cycles in Sun-like stars*.](https://doi.org/10.5281/zenodo.22343414) TASC10/KASC17, Aarhus University. [Hybrid].
 	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC). Meeting chair. [Hybrid].
-	- [Seminar] *Inferencia Bayesiana y Aprendizaje Automático
+	- [Invited seminar] *Inferencia Bayesiana y Aprendizaje Automático
 en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
 	
 - **2025**
-	- [Conference] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
-	- [Conference] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
+	- [Invited talk] [*Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://pacif-ics.com/international-conference-on-gravitation-cosmology-astrophysics-and-space-sciences-icgcas-2025/) ICGCAS-2025, PICS, Odisha, India. [Online].
+	- [Talk] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
 	- [Poster] [*SpeckleNet: a large-scale PSF subtraction deep learning model for exoplanetdetection and characterization in high contrast imaging*](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
-	- [Conference] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf). The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6).  Porto, Portugal. [On-site].
-	- [Seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
-	- [Seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
+	- [Talk] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf). The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6).  Porto, Portugal. [On-site].
+	- [Invited seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
+	- [Invited seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
 
 - **2024**
 	- [Flash talk/poster] [*Deep Learning strategies to planet detection using HARPS-N stellar spectra*, Junior Research Assembly (JURA) V](https://nccr-planets.ch/junior-researchers-assembly-jura-v-2024/). PlanetS, Murten, Switzerland. [On-site].
-	- [Seminar] *Aprendizaje automático en la inferencia estadística de datos cosmológicos*, Seminario de Cosmología y Astrofísica Relativista. Physics department, CINVESTAV. [Online].
-	- [Talk] [*Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering](https://www.fis.unam.mx/mini_workshopIII/), ICF-UNAM, Cuernavaca, Morelos, México. [Online].
+	- [Invited seminar] *Aprendizaje automático en la inferencia estadística de datos cosmológicos*, Seminario de Cosmología y Astrofísica Relativista. Physics department, CINVESTAV. [Online].
+	- [Invited talk] [*Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering](https://www.fis.unam.mx/mini_workshopIII/), ICF-UNAM, Cuernavaca, Morelos, México. [Online].
 	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland. [On-site]
 
 - **2023** 
@@ -33,13 +33,13 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 
 - **2022** 
 	- [Poster] *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo. [On-site].
-	- [Conference] *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo. [On-site].
+	- [Invited talk] *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo. [On-site].
 	- [Poster] *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México. [On-site].
 	- [Poster] [*Neural networks in cosmological data analysis*](https://indico.cern.ch/event/886404/contributions/4930376/), 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil. [On-site].
 
 - **2021** 
 	- [Talk] *SimpleMC y redes neuronales para modelos de energía oscura*, COSMO Meeting III, ICF-UNAM, Cuernavaca, Morelos. [On-site].
-	- [Seminar] *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato. [Online].
+	- [Invited seminar] *Inferencia Bayesiana y redes neuronales para modelos de energía oscura*, Seminario de Teorías de Gravedad y Señales Observacionales, Universidad de Guanajuato. [Online].
 	- [Seminar] *Redes Neuronales: aplicaciones estadísticas en Cosmología Observacional*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas, ICF-UNAM, Cuernavaca, Morelos. [Online].
 
 - **2020** 
@@ -53,6 +53,4 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 
 - **2019** 
 	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
-
-
 
