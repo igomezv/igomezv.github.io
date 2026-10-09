@@ -143,10 +143,10 @@ For the complete list, including posters, see [<u>All presentations</u>](https:/
 	- [Talk] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
 	- [Talk] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf) The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6), Porto, Portugal. [On-site].
 	- [Invited seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
-	- [Invited talk] *Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*. ICGCAS-2025, PICS, Odisha, India. [Online].
+	- [Invited talk] [*Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://pacif-ics.com/international-conference-on-gravitation-cosmology-astrophysics-and-space-sciences-icgcas-2025/) ICGCAS-2025, PICS, Odisha, India. [Online].
 - **2024**
-	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
-	- [Invited talk] *Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
+	- [Seminar] [*Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*](https://www.unige.ch/sciences/astro/exoplanets/), Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
+	- [Invited talk] [*Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*](https://www.fis.unam.mx/mini_workshopIII/), III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
 
 
 -----

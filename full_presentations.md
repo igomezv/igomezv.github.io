@@ -19,22 +19,22 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 	- [Poster] [*SpeckleNet: a large-scale PSF subtraction deep learning model for exoplanetdetection and characterization in high contrast imaging*](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
 	- [Talk] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf). The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6).  Porto, Portugal. [On-site].
 	- [Invited seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
-	- [Invited seminar] *Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*, master of astrophysics, Valencia International University (VIU). [Online].
+	- [Invited seminar] [*Técnicas estadísticas y de aprendizaje automático en el análisis de datos astrofísicos*](https://www.dropbox.com/scl/fi/bk5wnb9tzmvwpgehjeivu/certificado_seminarioIsidroGomez.pdf?rlkey=vxmmyrs3ia7q9msvn0dj7voxy&st=r8v70n3c&dl=0), master of astrophysics, Valencia International University (VIU). [Online].
 
 - **2024**
 	- [Flash talk/poster] [*Deep Learning strategies to planet detection using HARPS-N stellar spectra*, Junior Research Assembly (JURA) V](https://nccr-planets.ch/junior-researchers-assembly-jura-v-2024/). PlanetS, Murten, Switzerland. [On-site].
-	- [Invited seminar] *Aprendizaje automático en la inferencia estadística de datos cosmológicos*, Seminario de Cosmología y Astrofísica Relativista. Physics department, CINVESTAV. [Online].
+	- [Invited seminar] [*Aprendizaje automático en la inferencia estadística de datos cosmológicos*](https://www.dropbox.com/scl/fi/8epwy19xfdx1wthwn5791/2024-seminario-Cinvestav-Tonatiuh.pdf?rlkey=4ojm1rvtq4w9qzxq9qa41sytn&st=cg6rehm9&dl=0), Seminario de Cosmología y Astrofísica Relativista. Physics department, CINVESTAV. [Online].
 	- [Invited talk] [*Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*, III Mini Workshop on HPC in Science and Engineering](https://www.fis.unam.mx/mini_workshopIII/), ICF-UNAM, Cuernavaca, Morelos, México. [Online].
-	- [Seminar] *Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*, Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland. [On-site]
+	- [Seminar] [*Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*](https://www.unige.ch/sciences/astro/exoplanets/), Exoplanet Group Seminar. University of Geneva, Geneva, Switzerland. [On-site]
 
 - **2023** 
 	- [Seminar] [*Aprendizaje automático en el análisis de datos cosmológicos*, Seminario del grupo de gravitación y cosmología del Instituto de Ciencias Físicas](https://www.facebook.com/ICFUNAM/posts/lunes-28-de-agosto-13-hrsseminario-del-grupo-de-gravitaci%C3%B3n-y-cosmolog%C3%ADa-icf-una/682763250548747/), ICF-UNAM, Cuernavaca, Morelos. [On-site]
 	- [Poster] [*Neural networks in cosmological data analysis*, Addressing observational tensions in cosmology with systematics and fundamental physics (CosmoVerse)](https://cosmoversetensions.eu/event/first-cosmoverse-conference-cosmoverselisbon/). Faculdade de Ciências da Universidade de Lisboa. Lisboa, Portugal. [On-site].
 
 - **2022** 
-	- [Poster] *Neural nets in cosmological analysis*, VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo. [On-site].
-	- [Invited talk] *Análisis de datos cosmológicos con redes neuronales*, Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo. [On-site].
-	- [Poster] *Dark matter halo analysis on N-body cosmological simulations with deep learning*, LXV Congreso Nacional de Física, Universidad de Zacatecas, México. [On-site].
+	- [Poster] [*Neural nets in cosmological analysis*](https://inspirehep.net/conferences/2133777?ui-citation-summary=true), VIII Essential Cosmology for the Next Generation, Playa del Carmen, Quintana Roo. [On-site].
+	- [Invited talk] [*Análisis de datos cosmológicos con redes neuronales*](https://www.dropbox.com/scl/fi/9zz0ayccyuzfkplg9ym0l/2022_hpc_pachuca.pdf?rlkey=lpu0ryyvduk255gs0rggqk1o6&st=v2gns3rn&dl=0), Mini Workshop on High Performance Computing in Science and Engineering, Universidad Autónoma de Hidalgo, Pachuca, Hidalgo. [On-site].
+	- [Poster] [*Dark matter halo analysis on N-body cosmological simulations with deep learning*](https://smf.mx/programas/congreso-nacional-de-fisica/lxv/), LXV Congreso Nacional de Física, Universidad de Zacatecas, México. [On-site].
 	- [Poster] [*Neural networks in cosmological data analysis*](https://indico.cern.ch/event/886404/contributions/4930376/), 25th annual International Conference on Particle Physics and Cosmology (COSMO'22), Rio de Janeiro Planetarium, Brazil. [On-site].
 
 - **2021** 
@@ -53,4 +53,3 @@ en el análisis de datos astrofísicos*, master of astrophysics, Valencia Intern
 
 - **2019** 
 	- [Poster] *Artificial Neural Networks as optimizers in Bayesian inference*, I Taller conjunto de Deep Learning y Ciencia de Datos, CIMAT, Guanajuato, México.
-
