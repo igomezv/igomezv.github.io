@@ -137,6 +137,7 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 For the complete list, including posters, see [<u>All presentations</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
+	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC). Meeting chair. [Hybrid].
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
 - **2025**
 	- [Conference] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
