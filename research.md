@@ -7,21 +7,21 @@ title: Research
 My current research focuses on modelling stellar activity in radial-velocity and photometric data to support exoplanet detection. I use machine learning and Bayesian inference to develop and assess these methods, building on earlier work in cosmology. I welcome collaborations in these areas.
 
 
-- [Publications](#selected-publications) · [All publications](https://igomezv.github.io/full_papers/)
-- [Selected code](#selected-code) · [All code](https://igomezv.github.io/code/)
-- [Selected presentations](#selected-presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
+- [Publications](#selected-publications)
+- [Software](#selected-software)
+- [Presentations](#selected-presentations)
 - [Scientific service](#scientific-service)
 
 -----
 
 ## Selected Publications
 
-For a complete publication list, see [<u>All publications</u>](https://igomezv.github.io/full_papers/).
+[<u>View all publications</u>](https://igomezv.github.io/full_papers/).
 
 | [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
 
-### Selected Lead-Author Publications
+### Lead-Author Publications
 
 For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/full_papers/#led-and-co-led).
 
@@ -42,7 +42,7 @@ For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/ful
 **Contribution to the field:** Introduced a neural-network framework for reconstructing cosmological functions from small observational datasets with minimal theoretical and statistical assumptions. Applications to the Hubble parameter, growth rate, and supernova distance modulus demonstrated its use for data-driven reconstruction and consistency checks against the original observations. The study also explored variational autoencoders as a first step towards generating synthetic covariance matrices that represent observational correlations.</span>
 
 
-### Selected Collaborative Publications
+### Collaborative Publications
 
 For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full_papers/#collaborative).
 
@@ -56,11 +56,11 @@ For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full
 
 
 -----
-## Selected Code
+## Selected Software
 
 ---
 
-Additional projects and software repositories are available on my [<u>GitHub profile</u>](https://github.com/igomezv) or in [<u>All code projects</u>](https://igomezv.github.io/code).
+[<u>View all software projects</u>](https://igomezv.github.io/code/). Repositories are also available on my [<u>GitHub profile</u>](https://github.com/igomezv).
 
 ### doppleriann
 
@@ -133,8 +133,8 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 ## Selected Presentations
 -----
 
-**Selected** invited talks, conference presentations, and seminars.
-For the complete list, including posters, see [<u>All presentations</u>](https://igomezv.github.io/full_presentations/).
+Invited talks, conference presentations, and seminars.
+[<u>View all presentations, including posters</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
 	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [Hybrid].
