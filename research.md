@@ -173,3 +173,9 @@ For the complete list, including posters, see [<u>All presentations</u>](https:/
 - **Conference reviewer**: [MICAI 2026](https://micai.org/2026/), [COMIA 2026](http://smia.itmorelos.mx/reconocimientos_comia/revisores2026.php?idn=MTEw).
 - **Book reviewer**: CRC Press (2025).
 - **Grant evaluator**: [*Internal Research Grants Programme*, University of Malta (2025)](https://www.dropbox.com/scl/fi/efw1yucijonrxu12g69mp/Malta_Reviewer_Certification.pdf?rlkey=vtkbl05zebisyvw1z36u51c7u&st=hhzv4mt8&dl=0), and CONACYT postdoctoral grants (2023).
+
+### Event organization and chairing
+
+- **2026. Meeting Chair**, INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC). [Hybrid].
+- [**2023. Organizer and Chair**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0),[II Mini Workshop on HPC in Science and Engineering.](https://www.fis.unam.mx/mini_workshop/), Instituto de Ciencias Físicas, UNAM. <br>
+- **2023. Seminar Chair**, Computational Physics and Gravitation Group Seminar, Instituto de Ciencias Físicas, UNAM.

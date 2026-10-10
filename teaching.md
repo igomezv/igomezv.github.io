@@ -127,11 +127,6 @@ Co-taught with Liliana Guadarrama Bustos (45 hours). <br>
 
 Workshops and community training activities in machine learning and scientific computing.
 
-- [**Organising committee of the HPC-ML Workshop**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0). <br>
-<span class="publication-contributions" markdown="span">II Mini Workshop on HPC in Science and Engineering. <br>
-2023, Instituto de Ciencias Físicas, UNAM. <br>
-[Workshop website](https://www.fis.unam.mx/mini_workshop/).</span>
-
 - [**Machine Learning Basics**](https://www.dropbox.com/scl/fi/cx09asz355xy0jn8am89w/curso_workshop_ML.pdf?rlkey=zdtkkt3b942ha19vgjnyjtmdo&st=gvkwa9eq&dl=0). <br>
 <span class="publication-contributions" markdown="span">2021, 3rd Mexican Astro-Cosmo-Statistics School. <br>
 Universidad de Guanajuato. <br>
