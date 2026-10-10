@@ -7,14 +7,14 @@ title: Research
 My current research focuses on modelling stellar activity in radial-velocity and photometric data to support exoplanet detection. I use machine learning and Bayesian inference to develop and assess these methods, building on earlier work in cosmology. I welcome collaborations in these areas.
 
 
-- [Publications](#publications) · [All publications](https://igomezv.github.io/full_papers/)
-- [Code](#selected-code) · [All code](https://igomezv.github.io/code/)
-- [Presentations](#presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
+- [Publications](#seleected-publications) · [All publications](https://igomezv.github.io/full_papers/)
+- [Selected code](#selected-code) · [All code](https://igomezv.github.io/code/)
+- [Selected presentations](#selected-presentations) · [All presentations](https://igomezv.github.io/full_presentations/)
 - [Scientific service](#scientific-service)
 
 -----
 
-## Publications
+## Selected publications
 
 For a complete publication list, see [<u>All publications</u>](https://igomezv.github.io/full_papers/).
 
@@ -130,7 +130,7 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 
 
 -----
-## Presentations
+## Selected presentations
 -----
 
 **Selected** invited talks, conference presentations, and seminars.
