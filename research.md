@@ -176,6 +176,6 @@ For the complete list, including posters, see [<u>All presentations</u>](https:/
 
 ### Event organization and chairing
 
-- **2026. Meeting Chair**, [INMA kick-off meeting]((https://asteroseismology.iaa.es/inma-meeting), Instituto de Astrofísica de Andalucía (IAA-CSIC).
+- **2026. Meeting Chair**, [INMA kick-off meeting](https://asteroseismology.iaa.es/inma-meeting), Instituto de Astrofísica de Andalucía (IAA-CSIC).
 - [**2023. Organizer and Chair**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0),[II Mini Workshop on HPC in Science and Engineering.](https://www.fis.unam.mx/mini_workshop/), Instituto de Ciencias Físicas, UNAM. <br>
 - **2023. Seminar Chair**, Computational Physics and Gravitation Group Seminar, Instituto de Ciencias Físicas, UNAM.
