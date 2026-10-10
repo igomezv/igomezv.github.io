@@ -86,39 +86,43 @@ Thesis: *Optimization of astrophysical and cosmological systems with physics-inf
 ## Courses
 ----------
 
-- **[Research Seminar I, II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br>
+- **[Research Seminar II](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br>
 <span class="publication-contributions" markdown="span">*Maestría en Ciencias (Astrofísica)*. <br>
 2024, Universidad de Guanajuato, Mexico. <br>
 Duration: 8 hours.</span>
-
+- **[Research Seminar I](https://www.dropbox.com/scl/fi/ewktgff50x9frtcwg29xk/UGTOInvestigacionSem.pdf?rlkey=on6569b76rwsez68k5f0i2qme&st=tvmgdj3g&dl=0).** <br>
+<span class="publication-contributions" markdown="span">*Maestría en Ciencias (Astrofísica)*. <br>
+2024, Universidad de Guanajuato, Mexico. <br>
+Duration: 8 hours.</span>
 - [**Evolutionary Computation.**](https://www.dropbox.com/scl/fi/gqcy1dymdm2ipojceitzw/curso_evol_dgtic_23.pdf?rlkey=cu1nb9zv2ja5y9lhs3lxa2ksk&st=j037qckv&dl=0) <br>
 <span class="publication-contributions" markdown="span">*Diplomado en Inteligencia Artificial Aplicada*. <br>
 2023, DGTIC-UNAM. <br>
 Specialisation course (20 hours). <br>
 [Course materials](https://github.com/igomezv/ComputoEvolutivo).</span>
-
 - [**Probabilistic Reasoning.**](https://www.dropbox.com/scl/fi/96a3auajwtmw37jnl6bly/curso_proba_dgtic_23.pdf?rlkey=w4oqtuahpdldcy58iba8a7ztv&st=rybqsi0n&dl=0) <br>
 <span class="publication-contributions" markdown="span">*Diplomado en Inteligencia Artificial Aplicada*. <br>
 2023, DGTIC-UNAM. <br>
 Specialisation course (10 hours). <br>
 [Course materials](https://github.com/igomezv/RazonamientoProbabilistico).</span>
-
 - **Computational Tools (Introduction to Machine Learning).** <br>
 <span class="publication-contributions" markdown="span">2023, CICATA-Legaria, Instituto Politécnico Nacional. <br>
 Postgraduate course (online; 30 hours). <br>
 [Course materials](https://github.com/igomezv/HerramientasComputacionales).</span>
-  
 - [**Intermediate Data Science.**](https://www.dropbox.com/scl/fi/p89n9sgpty2qdceejzfpo/curso_DS_dgtic_23.pdf?rlkey=s28v7652hehwrnbrclb1hkii2&st=q4pyw6yr&dl=0) <br>
-<span class="publication-contributions" markdown="span">*Diplomado en Ciencia de Datos*. <br>
-2022 and 2023, DGTIC-UNAM. <br>
+<span class="publication-contributions" markdown="span">*Centro Nacional de Control de Energía (CENACE)*. <br>
+2023, DGTIC-UNAM. <br>
 Specialisation course (30 hours). <br>
 [Course materials](https://github.com/igomezv/DataScienceIntermedio).</span>
-
 - **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br>
 <span class="publication-contributions" markdown="span">2022, Centro de Investigación en Matemáticas (CIMAT), Aguascalientes, Mexico. <br>
 Master's degree in Process Modeling and Optimization. <br>
 Co-taught with Liliana Guadarrama Bustos (45 hours). <br>
 [Course materials](https://github.com/igomezv/DLCIMATAGS).</span>
+- [**Intermediate Data Science.**](https://www.dropbox.com/scl/fi/p89n9sgpty2qdceejzfpo/curso_DS_dgtic_23.pdf?rlkey=s28v7652hehwrnbrclb1hkii2&st=q4pyw6yr&dl=0) <br>
+<span class="publication-contributions" markdown="span">*Centro Nacional de Control de Energía (CENACE)*. <br>
+2022, DGTIC-UNAM. <br>
+Specialisation course (30 hours). <br>
+[Course materials](https://github.com/igomezv/DataScienceIntermedio).</span>
 
 
 --------------
@@ -132,7 +136,6 @@ Workshops and community training activities in machine learning and scientific c
 Universidad de Guanajuato. <br>
 Duration: 4.5 hours. <br>
 [Workshop materials](https://github.com/igomezv/MACS_2021_ML_basics_neural_networks).</span>
-
 - [**Cosmology with SimpleMC**](https://www.dropbox.com/scl/fi/1klpfsrfw6vwo41ts3p4h/curso_worksho_simplemc_2020.pdf?rlkey=6ok6ygkgineza0r6p9aswy29s&st=wzbak0z6&dl=0). <br>
 <span class="publication-contributions" markdown="span">2020\. Duration: 15 hours. <br>
 [Workshop materials](https://github.com/igomezv/simplemc_workshop).</span>
