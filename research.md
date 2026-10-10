@@ -137,7 +137,7 @@ Additional projects and software repositories are available on my [<u>GitHub pro
 For the complete list, including posters, see [<u>All presentations</u>](https://igomezv.github.io/full_presentations/).
 
 - **2026**
-	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC). Meeting chair. [Hybrid].
+	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [Hybrid].
 	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
 - **2025**
 	- [Talk] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
@@ -176,6 +176,6 @@ For the complete list, including posters, see [<u>All presentations</u>](https:/
 
 ### Event organization and chairing
 
-- **2026. Meeting Chair**, INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC). [Hybrid].
+- **2026. Meeting Chair**, [INMA kick-off meeting]((https://asteroseismology.iaa.es/inma-meeting), Instituto de Astrofísica de Andalucía (IAA-CSIC).
 - [**2023. Organizer and Chair**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0),[II Mini Workshop on HPC in Science and Engineering.](https://www.fis.unam.mx/mini_workshop/), Instituto de Ciencias Físicas, UNAM. <br>
 - **2023. Seminar Chair**, Computational Physics and Gravitation Group Seminar, Instituto de Ciencias Físicas, UNAM.
