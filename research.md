@@ -18,7 +18,7 @@ My current research focuses on modelling stellar activity in radial-velocity and
 
 [<u>View all publications</u>](https://igomezv.github.io/full_papers/).
 
-| [<u>ADS</u>](https://ui.adsabs.harvard.edu/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
+| [<u>ADS</u>](https://scixplorer.org/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
 <br>
 
 ### Lead-Author Publications
@@ -142,7 +142,7 @@ Invited talks, conference presentations, and seminars.
 - **2025**
 	- [Talk] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
 	- [Talk] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf) The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6), Porto, Portugal. [On-site].
-	- [Invited seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.youtube.com/watch?v=4C8xfMJwTZE&t=114s) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
+	- [Invited seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.ice.csic.es/research/seminars-congresses?view=article&id=599:pizzaseminars-2024-2025&catid=12#:~:text=Machine%20Learning%20for%20Small%20Astrophysical%20Datasets) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
 	- [Invited talk] [*Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://pacif-ics.com/international-conference-on-gravitation-cosmology-astrophysics-and-space-sciences-icgcas-2025/) ICGCAS-2025, PICS, Odisha, India. [Online].
 - **2024**
 	- [Seminar] [*Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*](https://www.unige.ch/sciences/astro/exoplanets/), Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
