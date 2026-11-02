@@ -12,10 +12,10 @@ title: Teaching and supervision
 ## Student supervision
 ------------
 
-I am available to co-supervise student projects in machine learning and astrophysics. Please contact me by email if you are interested.
+I am available to co-supervise student projects in machine learning and astrophysics. Please contact me by [email](mailto:igomez@iaa.es) if you are interested.
 
 
-### Master's student supervision
+### Master's degree
 
 - **Rodrigo Mendez Hernández** (2022–2023). <br>
 <span class="publication-contributions" markdown="span">Master's degree in Astrophysics, Universidad de Guanajuato. <br>
