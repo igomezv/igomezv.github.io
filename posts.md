@@ -1,19 +1,11 @@
 ---
 layout: home
-title: Notas
+title: Notes
 ---
 
-This section is a jumble of notes that I have written for my personal use, as reminders or as part of a study; however, I am excited to think that a remote reader may find it useful. 
+These notes began as personal reminders and study materials. I share them in the hope that they may be useful to others, too.
 
------
+Estas notas comenzaron como recordatorios personales y material de estudio. Las comparto con la esperanza de que también puedan ser útiles a otras personas.
 
-Esta sección es un revoltijo de notas que he escrito para mi uso personal, a manera de recordatorios o como parte de algún estudio; no obstante, me ilusiona pensar que a algún lector remoto le puedan ser de utilidad.
-
------
-
-- <a href="https://igomezv.github.io/tags/">Tag index (índice por etiquetas)</a>.
-- [Archive (archivo de escritos)](archive.md).
-
- 
-
-
+- [Tag index / Índice de etiquetas](/tags/)
+- [Archive / Archivo de notas](/archive/)
