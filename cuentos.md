@@ -4,8 +4,6 @@ title: Cuentos
 permalink: /cuentos/
 ---
 
-Una selección de mis cuentos publicados en libros, revistas y prensa.
-
 ## Fugas de la realidad
 
 Seis cuentos escritos entre 2012 y 2015. La colección circuló por primera vez en 2016 en una edición artesanal de una editorial cartonera local, sin registro editorial formal, en un tiraje de 100 ejemplares principalmente destinado a amigos y conocidos. La edición Kindle de 2024 reúne los mismos cuentos en formato digital.
@@ -20,7 +18,7 @@ Cuento publicado en *Gargantúa*, revista literaria de la Universidad del Claust
 
 <img src="{{ '/assets/stories/revista-gargantua.jpg' | relative_url }}" alt="Portada de la revista literaria Gargantúa" style="max-height: 380px; max-width: 100%; width: auto;">
 
-[Leer la revista (PDF, pp. 15–16)]({{ '/assets/stories/revista-gargantua.pdf' | relative_url }}) · [Revista en Academia.edu](https://www.academia.edu/33988355/Revista_literaria_Gargant%C3%BAa_) · [Entrada original del blog](https://neorelativista.blogspot.com/2017/08/media-hora-cuento.html)
+[Leer la revista (PDF, pp. 15–16)]({{ '/assets/stories/revista-gargantua.pdf' | relative_url }}) · [Revista en Academia.edu](https://www.academia.edu/33988355/Revista_literaria_Gargant%C3%BAa_) 
 
 ## ¿Qué he hecho?
 
@@ -28,7 +26,7 @@ Cuento publicado en *El Economista* el 23 de enero de 2017. Obtuvo el segundo lu
 
 <img src="{{ '/assets/stories/que-he-hecho.jpg' | relative_url }}" alt="Recorte de El Economista con el cuento ¿Qué he hecho?" style="max-height: 500px; max-width: 100%; width: auto;">
 
-[Leer el cuento en El Economista](https://www.eleconomista.com.mx/arteseideas/Que-he-hecho-de-Isidro-Gomez-Vargas-20170122-0049.html) · [Entrada original del blog](https://neorelativista.blogspot.com/2017/01/que-he-hecho-cuento-corto.html)
+[Leer el cuento en El Economista](https://www.eleconomista.com.mx/arteseideas/Que-he-hecho-de-Isidro-Gomez-Vargas-20170122-0049.html) 
 
 ## La secundaria en ruinas
 
@@ -36,4 +34,4 @@ Mi primer cuento publicado: apareció en *[Molino de Letras](https://molinodelet
 
 <img src="{{ '/assets/stories/molino-de-letras-escuela.jpg' | relative_url }}" alt="Portada del número Escuela de Molino de Letras" style="max-height: 380px; max-width: 100%; width: auto;">
 
-[Leer el cuento (PDF)]({{ '/assets/stories/la-secundaria-en-ruinas.pdf' | relative_url }}) · [Ver la revista en Issuu](https://issuu.com/molinoletras/docs/molino_97) · [Entrada original del blog](https://neorelativista.blogspot.com/2016/12/cuento-la-secundaria-en-ruinas.html)
+[Leer el cuento (PDF)]({{ '/assets/stories/la-secundaria-en-ruinas.pdf' | relative_url }}) · [Ver la revista en Issuu](https://issuu.com/molinoletras/docs/molino_97) 
