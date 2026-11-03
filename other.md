@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Miscellany
-
 ---
 
-- [Cuentos, minificciones y un poco más](http://www.neorelativista.blogspot.com).
-- [Algunas notas](https://igomezv.github.io/posts).
-- [Photos on Flickr](https://www.flickr.com/photos/neorelativista).
+- [Short stories and microfiction (in Spanish)](http://www.neorelativista.blogspot.com)
+- [Notes](https://igomezv.github.io/posts)
+- [Photography on Flickr](https://www.flickr.com/photos/neorelativista)
