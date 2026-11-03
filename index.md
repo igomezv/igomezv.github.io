@@ -36,7 +36,7 @@ and
 <p align="center">
   <a href="https://igomezv.github.io/research">⦿ <u>Research</u></a>
   <a href="https://igomezv.github.io/cv">⦿ <u>CV</u></a>
-  <a href="https://igomezv.github.io/full_publications">⦿ <u>Publications</u></a>
+  <a href="https://igomezv.github.io/full_papers">⦿ <u>Publications</u></a>
   <a href="https://igomezv.github.io/code">⦿ <u>Code</u></a>
   <a href="https://igomezv.github.io/teaching">⦿ <u>Teaching</u></a>
   <a href="https://igomezv.github.io/outreach">⦿ <u>Outreach</u></a>
