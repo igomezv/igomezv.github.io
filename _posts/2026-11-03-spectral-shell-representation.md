@@ -23,9 +23,9 @@ This matters for mitigating stellar activity. Different lines and different regi
 
 The spectral shell occupies an intermediate regime:
 
-$$
+<script type="math/tex; mode=display">
 \text{full spectrum}\;\longrightarrow\;\text{spectral shell}\;\longrightarrow\;\text{CCF},
-$$
+</script>
 
 with much lower dimensionality than the original spectrum while retaining more line-profile information than a CCF.
 
@@ -33,23 +33,23 @@ with much lower dimensionality than the original spectrum while retaining more l
 
 Let $f_0(\lambda)$ be a high signal-to-noise master spectrum and $f(\lambda)$ an observed spectrum on the same wavelength grid. For a small displacement, a first-order Taylor expansion gives
 
-$$
+<script type="math/tex; mode=display">
 f(\lambda_i)-f_0(\lambda_i)
 = \frac{\partial f_0(\lambda_i)}{\partial\lambda_i}\,\delta\lambda_i.
-$$
+</script>
 
 Define $\delta f_i = f(\lambda_i)-f_0(\lambda_i)$. Using the non-relativistic Doppler relation $\delta V_i/c=\delta\lambda_i/\lambda_i$, we obtain
 
-$$
+<script type="math/tex; mode=display">
 \boxed{\delta V_i = \frac{c}{\lambda_i}\,\delta f_i
 \left(\frac{\partial f_0(\lambda_i)}{\partial\lambda_i}\right)^{-1}.}
-$$
+</script>
 
 To first order, the flux change produced by a pure Doppler shift is proportional to the local spectral gradient.
 
 ### Why the spectral gradient matters
 
-Pixels in a flat continuum have $\partial f_0/\partial\lambda\simeq 0$ and carry little first-order Doppler information. The same is true at the minimum of a symmetric absorption line. By contrast, the wings have large $|\partial f_0/\partial\lambda|$, and their opposite derivative signs distinguish the two sides. Thus $(f_0,\partial f_0/\partial\lambda)$ is a natural coordinate system for organizing pixels by their role inside absorption-line profiles.
+Pixels in a flat continuum have $\partial f_0/\partial\lambda\simeq 0$ and carry little first-order Doppler information. The same is true at the minimum of a symmetric absorption line. By contrast, the wings have large $\lvert\partial f_0/\partial\lambda\rvert$, and their opposite derivative signs distinguish the two sides. Thus $(f_0,\partial f_0/\partial\lambda)$ is a natural coordinate system for organizing pixels by their role inside absorption-line profiles.
 
 ## Construction of the spectral shell
 
@@ -57,10 +57,10 @@ Pixels in a flat continuum have $\partial f_0/\partial\lambda\simeq 0$ and carry
 
 [Cretignier et al. (2022)](#cretignier2022) introduced the shell as a projection onto $(f_0,\partial f_0/\partial\lambda)$. Each wavelength sample maps to
 
-$$
+<script type="math/tex; mode=display">
 \lambda_i\longmapsto
 \left(f_0(\lambda_i),\frac{\partial f_0(\lambda_i)}{\partial\lambda_i}\right).
-$$
+</script>
 
 Wavelength is no longer an explicit shell coordinate. A single absorption line approximately traces a loop: the continuum approaches $(1,0)$, one wing has one gradient sign, the core has $f_0<1$ and nearly zero gradient, and the opposite wing has the opposite sign. Different lines can overlap when they occupy similar positions within their profiles.
 
@@ -68,19 +68,19 @@ Wavelength is no longer an explicit shell coordinate. A single absorption line a
 
 [Zhao et al. (2024)](#zhao2024) reformulated the shell using the flux gradient in velocity space. Since $dv=(c/\lambda)\,d\lambda$, the chain rule gives
 
-$$
+<script type="math/tex; mode=display">
 \boxed{\frac{\partial f_0}{\partial v}
 =\frac{\lambda}{c}\frac{\partial f_0}{\partial\lambda}.}
-$$
+</script>
 
 The Doppler relation simplifies to
 
-$$
+<script type="math/tex; mode=display">
 \boxed{\delta V_i=\delta f_i
 \left(\frac{\partial f_0(v_i)}{\partial v_i}\right)^{-1},
 \qquad
 \delta f_i=\delta V_i\frac{\partial f_0(v_i)}{\partial v_i}.}
-$$
+</script>
 
 This suppresses a dispersion-driven chromatic effect: similar line profiles at different wavelengths can have different wavelength gradients simply because of the factor $c/\lambda$. In velocity space, physically similar profiles approximately overlap in $(f_0,\partial f_0/\partial v)$ and share a common velocity scale.
 
@@ -88,24 +88,24 @@ This suppresses a dispersion-driven chromatic effect: similar line profiles at d
 
 The shell coordinates and the time-dependent quantity stored there are distinct. For each pixel,
 
-$$
-x_i=\left.\frac{\partial f_0}{\partial v}\right|_{v_i},
+<script type="math/tex; mode=display">
+x_i=\left.\frac{\partial f_0}{\partial v}\right\rvert_{v_i},
 \qquad y_i=f_0(v_i),
 \qquad z_i(t)=\delta f_i(t)=f(v_i,t)-f_0(v_i).
-$$
+</script>
 
 The pair $(x_i,y_i)$ places the pixel; $z_i(t)$ carries its spectral variation. Conceptually,
 
-$$
+<script type="math/tex; mode=display">
 \mathcal{S}(x,y,t)\sim
 \delta f\!\left(f_0,\frac{\partial f_0}{\partial v},t\right).
-$$
+</script>
 
 Discretizing the plane into cells $\mathcal{C}_{jk}$ yields a schematic shell cell
 
-$$
+<script type="math/tex; mode=display">
 S_{jk}(t)=\left\langle\delta f_i(t)\right\rangle_{i\in\mathcal{C}_{jk}}.
-$$
+</script>
 
 The exact weighting or averaging depends on the implementation. The key operation is compression from roughly $N_\lambda\sim10^5$ pixels to $N_{\rm shell}\sim10^2$ cells.
 
@@ -119,10 +119,10 @@ The exact weighting or averaging depends on the implementation. The key operatio
 
 [Cretignier et al.](#cretignier2022) define a binned shell in $(f_0,\partial f_0/\partial\lambda)$ space and use its time series to separate Dopplerian and non-Dopplerian variability. Principal-component analysis (PCA) produces a basis of non-Dopplerian shell variations. Because these components need not be orthogonal to the pure Doppler direction, a Gram–Schmidt step makes the basis orthogonal to the Doppler shell component:
 
-$$
+<script type="math/tex; mode=display">
 \delta f(t)=\alpha_{\rm DS}(t)\,\mathrm{DS}
 +\sum_{j=1}^{N}\alpha_j(t)\,\mathrm{PS}_j.
-$$
+</script>
 
 Here $\mathrm{DS}$ is the pure-Doppler shell basis and $\mathrm{PS}_j$ are the orthogonalized principal shell components. The analysis uses YARARA post-processed spectra, after removal of major instrumental and telluric contaminants.
 
@@ -132,10 +132,10 @@ Here $\mathrm{DS}$ is the pure-Doppler shell basis and $\mathrm{PS}_j$ are the o
 
 A pure-Doppler template $S_{\rm Doppler}$ is generated by injecting a small Doppler shift into the master spectrum. After normalizing the template, the Doppler projection is $S_\parallel(t)=[S(t)\cdot S_{\rm Doppler}]S_{\rm Doppler}$. The Doppler-free *shape shell* is
 
-$$
+<script type="math/tex; mode=display">
 \boxed{S_{\rm shape}(t)=S(t)-
 \left[S(t)\cdot S_{\rm Doppler}\right]S_{\rm Doppler}.}
-$$
+</script>
 
 This exposes activity-related line-shape variability while suppressing the direction in which a planetary signal should appear to first order. Code: [DeepLearningShell](https://github.com/YinanZhao21/DeepLearningShell).
 
@@ -143,27 +143,27 @@ This exposes activity-related line-shape variability while suppressing the direc
 
 [Gómez-Vargas et al.](#gomezvargas2026) retain the velocity-gradient formalism and introduce a Doppler-information weight:
 
-$$
+<script type="math/tex; mode=display">
 \boxed{W_{v,i}=\left[\frac{\partial F_0(v_i)}{\partial v_i}
 \frac{1}{\sigma_{F_i}}\right]^2.}
-$$
+</script>
 
 The cell weight is $W_{v,\mathrm{cell}}=\sum_{i\in\mathrm{cell}}W_{v,i}$ and the masked shell is formed element-wise: $S_{\rm masked}=S\odot W_v$.
 
 The method extends normalized-flux space to formation-temperature space. Associate each pixel with an average formation temperature $T_{1/2}$ and construct a shell in
 
-$$
+<script type="math/tex; mode=display">
 \boxed{\left(T_{1/2},\frac{\partial T_{1/2}}{\partial v}\right).}
-$$
+</script>
 
 For $g_T\equiv\partial T/\partial v$, the analogous velocity variation is $\Delta V_T=\Delta T/g_T$. Here $g_T$ is a numerical derivative of the temperature-valued spectrum along velocity, **not** a physical atmospheric temperature gradient such as $dT/dz$.
 
 If flux uncertainty propagates to temperature uncertainty as $\sigma_T=f_{F\rightarrow T}(\sigma_F)$, then $\sigma_v=\sigma_T/g_T$ and
 
-$$
+<script type="math/tex; mode=display">
 \boxed{W^{(T)}_{v,i}=
 \left[\frac{g_{T,i}}{f_{F\rightarrow T}(\sigma_{F_i})}\right]^2.}
-$$
+</script>
 
 The flux- and temperature-gradient shell spaces are both discretized into $9\times9$ grids in this implementation. Code: [doppleriann](https://github.com/igomezv/doppleriann), which includes flux and temperature shell construction, CCF/RV extraction, planetary injections, masking, detectability tests, and the deep-learning workflow.
 
@@ -173,20 +173,20 @@ The flux- and temperature-gradient shell spaces are both discretized into $9\tim
 
 For a rigid Doppler displacement,
 
-$$
+<script type="math/tex; mode=display">
 \delta f_i=\delta V\frac{\partial f_0}{\partial v_i}.
-$$
+</script>
 
 The entire spectrum follows one coherent direction in shell space. A line-depth change generally does not satisfy $\delta f_i/(\partial f_0/\partial v_i)=\text{constant}$. A bisector or asymmetry change affects the two wings differently because they occupy opposite signs of $\partial f_0/\partial v$. This is why shells help disentangle rigid shifts from stellar or instrumental line-shape perturbations.
 
 ### Flux shell versus temperature shell
 
-$$
+<script type="math/tex; mode=display">
 \text{flux shell:}\quad\left(F_0,\frac{\partial F_0}{\partial v}\right),
 \qquad
 \text{temperature shell:}\quad
 \left(T_{1/2},\frac{\partial T_{1/2}}{\partial v}\right).
-$$
+</script>
 
 The flux shell groups pixels by normalized line depth; the temperature shell groups them by an estimate of photospheric formation depth, designed to expose depth-dependent stellar variability more directly.
 
@@ -201,7 +201,7 @@ The conventional spectrum maps $\lambda\mapsto f(\lambda)$. The shell maps each 
 For each observation $f(\lambda,t)$:
 
 1. Construct a high-S/N master spectrum $f_0(\lambda)$.
-2. Compute $g_i=\left.\partial f_0/\partial v\right|_i=(\lambda_i/c)\left.\partial f_0/\partial\lambda\right|_i$.
+2. Compute $g_i=\left.\partial f_0/\partial v\right\rvert_i=(\lambda_i/c)\left.\partial f_0/\partial\lambda\right\rvert_i$.
 3. Compute residuals $\delta f_i(t)=f_i(t)-f_{0,i}$.
 4. Map selected pixels to shell coordinates $(f_{0,i},g_i)$ and bin the space into $S_{jk}(t)$.
 5. Optionally calculate $W_{v,jk}=\sum_{i\in\mathcal{C}_{jk}}[g_i/\sigma_{F_i}]^2$ and form $S_{\rm masked}=S\odot W_v$.
