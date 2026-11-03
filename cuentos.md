@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Cuentos y minificciones
+title: Cuentos
 permalink: /cuentos/
 ---
 
-Una selección de mis cuentos publicados, y una [recopilación de textos breves]({{ '/textos-breves/' | relative_url }}) que aparecieron originalmente en mi blog *Documento Sin Título*.
+Una selección de mis cuentos publicados en libros, revistas y prensa.
 
 ## Fugas de la realidad
 
@@ -40,4 +40,4 @@ Mi primer cuento publicado: apareció en *[Molino de Letras](https://molinodelet
 
 ---
 
-[Otros textos y minificciones]({{ '/textos-breves/' | relative_url }}) · [Blog original: *Documento Sin Título*](https://neorelativista.blogspot.com/)
+[Blog original: *Documento Sin Título*](https://neorelativista.blogspot.com/)
