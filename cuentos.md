@@ -12,7 +12,7 @@ Seis cuentos escritos entre 2012 y 2015, reunidos en una edición Kindle publica
 
 <img src="{{ '/assets/stories/fugas-de-la-realidad.jpg' | relative_url }}" alt="Portada de Fugas de la realidad" style="max-height: 380px; max-width: 100%; width: auto;">
 
-[Edición Kindle en Amazon México](https://www.amazon.com.mx/dp/B0CRKBQX6Q) · [Entrada original del blog](https://neorelativista.blogspot.com/2023/11/fugas-de-la-realidad.html)
+Edición Kindle: [Amazon México](https://www.amazon.com.mx/dp/B0CRKBQX6Q) · [Amazon España](https://www.amazon.es/dp/B0CRKBQX6Q) · [Amazon Estados Unidos](https://www.amazon.com/dp/B0CRKBQX6Q) · [Entrada original del blog](https://neorelativista.blogspot.com/2023/11/fugas-de-la-realidad.html)
 
 ## Media hora
 
