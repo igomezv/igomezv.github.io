@@ -12,7 +12,7 @@ Seis cuentos escritos entre 2012 y 2015, reunidos en una edición Kindle publica
 
 <img src="{{ '/assets/stories/fugas-de-la-realidad.jpg' | relative_url }}" alt="Portada de Fugas de la realidad" style="max-height: 380px; max-width: 100%; width: auto;">
 
-Edición Kindle: [Amazon México](https://www.amazon.com.mx/dp/B0CRKBQX6Q) · [Amazon España](https://www.amazon.es/dp/B0CRKBQX6Q) · [Amazon Estados Unidos](https://www.amazon.com/dp/B0CRKBQX6Q) · [Entrada original del blog](https://neorelativista.blogspot.com/2023/11/fugas-de-la-realidad.html)
+Edición Kindle en Amazon: [MX](https://www.amazon.com.mx/dp/B0CRKBQX6Q) · [ES](https://www.amazon.es/dp/B0CRKBQX6Q) · [US](https://www.amazon.com/dp/B0CRKBQX6Q)
 
 ## Media hora
 
@@ -37,7 +37,3 @@ Mi primer cuento publicado: apareció en *[Molino de Letras](https://molinodelet
 <img src="{{ '/assets/stories/molino-de-letras-escuela.jpg' | relative_url }}" alt="Portada del número Escuela de Molino de Letras" style="max-height: 380px; max-width: 100%; width: auto;">
 
 [Leer el cuento (PDF)]({{ '/assets/stories/la-secundaria-en-ruinas.pdf' | relative_url }}) · [Ver la revista en Issuu](https://issuu.com/molinoletras/docs/molino_97) · [Entrada original del blog](https://neorelativista.blogspot.com/2016/12/cuento-la-secundaria-en-ruinas.html)
-
----
-
-[Blog original: *Documento Sin Título*](https://neorelativista.blogspot.com/)
