@@ -6,7 +6,7 @@ permalink: /cuentos/
 
 ## Fugas de la realidad
 
-Seis cuentos escritos entre 2012 y 2015. La colección circuló por primera vez en 2016 en una edición artesanal de una editorial cartonera local, sin registro editorial formal, en un tiraje de 100 ejemplares principalmente destinado a amigos, conocidos y algunos lectores. La edición Kindle de 2024 reúne los mismos cuentos en formato digital.
+Seis cuentos escritos entre 2012 y 2015. La colección circuló por primera vez en 2016 en una edición artesanal de una editorial cartonera local, sin registro editorial formal, en un tiraje de 100 ejemplares destinado a amigos, conocidos y algunos lectores. La edición Kindle de 2024 reúne los mismos cuentos en formato digital.
 
 <img src="{{ '/assets/stories/fugas-de-la-realidad.jpg' | relative_url }}" alt="Portada de Fugas de la realidad" style="max-height: 380px; max-width: 100%; width: auto;">
 
