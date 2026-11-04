@@ -5,9 +5,8 @@ title: Research
 
 ## Research Overview
 
-My research lies at the intersection of astrophysics, machine learning, and statistical inference. I develop methods to recover weak physical signals from complex astronomical observations, with particular attention to uncertainty, interpretability, and validation against real data. I began with neural-network reconstruction and Bayesian inference in cosmology and now work on precision stellar spectroscopy, exoplanet detection, and stellar variability.
 
-My distinctive approach combines physically informed representations with neural networks, evolutionary optimization, and probabilistic generative models. I develop open-source tools and test whether their predictions remain reliable under realistic observing conditions. My independent research direction is to connect spectroscopic and photometric descriptions of stellar variability, so that we can better characterize stars and distinguish their signals from those of planets.
+My research lies at the intersection of astrophysics, machine learning, and statistical inference. I develop data-driven methods to extract physical information from complex astronomical observations, with particular attention to uncertainty, interpretability, and the reliable recovery of weak signals. My work began with neural-network reconstruction and Bayesian inference in cosmology and has expanded into precision stellar spectroscopy, exoplanet detection, and the characterization of stellar variability. Across these applications, I combine neural networks, evolutionary optimization, probabilistic generative models, and physically informed validation, with an emphasis on reproducible, open-source scientific software.
 
 ## Precision Spectroscopy and Exoplanet Detection
 
