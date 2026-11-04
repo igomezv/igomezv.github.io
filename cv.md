@@ -10,6 +10,7 @@ title: CV
 - [Research visits](#research-visits)
 - [Education](#education)
 - [Observational experience](#observational-experience)
+- [Scientific service](#scientific-service)
 
 
 <a href="https://www.dropbox.com/scl/fi/t9ijair0nzv21xtsare63/CV_eng.pdf?rlkey=32th2gfen5sz0qmrr9avojwsy&st=bweucjdo&dl=1" download><u>Download CV (PDF)</u></a>.
@@ -112,3 +113,34 @@ Duration: 192 hours.</span>
 
 - ESO 3.6 m telescope (2025; 8 nights).
 - Swiss Euler 1.2 m telescope (2024–2025; 8 nights).
+
+-----
+
+## Scientific Service
+
+-----
+
+### Journal peer review
+
+- [Physical Review Letters](https://journals.aps.org/prl/)
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34)
+- [Physical Review D](https://journals.aps.org/prd/)
+- [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516)
+- [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe)
+- [European Physical Journal C](https://link.springer.com/journal/10052)
+- [Astronomy and Computing](https://www.sciencedirect.com/journal/astronomy-and-computing)
+- [Indian Journal of Physics](https://link.springer.com/journal/12648)
+- [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx)
+- [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)
+
+### Review and evaluation activities
+
+- **Conference reviewer**: [MICAI 2026](https://micai.org/2026/), [COMIA 2026](http://smia.itmorelos.mx/reconocimientos_comia/revisores2026.php?idn=MTEw).
+- **Book reviewer**: CRC Press (2025).
+- **Grant evaluator**: [*Internal Research Grants Programme*, University of Malta (2025)](https://www.dropbox.com/scl/fi/efw1yucijonrxu12g69mp/Malta_Reviewer_Certification.pdf?rlkey=vtkbl05zebisyvw1z36u51c7u&st=hhzv4mt8&dl=0), and CONACYT postdoctoral grants (2023).
+
+### Event organization and chairing
+
+- **2026. Meeting Chair**, [INMA kick-off meeting](https://asteroseismology.iaa.es/inma-meeting), Instituto de Astrofísica de Andalucía (IAA-CSIC).
+- [**2023. Organizer and Chair**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0),[II Mini Workshop on HPC in Science and Engineering.](https://www.fis.unam.mx/mini_workshop/), Instituto de Ciencias Físicas, UNAM. <br>
+- **2023. Seminar Chair**, Computational Physics and Gravitation Group Seminar, Instituto de Ciencias Físicas, UNAM.
