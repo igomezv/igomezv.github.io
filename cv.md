@@ -90,21 +90,21 @@ Host: Ulises Nucamendi.</span>
 
 ---
 
-- **PhD in Advanced Technology**. <br>
+- **PhD in Advanced Technology (02/2021)**. <br>
 <span class="publication-contributions" markdown="span">CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br>
 Associate PhD student at the Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
 [PhD thesis: *Artificial Neural Networks in Bayesian Inference*.](https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference) <br>
 Advisors: Ricardo García Salcedo and José Alberto Vázquez.</span>
 
-- **Master's degree in Advanced Technology**. <br>
+- **Master's degree in Advanced Technology (2017)**. <br>
 <span class="publication-contributions" markdown="span">CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br>
 [Thesis (in Spanish): *Augmented Reality Educational Mobile App*.](https://tesis.ipn.mx/handle/123456789/24066)</span>
 
-- **Diploma in Knowledge Discovery with Big Data Tools**. <br>
+- **Diploma in Knowledge Discovery with Big Data Tools (2018)**. <br>
 <span class="publication-contributions" markdown="span">Centro de Investigación en Computación, Instituto Politécnico Nacional, Mexico. <br>
 Duration: 192 hours.</span>
   
-- **Bachelor's degree in Physics and Mathematics**. <br>
+- **Bachelor's degree in Physics and Mathematics (2015)**. <br>
 <span class="publication-contributions" markdown="span">Escuela Superior de Física y Matemáticas, Instituto Politécnico Nacional, Mexico. <br>
 [Thesis (in Spanish): *BWR Nuclear Reactor Refuel Cycle Simulation*.](https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3)</span>
 
