@@ -125,16 +125,16 @@ Duration: 192 hours.</span>
 
 ### Journal peer review
 
-· [Physical Review Letters](https://journals.aps.org/prl/) 
-· [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34) 
-· [Physical Review D](https://journals.aps.org/prd/) 
-· [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516) 
-· [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe) 
-· [European Physical Journal C](https://link.springer.com/journal/10052) 
-· [Astronomy and Computing](https://www.sciencedirect.com/journal/astronomy-and-computing) 
-· [Indian Journal of Physics](https://link.springer.com/journal/12648) 
-· [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx) 
-· [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)
+- [Physical Review Letters](https://journals.aps.org/prl/)
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=34) 
+- [Physical Review D](https://journals.aps.org/prd/) 
+- [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/journal/1475-7516)
+- [Physics of the Dark Universe](https://www.sciencedirect.com/journal/physics-of-the-dark-universe) 
+- [European Physical Journal C](https://link.springer.com/journal/10052)
+- [Astronomy and Computing](https://www.sciencedirect.com/journal/astronomy-and-computing) 
+- [Indian Journal of Physics](https://link.springer.com/journal/12648) 
+- [Ciencia ergo-sum](https://cienciaergosum.uaemex.mx) 
+- [Frontiers in Public Health](https://www.frontiersin.org/articles/10.3389/fpubh.2022.939758/full)
 
 ### Review and evaluation activities
 
