@@ -22,8 +22,7 @@ Personal website and academic profile of Isidro Gómez-Vargas.
 ## Research
 
 - [Research overview](https://igomezv.github.io/research/#research-overview)
-- [Precision spectroscopy and exoplanet detection](https://igomezv.github.io/research/#precision-spectroscopy-and-exoplanet-detection)
-- [Stellar variability and asteroseismology](https://igomezv.github.io/research/#stellar-variability-and-asteroseismology)
+- [Stellar variability and exoplanet detection](https://igomezv.github.io/research/#stellar-variability-and-exoplanet-detection)
 - [Astrophysical statistical inference](https://igomezv.github.io/research/#astrophysical-statistical-inference)
 - [Full publications](https://igomezv.github.io/full_papers/)
 - [Scientific software](https://igomezv.github.io/code/)
