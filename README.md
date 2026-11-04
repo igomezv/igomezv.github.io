@@ -6,7 +6,7 @@ Personal website and academic profile of Isidro Gómez-Vargas.
 
 - [Home](https://igomezv.github.io) - Main homepage and entry point.
 - [CV](https://igomezv.github.io/cv) - Short academic CV.
-- [Research](https://igomezv.github.io/research) - Publications, software, talks, and service.
+- [Research](https://igomezv.github.io/research) - Research overview and scientific directions.
 - [Code](https://igomezv.github.io/code) - Selected projects and software contributions.
 - [Teaching](https://igomezv.github.io/teaching) - Courses, supervision, and workshops.
 - [Outreach](https://igomezv.github.io/outreach) - Outreach papers, talks, and materials.
@@ -21,13 +21,13 @@ Personal website and academic profile of Isidro Gómez-Vargas.
 
 ## Research
 
-- [Full publications](https://igomezv.github.io/research/#full_papers)
-- [Selected lead-author and co-led publications](https://igomezv.github.io/research/#selected-lead-author-and-co-led-publications)
-- [Selected collaborative publications](https://igomezv.github.io/research/#selected-collaborative-publications)
-- [Research software](https://igomezv.github.io/research/#research-software)
-- [Full presentations](https://igomezv.github.io/research/#full_presentations)
-- [Selected presentations](https://igomezv.github.io/research/#presentations)
-- [Scientific service](https://igomezv.github.io/research/#scientific-service)
+- [Research overview](https://igomezv.github.io/research/#research-overview)
+- [Precision spectroscopy and exoplanet detection](https://igomezv.github.io/research/#precision-spectroscopy-and-exoplanet-detection)
+- [Stellar variability and asteroseismology](https://igomezv.github.io/research/#stellar-variability-and-asteroseismology)
+- [Astrophysical statistical inference](https://igomezv.github.io/research/#astrophysical-statistical-inference)
+- [Full publications](https://igomezv.github.io/full_papers/)
+- [Scientific software](https://igomezv.github.io/code/)
+- [Full presentations](https://igomezv.github.io/full_presentations/)
 
 ## Code
 

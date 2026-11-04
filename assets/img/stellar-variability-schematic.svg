@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">From stellar observations to interpretable models of variability</title>
+  <desc id="desc">Light curves and power spectra feed interpretable and probabilistic models, which support stellar characterization and weak-signal validation. This is a research schematic, not measured results.</desc>
+  <rect width="960" height="280" rx="18" fill="#f4f7fa"/>
+  <g fill="#fff" stroke="#bdccd8" stroke-width="2">
+    <rect x="22" y="36" width="202" height="206" rx="12"/>
+    <rect x="271" y="36" width="202" height="206" rx="12"/>
+    <rect x="520" y="36" width="202" height="206" rx="12"/>
+    <rect x="769" y="36" width="169" height="206" rx="12"/>
+  </g>
+  <g fill="#234b63" font-family="Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="middle">
+    <text x="123" y="78">Light curves</text>
+    <text x="372" y="78">Power spectra</text>
+    <text x="621" y="76">Interpretable &amp;</text>
+    <text x="621" y="99">probabilistic models</text>
+    <text x="853" y="76">Stellar</text>
+    <text x="853" y="99">characterization</text>
+  </g>
+  <g fill="none" stroke="#307da0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 173 L61 169 L74 186 L85 134 L95 175 L110 168 L124 150 L139 180 L153 176 L165 133 L177 168 L204 171"/>
+    <path d="M291 191 L310 190 L327 184 L341 144 L352 173 L364 111 L376 169 L388 179 L403 139 L416 186 L453 191"/>
+    <path d="M540 160 Q561 130 581 156 T622 155 T663 155 T701 147"/>
+    <path d="M540 184 Q561 154 581 180 T622 179 T663 179 T701 171" opacity=".45"/>
+    <circle cx="853" cy="159" r="28"/>
+    <path d="M839 160 L849 170 L868 145"/>
+  </g>
+  <g fill="#567081" font-family="Arial, sans-serif" font-size="13" text-anchor="middle">
+    <text x="123" y="217">Kepler · TESS · PLATO</text>
+    <text x="372" y="217">Shared structure</text>
+    <text x="621" y="217">Variability &amp; uncertainty</text>
+    <text x="853" y="211">Weak-signal</text>
+    <text x="853" y="228">validation</text>
+  </g>
+  <g fill="#307da0">
+    <path d="M237 139 l19 0 -7 -7 2 -2 12 10 -12 10 -2 -2 7 -7 -19 0z"/>
+    <path d="M486 139 l19 0 -7 -7 2 -2 12 10 -12 10 -2 -2 7 -7 -19 0z"/>
+    <path d="M735 139 l19 0 -7 -7 2 -2 12 10 -12 10 -2 -2 7 -7 -19 0z"/>
+  </g>
+</svg>

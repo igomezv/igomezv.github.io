@@ -1,150 +1,41 @@
 ---
 layout: page
 title: Research
-
 ---
 
-My current research focuses on modelling stellar activity in radial-velocity and photometric data to support exoplanet detection. I use machine learning and Bayesian inference to develop and assess these methods, building on earlier work in cosmology. I welcome collaborations in these areas.
+## Research Overview
 
+My research lies at the intersection of astrophysics, machine learning, and statistical inference. I develop methods to recover weak physical signals from complex astronomical observations, with particular attention to uncertainty, interpretability, and validation against real data. I began with neural-network reconstruction and Bayesian inference in cosmology and now work on precision stellar spectroscopy, exoplanet detection, and stellar variability.
 
-- [Publications](#selected-publications)
-- [Software](#selected-software)
-- [Presentations](#selected-presentations)
+My distinctive approach combines physically informed representations with neural networks, evolutionary optimization, and probabilistic generative models. I develop open-source tools and test whether their predictions remain reliable under realistic observing conditions. My independent research direction is to connect spectroscopic and photometric descriptions of stellar variability, so that we can better characterize stars and distinguish their signals from those of planets.
 
------
+## Precision Spectroscopy and Exoplanet Detection
 
-## Selected Publications
+How can we distinguish the tiny Doppler signature of a planet from changes in a star's spectrum? During my postdoctoral work at the University of Geneva, I developed deep-learning methods to infer Doppler shifts directly from high-resolution stellar spectra. The approach uses physically motivated spectral representations and controlled planetary-signal injection–recovery experiments to assess what can actually be detected in real observations. This work led to [*doppleriann*](/code/#doppleriann) and a [lead-author study in *Astronomy & Astrophysics* (2026)](https://doi.org/10.1051/0004-6361/202659375), complementing [collaborative work on stellar-activity mitigation (Zhao et al., 2024)](https://doi.org/10.1051/0004-6361/202450022).
 
-[<u>View all publications</u>](https://igomezv.github.io/full_papers/).
+![Periodograms comparing conventional radial velocities with deep-learning Doppler-shift estimates for an injected planetary signal](/assets/img/doppleriann_periodogram.png){: .mx-auto.d-block :}
+*Injection–recovery test in HARPS-N solar spectra: the periodogram of deep-learning Doppler-shift estimates reveals an injected 100-day signal that is less apparent in conventional radial velocities ([Gómez-Vargas et al., 2026](https://doi.org/10.1051/0004-6361/202659375)).*
 
-| [<u>ADS</u>](https://scixplorer.org/public-libraries/T0oALfuqQqSqUArTO-Gl1Q) | [<u>Google Scholar</u>](https://scholar.google.com.mx/citations?user=c9OLfMcAAAAJ&hl=es) | [<u>ORCID</u>](https://orcid.org/0000-0002-6473-018X) | [<u>ResearchGate</u>](https://www.researchgate.net/profile/Isidro-Gomez-Vargas) | [<u>WoS</u>](https://www.webofscience.com/wos/author/record/GYD-5531-2022) | [<u>arXiv</u>](https://arxiv.org/search/?searchtype=author&query=G%C3%B3mez-Vargas%2C+I) |
-<br>
+I also contribute deep-learning and generative-modelling expertise to the [SpeckleNet collaboration on high-contrast exoplanet imaging](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html). Together, these projects motivate methods for validating weak planetary signals across complementary observing techniques.
 
-### Lead-Author Publications
+## Stellar Variability and Asteroseismology
 
-For the complete list, see [<u>Led and co-led</u>](https://igomezv.github.io/full_papers/#led-and-co-led).
+My current work asks what the variability of a star can tell us about its physical state, and how to describe that variability without mistaking it for a planetary signal. I investigate interpretable, data-driven models of stellar power spectra, including symbolic regression, alongside probabilistic generative models for heterogeneous stellar light curves. These approaches aim to identify shared patterns while retaining differences between stars and observing conditions, with applications to Kepler, TESS, and the forthcoming PLATO mission. Preliminary work on residual structure in stellar backgrounds was [presented at TASC10/KASC17 (2026)](https://doi.org/10.5281/zenodo.21281645).
 
-- [**Gómez-Vargas, I.**, Dumusque, X., Zhao, Y., Al Moulla, K. & Cretignier, M. (2026). Modeling Doppler Shifts in radial-velocity data with deep learning toward Earth-mass exoplanet detection. Astronomy & Astrophysics. 712, A31.](https://doi.org/10.1051/0004-6361/202659375) <br>
-<span class="publication-contributions" markdown="span">**Role:** Lead and corresponding author. Developed the deep-learning framework and the associated [doppleriann Python library](https://github.com/igomezv/doppleriann), and conducted the analysis. <br>
-**Contribution to the field:** Developed and validated a physically motivated deep-learning framework for recovering and characterising weak planetary Doppler signals from real solar spectra. In cross-validation tests on HARPS-N observations with injected signals, the best-performing model recovered amplitudes, phases, and periods for signals with amplitudes down to 25 cm/s and periods of 10–550 days. The study compared temperature- and flux-based spectral representations and assessed predictive uncertainty and generalisation to unseen spectra, supporting progress towards Earth-mass planet detection.</span>
+![Research schematic linking stellar light curves and power spectra to interpretable and probabilistic models](/assets/img/stellar-variability-schematic.svg){: .mx-auto.d-block :}
+*Research direction: use photometric light curves and their power spectra to build interpretable, uncertainty-aware descriptions of stellar variability; connect these descriptions to the validation of weak signals.*
 
-- [**Gómez-Vargas, I.**, & Vázquez, J. A. (2024). Deep learning and genetic algorithms for cosmological Bayesian inference speed-up. Physical Review D. 110(8), 083518.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.110.083518) <br>
-<span class="publication-contributions" markdown="span">**Role:** Lead and corresponding author. Developed and implemented the inference framework, conducted the data analysis, and created the associated [neuralike Python library](https://github.com/igomezv/neuralike). <br>
-**Contribution to the field:** Introduced an approach to accelerating cosmological Bayesian inference by training neural networks to approximate likelihood functions on-the-fly during nested sampling, using the current live points without pretraining. Genetic algorithms guide the initial network architecture, and the neural network replaces the original likelihood function once sufficient accuracy is achieved. Tests across dark-energy models and observational datasets demonstrate the method’s applicability to different inference problems.</span>
+This line extends my earlier work on uncertainty-aware inference and generative models into stellar astrophysics. A longer-term goal is to relate photometric variability to spectroscopic activity indicators, improving both stellar characterization and exoplanet searches.
 
-- [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
-<span class="publication-contributions" markdown="span">**Role:** Lead author. Developed and implemented the methodology, conducted the analysis, and created the associated [nnogada framework](https://github.com/igomezv/nnogada). <br>
-**Contribution to the field:** Introduced genetic-algorithm optimisation of neural-network architectures for cosmological regression problems, where even small prediction errors can matter for physical interpretation. Across distance-modulus reconstruction, quintessence equation-of-state inference, and photometric-redshift prediction, the optimised networks achieved better predictive performance than those selected through exhaustive grid searches. The study established systematic hyperparameter selection as a practical means of improving the precision of neural-network modelling in cosmology.</span>
+## Astrophysical Statistical Inference
 
-- [**Gómez-Vargas, I.**, Vázquez, J. A., Esquivel, R. M., & García-Salcedo, R. (2023). Neural network reconstructions for the Hubble parameter, growth rate and distance modulus. European Physical Journal C. 83(4), 304.](https://doi.org/10.1140/epjc/s10052-023-11435-9) <br>
-<span class="publication-contributions" markdown="span">**Role:** Lead author. Developed and implemented the reconstruction methodology and created the associated [software](https://github.com/igomezv/neuralCosmoReconstruction). <br>
-**Contribution to the field:** Introduced a neural-network framework for reconstructing cosmological functions from small observational datasets with minimal theoretical and statistical assumptions. Applications to the Hubble parameter, growth rate, and supernova distance modulus demonstrated its use for data-driven reconstruction and consistency checks against the original observations. The study also explored variational autoencoders as a first step towards generating synthetic covariance matrices that represent observational correlations.</span>
+A third strand of my research develops flexible and computationally efficient methods for reconstructing observables and inferring physical parameters from astronomical data. Much of this work began in cosmology, but the underlying questions—how to use small datasets, quantify uncertainty, and accelerate expensive inference—also guide my work in stellar astrophysics.
 
+I developed neural-network reconstructions of the Hubble parameter, growth rate, and supernova distance modulus, including uncertainty estimates from Monte Carlo dropout ([Gómez-Vargas et al., 2023, *EPJC*](https://doi.org/10.1140/epjc/s10052-023-11435-9)). I then created [*nnogada*](/code/#nnogada), which uses genetic algorithms to optimize neural-network architectures ([Gómez-Vargas et al., 2023, *PRD*](https://doi.org/10.1103/PhysRevD.107.043509)). Related co-led studies apply data-driven reconstruction to [Rubin Observatory supernova simulations](/full_papers/#led-and-co-led) and [galaxy rotation curves](/full_papers/#led-and-co-led); implementations are collected under [ANN Reconstructions](/code/#ann-reconstructions).
 
-### Collaborative Publications
+![Neural networks optimized with genetic algorithms for cosmological modelling](/assets/img/nnogada.png){: .mx-auto.d-block :}
+*Architecture optimization with genetic algorithms provides a systematic way to select neural networks for precision reconstruction and inference ([Gómez-Vargas et al., 2023](https://doi.org/10.1103/PhysRevD.107.043509)).*
 
-For the complete list, see [<u>Collaborative</u>](https://igomezv.github.io/full_papers/#collaborative).
+For Bayesian parameter estimation, I contributed sampling and convergence tools to [*SimpleMC*](/code/#simplemc) and developed [*neuralike*](/code/#neuralike), which uses neural-network surrogates to accelerate expensive likelihood evaluations ([Gómez-Vargas & Vázquez, 2024, *PRD*](https://doi.org/10.1103/PhysRevD.110.083518)). My collaborative work includes analyses of dark-energy models and the [CosmoVerse White Paper](/full_papers/#collaborative), as well as machine-learning studies of dark-matter halos and generative modelling of N-body simulations with [*NCosmoVAE*](/code/#ncosmovae). These experiences inform my ongoing development of probabilistic methods for stellar data.
 
-- [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. <i>Physics of the Dark Universe</i>, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X) <br>
-<span class="publication-contributions" markdown="span">**Role:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64. <br>
-**Contribution to the field:** The white paper synthesises observational tensions in cosmology, possible systematic effects, proposed new physics, and emerging analysis methods, providing a research roadmap for the coming decade.</span>
-
-- [Zhao, Y., Dumusque, X., Cretignier, M., Cameron, A. C., Latham, D. W., López-Morales, M., Mayor, M., Sozzetti, A., Cosentino, R., **Gómez-Vargas, I.**, Pepe, F., & Udry, S. (2024). Improving Earth-like planet detection in radial velocity using deep learning. Astronomy & Astrophysics. 687, A281.](https://doi.org/10.1051/0004-6361/202450022) <br>
-<span class="publication-contributions" markdown="span">**Role:** Reviewed the manuscript and contributed to methodological discussions of neural-network approaches for radial-velocity-based exoplanet detection. <br>
-**Contribution to the field:** Demonstrated the use of convolutional neural networks to model stellar activity from spectral-line profile variations, improving sensitivity to weak planetary signals. Applications to Alpha Centauri B, Tau Ceti, and HARPS-N solar observations illustrated the potential of deep learning for activity mitigation in radial-velocity searches.</span>
-
-
------
-## Selected Software
-
----
-
-[<u>View all software projects</u>](https://igomezv.github.io/code/). Repositories are also available on my [<u>GitHub profile</u>](https://github.com/igomezv).
-
-### doppleriann
-
-**Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
-
-`doppleriann` is a Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It implements the framework presented in our paper [Gómez-Vargas et al. (2026). A&A, 712, A31.](https://doi.org/10.1051/0004-6361/202659375)
-
-- GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
-- Documentation: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
-
-![Figura](https://igomezv.github.io/assets/img/doppleriann_workflow.png){: .mx-auto.d-block :}
-![Figura](https://igomezv.github.io/assets/img/doppleriann_periodogram.png){: .mx-auto.d-block :}
-
-
----
-
-### nnogada
-
-**Neural networks optimised with genetic algorithms for data-driven inference and reconstruction.**
-
-`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modelling, reconstruction, and parameter inference in astrophysical and cosmological applications.
-
-**Links**
-
-- GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
-- Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/nnogada.png){: .mx-auto.d-block :}
-
-**Projects using `nnogada`**
-
-- [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)  
-- [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)  
-- [igomezv/neuralike](https://github.com/igomezv/neuralike)  
-
----
-
-### neuralike
-
-**Deep-learning surrogate models for faster cosmological Bayesian inference.**
-
-`neuralike` combines deep-learning surrogate models with genetic-algorithm optimisation to accelerate Bayesian inference in cosmology by approximating computationally expensive likelihood evaluations.
-
-**Links**
-
-- GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
-- Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
-
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
-
-
----
-
-### SimpleMC
-
-**Cosmological parameter inference toolkit for Bayesian analysis and statistical sampling.**
-
-`SimpleMC` is a cosmological parameter estimation framework originally developed by Dr. A. Slosar and Dr. J. A. Vázquez. Between **2019 and 2023**, I contributed to the development and maintenance of the codebase, including nested sampling implementations, convergence criteria for Metropolis–Hastings algorithms, post-processing utilities, and additional analysis modules.
-
-**Links**
-
-- GitHub repository: [ja-vazquez/SimpleMC](https://github.com/ja-vazquez/SimpleMC)  
-- Documentation: [igomezv/SimpleMC/Docs](https://igomezv.github.io/SimpleMC)  
-- Workshop/tutorial: [igomezv/simplemc_workshop](https://github.com/igomezv/simplemc_workshop)  
-
-![Figura](https://igomezv.github.io/assets/img/triangleSimplemc.png){: .mx-auto.d-block :}
-
-
------
-## Selected Presentations
------
-
-Invited talks, conference presentations, and seminars.
-[<u>View all presentations, including posters</u>](https://igomezv.github.io/full_presentations/).
-
-- **2026**
-	- [Talk] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://asteroseismology.iaa.es/inma-meeting) INMA kick-off meeting, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [Hybrid].
-	- [Seminar] [*Deep learning for small astrophysical datasets: from cosmology to exoplanet detection*.](https://www.iaa.csic.es/evento/deep-learning-for-small-astrophysical-datasets-from-cosmology-to-exoplanet-detection/) Institutional seminar, Instituto de Astrofísica de Andalucía (IAA-CSIC), Granada, Spain. [On-site].
-- **2025**
-	- [Talk] [*Deep Learning strategies for detecting Earth-size exoplanets in HARPS-N stellar spectra*.](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-270.html), EPSC-DPS 2025, Helsinki, Finland. [On-site].
-	- [Talk] [*Reaching the 10 cm/s planetary detection limit on HARPS-N solar data using deep learning*.](https://www.iastro.pt/research/conferences/eprv6/EPRV6-programme.pdf) The Sixth Workshop on Extremely Precise Radial Velocities (EPRV 6), Porto, Portugal. [On-site].
-	- [Invited seminar] [*Machine learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://www.ice.csic.es/research/seminars-congresses?view=article&id=599:pizzaseminars-2024-2025&catid=12#:~:text=Machine%20Learning%20for%20Small%20Astrophysical%20Datasets) Pizza Seminar, Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. [On-site].
-	- [Invited talk] [*Deep learning for small astrophysical datasets: applications in cosmology and exoplanets*.](https://pacif-ics.com/international-conference-on-gravitation-cosmology-astrophysics-and-space-sciences-icgcas-2025/) ICGCAS-2025, PICS, Odisha, India. [Online].
-- **2024**
-	- [Seminar] [*Machine Learning for Astrophysical Data Analysis and Stellar Spectra Modeling*](https://www.unige.ch/sciences/astro/exoplanets/), Exoplanet Group Seminar, University of Geneva, Geneva, Switzerland. [On-site].
-	- [Invited talk] [*Aceleración de la Inferencia Bayesiana mediante Redes Neuronales y Algoritmos Genéticos*](https://www.fis.unam.mx/mini_workshopIII/), III Mini Workshop on HPC in Science and Engineering, ICF-UNAM, Cuernavaca, México. [Online].
-
-
+**Further information:** [Publications](/full_papers/) · [Scientific Software](/code/) · [Presentations](/full_presentations/) · [CV](/cv/)
