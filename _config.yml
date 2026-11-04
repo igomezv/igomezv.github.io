@@ -6,9 +6,10 @@ navbar-links:
    CV: "cv"
    Research: "research" 
 #   Contact: "contact" 
+   Code: "code"
    Teaching: "teaching"
    Outreach: "outreach"
-   Code: "code"
+ 
 # Other: "other"	
 
     
