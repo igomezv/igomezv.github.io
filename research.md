@@ -23,17 +23,17 @@ As an MSCA-COFUND ALLIES fellow at IAA-CSIC, jointly affiliated with ICE-CSIC, I
 
 *Stellar power-spectrum reconstruction using symbolic regression (SR), compared with neural-network (NN) and Gaussian-process (GP) residual models. The lower panel shows residuals in log power ([TASC10/KASC17 poster, 2026](https://doi.org/10.5281/zenodo.21281645)).*
 
-My longer-term goal is to connect photometric variability with spectroscopic activity indicators to improve stellar characterization and exoplanet searches. I also contribute deep-learning and generative-modelling methods to the [SpeckleNet collaboration on high-contrast exoplanet imaging](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html), extending this work across complementary observing techniques.
+My longer-term goal is to connect photometric variability with spectroscopic activity indicators to improve stellar characterisation and exoplanet searches. I also contribute deep-learning and generative-modelling methods to the [SpeckleNet collaboration on high-contrast exoplanet imaging](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html), extending this work across complementary observing techniques.
 
 ## Astrophysical Statistical Inference
 
 I develop data-driven methods for reconstructing astrophysical observables and efficiently inferring physical parameters. Much of this work originated in cosmology during my PhD at IPN and postdoctoral research at UNAM, addressing challenges in limited datasets, uncertainty quantification, and computationally expensive inference.
 
-I developed neural-network reconstructions of the Hubble parameter, growth rate, and supernova distance modulus, with uncertainties estimated using Monte Carlo dropout ([Gómez-Vargas et al., 2023, *EPJC*](https://doi.org/10.1140/epjc/s10052-023-11435-9)). I then developed [*nnogada*](/code/#nnogada), using genetic algorithms to optimize neural-network architectures ([Gómez-Vargas et al., 2023, *PRD*](https://doi.org/10.1103/PhysRevD.107.043509)). Related co-led studies addressed dark-energy reconstruction with [simulated Rubin Observatory supernova data (Mitra et al., 2024)](https://www.sciencedirect.com/science/article/pii/S2212686424002887) and [galaxy rotation curves (Garcia-Arroyo et al., 2026)](https://www.sciencedirect.com/science/article/pii/S2212686426000294). Associated codes are available under [ANN Reconstructions](/code/#ann-reconstructions).
+I developed neural-network reconstructions of the Hubble parameter, growth rate, and supernova distance modulus, with uncertainties estimated using Monte Carlo dropout ([Gómez-Vargas et al., 2023, *EPJC*](https://doi.org/10.1140/epjc/s10052-023-11435-9)). I then developed [*nnogada*](/code/#nnogada), using genetic algorithms to optimise neural-network architectures ([Gómez-Vargas et al., 2023, *PRD*](https://doi.org/10.1103/PhysRevD.107.043509)). Related co-led studies addressed dark-energy reconstruction with [simulated Rubin Observatory supernova data (Mitra et al., 2024)](https://www.sciencedirect.com/science/article/pii/S2212686424002887) and [galaxy rotation curves (Garcia-Arroyo et al., 2026)](https://www.sciencedirect.com/science/article/pii/S2212686426000294). Associated codes are available under [ANN Reconstructions](/code/#ann-reconstructions).
 
-![Neural networks optimized with genetic algorithms for cosmological modelling](/assets/img/nnogada.png){: .mx-auto.d-block :}
+![Neural networks optimised with genetic algorithms for cosmological modelling](/assets/img/nnogada.png){: .mx-auto.d-block :}
 
-*Genetic-algorithm optimization of neural-network architectures for cosmological reconstruction and inference ([Gómez-Vargas et al., 2023](https://doi.org/10.1103/PhysRevD.107.043509)).*
+*Genetic-algorithm optimisation of neural-network architectures for cosmological reconstruction and inference ([Gómez-Vargas et al., 2023](https://doi.org/10.1103/PhysRevD.107.043509)).*
 
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
   <img src="/assets/img/rec1.png" alt="Neural-network reconstruction of cosmological distance observations with uncertainty estimates" style="width:48%; min-width:280px; height:auto; object-fit:contain;" />

@@ -33,7 +33,7 @@ Thesis: *Reconstruction of SNIa distance modulus with Gaussian processes*. <br>
 Co-supervised with Ricardo García Salcedo.</span>
     
 - **José Luis López López** (2021–2023). <br>
-<span class="publication-contributions" markdown="span">Master's degree in Process Modeling and Optimization, CIMAT Aguascalientes. <br>
+<span class="publication-contributions" markdown="span">Master's degree in Process Modelling and Optimisation, CIMAT Aguascalientes. <br>
 Thesis: *Prediction of skateboard tricks in images using neural networks*. <br>
 Co-supervised with Liliana Guadarrama Bustos.</span>
   
@@ -115,7 +115,7 @@ Specialisation course (30 hours). <br>
 [Course materials](https://github.com/igomezv/DataScienceIntermedio).</span>
 - **[Deep Learning](https://www.dropbox.com/scl/fi/wxlf5msmiaore86mxil1t/DL-CIMAT-Dr.-Isidro-G-mez-Vargas.pdf?rlkey=4up7wo5ht9ymsg80qkf0rbbcd&st=2xo7r8mx&dl=0).** <br>
 <span class="publication-contributions" markdown="span">2022, Centro de Investigación en Matemáticas (CIMAT), Aguascalientes, Mexico. <br>
-Master's degree in Process Modeling and Optimization. <br>
+Master's degree in Process Modelling and Optimisation. <br>
 Co-taught with Liliana Guadarrama Bustos (45 hours). <br>
 [Course materials](https://github.com/igomezv/DLCIMATAGS).</span>
 - [**Intermediate Data Science.**](https://www.dropbox.com/scl/fi/p89n9sgpty2qdceejzfpo/curso_DS_dgtic_23.pdf?rlkey=s28v7652hehwrnbrclb1hkii2&st=q4pyw6yr&dl=0) <br>

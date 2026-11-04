@@ -59,7 +59,7 @@ Complete list of publications.
 
 [**Gómez-Vargas, I.**, Andrade, J. B., & Vázquez, J. A. (2023). Neural networks optimized by genetic algorithms in cosmology. Physical Review D. 107(4), 043509.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509) <br>
 <span class="publication-contributions" markdown="span">**Role:** Lead author. Developed and implemented the methodology, conducted the analysis, and created the associated [nnogada framework](https://github.com/igomezv/nnogada). <br>
-**Contribution to the field:** Used genetic algorithms to optimize neural-network architectures for cosmological regression. Across distance-modulus reconstruction, quintessence inference, and photometric-redshift prediction, the optimized networks outperformed those selected by grid search.</span>
+**Contribution to the field:** Used genetic algorithms to optimise neural-network architectures for cosmological regression. Across distance-modulus reconstruction, quintessence inference, and photometric-redshift prediction, the optimised networks outperformed those selected by grid search.</span>
 
 </li>
 <li markdown="1">
@@ -102,7 +102,7 @@ Complete list of publications.
 
 [Di Valentino, E., et al. (including **Gómez-Vargas, I.**) (2025). The CosmoVerse White Paper: Addressing observational tensions in cosmology with systematics and fundamental physics. *Physics of the Dark Universe*, 101965.](https://www.sciencedirect.com/science/article/pii/S221268642500158X)<br>
 <span class="publication-contributions" markdown="span">**Role:** Contributed to Sections 3.3 and 3.4 on reconstruction techniques and bioinspired algorithms, including the neural-network reconstruction results shown in Fig. 64. <br>
-**Contribution to the field:** Synthesizes observational tensions, systematic effects, proposed new physics, and emerging analysis methods into a roadmap for cosmology.</span>
+**Contribution to the field:** Synthesises observational tensions, systematic effects, proposed new physics, and emerging analysis methods into a roadmap for cosmology.</span>
 
 </li>
 <li markdown="1">

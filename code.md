@@ -18,7 +18,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
 
-`doppleriann` is Python package for modeling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper: [doi.org/10.1051/0004-6361/202659375](https://doi.org/10.1051/0004-6361/202659375).
+`doppleriann` is Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper: [doi.org/10.1051/0004-6361/202659375](https://doi.org/10.1051/0004-6361/202659375).
 
 - Library GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
 - Docs: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
@@ -44,9 +44,9 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 ### nnogada
 
-**Neural networks optimized with genetic algorithms for data-driven inference and reconstruction.**
+**Neural networks optimised with genetic algorithms for data-driven inference and reconstruction.**
 
-`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modeling, reconstruction, and parameter inference in astrophysical and cosmological applications.
+`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modelling, reconstruction, and parameter inference in astrophysical and cosmological applications.
 
 **Links**
 
@@ -67,7 +67,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Bayesian inference for accelerating cosmological likelihood evaluations.**
 
-`neuralike` implements deep-learning surrogate models combined with genetic-algorithm optimization to accelerate Bayesian inference workflows in cosmology, particularly for computationally expensive likelihood evaluations within sampling pipelines.
+`neuralike` implements deep-learning surrogate models combined with genetic-algorithm optimisation to accelerate Bayesian inference workflows in cosmology, particularly for computationally expensive likelihood evaluations within sampling pipelines.
 
 **Links**
 
@@ -82,7 +82,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Neural-network cosmological reconstructions with uncertainty quantification.**
 
-Collection of Python implementations for model-independent reconstruction of cosmological observables using artificial neural networks, Monte Carlo Dropout uncertainty estimation, and hyperparameter optimization techniques.
+Collection of Python implementations for model-independent reconstruction of cosmological observables using artificial neural networks, Monte Carlo Dropout uncertainty estimation, and hyperparameter optimisation techniques.
 
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
   <img src="https://igomezv.github.io/assets/img/rec1.png" style="width:48%; height:auto;" />
@@ -100,9 +100,9 @@ Collection of Python implementations for model-independent reconstruction of cos
 
 ## NCosmoVAE
 
-**Variational autoencoders for fast generative modeling of cosmological N-body simulations.**
+**Variational autoencoders for fast generative modelling of cosmological N-body simulations.**
 
-Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realizations. Hyperparameter optimization with genetic algorithms using the `optuna` Python library.
+Variational autoencoder framework trained on **N-body cosmological simulations** to generate realistic dark matter halo realisations. Hyperparameter optimisation with genetic algorithms using the `optuna` Python library.
 
 **Links**
 

@@ -6,7 +6,7 @@ title: CV
 
 
 - [Research positions](#research-positions)
-- [Honors and memberships](#honors-and-memberships)
+- [Honours and memberships](#honors-and-memberships)
 - [Research visits](#research-visits)
 - [Education](#education)
 - [Observational experience](#observational-experience)
@@ -45,7 +45,8 @@ Funded by the CONACYT National Postdoctoral Grant. <br>
   
   
 ---
-# Honors and memberships
+# Honours and memberships
+{: #honors-and-memberships }
 
 ---
 
@@ -141,8 +142,8 @@ Duration: 192 hours.</span>
 - **Book reviewer**: CRC Press (2025).
 - **Grant evaluator**: [*Internal Research Grants Programme*, University of Malta (2025)](https://www.dropbox.com/scl/fi/efw1yucijonrxu12g69mp/Malta_Reviewer_Certification.pdf?rlkey=vtkbl05zebisyvw1z36u51c7u&st=hhzv4mt8&dl=0), and CONACYT postdoctoral grants (2023).
 
-### Event organization and chairing
+### Event organisation and chairing
 
 - **2026. Meeting Chair**, [INMA kick-off meeting](https://asteroseismology.iaa.es/inma-meeting), Instituto de Astrofísica de Andalucía (IAA-CSIC).
-- [**2023. Organizer and Chair**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0),[II Mini Workshop on HPC in Science and Engineering.](https://www.fis.unam.mx/mini_workshop/), Instituto de Ciencias Físicas, UNAM. <br>
+- [**2023. Organiser and Chair**](https://www.dropbox.com/scl/fi/hqd5x1x9bx21g5m8l6pwl/curso_workshop_HPC_organizacion.pdf?rlkey=ngr8128lcy3y28ztnikcyxkjt&st=y1rbk40t&dl=0),[II Mini Workshop on HPC in Science and Engineering.](https://www.fis.unam.mx/mini_workshop/), Instituto de Ciencias Físicas, UNAM. <br>
 - **2023. Seminar Chair**, Computational Physics and Gravitation Group Seminar, Instituto de Ciencias Físicas, UNAM.
