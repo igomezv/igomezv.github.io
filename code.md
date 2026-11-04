@@ -9,7 +9,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 - [SimpleMC](#simplemc)
 - [nnogada](#nnogada)
 - [neuralike](#neuralike)
-- [Cosmo Reconstructions](#ann-reconstructions)
+- [ANN Reconstructions](#ann-reconstructions)
 - [NCosmoVAE](#ncosmovae)
 
 ---
@@ -18,7 +18,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
 
-`doppleriann` is Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper: [doi.org/10.1051/0004-6361/202659375](https://doi.org/10.1051/0004-6361/202659375).
+`doppleriann` is a Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper: [doi.org/10.1051/0004-6361/202659375](https://doi.org/10.1051/0004-6361/202659375).
 
 - Library GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
 - Docs: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
