@@ -93,7 +93,7 @@ Host: Ulises Nucamendi.</span>
 - **PhD in Advanced Technology (02/2021)**. <br>
 <span class="publication-contributions" markdown="span">CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br>
 Associate PhD student at the Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
-[PhD thesis: *Artificial Neural Networks in Bayesian Inference*.](https://www.academia.edu/49505808/Artificial_neural_networks_in_Bayesian_inference) <br>
+[PhD thesis: *Artificial Neural Networks in Bayesian Inference*.](https://www.fis.unam.mx/~javazquez/files/Thesis/Isidro_thesis.pdf) <br>
 Advisors: Ricardo García Salcedo and José Alberto Vázquez.</span>
 
 - **Master's degree in Advanced Technology (2017)**. <br>
