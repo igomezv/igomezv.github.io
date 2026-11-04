@@ -8,6 +8,8 @@ title: Research
 
 My research lies at the intersection of astrophysics, machine learning, and statistical inference. I develop data-driven methods to extract physical information from complex astronomical observations, with particular attention to uncertainty, interpretability, and the reliable recovery of weak signals. My work began with neural-network reconstruction and Bayesian inference in cosmology and has expanded into precision stellar spectroscopy, exoplanet detection, and the characterization of stellar variability. Across these applications, I combine neural networks, evolutionary optimization, probabilistic generative models, and physically informed validation, with an emphasis on reproducible, open-source scientific software.
 
+**Further information:** [Publications](/full_papers/) · [Scientific Software](/code/) · [Presentations](/full_presentations/) · [CV](/cv/)
+
 ## Stellar Variability and Exoplanet Detection
 
 How can we distinguish the tiny Doppler signature of a planet from changes in a star's spectrum? During my postdoctoral work at the University of Geneva, I developed deep-learning methods to infer Doppler shifts directly from high-resolution stellar spectra. The approach uses physically motivated spectral representations and controlled planetary-signal injection–recovery experiments to assess what can actually be detected in real observations. This work led to [*doppleriann*](/code/#doppleriann) and a [lead-author study in *Astronomy & Astrophysics* (2026)](https://doi.org/10.1051/0004-6361/202659375), complementing [collaborative work on stellar-activity mitigation (Zhao et al., 2024)](https://doi.org/10.1051/0004-6361/202450022).
