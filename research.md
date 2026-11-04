@@ -19,6 +19,10 @@ During my postdoctoral work at the University of Geneva, I developed deep-learni
 
 As an MSCA-COFUND ALLIES fellow at IAA-CSIC, with a joint affiliation at ICE-CSIC, I investigate what stellar variability reveals about a star's physical state and how best to describe it. I use symbolic regression to develop interpretable models of stellar power spectra in the frequency domain, alongside probabilistic generative models of heterogeneous light curves in the time domain. These approaches aim to identify shared patterns while retaining differences between stars and observing conditions, with applications to Kepler, TESS, and the forthcoming PLATO mission. I [presented preliminary work on residual structure in stellar backgrounds at TASC10/KASC17 (2026)](https://doi.org/10.5281/zenodo.21281645); a manuscript is in preparation for submission in November 2026.
 
+![Observed stellar power spectrum compared with a fitted baseline and symbolic-regression, neural-network, and Gaussian-process residual reconstructions](/assets/img/stellar-psd-sr-comparison.png){: .mx-auto.d-block :}
+
+*Stellar power-spectrum reconstruction using symbolic regression (SR), with neural-network (NN) and Gaussian-process (GP) residual models for comparison. The lower panel shows the residuals in log power. Figure from my [TASC10/KASC17 poster (2026)](https://doi.org/10.5281/zenodo.21281645).*
+
 This work extends my earlier experience with uncertainty-aware inference and generative models into stellar astrophysics. A longer-term goal is to relate photometric variability to spectroscopic activity indicators, improving both stellar characterization and exoplanet searches. I also contribute deep-learning and generative-modelling expertise to the [SpeckleNet collaboration on high-contrast exoplanet imaging](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html). Together, these activities connect stellar characterization with the validation of weak planetary signals across complementary observing techniques.
 
 ## Astrophysical Statistical Inference
