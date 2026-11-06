@@ -22,7 +22,7 @@ img {
 <p>
 Computational astrophysicist.
 
-Current research focus: stellar variability and exoplanet detection.
+Current research focus on stellar variability and exoplanet detection.
 </p>
 
 <p>
