@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-My research combines astrophysics, machine learning, and statistical inference to extract physical information from complex astronomical data, with an emphasis on uncertainty, interpretability, and weak-signal recovery. Beginning with neural-network reconstruction and Bayesian inference in cosmology, my work has expanded to stellar spectroscopy, exoplanet detection, and stellar variability. I develop and adapt neural-network, evolutionary, and probabilistic methods, prioritising physically informed validation, systematic hyperparameter optimisation, and uncertainty quantification. These methodological choices are essential for reliable astrophysical inference, where even small numerical biases can significantly affect the physical interpretation of results.
+My research focuses on developing machine-learning and statistical-inference methods to extract physical information from complex astronomical data, with particular attention to interpretability, uncertainty, and weak-signal recovery. Initially centred on cosmological reconstruction and Bayesian inference, my work has expanded to stellar spectroscopy, exoplanet detection, and stellar variability. I combine neural-network, evolutionary, and probabilistic approaches with systematic hyperparameter optimisation and physically informed validation to ensure reliable inference, particularly when small modelling biases can significantly affect the physical interpretation of results.
 
 **Further information:** [Publications](/full_papers/) · [Open-source code](/code/) · [Presentations](/full_presentations/) · [CV](/cv/)
 
