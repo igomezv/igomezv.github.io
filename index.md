@@ -20,9 +20,7 @@ img {
 <img src="https://igomezv.github.io/assets/img/isidro2mx.jpg" width="180" height="180">
 
 <p>
-Computational astrophysicist.
-
-Current research focus on stellar variability and exoplanet detection.
+Computational astrophysicist with a current research focus on stellar variability and exoplanet detection.
 </p>
 
 <p>
