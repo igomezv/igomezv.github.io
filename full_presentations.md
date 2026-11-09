@@ -5,7 +5,7 @@ title: Presentations
 ---
 
 - **2026**
-	- [Invited group talk] *Learning from Stellar Data: Inferring Doppler Shifts, Modelling Power Spectra, and Generating Light Curves*. Stellar Group Meeting, Centro de Astrofísica da Universidade do Porto (CAUP), Porto, Portugal. [On-site].
+	- [Invited group talk] [*Learning from Stellar Data: Inferring Doppler Shifts, Modelling Power Spectra, and Generating Light Curves*](https://astro.up.pt/caup/index.php?WID=133&CID=1&year=2026&Lang=uk). Stellar Group Meeting, Centro de Astrofísica da Universidade do Porto (CAUP), Porto, Portugal. [On-site].
 	- [Flash talk/poster] [*Characterizing stellar populations with symbolic and generative machine learning in the PLATO era*, 5th AIHUB Summer School](https://aihub.csic.es/en/summer-school-2026/). La Cristalera, Madrid, Spain. [On-site].
 	- [Poster] [*Beyond Harvey-like models: studying the shared residual structure of the stellar background*.](https://doi.org/10.5281/zenodo.21281645) TASC10/KASC17, Aarhus University. [Hybrid].
 	- [Poster] [*Linking Fractal Variability to Magnetic Cycles in Sun-like stars*.](https://doi.org/10.5281/zenodo.22343414) TASC10/KASC17, Aarhus University. [Hybrid].
