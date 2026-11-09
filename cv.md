@@ -63,6 +63,13 @@ Funded by the CONACYT National Postdoctoral Grant. <br>
 
 ---
 
+
+- **2026 (1 month, 3 November – 3 December) — Visiting researcher**. <br>
+<span class="publication-contributions" markdown="span">[Centro de Astrofísica da Universidade do Porto (CAUP)](https://astro.up.pt/caup/index.php?WID=133&CID=1&year=2026&Lang=uk), Porto, Portugal. <br>
+*Stellar Variability and Exoplanet Detection with Machine Learning*. <br>
+Secondment under the MSCA-COFUND ALLIES programme. <br>
+Host: Tiago Campante.</span>
+
 - **2025 (1 week) — Invited researcher**. <br>
 <span class="publication-contributions" markdown="span">Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. <br>
 *Deep Learning in Exoplanet Detection*. <br>
