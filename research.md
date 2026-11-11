@@ -7,11 +7,15 @@ title: Research
 - [Stellar Variability and Exoplanet Detection](#stellar-variability-and-exoplanet-detection)
 - [Astrophysical Statistical Inference](#astrophysical-statistical-inference)
 
+---
+
 ## Research Overview
 
 My research focuses on developing tailored methodologies and computational frameworks that integrate machine learning and statistical inference to extract reliable physical information from complex astronomical data. A central motivation throughout my work is to address the challenges posed by limited observations, measurement uncertainties, computational constraints, and weak signals. Initially centred on reconstructing cosmological observables and Bayesian inference, my research has expanded to stellar spectroscopy, exoplanet detection, and stellar variability. I combine neural-network, evolutionary, and probabilistic approaches with systematic hyperparameter optimisation and physically informed validation, where even small modelling biases can significantly affect the physical interpretation of results.
 
 **Further information:** [<u>Publications</u>](/full_papers/) · [<u>Open-source code</u>](/code/) · [<u>Presentations</u>](/full_presentations/) · [<u>CV</u>](/cv/)
+
+---
 
 ## Stellar Variability and Exoplanet Detection
 
@@ -28,6 +32,8 @@ As an MSCA-COFUND ALLIES fellow at IAA-CSIC, jointly affiliated with ICE-CSIC, I
 *Stellar power-spectrum reconstruction using symbolic regression (SR), compared with neural-network (NN) and Gaussian-process (GP) residual models. The lower panel shows residuals in log power ([TASC10/KASC17 poster, 2026](https://doi.org/10.5281/zenodo.21281645)).*
 
 My longer-term goal is to connect photometric variability with spectroscopic activity indicators to improve stellar characterisation and exoplanet searches. I also contribute generative-modelling expertise to the [SpeckleNet collaboration on high-contrast exoplanet imaging](https://meetingorganizer.copernicus.org/EPSC-DPS2025/EPSC-DPS2025-2087.html), extending this methodological work across complementary observing techniques.
+
+---
 
 ## Astrophysical Statistical Inference
 
