@@ -18,13 +18,15 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Doppler-shift Inference with Artificial Neural Networks (DopplerIANN)**
 
-`doppleriann` is a Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our paper: [doi.org/10.1051/0004-6361/202659375](https://doi.org/10.1051/0004-6361/202659375).
+`doppleriann` is a Python package for modelling Doppler shifts in high-resolution stellar spectra using physically motivated spectral-shell representations and deep learning. It contains the methodological framework presented in our [A&A paper](https://doi.org/10.1051/0004-6361/202659375).
 
 - Library GitHub repository: [igomezv/doppleriann](https://github.com/igomezv/doppleriann)
 - Docs: [doppleriann/Docs](https://igomezv.github.io/doppleriann/)
 
 ![Figura](https://igomezv.github.io/assets/img/doppleriann_workflow.png){: .mx-auto.d-block :}
 ![Figura](https://igomezv.github.io/assets/img/doppleriann_periodogram.png){: .mx-auto.d-block :}
+
+---
 
 ### SimpleMC
 
@@ -46,12 +48,13 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Neural networks optimised with genetic algorithms for data-driven inference and reconstruction.**
 
-`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modelling, reconstruction, and parameter inference in astrophysical and cosmological applications.
+`nnogada` (**Neural Networks Optimized by Genetic Algorithms in Data Analysis**) is a framework combining neural networks and genetic algorithms for flexible modelling, reconstruction, and parameter inference in astrophysical and cosmological applications. 
 
 **Links**
 
 - Library GitHub repository: [igomezv/nnogada](https://github.com/igomezv/nnogada)  
 - Documentation: [docs/nnogada](https://igomezv.github.io/nnogada)  
+- [PRD paper](https://doi.org/10.1103/PhysRevD.107.043509).
 
 ![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/nnogada.png){: .mx-auto.d-block :}
 
@@ -71,6 +74,7 @@ You can visit my [GitHub profile](https://github.com/igomezv) to explore additio
 
 **Links**
 
+- [PRD paper](https://doi.org/10.1103/PhysRevD.110.083518).
 - Library GitHub repository: [igomezv/neuralike](https://github.com/igomezv/neuralike)  
 - Integration with `SimpleMC` and nested sampling using `dynesty`: [igomezv/simplemc_tests](https://github.com/igomezv/simplemc_tests/tree/neuralike)  
 
@@ -92,9 +96,10 @@ Collection of Python implementations for model-independent reconstruction of cos
 **Repositories**
 
 - Unified reconstruction library: [igomezv/alp](https://github.com/igomezv/alp)
-- Galaxy rotation curves: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN)
-- LSST supernova simulations: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction)
-- Cosmological observables reconstruction: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction)
+- LSST supernova simulations: [igomezv/LSST_DE_neural_reconstruction](https://github.com/igomezv/LSST_DE_neural_reconstruction), [PDU paper](https://doi.org/10.1016/j.dark.2024.101706).
+- Galaxy rotation curves: [igomezv/Reconstructing-RC-with-ANN](https://github.com/igomezv/Reconstructing-RC-with-ANN), [PDU paper](https://doi.org/10.1016/j.dark.2026.102240).
+- Cosmological observables reconstruction: [igomezv/neuralCosmoReconstruction](https://github.com/igomezv/neuralCosmoReconstruction), [EPJC paper](https://doi.org/10.1140/epjc/s10052-023-11435-9).
+
 
 ---
 
