@@ -3,9 +3,15 @@ layout: page
 title: Research
 ---
 
+- [Research overview](#research-overview)
+- [Stellar Variability and Exoplanet Detection](#stellar-variability-and-exoplanet-detection)
+- [Astrophysical Statistical Inference](#astrophysical-statistical-inference)
+
+## Research Overview
+
 My research focuses on developing tailored methodologies and computational frameworks that integrate machine learning and statistical inference to extract reliable physical information from complex astronomical data. A central motivation throughout my work is to address the challenges posed by limited observations, measurement uncertainties, computational constraints, and weak signals. Initially centred on reconstructing cosmological observables and Bayesian inference, my research has expanded to stellar spectroscopy, exoplanet detection, and stellar variability. I combine neural-network, evolutionary, and probabilistic approaches with systematic hyperparameter optimisation and physically informed validation, where even small modelling biases can significantly affect the physical interpretation of results.
 
-**Further information:** [Publications](/full_papers/) · [Open-source code](/code/) · [Presentations](/full_presentations/) · [CV](/cv/)
+**Further information:** [<u>Publications</u>](/full_papers/) · [<u>Open-source code</u>](/code/) · [<u>Presentations</u>](/full_presentations/) · [<u>CV</u>](/cv/)
 
 ## Stellar Variability and Exoplanet Detection
 
@@ -29,9 +35,9 @@ My research in astrophysical statistical inference originated in cosmology durin
 
 I developed a [neural-network reconstruction methodology](/code/#ann-reconstructions) applied to the Hubble parameter, growth rate, and supernova distance modulus, incorporating Monte Carlo dropout to estimate uncertainties and examining statistical consistency with the observations ([Gómez-Vargas et al., 2023, *EPJC*](https://doi.org/10.1140/epjc/s10052-023-11435-9)). I subsequently developed [*nnogada*](/code/#nnogada), a framework that uses genetic algorithms to optimise neural-network architectures and evaluates their performance across distinct cosmological tasks ([Gómez-Vargas et al., 2023, *PRD*](https://doi.org/10.1103/PhysRevD.107.043509)). These two strategies served as the methodological foundation for co-led studies on dark-energy reconstruction with [simulated Rubin Observatory supernova data (Mitra et al., 2024)](https://www.sciencedirect.com/science/article/pii/S2212686424002887) and [galaxy rotation curves (Garcia-Arroyo et al., 2026)](https://www.sciencedirect.com/science/article/pii/S2212686426000294).
 
-![Neural networks optimised with genetic algorithms for cosmological modelling](/assets/img/nnogada.png){: .mx-auto.d-block :}
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
 
-*Genetic-algorithm optimisation of neural-network architectures for cosmological reconstruction and inference ([Gómez-Vargas et al., 2023](https://doi.org/10.1103/PhysRevD.107.043509)).*
+*Deep learning and genetic algorithms for cosmological Bayesian inference speed-up ([Gómez-Vargas et al., 2025](https://doi.org/10.1103/PhysRevD.110.083518)).*
 
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
   <img src="/assets/img/rec1.png" alt="Neural-network reconstruction of cosmological distance observations with uncertainty estimates" style="width:48%; min-width:280px; height:auto; object-fit:contain;" />
