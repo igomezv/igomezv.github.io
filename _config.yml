@@ -2,13 +2,14 @@ title: "Isidro GV"
 # Your name to show in the footer
 author: "Isidro Gómez-Vargas"
 # --- List of links in the navigation bar --- #
-navbar-links:
-   CV: "cv"
+navbar-links:ç
    Research: "research" 
+   Publications: "full_papers"
 #   Contact: "contact" 
    Code: "code"
-   Teaching: "teaching"
-   Outreach: "outreach"
+   CV: "cv"
+#   Teaching: "teaching"
+#      Outreach: "outreach"
  
 # Other: "other"	
 
