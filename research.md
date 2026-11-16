@@ -41,10 +41,6 @@ My research in astrophysical statistical inference originated in cosmology durin
 
 I developed a [neural-network reconstruction methodology](/code/#ann-reconstructions) applied to the Hubble parameter, growth rate, and supernova distance modulus, incorporating Monte Carlo dropout to estimate uncertainties and examining statistical consistency with the observations ([Gómez-Vargas et al., 2023, *EPJC*](https://doi.org/10.1140/epjc/s10052-023-11435-9)). I subsequently developed [*nnogada*](/code/#nnogada), a framework that uses genetic algorithms to optimise neural-network architectures and evaluates their performance across distinct cosmological tasks ([Gómez-Vargas et al., 2023, *PRD*](https://doi.org/10.1103/PhysRevD.107.043509)). These two strategies served as the methodological foundation for co-led studies on dark-energy reconstruction with [simulated Rubin Observatory supernova data (Mitra et al., 2024)](https://www.sciencedirect.com/science/article/pii/S2212686424002887) and [galaxy rotation curves (Garcia-Arroyo et al., 2026)](https://www.sciencedirect.com/science/article/pii/S2212686426000294).
 
-![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
-
-*Deep learning and genetic algorithms for cosmological Bayesian inference speed-up ([Gómez-Vargas et al., 2025](https://doi.org/10.1103/PhysRevD.110.083518)).*
-
 <div style="display:flex; justify-content:center; gap:15px; flex-wrap:wrap;">
   <img src="/assets/img/rec1.png" alt="Neural-network reconstruction of cosmological distance observations with uncertainty estimates" style="width:48%; min-width:280px; height:auto; object-fit:contain;" />
   <img src="/assets/img/rec2.png" alt="Supernova distance-modulus reconstruction with observational data and an uncertainty band" style="width:48%; min-width:280px; height:auto; object-fit:contain;" />
@@ -53,5 +49,10 @@ I developed a [neural-network reconstruction methodology](/code/#ann-reconstruct
 *Data-driven reconstructions of cosmological distance measurements and their uncertainties ([Gómez-Vargas et al., 2023](https://doi.org/10.1140/epjc/s10052-023-11435-9); [Mitra et al., 2024](https://www.sciencedirect.com/science/article/pii/S2212686424002887)).*
 
 I contributed to the development and maintenance of [*SimpleMC*](/code/#simplemc), particularly its sampling, optimisation, and convergence tools, and explored [genetic algorithms for cosmological parameter estimation (Medel Esquivel et al., 2023)](https://www.mdpi.com/2218-1997/10/1/11). Building on this experience, I implemented [*neuralike*](/code/#neuralike), an inference framework for accelerating Bayesian inference by dynamically training neural networks to approximate computationally expensive likelihood functions during nested sampling. *neuralike* trains neural networks directly on live points generated during nested sampling, without requiring a separate training phase, and employs genetic algorithms to optimise network architectures and explore improved initialisation of live points. ([Gómez-Vargas & Vázquez, 2024, *PRD*](https://doi.org/10.1103/PhysRevD.110.083518)).
+
+
+![Figura](https://raw.githubusercontent.com/igomezv/igomezv.github.io/main/assets/img/neuralike.png){: .mx-auto.d-block :}
+
+*Deep learning and genetic algorithms for cosmological Bayesian inference speed-up ([Gómez-Vargas et al., 2025](https://doi.org/10.1103/PhysRevD.110.083518)).*
 
 My collaborations also include machine-learning studies of [dark-matter halo structure (Chacón et al., 2023)](https://doi.org/10.1103/PhysRevD.107.123515) and [generative modelling of N-body simulations (Chacón-Lavanderos et al., 2026)](https://doi.org/10.1103/b6lj-rlff), as well as Bayesian analyses of cosmological models ([Vázquez et al., 2024](https://doi.org/10.1103/PhysRevD.109.023511); [Garcia-Salcedo et al., 2024](https://www.mdpi.com/2218-1997/10/9/353); [Tamayo et al., 2025](https://doi.org/10.1016/j.dark.2025.101901); [Chaudhary et al., 2026](https://doi.org/10.1140/epjc/s10052-026-15806-w)). I contributed to discussions of nonparametric reconstruction and metaheuristic methods in the [CosmoVerse White Paper (2025)](https://www.sciencedirect.com/science/article/pii/S221268642500158X). 
