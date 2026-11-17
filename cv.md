@@ -22,11 +22,11 @@ title: CV
 
 ---
 
-- **2025–present — Postdoctoral research fellow**. <br>
+- [**2025–present — Postdoctoral research fellow**.](https://www.iaa.csic.es/personal/#:~:text=Isidro%20Gomez%20Vargas) <br>
 <span class="publication-contributions" markdown="span">[Instituto de Astrofísica de Andalucía (IAA-CSIC)](https://www.iaa.csic.es/), Granada, Spain. <br>
 Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ice.csic.es/), Barcelona, Spain. <br>
 Funded by the *Horizon Europe MSCA-COFUND* <br>
-[ALLIES](https://cordis.europa.eu/project/id/101126626) programme (Grant Agreement No. 101126626). <br>
+[ALLIES programme (Grant Agreement No. 101126626)](https://cordis.europa.eu/project/id/101126626). <br>
 **Project:** [Machine Learning for Stellar Observations and Exoplanet Detection in Preparation for the PLATO Mission](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/). <br>
 **Supervisors:** Javier Pascual Granado and Aldo Serenelli.</span>
 
