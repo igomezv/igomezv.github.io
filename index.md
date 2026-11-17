@@ -25,7 +25,7 @@ Computational astrophysicist with a current research focus on stellar variabilit
 
 <p>
 Postdoctoral Research Fellow at
-<a href="https://www.iaa.csic.es/">IAA-CSIC</a>, through the <a href="https://aihub.csic.es/allies-cofund/">MSCA-COFUND ALLIES programme</a>, with <a href="https://www.ice.csic.es/">ICE-CSIC</a> as a joint host. Previous postdoctoral positions at the
+<a href="https://www.iaa.csic.es/">IAA-CSIC</a>, through the <a href="https://aihub.csic.es/allies-cofund/">MSCA-COFUND ALLIES programme</a>, with <a href="https://www.ice.csic.es/">ICE-CSIC</a> as a joint host. Previous research positions at the
 <a href="https://www.unige.ch/sciences/astro/exoplanets">University of Geneva</a>
 and
 <a href="https:/www.fis.unam.mx/">UNAM</a>.
