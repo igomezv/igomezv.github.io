@@ -30,7 +30,7 @@ Funded by the *Horizon Europe MSCA-COFUND* <br>
 **Project:** [Machine Learning for Stellar Observations and Exoplanet Detection in Preparation for the PLATO Mission](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/). <br>
 **Supervisors:** Javier Pascual Granado and Aldo Serenelli.</span>
 
-- [**2023–2025 — Postdoctoral researcher**.](https://www.unige.ch/sciences/astro/exoplanets/en/team/scientific-collaborators/gomez-vargas-isidro/) <br>
+- [**2023–2025 — Postdoctoral researcher**.](https://www.unige.ch/sciences/astro/exoplanets/team/former-members/gomez-vargas-isidro) <br>
 <span class="publication-contributions" markdown="span">Geneva Observatory, Department of Astronomy, University of Geneva, Switzerland. <br>
 [NCCR PlanetS, Swiss National Science Foundation.](https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/) <br>
 Funded by the SNSF SPECTRE project ([Grant No. 215200](https://data.snf.ch/grants/grant/215200); PI: Xavier Dumusque). <br>
