@@ -28,20 +28,20 @@ Joint affiliation: [Instituto de Ciencias del Espacio (ICE-CSIC)](https://www.ic
 Funded by the *Horizon Europe MSCA-COFUND* <br>
 [ALLIES programme (Grant Agreement No. 101126626)](https://cordis.europa.eu/project/id/101126626). <br>
 **Project:** [Machine Learning for Stellar Observations and Exoplanet Detection in Preparation for the PLATO Mission](https://aihub.csic.es/allies-cofund-big-data-analysis-techniques-applied-to-simulated-data-for-the-preparation-of-the-space-mission-plato/). <br>
-**Supervisors:** Javier Pascual Granado and Aldo Serenelli.</span>
+**Supervisors:** [Javier Pascual Granado](https://scholar.google.com/citations?user=_2zmif4AAAAJ&hl=es) and [Aldo Serenelli](https://sites.google.com/view/aserenelli/home).</span>
 
 - [**2023–2025 — Postdoctoral researcher**.](https://www.unige.ch/sciences/astro/exoplanets/team/former-members/gomez-vargas-isidro) <br>
 <span class="publication-contributions" markdown="span">Geneva Observatory, Department of Astronomy, University of Geneva, Switzerland. <br>
 [NCCR PlanetS, Swiss National Science Foundation.](https://nccr-planets.ch/de/team/gomez-vargas-isidro-dr/) <br>
 Funded by the SNSF SPECTRE project ([Grant No. 215200](https://data.snf.ch/grants/grant/215200); PI: Xavier Dumusque). <br>
 **Project:** Deep Learning for Exoplanet Detection in Radial-Velocity Measurements. <br>
-**Supervisor:** Xavier Dumusque.</span>
+**Supervisor:** [Xavier Dumusque](https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/xavier-dumusque).</span>
 
 - [**2021–2023 — Postdoctoral researcher**.](https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas) <br>
 <span class="publication-contributions" markdown="span">Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM), Mexico. <br>
 Funded by the CONACYT National Postdoctoral Grant. <br>
 **Project:** Statistical and Machine Learning Methods in Observational Cosmology. <br>
-**Supervisor:** José Alberto Vázquez.</span>
+**Supervisor:** [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
   
   
 ---
@@ -68,7 +68,7 @@ Funded by the CONACYT National Postdoctoral Grant. <br>
 <span class="publication-contributions" markdown="span">[Centro de Astrofísica da Universidade do Porto (CAUP)](https://astro.up.pt/caup/index.php?WID=133&CID=1&year=2026&Lang=uk), Porto, Portugal. <br>
 *Stellar Variability and Exoplanet Detection with Machine Learning*. <br>
 Secondment under the MSCA-COFUND ALLIES programme. <br>
-Host: Tiago Campante.</span>
+Host: [Tiago Campante](https://tlcampante.wixsite.com/mysite).</span>
 
 - **2025 (1 week) — Invited researcher**. <br>
 <span class="publication-contributions" markdown="span">Instituto de Ciencias del Espacio (ICE-CSIC), Barcelona, Spain. <br>
@@ -79,17 +79,17 @@ Host: Manuel Perger.</span>
 <span class="publication-contributions" markdown="span">[Kavli Institute for Cosmology, University of Cambridge, United Kingdom.](https://handley-lab.co.uk/group/) <br>
 [*Bayesian Inference and Reversible Nested Sampling*.](https://www.dropbox.com/scl/fi/myj362tlw6bnsktidc7t3/2letters_Camb_Handley.pdf?rlkey=nez29to3vxa9juydfbb87aa3g&dl=0) <br>
 Conducted remotely due to the COVID-19 pandemic. <br>
-Host: Will Handley.</span>
+Host: [Will Handley](https://www.willhandley.co.uk/).</span>
 
 - **2018 (2 months) — Visiting PhD student**. <br>
 <span class="publication-contributions" markdown="span">Instituto de Ciencias Físicas, UNAM, Mexico. <br>
 *Algorithms in Cosmology.* <br>
-Host: José Alberto Vázquez.</span>
+Host: [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
 
 - **2018 (2 months) — Visiting PhD student**. <br>
 <span class="publication-contributions" markdown="span">Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás de Hidalgo, Mexico. <br>
 *Cosmological Parameter Estimation with the CosmoSIS Code*. <br>
-Host: Ulises Nucamendi.</span>
+Host: [Ulises Nucamendi](https://pcif.fismat.umich.mx/dcif/comunidad/nucleo-academico-basico/perfil/ulises-nucamendi/).</span>
 
 
 ---
@@ -101,7 +101,7 @@ Host: Ulises Nucamendi.</span>
 <span class="publication-contributions" markdown="span">CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br>
 Associate PhD student at the Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
 [PhD thesis: *Artificial Neural Networks in Bayesian Inference*.](https://www.fis.unam.mx/~javazquez/files/Thesis/Isidro_thesis.pdf) <br>
-Advisors: Ricardo García Salcedo and José Alberto Vázquez.</span>
+Advisors: [Ricardo García Salcedo](https://scholar.google.com.mx/citations?hl=es&user=6ZfbVIwAAAAJ) and [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
 
 - **Master's degree in Advanced Technology**. <br>
 <span class="publication-contributions" markdown="span">CICATA-Legaria, Instituto Politécnico Nacional, Mexico. <br>
