@@ -64,7 +64,7 @@ Funded by the CONACYT National Postdoctoral Grant. <br>
 ---
 
 
-- **2026 (1 month, 3 November – 3 December) — Visiting researcher**. <br>
+- **2026 (1 month) — Visiting researcher**. <br>
 <span class="publication-contributions" markdown="span">[Centro de Astrofísica da Universidade do Porto (CAUP)](https://astro.up.pt/caup/index.php?WID=133&CID=1&year=2026&Lang=uk), Porto, Portugal. <br>
 *Stellar Variability with Machine Learning*. <br>
 Secondment under the MSCA-COFUND ALLIES programme. <br>
