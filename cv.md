@@ -38,7 +38,7 @@ Funded by the SNSF SPECTRE project ([Grant No. 215200](https://data.snf.ch/grant
 **Supervisor:** [Xavier Dumusque](https://www.unige.ch/sciences/astro/exoplanets/team/faculty-members/xavier-dumusque).</span>
 
 - [**2021–2023 — Postdoctoral researcher**.](https://www.fis.unam.mx/directorio/1333/isidro-strong-gomez-strong-vargas) <br>
-<span class="publication-contributions" markdown="span">Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM), Mexico. <br>
+<span class="publication-contributions" markdown="span">ICF, UNAM, México. <br>
 Funded by the CONACYT National Postdoctoral Grant. <br>
 **Project:** Statistical and Machine Learning Methods in Observational Cosmology. <br>
 **Supervisor:** [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
@@ -87,7 +87,7 @@ Host: [Will Handley](https://www.willhandley.co.uk/).</span>
 Host: [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
 
 - **2018 (2 months) — Visiting PhD student**. <br>
-<span class="publication-contributions" markdown="span">IFM Universidad Michoacana de San Nicolás de Hidalgo, Mexico. <br>
+<span class="publication-contributions" markdown="span">IFM, Universidad Michoacana de San Nicolás de Hidalgo, Mexico. <br>
 *Cosmological Parameter Estimation with the CosmoSIS Code*. <br>
 Host: [Ulises Nucamendi](https://pcif.fismat.umich.mx/dcif/comunidad/nucleo-academico-basico/perfil/ulises-nucamendi/).</span>
 
@@ -98,21 +98,21 @@ Host: [Ulises Nucamendi](https://pcif.fismat.umich.mx/dcif/comunidad/nucleo-acad
 ---
 
 - **PhD in Advanced Technology**. <br>
-<span class="publication-contributions" markdown="span">CICATA, Instituto Politécnico Nacional, Mexico. <br>
-In collaboration with ICF, Universidad Nacional Autónoma de México (ICF-UNAM). <br>
+<span class="publication-contributions" markdown="span">CICATA, IPN, Mexico. <br>
+ICF, Universidad Nacional Autónoma de México (UNAM). <br>
 [PhD thesis: *Artificial Neural Networks in Bayesian Inference*.](https://www.fis.unam.mx/~javazquez/files/Thesis/Isidro_thesis.pdf) <br>
 Advisors: [Ricardo García Salcedo](https://scholar.google.com.mx/citations?hl=es&user=6ZfbVIwAAAAJ) and [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
 
 - **Master's degree in Advanced Technology**. <br>
-<span class="publication-contributions" markdown="span">CICATA, Instituto Politécnico Nacional, Mexico. <br>
+<span class="publication-contributions" markdown="span">CICATA, IPN, Mexico. <br>
 [Thesis (in Spanish): *Augmented Reality Educational Mobile App*.](https://tesis.ipn.mx/handle/123456789/24066)</span>
 
 - **Diploma in Knowledge Discovery with Big Data Tools**. <br>
-<span class="publication-contributions" markdown="span">CIC, Instituto Politécnico Nacional, Mexico. <br>
+<span class="publication-contributions" markdown="span">CIC, IPN, Mexico. <br>
 Duration: 192 hours.</span>
   
 - **Bachelor's degree in Physics and Mathematics**. <br>
-<span class="publication-contributions" markdown="span">ESFM, Instituto Politécnico Nacional, Mexico. <br>
+<span class="publication-contributions" markdown="span">ESFM, Instituto Politécnico Nacional (IPN), Mexico. <br>
 [Thesis (in Spanish): *BWR Nuclear Reactor Refuel Cycle Simulation*.](https://www.academia.edu/35480399/Seguimiento_operacional_de_una_recarga_de_combustible_de_un_reactor_BWR_con_SIMULATE_3)</span>
 
  
