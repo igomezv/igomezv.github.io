@@ -99,7 +99,7 @@ Host: [Ulises Nucamendi](https://pcif.fismat.umich.mx/dcif/comunidad/nucleo-acad
 
 - **PhD in Advanced Technology (02/2021)**. <br>
 <span class="publication-contributions" markdown="span">CICATA, Instituto Politécnico Nacional, Mexico. <br>
-Associate PhD student at the Instituto de Ciencias Físicas, Universidad Nacional Autónoma de México (UNAM). <br>
+Associate PhD student at the ICF, Universidad Nacional Autónoma de México (ICF-UNAM). <br>
 [PhD thesis: *Artificial Neural Networks in Bayesian Inference*.](https://www.fis.unam.mx/~javazquez/files/Thesis/Isidro_thesis.pdf) <br>
 Advisors: [Ricardo García Salcedo](https://scholar.google.com.mx/citations?hl=es&user=6ZfbVIwAAAAJ) and [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
 
