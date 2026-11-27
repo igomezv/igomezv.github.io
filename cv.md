@@ -4,10 +4,9 @@ title: CV
 ---
 
 
-
 - [Research positions](#research-positions)
-- [Honours and memberships](#honors-and-memberships)
 - [Research visits](#research-visits)
+- [Honours and memberships](#honors-and-memberships)
 - [Education](#education)
 - [Observational experience](#observational-experience)
 - [Scientific service](#scientific-service)
@@ -42,27 +41,12 @@ Funded by the SNSF SPECTRE project ([Grant No. 215200](https://data.snf.ch/grant
 Funded by the CONACYT National Postdoctoral Grant. <br>
 **Project:** Statistical and Machine Learning Methods in Observational Cosmology. <br>
 **Supervisor:** [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
-  
-  
----
-# Honours and memberships
-{: #honors-and-memberships }
-
----
-
-- Horizon Europe MSCA-COFUND ALLIES Fellowship (2025–2027).
-- [Visiting professor](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) (2023–2026). <br>
-<span class="publication-contributions" markdown="span">CICATA, Instituto Politécnico Nacional.</span>
-- [Candidate, Sistema Nacional de Investigadores (SNI)](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0) (2022–2026).
-- CONACYT National Postdoctoral Grant (2021–2023).
-- Memberships: PoeT WG1 (2026), PlanetS WG B7 (2023–2025), and CosmoVerse WG2 (2024–2025).
-
+    
 
 ---
 # Research visits
 
 ---
-
 
 - **2026 (1 month) — Visiting researcher**. <br>
 <span class="publication-contributions" markdown="span">[Centro de Astrofísica da Universidade do Porto (CAUP)](https://astro.up.pt/caup/index.php?WID=133&CID=1&year=2026&Lang=uk), Porto, Portugal. <br>
@@ -90,6 +74,20 @@ Host: [José Alberto Vázquez](https://www.fis.unam.mx/~javazquez/).</span>
 <span class="publication-contributions" markdown="span">IFM, Universidad Michoacana de San Nicolás de Hidalgo, Mexico. <br>
 *Cosmological Parameter Estimation with the CosmoSIS Code*. <br>
 Host: [Ulises Nucamendi](https://pcif.fismat.umich.mx/dcif/comunidad/nucleo-academico-basico/perfil/ulises-nucamendi/).</span>
+
+
+---
+# Honours and memberships
+{: #honors-and-memberships }
+
+---
+
+- Horizon Europe MSCA-COFUND ALLIES Fellowship (2025–2027).
+- [Visiting professor](https://www.dropbox.com/scl/fi/pmdukb9y42k9rjyaac03o/17341-EA-23-Isidro-G-mez-Vargas.pdf?rlkey=zl6nn6tbnz5f5xd7u6ltnumvb&dl=0) (2023–2026). <br>
+<span class="publication-contributions" markdown="span">CICATA, Instituto Politécnico Nacional.</span>
+- [Candidate, Sistema Nacional de Investigadores (SNI)](https://www.dropbox.com/scl/fi/wmg5pioxeaqgnh7gfzwtw/SNI_distincion.pdf?rlkey=8zjrzu1r9p382g98eaevdi579&dl=0) (2022–2026).
+- CONACYT National Postdoctoral Grant (2021–2023).
+- Memberships: PoeT WG1 (2026), PlanetS WG B7 (2023–2025), and CosmoVerse WG2 (2024–2025).
 
 
 ---
